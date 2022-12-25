@@ -37,3 +37,17 @@ Cultural variability on relationships and categories. Cross-region reliability i
 
 - ReliabilityCrossRegions_159rels.ipynb  
 There is no correlation between the difference in cultural variability and familiarity in relationships.
+
+# Subset  
+- Robustness/ Robustness Test.ipynb  
+We quantified the robustness of our results across different numbers of social relationships as Lin (2021) did. We removed social relationships one by one and reperformed PCA to extract five dimensions as before (all pairs of social relationships were ranked from the most to the least similar rated in multi-arrangement task, and the social relationship with lower familiarity rating was removed from each pair). The correlations were calculated between the loadings of each dimension from the full set versus the subsets of relationships as the robustness of our results.  
+- full&dimension_model.ipynb / category_model.ipynb + models_rdm.ipynb  
+From the full set of each region, we derive the full feature, dimensional, and categorical models for each subset. Then we created RDMs to represent the dissimilarity of relationship representation across countries/regions.  
+- regression_categorical.ipynb / regression_dimensional.ipynb / regression_full_feature.ipynb   
+RSA regression results derived from the subset. We report the effect of modernization and religion on different models using the same RSA analysis procedural as mentioned above.  
+- data    
+The remaining subsets after removing one relationship at each step.
+
+# Study3_CHNvsUSA
+
+# Model_comparison
