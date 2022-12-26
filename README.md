@@ -5,3 +5,5 @@
 ![Study2.png](graph/Study2.png)
 # Study3 Universality and Cultural Variability of Relationship Representational Geometries.
 ![Study3.png](graph/Study3.png)
+# Method validation and power analysis in the Pilot study.
+![Pilot_Study](graph/Pilot_Study.png)
