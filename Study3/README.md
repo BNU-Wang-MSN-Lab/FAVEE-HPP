@@ -48,6 +48,16 @@ RSA regression results derived from the subset. We report the effect of moderniz
 - data    
 The remaining subsets after removing one relationship at each step.
 
-# Study3_CHNvsUSA
+# Study3_CHNvsUSA  
+There were two rounds of data collection for China. The relationships in the first round were directly translated from 159 relationships in the United States **(CHN_Trans_DataCleanPCA.ipynb)**, while the relationships in the second round were generated using NLP **(CHN_NLP_DataCleanPCA.ipynb)**. There was a high correlation between the translation results and the NLP results.
+
+To compare CHN and USA, we combined the USA data from Study1 and Study3. **(USA_DataCleanPCA.ipynb)**.  
+
+CHN VS USA:  
+- Similarity_33&30d.ipynb  
+The dimensional frameworks of the two countries are highly correlated.  
+- Difference  
+The different between the two countries in relationship knowledge.  
+![Study3_CHNvsUSA.png](../graph/Study3_CHNvsUSA.png)
 
 # Model_comparison
