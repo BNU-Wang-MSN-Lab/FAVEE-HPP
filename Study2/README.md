@@ -18,7 +18,7 @@ Categorical and diemsional models derived from the three task in group level.
 |Categorical| M6 |M3M6M7_Group_dim_dimension_clustering_159r.ipynb| UMAP+KMeans| 14|
 |Categorical| M7 |M3M6M7_Group_dim_dimension_clustering_159r.ipynb| PCA+KMeans| 14|
 
-# LoovcModelCompare
+# LoocvModelCompare
 
 At the individual level, repeat the group process for obtaining model shown in __"Individual_analysis"__.  
 - Individual_cat_dimension_159r.ipynb  
