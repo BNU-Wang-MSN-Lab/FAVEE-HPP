@@ -11,9 +11,12 @@ For the categorical model, we performed K-means clustering on the RDMs derived f
 # DataCleanPCA
 
 - each_region  
-Dimensional model via PCA in each region.  
-- MeaningOf33D_AveragedWorldModelPCA.ipynb  
-Each dimension's meaning in each region, calculated by spearman's correlation between the PCA scores in each region and the averaged scores across the 19 regions.
+Dimensional model via PCA in each region.    
+- Averaged_world_model.ipynb  
+the averaged model scores across the 19 regions  
+
+- Meaning Of 33D.ipynb  
+We implemented PCA on each region separately and examined how principal components in each region corresponded with the world’s FAVEE model using a leave-one-region-out cross-validation scheme.
 
 - Demographics  
     - Demographic_RDM.ipynb  
