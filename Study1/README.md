@@ -1,3 +1,5 @@
 In study1, we recruited 817 participants in USA via MTurk. The codes of cleaning data and PCA are shown in __DataCleanPCA.ipynb.__  
 
 In addition to PCA, we conducted independent component analysis (ICA), exploratory factor analysis (EFA), and multidimensional scaling (MDS) in order to assess the robustness of the results, which are shown in __ValidationFAVEE.ipynb__.
+
+To further examine how well this 5D model can characterize relationship features, we performed model comparison analysis between the FAVEE model and other existing theories on predicting each relationship feature. Using linear combinations of features in each model as regressors, we found that the FAVEE model explained the variance for 65.33% of relationship features (that were not part of the linear combinations), which outperformed other existing theories (45.67% explained variance) and had the best model fit when model complexity was considered (mean BIC=293.85 for FAVEE, 358.10 for other models).(seen in __model_comparisons.ipynb__)
