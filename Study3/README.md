@@ -8,6 +8,9 @@ Categorical Model
 - CategoricalModel_19regions&WorldAveragedModel.ipynb  
 For the categorical model, we performed K-means clustering on the RDMs derived from each region as well as the averaged model.
 
+- Meaning Of HPP.ipynb  
+K-means clustering was implemented on each region separately and we examined how clusters in each region corresponded with the world’s HPP model using a LOOCV scheme.
+
 # DataCleanPCA
 
 - each_region  
@@ -15,7 +18,7 @@ Dimensional model via PCA in each region.
 - Averaged_world_model.ipynb  
 the averaged model scores across the 19 regions  
 
-- Meaning Of 33D.ipynb  
+- Meaning Of FAVEE.ipynb  
 We implemented PCA on each region separately and examined how principal components in each region corresponded with the world’s FAVEE model using a leave-one-region-out cross-validation scheme.
 
 - Demographics  
@@ -31,8 +34,10 @@ To access which cultural variables account for the variance of social relationsh
 We created a representational dissimilarity matrix (RDM) for each cultural variable in which each cell represents the dissimilarity of two countries/regions on this variable (e.g. how dissimilar China and Portugal are, according to their Modernization level). 
 - Models_rdm.ipynb  
 We also created an RDM to represent the dissimilarity of relationship representation across countries/regions.  
-- RSA_Regression.ipynb / RSA_Regression_subvariables.ipynb  
-We then performed a linear regression model in which cultural variable RDMs were predictors, relationship representation RDM was the response variable. For our purpose here, the regression RSA measures how the similarity structure of the response variable (i.e., relationship representation) may be predicted by the similarity of the predictive variables (e.g., Modernization, Languages, etc.).
+- RSA_Regression.ipynb / RSA_Regression_subvariables.ipynb / RSA_Regression_subvariables(check_size).ipynb
+We then performed a linear regression model in which cultural variable RDMs were predictors, relationship representation RDM was the response variable. For our purpose here, the regression RSA measures how the similarity structure of the response variable (i.e., relationship representation) may be predicted by the similarity of the predictive variables (e.g., Modernization, Languages, etc.). We also added non-social object knowledge as a predictor in the follow-up analysis.   
+- RSA_Regression_checksize.ipynb   
+It’s worthy to note that we also briefly measured cultural variation of non-social object concepts across 19 regions (e.g., the size of tools and animals) and found it failed to predict the cross-cultural variability of relationship concepts (all ps >0.384).
 
 # Cognition of relationships  
 - Category perception.ipynb + LOOCV.ipynb   
@@ -63,4 +68,5 @@ The dimensional frameworks of the two countries are highly correlated.
 The different between the two countries in relationship knowledge.  
 ![Study3_CHNvsUSA.png](../graph/Study3_CHNvsUSA.png)
 
-# Model_comparison
+# Model_comparison  
+Across 19 global regions, model comparison analysis was performed between the FAVEE and other 15 existing theories in terms of the explained variance. For most regions (16 out of 19), FAVEE had the highest adjust R squared (i.e., red dots were larger than green dots). For three exception regions, FAVEE was the second or third best model. Asterisks (in orange) indicate those exception models winning over the FAVEE: the ‘Bugental model’ in Mexico, Russia and Chile, and the ‘Wish model’ in Chile **(model_comparisons.ipynb)**.
