@@ -1,0 +1,283 @@
+{
+  "data": [
+    {
+      "x": [-0.161195417651948, -0.461309042232578, 0.342643006382835, 0.334498707492911, -0.0604521084474935, -1.62122909022752, 0.258530416338641, 0.790941604204783, 0.198606273362269, 0.0236020788681215, -2.28086593108386, 0.551082341069907, 0.53172724871328, 0.0762724347639156, 0.71823849221386, -1.7124812237233, -2.21758264850857, -1.77300975817646, -2.66717048508467, 0.392204192320731, 0.479853057129465, -1.85816777845028, 0.856889480219908, 0.560389084095334, 0.534738026459268, 0.870497398936584, 0.648224639393408, 0.645256735313305, -0.106528079973996, 0.258790341252058, 0.981250456620628, 0.952837108767722, 1.24134780463747, 0.305278666471556, -0.509476722546427, -1.36153985318066, 0.535848236218475, 0.0874829253476605, 0.858249728290282, 0.322078614472887, 0.258896541721795, 0.642373982861063, 0.84861074165733, 0.0414307907279302, -0.00201004639570771, -0.142438270278528, 0.661165204226792, -0.0828591368045638, 0.530332706528023, -0.0754803434291449, 0.301839283643586, 0.775797243567971, 0.222194537639138, 0.188194683374511, -0.430572386115134, -2.60528421486403, -0.908152674387833, -0.491600464700021, -2.31239646412578, -1.98927092444844, -3.42581987485863, -2.34097846556385, -2.24447641384286, -0.632132548215738, -0.822703619238444, 0.747615152379906, 0.811235049765696, 0.436486288883897, 0.103971806698963, 0.4647254154532, 0.577883388904499, 0.413468113899201, 0.00636228789750345, 0.471091121644373, 0.592688718785547, 0.488766838594704, 0.719447217650943, 0.265562300090699, 0.247218459416662, 0.0238456815757419, 0.371670005059332, 0.718917395757055, 0.549410442925691, -1.04281767138747, 0.792140746795882, -1.030750156841, -2.73314523464447, 1.62227769208046, 0.287512338340099, 0.995874701791438, -0.623645344260182, -0.373856704715886, 0.304348316656615, 0.378039700474424, -0.602226508075768, 0.176410976797084, 0.739266743889965, -1.82982913000608, -2.58991201744703, -0.686634970042426, -0.639809032944908, 0.377175541420252, 0.897791149035232, 0.611884860366686, 0.33902338404934, 0.722447686110778, -0.090507415267438, 0.454817634927924, 0.438501434175869, 0.22147271640043, 0.249231968995184, 0.642557638109409, 0.442437565150106, 0.395408321339886, 0.703216452493228, 0.556101046327214, 0.205168828947488, 0.379003028773881, 0.403475119792302, 0.193063842824371, 0.982570717091935, 0.732391221451685, -1.22284422000957, 0.350062484934217, -3.04594411026015, 0.923945670807403, 0.863717182745619, 0.849914621644323, 0.87694405892081, 0.998506825634086, -0.217128651396374, 0.0558870685037876, 0.582767662435669, -1.13652337810932, 0.52816490006381, 0.724899087045383, -0.166972611386057, 0.247450924577794, 1.10242599433275, 1.11318374494696, -1.69039557199115, -0.497934051573482, 0.534605400851113, 1.12422826614989, -1.57275488409396, 0.0111759092046232, 0.420999437040161, 0.608910483472932, 0.903470739975739, 0.193972156437128, 0.695680799963213, 0.357019399469329, 0.398052786448743, 0.259356240809007, -2.10426776548679, 0.302638491781611, 0.242932590888744, 0.87728832789128, 0.964710284221687],
+      "y": [-0.391016688486119, 0.0108498226021443, 0.410521498277995, 0.0791098260791138, -0.977208725075159, 0.893357617380111, -0.492979683353771, -1.47155035719887, 1.26738925568865, 0.250164362391187, -0.498465595077891, 0.352821771266844, 1.15311111490263, 2.43231723785734, 1.20560173207953, 0.672989805397726, -0.701156658843583, 0.259140311700854, -1.09328155805188, -0.484980111137826, 0.52050684640259, 0.661808491222159, -0.66042354011781, -0.982934126397479, -0.740891758243755, -0.882524078588364, -0.209994472078719, -0.878519164745338, -0.426838708381395, -0.369074806376651, -0.7413237890598, -0.78459311395557, -0.915249058492134, 0.197107259965331, 1.49702081795068, 0.41148193338372, -1.51303749765571, -1.25163903744989, -0.902649685883798, -0.797562916095463, -1.29694604289578, -0.679491339316912, -1.15472665458799, 0.353195779011335, 1.20705424525011, 1.01491830737668, 0.644643172766463, 0.368967168093419, -0.61191934368386, 0.318690871775364, 0.768098371486381, 2.18318800969753, 0.446486077721944, 1.84124274904305, 0.164530328935066, -0.161119709240442, 2.88351274681689, -0.819215412892763, -1.08323778814743, -0.375804636795547, 0.337778405471982, 0.263869313214929, -0.791407727355937, -0.855553408869641, -0.254689447469761, 1.84538877915192, 2.24807960503427, 2.16286955804991, 2.26323745494612, 1.39125678991494, -0.0795927625601027, 0.582659704447704, 0.655817478594509, -0.17871046784941, -0.82799146685817, 0.136295765871209, -0.0798875230610319, -0.158619747354747, -0.345310741569097, -0.602652903842402, 0.562960083530162, -0.663903375534789, -1.01592412751853, 3.00229776989465, 1.34623858866923, -0.604860772867841, 0.585496345578916, 1.02331274255816, 0.483338958579803, 0.529738506840094, 2.56237300245346, 2.69337219722727, 0.382124262904975, 1.18729700966598, 0.48339727427208, -0.798985005416622, -0.324204975521459, -1.1487767810213, -1.01218930019643, 1.06986872442581, 0.135365271641889, 0.23200053851949, 0.126479282740037, 0.527853491918911, -0.388482142342767, 0.100077817522522, 1.194952114923, 0.46069417166024, -0.687537956186448, -1.03455076255752, 0.304566421143633, -1.00938091625517, -1.09711638082695, -0.655177620808571, -1.07981627273502, -0.231544973668551, 1.89666216836067, 2.33493232768747, 0.802710798144164, 0.3080083348486, -0.457396351104112, 0.0600693887011788, -1.15751422742817, 0.760199372625262, -1.01695131087327, -0.919010578591906, -1.12704439472728, -0.818444399023292, -0.954176622038985, -0.162846743135292, 1.01003765595195, -0.0639415629680135, -0.042209797786623, -0.332868025727057, -0.0712691544423629, -0.281469605629413, -0.383762206784968, -0.8672344590261, -1.34764622526891, -1.0184468022737, -1.59782331668439, -0.205846629520176, -0.916918865311515, -0.664394343052133, -0.647485604681445, -0.836097789380194, -0.66614272715715, -0.720629061642702, -0.824118371453198, -0.241988290323645, -0.347627121994255, 0.162863945486216, -0.150290207477943, -1.05515959387364, -1.26521453185321, -0.487946485884531, 0.335533627120046, 0.217213479414473, -1.31197703655515],
+      "text": ["Valence: -0.161195418<br />Exchange: -0.39101669<br />rel: Parent and Child<br />Equality:  1.362406227", "Valence: -0.461309042<br />Exchange:  0.01084982<br />rel: Parent and Teenager<br />Equality:  0.455696633", "Valence:  0.342643006<br />Exchange:  0.41052150<br />rel: Wife and Husband<br />Equality: -0.861501336", "Valence:  0.334498707<br />Exchange:  0.07910983<br />rel: Fiance and Fiancee<br />Equality: -0.958992048", "Valence: -0.060452108<br />Exchange: -0.97720873<br />rel: Between Siblings<br />Equality: -0.714544154", "Valence: -1.621229090<br />Exchange:  0.89335762<br />rel: Between divorced spouses<br />Equality: -0.653775586", "Valence:  0.258530416<br />Exchange: -0.49297968<br />rel: Between a person and their in-laws<br />Equality: -0.294638058", "Valence:  0.790941604<br />Exchange: -1.47155036<br />rel: Between cousins<br />Equality: -0.418428954", "Valence:  0.198606273<br />Exchange:  1.26738926<br />rel: Employer and Employee<br />Equality:  0.833441048", "Valence:  0.023602079<br />Exchange:  0.25016436<br />rel: Interviewer and Job applicant<br />Equality:  0.011193913", "Valence: -2.280865931<br />Exchange: -0.49846560<br />rel: Guard and Prisoner<br />Equality:  2.329209447", "Valence:  0.551082341<br />Exchange:  0.35282177<br />rel: Nurse and Patient<br />Equality:  1.484930707", "Valence:  0.531727249<br />Exchange:  1.15311111<br />rel: Therapist and Patient<br />Equality:  0.906736308", "Valence:  0.076272435<br />Exchange:  2.43231724<br />rel: Salesperson and Customer<br />Equality: -1.131245748", "Valence:  0.718238492<br />Exchange:  1.20560173<br />rel: Between Business Partners<br />Equality: -1.157462478", "Valence: -1.712481224<br />Exchange:  0.67298981<br />rel: Between opposing negotiators<br />Equality: -1.471566864", "Valence: -2.217582649<br />Exchange: -0.70115666<br />rel: Between political opponents<br />Equality: -0.871858572", "Valence: -1.773009758<br />Exchange:  0.25914031<br />rel: Between business rivals<br />Equality: -1.071582075", "Valence: -2.667170485<br />Exchange: -1.09328156<br />rel: Between enemies<br />Equality: -0.676449988", "Valence:  0.392204192<br />Exchange: -0.48498011<br />rel: Teacher and Student<br />Equality:  1.238859391", "Valence:  0.479853057<br />Exchange:  0.52050685<br />rel: Professor and Graduate student<br />Equality:  0.830669495", "Valence: -1.858167778<br />Exchange:  0.66180849<br />rel: Master and Servant<br />Equality:  1.966145296", "Valence:  0.856889480<br />Exchange: -0.66042354<br />rel: Between Close Friends<br />Equality: -1.076873334", "Valence:  0.560389084<br />Exchange: -0.98293413<br />rel: Between casual acquaintances<br />Equality: -0.860239753", "Valence:  0.534738026<br />Exchange: -0.74089176<br />rel: Between teammates in sports<br />Equality: -1.253248721", "Valence:  0.870497399<br />Exchange: -0.88252408<br />rel: Between second cousins<br />Equality: -0.298225944", "Valence:  0.648224639<br />Exchange: -0.20999447<br />rel: Parent and Infant<br />Equality:  1.779344052", "Valence:  0.645256735<br />Exchange: -0.87851916<br />rel: Grandparent and Grandchild<br />Equality:  1.386395588", "Valence: -0.106528080<br />Exchange: -0.42683871<br />rel: Step-parent and Step-child<br />Equality:  0.607370080", "Valence:  0.258790341<br />Exchange: -0.36907481<br />rel: Foster-parent and Foster-child<br />Equality:  1.273352426", "Valence:  0.981250457<br />Exchange: -0.74132379<br />rel: Godparent and Godchild<br />Equality:  0.864150202", "Valence:  0.952837109<br />Exchange: -0.78459311<br />rel: Step-grandparent and Step-grandchild<br />Equality:  0.749051352", "Valence:  1.241347805<br />Exchange: -0.91524906<br />rel: Ancestor and Descendant<br />Equality:  1.136559928", "Valence:  0.305278666<br />Exchange:  0.19710726<br />rel: Bride and Groom<br />Equality: -0.989956560", "Valence: -0.509476723<br />Exchange:  1.49702082<br />rel: Man and His Mistress<br />Equality: -0.585254199", "Valence: -1.361539853<br />Exchange:  0.41148193<br />rel: Man Wife and Man Mistress<br />Equality: -0.031016043", "Valence:  0.535848236<br />Exchange: -1.51303750<br />rel: Brother and Sister<br />Equality: -0.125834639", "Valence:  0.087482925<br />Exchange: -1.25163904<br />rel: Between step-siblings<br />Equality: -0.921626636", "Valence:  0.858249728<br />Exchange: -0.90264969<br />rel: Between distant relatives<br />Equality: -0.272008214", "Valence:  0.322078614<br />Exchange: -0.79756292<br />rel: Between close relatives<br />Equality: -0.300863470", "Valence:  0.258896542<br />Exchange: -1.29694604<br />rel: Between twins<br />Equality: -0.598950216", "Valence:  0.642373983<br />Exchange: -0.67949134<br />rel: Between a person and their family friends<br />Equality: -0.891017850", "Valence:  0.848610742<br />Exchange: -1.15472665<br />rel: Between a person and their deceased spouse<br />Equality:  1.589129602", "Valence:  0.041430791<br />Exchange:  0.35319578<br />rel: Manager and Staff<br />Equality:  0.487376527", "Valence: -0.002010046<br />Exchange:  1.20705425<br />rel: Foreman and Laborer<br />Equality:  0.868714752", "Valence: -0.142438270<br />Exchange:  1.01491831<br />rel: Owner and Manager<br />Equality:  0.659778670", "Valence:  0.661165204<br />Exchange:  0.64464317<br />rel: Union leader and union member<br />Equality:  0.232820123", "Valence: -0.082859137<br />Exchange:  0.36896717<br />rel: Manager and Assistant<br />Equality:  0.860118764", "Valence:  0.530332707<br />Exchange: -0.61191934<br />rel: Chief and Deputy<br />Equality:  1.485186968", "Valence: -0.075480343<br />Exchange:  0.31869087<br />rel: Supervisor and Subordinate<br />Equality:  0.731445692", "Valence:  0.301839284<br />Exchange:  0.76809837<br />rel: Boss and Secretary<br />Equality:  1.135857480", "Valence:  0.775797244<br />Exchange:  2.18318801<br />rel: Entrepreneur and Investor<br />Equality: -0.125899211", "Valence:  0.222194538<br />Exchange:  0.44648608<br />rel: Intern and Employee<br />Equality: -0.136998453", "Valence:  0.188194683<br />Exchange:  1.84124275<br />rel: Lawyer and Client<br />Equality:  0.585262918", "Valence: -0.430572386<br />Exchange:  0.16453033<br />rel: Judge and Lawyer<br />Equality:  0.182652622", "Valence: -2.605284215<br />Exchange: -0.16111971<br />rel: Victim and Criminal<br />Equality:  0.914594264", "Valence: -0.908152674<br />Exchange:  2.88351275<br />rel: Drug dealer and Addict<br />Equality: -0.826252144", "Valence: -0.491600465<br />Exchange: -0.81921541<br />rel: Victim and Witness<br />Equality:  0.437798913", "Valence: -2.312396464<br />Exchange: -1.08323779<br />rel: Criminal and Police officer<br />Equality:  1.592614011", "Valence: -1.989270924<br />Exchange: -0.37580464<br />rel: Criminal and Prosecutor<br />Equality:  0.739505746", "Valence: -3.425819875<br />Exchange:  0.33777841<br />rel: Criminal and Hostage<br />Equality: -0.298509173", "Valence: -2.340978466<br />Exchange:  0.26386931<br />rel: Defendant and Plaintiff<br />Equality: -0.586713033", "Valence: -2.244476414<br />Exchange: -0.79140773<br />rel: Police officer and Offender<br />Equality:  1.223846540", "Valence: -0.632132548<br />Exchange: -0.85555341<br />rel: Police officer and Civilian<br />Equality:  1.488179392", "Valence: -0.822703619<br />Exchange: -0.25468945<br />rel: Parole officer and Parolee<br />Equality:  2.251191641", "Valence:  0.747615152<br />Exchange:  1.84538878<br />rel: Consultant and Client<br />Equality:  0.102989042", "Valence:  0.811235050<br />Exchange:  2.24807961<br />rel: Chef and Customer<br />Equality: -0.260227890", "Valence:  0.436486289<br />Exchange:  2.16286956<br />rel: Customer and Server<br />Equality: -0.126863531", "Valence:  0.103971807<br />Exchange:  2.26323745<br />rel: Customer and Businessman<br />Equality: -0.927951428", "Valence:  0.464725415<br />Exchange:  1.39125679<br />rel: Doctor and Patient<br />Equality:  1.515430540", "Valence:  0.577883389<br />Exchange: -0.07959276<br />rel: Doctor and Nurse<br />Equality:  0.794516165", "Valence:  0.413468114<br />Exchange:  0.58265970<br />rel: Patient and Caretaker<br />Equality:  1.703638403", "Valence:  0.006362288<br />Exchange:  0.65581748<br />rel: Driver and Passenger<br />Equality: -0.874935529", "Valence:  0.471091122<br />Exchange: -0.17871047<br />rel: Coach and athlete<br />Equality:  0.662560033", "Valence:  0.592688719<br />Exchange: -0.82799147<br />rel: Team Captain and Team Members<br />Equality: -0.076185072", "Valence:  0.488766839<br />Exchange:  0.13629577<br />rel: Club Member and Club President<br />Equality:  0.423214373", "Valence:  0.719447218<br />Exchange: -0.07988752<br />rel: Politician and Supporter<br />Equality:  0.469673794", "Valence:  0.265562300<br />Exchange: -0.15861975<br />rel: Leader and Follower<br />Equality:  0.806072073", "Valence:  0.247218459<br />Exchange: -0.34531074<br />rel: Representative and Citizen<br />Equality:  0.361153251", "Valence:  0.023845682<br />Exchange: -0.60265290<br />rel: Officer and Soldier<br />Equality:  1.933656140", "Valence:  0.371670005<br />Exchange:  0.56296008<br />rel: Babysitter and Infant<br />Equality:  1.695774592", "Valence:  0.718917396<br />Exchange: -0.66390338<br />rel: Religious leader and Congregant<br />Equality:  1.007656435", "Valence:  0.549410443<br />Exchange: -1.01592413<br />rel: Between religious followers<br />Equality: -0.162767462", "Valence: -1.042817671<br />Exchange:  3.00229777<br />rel: Prostitute and Customer<br />Equality: -0.827180959", "Valence:  0.792140747<br />Exchange:  1.34623859<br />rel: Guide and Tourist<br />Equality: -0.535877079", "Valence: -1.030750157<br />Exchange: -0.60486077<br />rel: Athlete and Referee<br />Equality: -0.180816397", "Valence: -2.733145235<br />Exchange:  0.58549635<br />rel: Slave and Master<br />Equality:  1.111680412", "Valence:  1.622277692<br />Exchange:  1.02331274<br />rel: Reader and Writer<br />Equality:  1.128638424", "Valence:  0.287512338<br />Exchange:  0.48333896<br />rel: Reviewer and Writer<br />Equality:  0.272895432", "Valence:  0.995874702<br />Exchange:  0.52973851<br />rel: Performer and Audience<br />Equality:  0.519828236", "Valence: -0.623645344<br />Exchange:  2.56237300<br />rel: Dealer and Buyer<br />Equality: -1.207773106", "Valence: -0.373856705<br />Exchange:  2.69337220<br />rel: Sugar-daddy and Sugar-baby<br />Equality: -0.563171790", "Valence:  0.304348317<br />Exchange:  0.38212426<br />rel: Director and Performer<br />Equality:  0.337453237", "Valence:  0.378039700<br />Exchange:  1.18729701<br />rel: Psychologist and Client<br />Equality:  1.207745832", "Valence: -0.602226508<br />Exchange:  0.48339727<br />rel: Judge and Contestant<br />Equality: -0.050687483", "Valence:  0.176410977<br />Exchange: -0.79898501<br />rel: Man and God<br />Equality:  1.602378805", "Valence:  0.739266744<br />Exchange: -0.32420498<br />rel: Between Co-workers<br />Equality: -1.007254009", "Valence: -1.829829130<br />Exchange: -1.14877678<br />rel: Between sports rivals<br />Equality: -1.503229162", "Valence: -2.589912017<br />Exchange: -1.01218930<br />rel: Between romantic rivals<br />Equality: -0.265535044", "Valence: -0.686634970<br />Exchange:  1.06986872<br />rel: Between criminal and their accomplice<br />Equality: -0.739700034", "Valence: -0.639809033<br />Exchange:  0.13536527<br />rel: Between diplomats<br />Equality: -1.352227876", "Valence:  0.377175541<br />Exchange:  0.23200054<br />rel: Principal and Teacher<br />Equality:  0.474143583", "Valence:  0.897791149<br />Exchange:  0.12647928<br />rel: Professor and Teaching Assistant<br />Equality:  1.150759783", "Valence:  0.611884860<br />Exchange:  0.52785349<br />rel: University student and Administrator<br />Equality:  0.975742076", "Valence:  0.339023384<br />Exchange: -0.38848214<br />rel: Student and Dorm Resident assistant<br />Equality:  0.148292497", "Valence:  0.722447686<br />Exchange:  0.10007782<br />rel: Mentor and Mentee<br />Equality:  1.305207990", "Valence: -0.090507415<br />Exchange:  1.19495211<br />rel: Athletic trainer and Trainee<br />Equality:  0.288576926", "Valence:  0.454817635<br />Exchange:  0.46069417<br />rel: Researcher and Research Subject<br />Equality:  0.910690286", "Valence:  0.438501434<br />Exchange: -0.68753796<br />rel: Between peers<br />Equality: -1.144982614", "Valence:  0.221472716<br />Exchange: -1.03455076<br />rel: Between classmates<br />Equality: -1.308555943", "Valence:  0.249231969<br />Exchange:  0.30456642<br />rel: Between roommates<br />Equality: -1.846653210", "Valence:  0.642557638<br />Exchange: -1.00938092<br />rel: Between sorority sisters<br />Equality: -1.168548305", "Valence:  0.442437565<br />Exchange: -1.09711638<br />rel: Between fraternity brothers<br />Equality: -1.397943350", "Valence:  0.395408321<br />Exchange: -0.65517762<br />rel: Bride and Bridesmaid<br />Equality:  0.136870755", "Valence:  0.703216452<br />Exchange: -1.07981627<br />rel: Groom and Groomsman<br />Equality:  0.175714351", "Valence:  0.556101046<br />Exchange: -0.23154497<br />rel: Predecessor and Successor<br />Equality:  0.688014839", "Valence:  0.205168829<br />Exchange:  1.89666217<br />rel: Landlord and Tenant<br />Equality: -0.525108320", "Valence:  0.379003029<br />Exchange:  2.33493233<br />rel: Landlord and Housekeeper<br />Equality:  0.030740885", "Valence:  0.403475120<br />Exchange:  0.80271080<br />rel: Guest and Host<br />Equality: -0.592850720", "Valence:  0.193063843<br />Exchange:  0.30800833<br />rel: Television host and Guest<br />Equality: -1.040421657", "Valence:  0.982570717<br />Exchange: -0.45739635<br />rel: Volunteer and Organizer<br />Equality:  0.177426443", "Valence:  0.732391221<br />Exchange:  0.06006939<br />rel: Celebrity and Fans<br />Equality:  0.518746626", "Valence: -1.222844220<br />Exchange: -1.15751423<br />rel: Celebrity and Haters<br />Equality: -0.113343453", "Valence:  0.350062485<br />Exchange:  0.76019937<br />rel: Native and Tourist<br />Equality: -1.077090229", "Valence: -3.045944110<br />Exchange: -1.01695131<br />rel: Bully and Victim<br />Equality:  0.553660990", "Valence:  0.923945671<br />Exchange: -0.91901058<br />rel: Between friends<br />Equality: -0.961348091", "Valence:  0.863717183<br />Exchange: -1.12704439<br />rel: Between Facebook Friends<br />Equality: -1.000164003", "Valence:  0.849914622<br />Exchange: -0.81844440<br />rel: Between a person and their social media follower<br />Equality:  0.187751070", "Valence:  0.876944059<br />Exchange: -0.95417662<br />rel: Between childhood friends<br />Equality: -1.082465640", "Valence:  0.998506826<br />Exchange: -0.16284674<br />rel: Between pen-friends<br />Equality: -1.332238933", "Valence: -0.217128651<br />Exchange:  1.01003766<br />rel: Between friends with benefits<br />Equality: -1.439335208", "Valence:  0.055887069<br />Exchange: -0.06394156<br />rel: Between political allies<br />Equality: -0.737166195", "Valence:  0.582767662<br />Exchange: -0.04220980<br />rel: Between romantic lovers<br />Equality: -0.854187787", "Valence: -1.136523378<br />Exchange: -0.33286803<br />rel: Between ex-lovers<br />Equality: -1.177047692", "Valence:  0.528164900<br />Exchange: -0.07126915<br />rel: Between life-partners<br />Equality: -0.857041522", "Valence:  0.724899087<br />Exchange: -0.28146961<br />rel: Between soul-mates<br />Equality: -0.789710590", "Valence: -0.166972611<br />Exchange: -0.38376221<br />rel: Between strangers<br />Equality: -0.889006948", "Valence:  0.247450925<br />Exchange: -0.86723446<br />rel: Between neighbors<br />Equality: -1.384744910", "Valence:  1.102425994<br />Exchange: -1.34764623<br />rel: Between church members<br />Equality: -1.543468333", "Valence:  1.113183745<br />Exchange: -1.01844680<br />rel: Between fans of the same sports team<br />Equality: -1.647483881", "Valence: -1.690395572<br />Exchange: -1.59782332<br />rel: Between fans of opposing sports teams<br />Equality: -1.262220558", "Valence: -0.497934052<br />Exchange: -0.20584663<br />rel: Superior and Subordinate<br />Equality:  1.028502763", "Valence:  0.534605401<br />Exchange: -0.91691887<br />rel: Aunt and Niece/Nephew<br />Equality:  0.761522436", "Valence:  1.124228266<br />Exchange: -0.66439434<br />rel: Uncle and Niece/Nephew<br />Equality:  0.366713157", "Valence: -1.572754884<br />Exchange: -0.64748560<br />rel: Between frenemies<br />Equality: -0.882797196", "Valence:  0.011175909<br />Exchange: -0.83609779<br />rel: Between half-siblings<br />Equality: -0.892044430", "Valence:  0.420999437<br />Exchange: -0.66614273<br />rel: Between adoptive parents and adopted kids<br />Equality:  0.946335400", "Valence:  0.608910483<br />Exchange: -0.72062906<br />rel: Mother and Infant<br />Equality:  1.693715148", "Valence:  0.903470740<br />Exchange: -0.82411837<br />rel: Between alumni<br />Equality: -0.420184113", "Valence:  0.193972156<br />Exchange: -0.24198829<br />rel: Between a monarch and their minister<br />Equality:  1.472048280", "Valence:  0.695680800<br />Exchange: -0.34762712<br />rel: Between confidants<br />Equality: -0.975245896", "Valence:  0.357019399<br />Exchange:  0.16286395<br />rel: Between a person and their significant other<br />Equality: -0.756049008", "Valence:  0.398052786<br />Exchange: -0.15029021<br />rel: Between companions<br />Equality: -0.882807061", "Valence:  0.259356241<br />Exchange: -1.05515959<br />rel: Between playmates<br />Equality: -1.593400821", "Valence: -2.104267765<br />Exchange: -1.26521453<br />rel: Between competitors in sports<br />Equality: -0.999741066", "Valence:  0.302638492<br />Exchange: -0.48794649<br />rel: Between a person and their crush<br />Equality:  0.110224164", "Valence:  0.242932591<br />Exchange:  0.33553363<br />rel: Between cohabitants<br />Equality: -1.499988057", "Valence:  0.877288328<br />Exchange:  0.21721348<br />rel: Between long-distance lovers<br />Equality: -1.249190908", "Valence:  0.964710284<br />Exchange: -1.31197704<br />rel: Between brothers-in-arms<br />Equality:  0.008551568"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(218,253,89,1)",
+        "opacity": 0.8,
+        "size": [19.9260866636676, 16.9357317905948, 11.2089393595006, 10.659063424808, 11.9887103207922, 12.2962543442513, 13.9724892005419, 13.4190648286809, 18.2424771697975, 15.2517347586067, 22.6771653543307, 20.2957727574112, 18.4851091334666, 9.60777118516781, 9.43707539664307, 7.06111573533219, 11.1518540042249, 9.98493983374401, 12.1824384336115, 19.546097801886, 18.2332377047006, 21.6857400268145, 9.95209116198443, 11.2158722072313, 8.78400023280492, 13.9567664576274, 21.1572167538811, 19.9990167705148, 17.4724276554244, 19.6529406589465, 18.34453363121, 17.9589722336261, 19.2256616914216, 10.4781524227991, 12.633781054401, 15.0817991465828, 14.6927093260326, 10.8732206714184, 14.0712411068204, 13.9451967383354, 12.5670637994717, 11.0454497811137, 20.60485037517, 17.0492585376942, 18.3596536604884, 17.653999791355, 16.1139076670308, 18.3311689365395, 20.2965387677437, 17.8992481626224, 19.2234425555519, 14.6924407484635, 14.646200264659, 17.3952553498281, 15.92293307841, 18.5109289180699, 11.4010052788315, 16.8712488300494, 20.6151043602096, 17.9266156886777, 13.9555245242262, 12.6266919457514, 19.4994087354069, 20.3054814976958, 22.4678746658225, 15.6147570336983, 14.1223671685091, 14.6884292289143, 10.8372788734751, 20.3867364204656, 18.1122731916014, 20.9391518386787, 11.1348365617905, 17.663582665257, 14.8977476841178, 16.8185157722631, 16.9859154251147, 18.1510273308582, 16.5922049923566, 21.5947631394381, 20.9163679333844, 18.8139641287028, 14.5382619185791, 11.3959872959553, 12.8713539649069, 14.4621679631552, 19.1469037144662, 19.2006213348148, 16.2648145968077, 17.1647550956986, 9.10015407647435, 12.7405926169612, 16.5049430751182, 19.4492094766039, 15.0019281326361, 20.6438127353867, 10.3756665606982, 6.7728235779119, 14.0993579446742, 11.8589880024521, 8.05098074823011, 17.0019317996454, 19.270465230756, 18.7106068416704, 15.7907677436279, 19.7510905231048, 16.3234758200944, 18.4981057708538, 9.51872869471997, 8.38268515520585, 0.377952755905512, 9.36392075605965, 7.68764733706413, 15.7465826067442, 15.8963358968228, 17.7510387763245, 12.9225691300035, 15.3297758059862, 12.5968211959938, 10.1761532152386, 15.9029032671464, 17.1609184181683, 14.7445698113251, 9.95074225362672, 17.2843267532988, 10.6454102274562, 10.4178007481548, 15.9424485074011, 9.91725061074632, 8.20454902192568, 7.3423450649469, 11.8721206570997, 11.2490684410046, 9.30742798418553, 11.233427787198, 11.5966423088496, 11.0566674569182, 7.79437261327135, 6.38650984747728, 5.24793810309746, 8.72021159241571, 18.8811649624148, 18.0011557023468, 16.6126082824302, 11.0912339875474, 11.039718522917, 18.6148523554593, 20.9103969058182, 13.411049186109, 20.2572267701385, 10.5645005061312, 11.7738889283346, 11.0911791595646, 5.86948072498362, 10.4203085699588, 15.6430027434721, 6.80292889105245, 8.81269234552941, 15.2411537901462],
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(218,253,89,1)"
+        }
+      },
+      "hoveron": "points",
+      "showlegend": false,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "showlegend": false,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [0.535848236218475, 0.436486288883897, -1.04281767138747, -2.73314523464447, 1.62227769208046, -0.623645344260182, -1.82982913000608, -1.22284422000957, -3.04594411026015, 0.998506825634086, -1.13652337810932, 1.10242599433275],
+      "y": [-1.51303749765571, 2.16286955804991, 3.00229776989465, 0.585496345578916, 1.02331274255816, 2.56237300245346, -1.1487767810213, -1.15751422742817, -1.01695131087327, -0.162846743135292, -0.332868025727057, -1.34764622526891],
+      "text": ["Valence:  0.5358482<br />Exchange: -1.5130375<br />rel: Brother-Sister<br />Equality: -0.1258346", "Valence:  0.4364863<br />Exchange:  2.1628696<br />rel: Customer-Server<br />Equality: -0.1268635", "Valence: -1.0428177<br />Exchange:  3.0022978<br />rel: Prostitute-Customer<br />Equality: -0.8271810", "Valence: -2.7331452<br />Exchange:  0.5854963<br />rel: Slave-Master<br />Equality:  1.1116804", "Valence:  1.6222777<br />Exchange:  1.0233127<br />rel: Reader-Writer<br />Equality:  1.1286384", "Valence: -0.6236453<br />Exchange:  2.5623730<br />rel: Dealer-Buyer<br />Equality: -1.2077731", "Valence: -1.8298291<br />Exchange: -1.1487768<br />rel: Sports rivals<br />Equality: -1.5032292", "Valence: -1.2228442<br />Exchange: -1.1575142<br />rel: Celebrity-Haters<br />Equality: -0.1133435", "Valence: -3.0459441<br />Exchange: -1.0169513<br />rel: Bully-Victim<br />Equality:  0.5536610", "Valence:  0.9985068<br />Exchange: -0.1628467<br />rel: Pen-friends<br />Equality: -1.3322389", "Valence: -1.1365234<br />Exchange: -0.3328680<br />rel: Ex-lovers<br />Equality: -1.1770477", "Valence:  1.1024260<br />Exchange: -1.3476462<br />rel: Church members<br />Equality: -1.5434683"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(255,255,255,1)",
+        "opacity": 1,
+        "size": [14.6927093260326, 14.6884292289143, 11.3959872959553, 19.1469037144662, 19.2006213348148, 9.10015407647435, 6.7728235779119, 14.7445698113251, 17.2843267532988, 8.20454902192568, 9.30742798418553, 6.38650984747728],
+        "symbol": "circle-open",
+        "line": {
+          "width": 3.77952755905512,
+          "color": "rgba(255,255,255,1)"
+        }
+      },
+      "hoveron": "points",
+      "showlegend": false,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [-4.035, 3.335],
+      "y": [0, 0],
+      "text": "yintercept: 0",
+      "type": "scatter",
+      "mode": "lines",
+      "line": {
+        "width": 7.55905511811024,
+        "color": "rgba(255,255,255,1)",
+        "dash": "dash"
+      },
+      "hoveron": "points",
+      "showlegend": false,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [0, 0],
+      "y": [-1.82782937101334, 3.2323038242236],
+      "text": "xintercept: 0",
+      "type": "scatter",
+      "mode": "lines",
+      "line": {
+        "width": 7.55905511811024,
+        "color": "rgba(255,255,255,1)",
+        "dash": "dash"
+      },
+      "hoveron": "points",
+      "showlegend": false,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    }
+  ],
+  "layout": {
+    "margin": {
+      "t": 23.3059360730594,
+      "r": 7.30593607305936,
+      "b": 72.063096720631,
+      "l": 72.063096720631
+    },
+    "plot_bgcolor": "rgba(0,0,0,1)",
+    "paper_bgcolor": "rgba(255,255,255,1)",
+    "font": {
+      "color": "rgba(0,0,0,1)",
+      "family": "",
+      "size": 14.6118721461187
+    },
+    "xaxis": {
+      "domain": [0, 1],
+      "automargin": true,
+      "type": "linear",
+      "autorange": false,
+      "range": [-4.035, 3.335],
+      "tickmode": "array",
+      "ticktext": ["-4", "-2", "0", "2"],
+      "tickvals": [-4, -2, 0, 2],
+      "categoryorder": "array",
+      "categoryarray": ["-4", "-2", "0", "2"],
+      "nticks": null,
+      "ticks": "outside",
+      "tickcolor": "rgba(51,51,51,1)",
+      "ticklen": 3.65296803652968,
+      "tickwidth": 0,
+      "showticklabels": true,
+      "tickfont": {
+        "color": "rgba(77,77,77,1)",
+        "family": "",
+        "size": 37.1938563719386
+      },
+      "tickangle": -0,
+      "showline": false,
+      "linecolor": null,
+      "linewidth": 0,
+      "showgrid": false,
+      "gridcolor": null,
+      "gridwidth": 0,
+      "zeroline": false,
+      "anchor": "y",
+      "title": {
+        "text": "<b> Conflict     RC3:Valence(16.6%)       Harmony <\/b>",
+        "font": {
+          "color": "rgba(0,0,0,1)",
+          "family": "",
+          "size": 23.9103362391034
+        }
+      },
+      "hoverformat": ".2f"
+    },
+    "yaxis": {
+      "domain": [0, 1],
+      "automargin": true,
+      "type": "linear",
+      "autorange": false,
+      "range": [-1.82782937101334, 3.2323038242236],
+      "tickmode": "array",
+      "ticktext": ["-1", "0", "1", "2", "3"],
+      "tickvals": [-1, 0, 1, 2, 3],
+      "categoryorder": "array",
+      "categoryarray": ["-1", "0", "1", "2", "3"],
+      "nticks": null,
+      "ticks": "outside",
+      "tickcolor": "rgba(51,51,51,1)",
+      "ticklen": 3.65296803652968,
+      "tickwidth": 0,
+      "showticklabels": true,
+      "tickfont": {
+        "color": "rgba(77,77,77,1)",
+        "family": "",
+        "size": 37.1938563719386
+      },
+      "tickangle": -0,
+      "showline": false,
+      "linecolor": null,
+      "linewidth": 0,
+      "showgrid": false,
+      "gridcolor": null,
+      "gridwidth": 0,
+      "zeroline": false,
+      "anchor": "x",
+      "title": {
+        "text": "<b>      Symbolic    RC4:Exchange(17.5%)   Concrete           <\/b>",
+        "font": {
+          "color": "rgba(0,0,0,1)",
+          "family": "",
+          "size": 23.9103362391034
+        }
+      },
+      "hoverformat": ".2f"
+    },
+    "shapes": [
+      {
+        "type": "rect",
+        "fillcolor": null,
+        "line": {
+          "color": null,
+          "width": 0,
+          "linetype": []
+        },
+        "yref": "paper",
+        "xref": "paper",
+        "x0": 0,
+        "x1": 1,
+        "y0": 0,
+        "y1": 1
+      }
+    ],
+    "showlegend": false,
+    "legend": {
+      "bgcolor": "rgba(255,255,255,1)",
+      "bordercolor": "transparent",
+      "borderwidth": 0,
+      "font": {
+        "color": "rgba(0,0,0,1)",
+        "family": "",
+        "size": 26.5670402656704
+      },
+      "title": {
+        "text": "RC5-Equality(7.4%)",
+        "font": {
+          "color": "rgba(0,0,0,1)",
+          "family": "",
+          "size": 39.8505603985056
+        }
+      }
+    },
+    "hovermode": "closest",
+    "barmode": "relative"
+  },
+  "config": {
+    "doubleClick": "reset",
+    "modeBarButtonsToAdd": ["hoverclosest", "hovercompare"],
+    "showSendToCloud": false
+  },
+  "source": "A",
+  "attrs": {
+    "88d43efdbb9": {
+      "x": {},
+      "y": {},
+      "label": {},
+      "size": {},
+      "type": "scatter"
+    },
+    "88d4117ecd9": {
+      "x": {},
+      "y": {},
+      "label": {}
+    },
+    "88d45f38953": {
+      "x": {},
+      "y": {},
+      "label": {},
+      "size": {}
+    },
+    "88d41bf3794d": {
+      "yintercept": {}
+    },
+    "88d42dd254bf": {
+      "xintercept": {}
+    }
+  },
+  "cur_data": "88d43efdbb9",
+  "visdat": {
+    "88d43efdbb9": ["function (y) ", "x"],
+    "88d4117ecd9": ["function (y) ", "x"],
+    "88d45f38953": ["function (y) ", "x"],
+    "88d41bf3794d": ["function (y) ", "x"],
+    "88d42dd254bf": ["function (y) ", "x"]
+  },
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "shinyEvents": ["plotly_hover", "plotly_click", "plotly_selected", "plotly_relayout", "plotly_brushed", "plotly_brushing", "plotly_clickannotation", "plotly_doubleclick", "plotly_deselect", "plotly_afterplot", "plotly_sunburstclick"],
+  "base_url": "https://plot.ly"
+}
