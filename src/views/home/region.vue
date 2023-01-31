@@ -17,7 +17,7 @@ onMounted(() => {
         .attr("width", svgWidth);
 
     $.ajax({
-        url: "/data/world_gen.geojson",
+        url: "./data/world_gen.geojson",
         type: "GET",
         dataType: "json",
         success: (e) => {

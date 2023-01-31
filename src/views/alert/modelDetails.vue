@@ -9,6 +9,7 @@
             <p>FAVEE model (figure b) and HPP model (figure c) derived from large-scale global data replicated the
                 results in Study 1 and Study 2.</p>
             <p>Four data-driven metrics consistently indicated the optimal number for PCA was five (figure a).</p>
+            <img src="/assets/fig/fig6.png" alt="">
         </div>
     </div>
 </template>
@@ -21,6 +22,7 @@
     border: none;
     box-shadow: none;
     text-align: left;
+    overflow: scroll;
 }
 .title {
     font-size: 32px;
@@ -29,8 +31,14 @@
 }
 
 .content {
-    width: 700px;
+    width: 100%;
     font-size: 16px;
     line-height: 24px;
+}
+.content>p {
+    width: 700px;
+}
+.content>img {
+    width: 75%;
 }
 </style>

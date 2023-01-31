@@ -126,7 +126,7 @@
       "tickfont": {
         "color": "rgba(77,77,77,1)",
         "family": "",
-        "size": 37.1938563719386
+        "size": 14
       },
       "tickangle": -0,
       "showline": false,
@@ -142,7 +142,7 @@
         "font": {
           "color": "rgba(0,0,0,1)",
           "family": "",
-          "size": 23.9103362391034
+          "size": 14
         }
       },
       "hoverformat": ".2f"
@@ -167,7 +167,7 @@
       "tickfont": {
         "color": "rgba(77,77,77,1)",
         "family": "",
-        "size": 37.1938563719386
+        "size": 14
       },
       "tickangle": -0,
       "showline": false,
@@ -183,7 +183,7 @@
         "font": {
           "color": "rgba(0,0,0,1)",
           "family": "",
-          "size": 23.9103362391034
+          "size": 14
         }
       },
       "hoverformat": ".2f"

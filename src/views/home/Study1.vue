@@ -1,5 +1,27 @@
 <script setup>
+import { onMounted } from 'vue';
+import * as $ from "jquery";
+import Plotly from "plotly.js-dist";
+
 const emits = defineEmits(["alertOpen"]);
+onMounted(() => {
+    $.ajax({
+        url: "/data/study/Formality_Activeness.json",
+        type: "GET",
+        dataType: "json",
+        success: (e) => {
+            Plotly.newPlot("img1", e);
+        }
+    })
+    $.ajax({
+        url: "/data/study/Valence_Exchange.json",
+        type: "GET",
+        dataType: "json",
+        success: (e) => {
+            Plotly.newPlot("img2", e);
+        }
+    })
+});
 </script>
 
 <template>
@@ -14,10 +36,12 @@ const emits = defineEmits(["alertOpen"]);
         <div class="content">
             <p>We use longitude and latitude to travel across the world. For relationship space, we found there are five
                 principal dimensions (formality, activeness, valence, exchange, equality) navigating us.</p>
-            <div @click="emits('alertOpen', 'study1')">More details ></div>
+            <div @click="emits('alertOpen', 'alertStudy1')">More details ></div>
         </div>
         <div class="img">
-            <img src="/assets/Study1.png" />
+            <div id="legend"></div>
+            <div id="img1"></div>
+            <div id="img2"></div>
         </div>
     </div>
 </template>
@@ -56,14 +80,26 @@ const emits = defineEmits(["alertOpen"]);
 }
 
 .img {
-    width: 955px;
-    height: 455px;
+    width: 1000px;
+    height: 600px;
     margin: 20px auto;
-    overflow: hidden;
+    position: relative;
 }
 
-.img img {
-    width: 100%;
-    transform: scale(1.5) translate(-135px, 90px);
+.img>div {
+    width: 450px;
+    display: inline-block;
+    margin: 0 20px;
+}
+#legend {
+    display: block;
+    width: 290px;
+    height: 65px;
+    margin: 0 auto;
+    background: url(/assets/legend/study1.png) no-repeat;
+    background-size: contain;
+    /* position: absolute; */
+    /* left: calc(50% - 145px); */
+    /* top: 0; */
 }
 </style>

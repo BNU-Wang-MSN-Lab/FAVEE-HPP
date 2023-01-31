@@ -104,7 +104,7 @@
     "font": {
       "color": "rgba(0,0,0,1)",
       "family": "",
-      "size": 14.6118721461187
+      "size": 14
     },
     "xaxis": {
       "domain": [0, 1],
@@ -126,7 +126,7 @@
       "tickfont": {
         "color": "rgba(77,77,77,1)",
         "family": "",
-        "size": 37.1938563719386
+        "size": 14
       },
       "tickangle": -0,
       "showline": false,
@@ -142,7 +142,7 @@
         "font": {
           "color": "rgba(0,0,0,1)",
           "family": "",
-          "size": 23.9103362391034
+          "size": 14
         }
       },
       "hoverformat": ".2f"
@@ -167,7 +167,7 @@
       "tickfont": {
         "color": "rgba(77,77,77,1)",
         "family": "",
-        "size": 37.1938563719386
+        "size": 14
       },
       "tickangle": -0,
       "showline": false,
@@ -183,7 +183,7 @@
         "font": {
           "color": "rgba(0,0,0,1)",
           "family": "",
-          "size": 23.9103362391034
+          "size": 14
         }
       },
       "hoverformat": ".2f"
@@ -213,14 +213,14 @@
       "font": {
         "color": "rgba(0,0,0,1)",
         "family": "",
-        "size": 26.5670402656704
+        "size": 14
       },
       "title": {
         "text": "RC5-Equality(7.4%)",
         "font": {
           "color": "rgba(0,0,0,1)",
           "family": "",
-          "size": 39.8505603985056
+          "size": 14
         }
       }
     },

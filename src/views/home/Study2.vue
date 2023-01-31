@@ -15,7 +15,7 @@ const emits = defineEmits(["alertOpen"]);
             <p>Like the galaxy in the universe, relationships can also be clustered into different categories. Although we found a cognitive space in Study 1, categorical thinking is pervasive when people manage relationships in daily life, such as arranging messages and phone contacts with labels, assigning seating for wedding guests by groups, and buying different travel souvenirs for friends, relatives and work colleagues.</p>
             <p>Using three behavior tasks, we found the categorical model. The multi-arrangement task and dimensional survey (model 1 and 3) both indicated three core clusters (i.e., hostile, private, and public, abbreviated as HPP) whereas the free sorting task (model 2) identified six clusters (i.e., hostile, romantic, familial, affiliative, transactional, and power).</p>
             <p>Model comparison analysis suggested that models 3 (HPP), 6 (FAVEE) and 7 (FAVEE-HPP) had the highest cross-subject reliability, despite no difference between three of them.</p>
-            <div @click="emits('alertOpen', 'study2')">More details ></div>
+            <div @click="emits('alertOpen', 'alertStudy2')">More details ></div>
         </div>
         <div class="imgBox">
             <div class="img1">

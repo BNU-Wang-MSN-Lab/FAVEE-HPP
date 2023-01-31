@@ -23,7 +23,6 @@ const alertCancel = () => {
 <template>
   <fHeader @click="show.alert = false;" />
   <div class="container">
-    <RouterView name="region" v-on:alertOpen="alertOpen" class="cc"></RouterView>
     <RouterView></RouterView>
     <RouterView name="Favee"></RouterView>
     <RouterView name="f3d" v-on:alertOpen="alertOpen" class="cc"></RouterView>

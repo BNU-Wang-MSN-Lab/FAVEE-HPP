@@ -3,6 +3,26 @@ import { inject, onMounted, ref } from 'vue';
 
 const show = ref(1);
 const chooseCountry = inject("chooseCountry");
+
+const data = {
+    1: {
+        texts: [
+            "The specific results of dimensional model in [region], including the loading PCA loading (figure a),",
+            "relationship score within FAVEE space (figure b), and model comparison analysis (figure c)."
+        ]
+    },
+    2: {
+        texts: [
+            "The specific results of categorical model in [region].",
+            "By clicking one point, you can see its corresponding relationship in FAVEE and 33D space, which is shown in the radar plot."
+        ]
+    },
+    3: {
+        texts: [
+            "We collected age, gender, education, ethnicity in each region."
+        ]
+    }
+};
 </script>
 <template>
     <div class="box">
@@ -17,8 +37,7 @@ const chooseCountry = inject("chooseCountry");
             <div>Download Survey</div>
         </div>
         <div class="content">
-            <p>The specific results of dimensional model in [region], including the loading PCA loading (figure a),</p>
-            <p>relationship score within FAVEE space (figure b), and model comparison analysis (figure c).</p>
+            <p v-for="i in data[show].texts">{{ i }}</p>
         </div>
     </div>
 </template>

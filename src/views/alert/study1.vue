@@ -7,6 +7,7 @@
         <div class="content">
             <p>We used a series of dimensionality reduction techniques (e.g., PCA, ICA, EFA, MDS) to find the five prominent dimensions.</p>
             <p>Further, by using model comparison methods, we found FAVEE model substantially outperformed other 15 existing theories.</p>
+            <img src="/assets/fig/fig11.png" alt="">
         </div>
     </div>
 </template>
@@ -19,6 +20,7 @@
     border: none;
     box-shadow: none;
     text-align: left;
+    overflow: scroll;
 }
 .title {
     font-size: 32px;
@@ -27,8 +29,11 @@
 }
 
 .content {
-    width: 700px;
+    width: 920px;
     font-size: 16px;
     line-height: 24px;
+}
+img {
+    width: 100%;
 }
 </style>
