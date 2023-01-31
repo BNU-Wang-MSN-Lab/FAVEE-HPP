@@ -9,10 +9,10 @@ const alertOpen = function() {
     emits("alertOpen", "alertDemographics");
 }
 const icon = ref([
-    { iconUrl: "@/assets/target.png", num: 3, tit: "Studys" },
-    { iconUrl: "@/assets/meeting.png", num: "19,532", tit: "Participants" },
-    { iconUrl: "@/assets/team.png", num: 19, tit: "Regions" },
-    { iconUrl: "@/assets/language-learning.png", num: 10, tit: "Languages" },
+    { iconUrl: "./assets/target.png", num: 3, tit: "Studys" },
+    { iconUrl: "./assets/meeting.png", num: "19,532", tit: "Participants" },
+    { iconUrl: "./assets/team.png", num: 19, tit: "Regions" },
+    { iconUrl: "./assets/language-learning.png", num: 10, tit: "Languages" },
 ]);
 const studyInfo = ref([
     { id: 1, tit: "Explore the formation of FAVEE model", content: "Categorical model consists of 3 clusters ‘Hostile, Private and Public’ (abbreviated as ‘HPP’ model). Compare relationship categories with dimensions." },
@@ -113,7 +113,7 @@ onMounted(() => {
         </div>
         <div class="bottom">
             <div id="main">
-                <img src="/assets/favee-3d.gif" alt="" rel:animated_src="/assets/favee-3d.gif" rel:auto_play="1" width="400" height="400" id="mainGif">
+                <img src="/assets/favee-3d.gif" alt="" rel:animated_src="./assets/favee-3d.gif" rel:auto_play="1" width="400" height="400" id="mainGif">
             </div>
             <div class="studyBox">
                 <div class="study" v-for="i in studyInfo">

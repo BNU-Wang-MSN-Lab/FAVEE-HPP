@@ -6,7 +6,7 @@ import Plotly from "plotly.js-dist";
 const emits = defineEmits(["alertOpen"]);
 onMounted(() => {
     $.ajax({
-        url: "/data/study/Formality_Activeness.json",
+        url: "./data/study/Formality_Activeness.json",
         type: "GET",
         dataType: "json",
         success: (e) => {
@@ -14,7 +14,7 @@ onMounted(() => {
         }
     })
     $.ajax({
-        url: "/data/study/Valence_Exchange.json",
+        url: "./data/study/Valence_Exchange.json",
         type: "GET",
         dataType: "json",
         success: (e) => {
