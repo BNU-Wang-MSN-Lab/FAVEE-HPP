@@ -90,6 +90,7 @@ onMounted(() => {
 .iBox {
     width: 1280px;
     height: 700px;
+    margin: 0 auto;
 }
 
 .iBox>.svg {

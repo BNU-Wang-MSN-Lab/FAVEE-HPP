@@ -84,6 +84,13 @@ const chosWord = function (e) {
         })\n + Valence * (${Math.round(wo["Valence"] * 100) / 100
         })`
 }
+
+const hrefClick = (e) => {
+    let a = document.createElement("a");
+    a.href = e;
+    a.target = "_blank"
+    a.click();
+}
 onMounted(() => {
     $.ajax({
         url: `./assets/Study3/${counList[chooseCountry.value]}/dimensional/${counList[chooseCountry.value]}_favee1.json`,
@@ -120,8 +127,8 @@ onMounted(() => {
         </div>
         <div class="title">{{ chooseCountry }}</div>
         <div class="button">
-            <div>Download Data</div>
-            <div>Download Survey</div>
+            <div @click="hrefClick('https://osf.io/nfkmj')">Download Data</div>
+            <div @click="hrefClick('https://osf.io/nfkmj')">Download Survey</div>
         </div>
         <div class="content">
             <p v-for="i in data[show].texts">{{ i }}</p>

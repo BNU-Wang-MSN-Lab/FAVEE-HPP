@@ -225,10 +225,9 @@ onMounted(() => {
 
 .iBox .canvas {
     display: inline-block;
-    width: 600px;
-    height: 500px;
+    width: 620px;
+    height: 520px;
     background: transparent;
-    overflow: scroll;
     position: relative;
 }
 

@@ -19,17 +19,18 @@ const emits = defineEmits(["alertCancel"]);
 <style scoped>
 .bg {
     width: 100%;
-    max-width: 1440px;
     height: 100%;
     background: rgba(0,0,0,0.1);
     position: absolute;
     left: 0;
     top: 0;
     z-index: 1;
-    overflow: hidden scroll;
+    overflow: hidden;
 }
 .box {
     width: 100%;
+    max-width: 1440px;
+    min-width: 1145px;
     height: 90%;
     background: #fff;
     border-radius: 15px 15px 0 0;
