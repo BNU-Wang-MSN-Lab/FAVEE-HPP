@@ -8,6 +8,7 @@
             <p>We used a series of dimensionality reduction techniques (e.g., PCA, ICA, EFA, MDS) to find the five prominent dimensions.</p>
             <p>Further, by using model comparison methods, we found FAVEE model substantially outperformed other 15 existing theories.</p>
             <img src="/assets/fig/fig11.png" alt="">
+            <img src="/assets/study1_model_comparison.png" alt="">
         </div>
     </div>
 </template>

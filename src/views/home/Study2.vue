@@ -5,7 +5,7 @@ const emits = defineEmits(["alertOpen"]);
 <template>
     <div class="box">
         <div class="tit">
-            <span class="one">Study 2</span>
+            <span class="one" id="study2">Study 2</span>
             <br />
             <span class="two">
                 <span style="color: var(--theme-color-blue)">C</span>ategorial and dimensional representations

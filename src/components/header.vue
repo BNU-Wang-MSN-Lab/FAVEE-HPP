@@ -1,6 +1,6 @@
 <script setup>
 import { reactive } from 'vue';
-
+import * as $ from "jquery";
 const data = reactive({
     header: [
         { path: "/", name: "Introduction" },
@@ -16,12 +16,31 @@ const btnClick = function (e) {
         ) ?
             `${50 + 50 * data.header.length}px` : "50px";
 }
+
+function heightToTop(ele){
+    //ele为指定跳转到该位置的DOM节点
+    let root = document.body;
+    let height = 0;
+    do{
+        height += ele.offsetTop;
+        ele = ele.offsetParent;
+    }while( ele !== root )
+    return height;
+}
+const stuClick = function(e) {
+    $(".container").animate({
+        scrollTop: heightToTop($("#study" + e.toString()).get(0))
+    }, {
+        duration: 500,
+        easing: "swing"
+    })
+}
 </script>
 
 <template>
     <div id="header">
         <div class="nav">
-            <span><a href="#" class="logo">FAVEE-HPP</a></span>
+            <span><a href="#" class="logo">Human Relationships</a></span>
         </div>
         <div class="btn" @click.stop="btnClick">
             <svg t="1672901242617" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2687"
@@ -33,14 +52,21 @@ const btnClick = function (e) {
             </svg>
         </div>
         <ul>
-            <li v-for="i in data.header">
-                <router-link :to="i.path">{{ i.name }}</router-link>
-                <span v-if="i.path != '/'">
-                    <svg width="18" height="15" viewBox="0 0 18 5" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M5 1.5L10 6.5L15 1.5" stroke="#7A7671" stroke-width="2" stroke-linecap="round"
+            <li class="selected">
+                <a href="/">Introduction</a>
+            </li>
+            <li>
+                <a href="#">Study <span>
+                        <svg width="18" height="15" viewBox="0 0 18 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M5 1.5L10 6.5L15 1.5" stroke="#7A7671" stroke-width="2" stroke-linecap="round"
                                 stroke-linejoin="round" />
-                    </svg>
-                </span>
+                        </svg>
+                    </span></a>
+                <ul>
+                    <li @click="stuClick(1)">Study 1</li>
+                    <li @click="stuClick(2)">Study 2</li>
+                    <li @click="stuClick(3)">Study 3</li>
+                </ul>
             </li>
         </ul>
     </div>
@@ -53,11 +79,12 @@ const btnClick = function (e) {
     left: 0;
     background-color: rgba(255, 255, 255, 0.6);
     width: 100%;
+    max-width: 1440px;
     height: 65px;
     color: black;
     text-align: left;
     user-select: none;
-    overflow: hidden;
+    overflow: visible;
     border-block-end: 1px solid rgba(0, 0, 0, 0.1);
     box-sizing: border-box;
     backdrop-filter: blur(10px);
@@ -66,6 +93,7 @@ const btnClick = function (e) {
 }
 
 .logo {
+    font-family: 'PT Sans Caption', Roboto, Helvetica, Arial, sans-serif;
     font-size: 40px;
     line-height: 65px;
     margin: 0 0 0 50px;
@@ -93,9 +121,35 @@ ul {
     margin: 0 65px;
 }
 
-li {
+ul li {
     float: left;
     padding: 0 30px;
+    position: relative;
+}
+ul li ul {
+    width: 120px;
+    margin: 0 0 0 -70px;
+    display: none;
+    position: absolute;
+}
+ul li:nth-child(2):hover ul {
+    display: block;
+}
+ul li ul li {
+    background-color: rgba(255, 255, 255, 0.8);
+    float: none;
+    line-height: 32px;
+    border-block-end: 1px solid rgba(0, 0, 0, 0.1);
+    color: grey;
+    cursor: pointer;
+}
+ul li ul li:hover {
+    color: black;
+}
+
+li.selected {
+    border-block-end: 6px solid var(--theme-color-blue);
+    line-height: 59px;
 }
 
 li span {
@@ -116,34 +170,5 @@ li span {
 
 .btn svg {
     fill: white;
-}
-
-@media screen and (max-width: 768px) {
-    #header {
-        padding: 10px 5%;
-        height: 50px;
-        overflow: hidden;
-    }
-
-    .logo {
-        line-height: 55px;
-        font-size: 30px;
-    }
-
-    .btn {
-        display: block;
-    }
-
-    ul {
-        margin: 0;
-        margin-top: 15px;
-        border-top: solid 1px #111;
-        width: 100%;
-    }
-
-    li {
-        float: none;
-        padding: 0 10px;
-    }
 }
 </style>

@@ -53,7 +53,7 @@
     height: 100%;
     background: url(/assets/favee.png) no-repeat;
     background-size: contain;
-    background-position: bottom;
+    background-position: center;
     position: absolute;
     right: 5%;
 }

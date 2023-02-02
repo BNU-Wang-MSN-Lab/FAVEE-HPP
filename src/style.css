@@ -1,5 +1,5 @@
 :root {
-  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'PT Sans', Roboto, Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 24px;
   font-weight: 400;
@@ -78,6 +78,7 @@ button:focus-visible {
 
 #app {
   max-width: 1440px;
+  min-width: 1000px;
   margin: 0 auto;
   text-align: center;
   height: 100%;

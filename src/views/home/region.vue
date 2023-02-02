@@ -48,7 +48,7 @@ onMounted(() => {
                     if (countries.indexOf(data.properties.COUNTRY) >= 0) {
                         chooseCountry.value = data.properties.COUNTRY;
                         mapPath
-                            .transition().duration(1000)
+                            .transition().duration(500)
                             .attr("fill", d => countries.indexOf(d.properties.COUNTRY) >= 0 ? (d.properties.COUNTRY == chooseCountry.value ? "#ff00ff" : "#000000") : "#e3e3e3")
                     }
                 });

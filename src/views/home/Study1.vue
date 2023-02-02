@@ -27,7 +27,7 @@ onMounted(() => {
 <template>
     <div class="box">
         <div class="tit">
-            <span class="one">Study 1</span>
+            <span class="one" id="study1">Study 1</span>
             <br />
             <span class="two">
                 <span style="color: var(--theme-color-blue)">A</span> unified representational space

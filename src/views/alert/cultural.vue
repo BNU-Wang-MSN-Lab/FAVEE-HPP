@@ -6,6 +6,7 @@
         <div class="title">Cultural mechanism</div>
         <div class="content">
             <p>Relationship conceptualization is both universal and culturally variable. Common underlying structures such as FAVEE dimensions and HPP categories were stably and consistently observed across global regions (shown in figure a). Meanwhile, relationship words could also vary in meaning across cultures. The groupings of representational geometry across global regions identified six sets of groups (shown in figure b). Their variation was found to be tied to religion and modernization differences between regions (shown in c).</p>
+            <img src="/assets/fig/fig3.png" alt="">
         </div>
     </div>
 </template>
@@ -18,6 +19,7 @@
     border: none;
     box-shadow: none;
     text-align: left;
+    overflow: hidden scroll;
 }
 .title {
     font-size: 32px;

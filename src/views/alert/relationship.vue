@@ -7,6 +7,7 @@
         <div class="content">
             <p>Figure a shows the trend that affiliative and power relationships (left word cloud box) varied more across regions, while familial and romantic relationships (right word cloud box) varied less. The font size of word clouds proportionally reflects the familiarity of the relationships.</p>
             <p>Figure b shows that, for three HPP categories, public relationship concepts had more culturally variable meanings than hostile and private relationship concepts.</p>
+            <img src="/assets/fig/fig7.png" alt="">
         </div>
     </div>
 </template>
@@ -19,6 +20,7 @@
     border: none;
     box-shadow: none;
     text-align: left;
+    overflow: hidden scroll;
 }
 .title {
     font-size: 32px;

@@ -36,7 +36,7 @@
     width: 700px;
 }
 .img {
-    width: 100%;
+    width: 1140px;
     height: 728px;
     background: url(/assets/Study2.png) no-repeat;
     background-position: bottom right;
