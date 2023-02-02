@@ -1,6 +1,6 @@
 <script setup>
 import { csvParse } from "d3-dsv";
-import * as $ from "jquery";
+import $ from "jquery";
 import { newPlot } from "plotly.js-dist";
 import { onMounted, ref } from "vue";
 const emits = defineEmits(["alertOpen"]);

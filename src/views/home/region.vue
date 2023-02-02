@@ -1,6 +1,6 @@
 <script setup>
 import * as d3 from "d3";
-import * as $ from "jquery";
+import $ from "jquery";
 import { inject, onMounted, provide, ref } from "vue";
 // import * as topojson from "topojson";
 const chooseCountry = inject("chooseCountry");

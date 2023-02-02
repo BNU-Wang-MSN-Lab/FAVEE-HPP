@@ -1,6 +1,6 @@
 <script setup>
 import { reactive } from 'vue';
-import * as $ from "jquery";
+import $ from "jquery";
 const data = reactive({
     header: [
         { path: "/", name: "Introduction" },

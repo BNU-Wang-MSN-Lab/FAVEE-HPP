@@ -1,6 +1,6 @@
 <script setup>
 import { onMounted } from 'vue';
-import * as $ from "jquery";
+import $ from "jquery";
 import Plotly from "plotly.js-dist";
 
 const emits = defineEmits(["alertOpen"]);

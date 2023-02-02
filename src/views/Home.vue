@@ -107,11 +107,11 @@ div.box {
     margin: 10px;
 }
 .logo>div:nth-child(1) {
-    background: url(./assets/icon/Beijing_Normal_University_logo.svg.png) no-repeat;
+    background: url(/assets/icon/Beijing_Normal_University_logo.svg.png) no-repeat;
     background-size: contain;
 }
 .logo>div:nth-child(2) {
-    background: url(./assets/icon/temple-logo-t-box.svg) no-repeat;
+    background: url(/assets/icon/temple-logo-t-box.svg) no-repeat;
     background-size: contain;
 }
 </style>

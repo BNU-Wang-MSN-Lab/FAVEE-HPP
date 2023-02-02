@@ -1,6 +1,6 @@
 <script setup>
 import Plotly from "plotly.js-dist";
-import * as $ from "jquery";
+import $ from "jquery";
 import { onMounted, ref } from "vue";
 import SuperGif from "../../lib/libgif";
 

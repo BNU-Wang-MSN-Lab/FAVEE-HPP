@@ -1,5 +1,5 @@
 <script setup>
-import * as $ from "jquery";
+import $ from "jquery";
 import { inject, onMounted, ref } from 'vue';
 import Plotly from "plotly.js-dist";
 import { csvParse } from "d3-dsv";
@@ -374,7 +374,7 @@ onMounted(() => {
 .content>.img1 .img3Legend {
     width: 760px;
     height: 30px;
-    background-image: url(./assets/legend/dimensional_c2.png), url(./assets/legend/dimensional_c3.png);
+    background-image: url(/assets/legend/dimensional_c2.png), url(/assets/legend/dimensional_c3.png);
     background-position: left, right;
     background-size: 152px 30px;
     background-repeat: no-repeat;
