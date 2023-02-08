@@ -32,7 +32,7 @@ const chosCoun = function (e) {
 }
 onMounted(() => {
     const svgWidth = (document.querySelector("#p6_1").clientWidth - 60) * (6 / 8);
-    const svgHeight = 500;
+    const svgHeight = document.querySelector("html").clientHeight * 0.8;
     const padding = 10;
     const svg = d3.select(".svg")
         .append("svg")
@@ -106,7 +106,7 @@ onMounted(() => {
 
 <style scoped>
 .box {
-    grid-template-rows: 20px auto 500px 40px;
+    grid-template-rows: 20px auto auto 40px;
     align-items: center;
 }
 

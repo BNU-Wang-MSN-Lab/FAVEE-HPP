@@ -54,7 +54,7 @@ div.box {
     margin: 0 auto;
     background-repeat: no-repeat !important;
     background-image: linear-gradient(90deg, white, transparent), url("./assets/imgs/拼图@2x.png") !important;
-    background-size: 533px 813px !important;
+    background-size: 35vw 100vh !important;
     background-position: right !important;
     position: relative;
 }

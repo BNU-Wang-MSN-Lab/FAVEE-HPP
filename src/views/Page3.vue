@@ -80,7 +80,7 @@ onMounted(() => {
 
 .s2 {
     grid-area: 3 / 3 / 4 / 10;
-    text-align: left;
+    text-align: center;
 }
 
 .legend {
@@ -97,6 +97,8 @@ onMounted(() => {
 }
 
 .caption {
+    max-width: 800px;
     text-align: left;
+    margin: 0 auto;
 }
 </style>
