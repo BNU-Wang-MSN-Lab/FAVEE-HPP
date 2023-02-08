@@ -1,0 +1,218 @@
+{
+  "data": [
+    {
+      "x": [0.259726741375851, -0.405284170678133, 0.0640699712614749, -0.415482036420829, 0.109694501208583, 0.243096150582021, 0.183014637414274, -0.0364418264606188, 0.334113825531265, -0.148014520963031, -0.417416265001602, 0.0253857519600588, -0.363786808401072, 0.351211738199904, -0.269040751071473, -0.491543922626777, 0.222237410538833, -0.351592628375477, 0.167680227722696, 0.228711827490038, -0.380825250987019, 0.289237839889085, 0.277841598568217, 0.241426293185831, 0.288143167764145, 0.408449145014151, 0.379453851645266, 0.378964822330921, -0.0966651862322885, -0.206068048495256, -0.388178202790547, -0.178962822670738, 0.0589212779164353, 0.122923888851999, 0.216296264849169, -0.0132241150100453, -0.0119326600499563, -0.360708193257171, -0.421919181346862, 0.35550983203617, -0.291200064278139, 0.0475494399779118, 0.371403260464946, -0.406412086129848, -0.262345893569278, -0.219161143237584, -0.481789658670607, 0.188503457172798, 0.187598419904463, -0.396772814779205, -0.367345860756964, 0.381433848149007, 0.382891440645973, -0.341002367730624, 0.200186136237208, -0.402774048712291, 0.329100623468699, 0.313484848018747, 0.356281760877198, 0.311796052497778, -0.398017454932565, 0.145090080088098, 0.321095074374695, -0.493338893462795, 0.310744479220204, 0.307721026809593, 0.296772474296998, -0.435525345109821, -0.0823094437883565, 0.105915942636904, -0.145910627864213, -0.23392560713928, -0.159569289135101, -0.502775287188095, 0.417168678617873, 0.245199965469641, -0.285393978966476, -0.431840916028276, -0.230532789499168, -0.28043310541982, 0.0457412216057524, 0.384211506636526, 0.0215870563782709, -0.502046377604968, 0.418505600785021, 0.286406875225371, 0.304223715289323, 0.0313125215388854, -0.412964198819374, -0.504063671564769, 0.369955432581469, -0.0371340849708017, -0.407080872075396, 0.33291485981607, 0.220075050275318, -0.341775031135059, -0.284957866886214, 0.134185539568749, 0.240004731415198, 0.343460624371351, -0.251388015000414, -0.0972841472072361, -0.0215830125289897, 0.329255191533944, 0.342788643352187, -0.00383497482381429, 0.315152928810208, -0.238586047220699, -0.396647678016415, 0.387044897114214, -0.394537896361244, -0.290260419923786, 0.289526711968213, 0.300421554463138, 0.38740724517782, 0.339176715334217, 0.341436363220476, 0.268321335899292, -0.405783742319576, -0.49687282920255, 0.0476201892024282, 0.370510895020913, -0.395575122095836, -0.220081715267238, 0.187738231336083, 0.358760733638742, 0.154619141684948, -0.366167090936598, -0.440803825544233, -0.317077506594568, 0.24414257480811, 0.298617548531242, -0.144581895874234, 0.160579275991497, 0.32376892825761, -0.270300686458074, 0.00943121115315368, 0.299962136030998, -0.094455490655509, -0.407227917392356, 0.287298645785548, -0.497734992632021, 0.419865431365984, 0.416610777057574, -0.405897788969729, -0.386140490375781, 0.267484107283419, -0.251062387231959, -0.0506813794928215, -0.4186770302446, -0.247264762585005, -0.402026472575631, -0.425261625795443, 0.397530215827514, 0.421188930578544, 0.324485204147141, 0.373234425580034, 0.0806037990522645, 0.330065814660474],
+      "y": [0.0949275108318369, 0.0987949259615266, -0.37978696396704, 0.377399077207907, -0.170302334942482, 0.00921459497657184, -0.233495147266038, -0.251650023337356, 0.0908613376220331, -0.329106106084499, -0.135769219280724, 0.0610694543892368, 0.211654254796217, 0.124160723899742, -0.304526356862204, 0.301865224432184, 0.100450726730588, -0.113731329054378, -0.251732143360059, 0.104513469496674, -0.204329690743417, 0.161120507234294, 0.128901096225694, -0.0191380421053184, -0.0132065720162845, 0.174861418828875, 0.146719351590684, 0.148945290479212, -0.317142524511767, -0.278188899457387, 0.185753204572211, -0.186068642179194, -0.354905753269792, -0.31610610593022, -0.136149084948235, -0.444043348518333, -0.458262030961153, -0.155107867792745, 0.168309792603379, 0.101927508135688, -0.256781829160733, -0.168443210916221, 0.139515459039262, 0.383484701966218, -0.246594643357756, -0.326086280220077, 0.231601861388929, 0.0406261106350422, 0.0418443396849115, 0.129453902404431, 0.0480514584114085, 0.111961262373911, 0.122156318973513, 0.206399089225052, 0.00631956489636066, 0.146593944963822, 0.141176043192772, 0.163145084426136, 0.139722474998136, 0.0878418220767892, 0.359833802562776, -0.322427789385576, 0.13120043651161, 0.288133817815606, 0.166355230275777, 0.162271658175656, 0.16114777070043, 0.366713713854694, -0.188895819618137, -0.0649434193794398, -0.273225293010854, -0.309510392402793, -0.292950034976751, 0.323798112683187, 0.158926598366686, -0.00771371867776551, -0.234504876899345, 0.356875852530633, -0.326955919881666, -0.221391177778233, -0.409857003181339, 0.101715958759193, -0.382158225964776, 0.297963769957028, 0.14684398006427, 0.155137665287599, 0.084614014847786, -0.435440448638296, 0.3788079796489, 0.277390754531402, 0.124596418215869, -0.458805178890769, 0.139162513840861, 0.102347818953268, 0.011733263737111, -0.223754181332245, -0.0877628982732725, -0.284040271456965, -0.117532201928289, 0.126808301565514, -0.293985026625703, -0.471894143303567, -0.216088241658117, 0.106175548291533, 0.127537272282156, -0.451766764288952, 0.056445627664663, -0.33638159545163, -0.135645569377092, 0.140276704396828, 0.138224643216489, -0.101253969420787, 0.0205291693412539, 0.158783755417346, 0.158108655855323, 0.149474325083959, 0.0364176260970009, 0.0451842877785428, 0.178593044214781, 0.308464226923152, -0.263333213112208, 0.133544272316778, 0.367510209833878, -0.314181560212376, -0.0409314535445191, 0.0738091923090911, 0.215214092249338, -0.12389852262074, -0.0356146417875092, -0.290464559108962, 0.0585555628300276, 0.0544767301196549, -0.200320950363477, -0.248527292817301, 0.108093928093234, -0.0253930688458765, 0.0438517975790711, 0.0920643379602059, -0.363480244907843, 0.358288289269178, 0.0264066594791993, 0.314297610682969, 0.169129110054594, 0.165587472362797, 0.385878921977002, 0.349825168760999, -0.0934283022582224, -0.209053894383896, -0.217206252935195, 0.130534325546175, -0.180196701795078, 0.380756923559835, 0.385310547100792, 0.171675184562003, 0.174689055542387, 0.149183481366018, 0.151950236992, -0.135725696224767, 0.00272432829639223],
+      "text": ["Formality:  0.259726741<br />Valence:  0.094927511<br />rels: Student-Dorm Resident assistant<br /><b><\/br> Student-Dorm Resident assistant <\/b> <\/br>Formality: 0.26 <\/br>Valence: 0.09", "Formality: -0.405284171<br />Valence:  0.098794926<br />rels: Long-distance lovers<br /><b><\/br> Long-distance lovers <\/b> <\/br>Formality: -0.41 <\/br>Valence: 0.1", "Formality:  0.064069971<br />Valence: -0.379786964<br />rels: Business rivals<br /><b><\/br> Business rivals <\/b> <\/br>Formality: 0.06 <\/br>Valence: -0.38", "Formality: -0.415482036<br />Valence:  0.377399077<br />rels: Uncle-Niece/Nephew<br /><b><\/br> Uncle-Niece/Nephew <\/b> <\/br>Formality: -0.42 <\/br>Valence: 0.38", "Formality:  0.109694501<br />Valence: -0.170302335<br />rels: Native-Tourist<br /><b><\/br> Native-Tourist <\/b> <\/br>Formality: 0.11 <\/br>Valence: -0.17", "Formality:  0.243096151<br />Valence:  0.009214595<br />rels: Driver-Passenger<br /><b><\/br> Driver-Passenger <\/b> <\/br>Formality: 0.24 <\/br>Valence: 0.01", "Formality:  0.183014637<br />Valence: -0.233495147<br />rels: Police officer-Offender<br /><b><\/br> Police officer-Offender <\/b> <\/br>Formality: 0.18 <\/br>Valence: -0.23", "Formality: -0.036441826<br />Valence: -0.251650023<br />rels: A person and their social media follower<br /><b><\/br> A person and their social media follower <\/b> <\/br>Formality: -0.04 <\/br>Valence: -0.25", "Formality:  0.334113826<br />Valence:  0.090861338<br />rels: Union leader-union member<br /><b><\/br> Union leader-union member <\/b> <\/br>Formality: 0.33 <\/br>Valence: 0.09", "Formality: -0.148014521<br />Valence: -0.329106106<br />rels: Alumni<br /><b><\/br> Alumni <\/b> <\/br>Formality: -0.15 <\/br>Valence: -0.33", "Formality: -0.417416265<br />Valence: -0.135769219<br />rels: Childhood friends<br /><b><\/br> Childhood friends <\/b> <\/br>Formality: -0.42 <\/br>Valence: -0.14", "Formality:  0.025385752<br />Valence:  0.061069454<br />rels: Sugar daddy-Sugar baby<br /><b><\/br> Sugar daddy-Sugar baby <\/b> <\/br>Formality: 0.03 <\/br>Valence: 0.06", "Formality: -0.363786808<br />Valence:  0.211654255<br />rels: A person and their deceased spouse<br /><b><\/br> A person and their deceased spouse <\/b> <\/br>Formality: -0.36 <\/br>Valence: 0.21", "Formality:  0.351211738<br />Valence:  0.124160724<br />rels: Intern-Employee<br /><b><\/br> Intern-Employee <\/b> <\/br>Formality: 0.35 <\/br>Valence: 0.12", "Formality: -0.269040751<br />Valence: -0.304526357<br />rels: Peers<br /><b><\/br> Peers <\/b> <\/br>Formality: -0.27 <\/br>Valence: -0.3", "Formality: -0.491543923<br />Valence:  0.301865224<br />rels: Close relatives<br /><b><\/br> Close relatives <\/b> <\/br>Formality: -0.49 <\/br>Valence: 0.3", "Formality:  0.222237411<br />Valence:  0.100450727<br />rels: Mentor-Mentee<br /><b><\/br> Mentor-Mentee <\/b> <\/br>Formality: 0.22 <\/br>Valence: 0.1", "Formality: -0.351592628<br />Valence: -0.113731329<br />rels: Groom-Groomsman<br /><b><\/br> Groom-Groomsman <\/b> <\/br>Formality: -0.35 <\/br>Valence: -0.11", "Formality:  0.167680228<br />Valence: -0.251732143<br />rels: Criminal-Prosecutor<br /><b><\/br> Criminal-Prosecutor <\/b> <\/br>Formality: 0.17 <\/br>Valence: -0.25", "Formality:  0.228711827<br />Valence:  0.104513469<br />rels: Religious leader-Congregant<br /><b><\/br> Religious leader-Congregant <\/b> <\/br>Formality: 0.23 <\/br>Valence: 0.1", "Formality: -0.380825251<br />Valence: -0.204329691<br />rels: Friends<br /><b><\/br> Friends <\/b> <\/br>Formality: -0.38 <\/br>Valence: -0.2", "Formality:  0.289237840<br />Valence:  0.161120507<br />rels: Nurse-Patient<br /><b><\/br> Nurse-Patient <\/b> <\/br>Formality: 0.29 <\/br>Valence: 0.16", "Formality:  0.277841599<br />Valence:  0.128901096<br />rels: Teacher-Student<br /><b><\/br> Teacher-Student <\/b> <\/br>Formality: 0.28 <\/br>Valence: 0.13", "Formality:  0.241426293<br />Valence: -0.019138042<br />rels: Representative-Citizen<br /><b><\/br> Representative-Citizen <\/b> <\/br>Formality: 0.24 <\/br>Valence: -0.02", "Formality:  0.288143168<br />Valence: -0.013206572<br />rels: Parole officer-Parolee<br /><b><\/br> Parole officer-Parolee <\/b> <\/br>Formality: 0.29 <\/br>Valence: -0.01", "Formality:  0.408449145<br />Valence:  0.174861419<br />rels: Employer-Employee<br /><b><\/br> Employer-Employee <\/b> <\/br>Formality: 0.41 <\/br>Valence: 0.17", "Formality:  0.379453852<br />Valence:  0.146719352<br />rels: Supervisor-Subordinate<br /><b><\/br> Supervisor-Subordinate <\/b> <\/br>Formality: 0.38 <\/br>Valence: 0.15", "Formality:  0.378964822<br />Valence:  0.148945290<br />rels: Reviewer-Writer<br /><b><\/br> Reviewer-Writer <\/b> <\/br>Formality: 0.38 <\/br>Valence: 0.15", "Formality: -0.096665186<br />Valence: -0.317142525<br />rels: Strangers<br /><b><\/br> Strangers <\/b> <\/br>Formality: -0.1 <\/br>Valence: -0.32", "Formality: -0.206068048<br />Valence: -0.278188899<br />rels: Teammates in sports<br /><b><\/br> Teammates in sports <\/b> <\/br>Formality: -0.21 <\/br>Valence: -0.28", "Formality: -0.388178203<br />Valence:  0.185753205<br />rels: A person and their in laws<br /><b><\/br> A person and their in laws <\/b> <\/br>Formality: -0.39 <\/br>Valence: 0.19", "Formality: -0.178962823<br />Valence: -0.186068642<br />rels: Divorced spouses<br /><b><\/br> Divorced spouses <\/b> <\/br>Formality: -0.18 <\/br>Valence: -0.19", "Formality:  0.058921278<br />Valence: -0.354905753<br />rels: Bully-Victim<br /><b><\/br> Bully-Victim <\/b> <\/br>Formality: 0.06 <\/br>Valence: -0.35", "Formality:  0.122923889<br />Valence: -0.316106106<br />rels: Victim-Criminal<br /><b><\/br> Victim-Criminal <\/b> <\/br>Formality: 0.12 <\/br>Valence: -0.32", "Formality:  0.216296265<br />Valence: -0.136149085<br />rels: Guard-Prisoner<br /><b><\/br> Guard-Prisoner <\/b> <\/br>Formality: 0.22 <\/br>Valence: -0.14", "Formality: -0.013224115<br />Valence: -0.444043349<br />rels: Competitors in sports<br /><b><\/br> Competitors in sports <\/b> <\/br>Formality: -0.01 <\/br>Valence: -0.44", "Formality: -0.011932660<br />Valence: -0.458262031<br />rels: Fans of opposing sports teams<br /><b><\/br> Fans of opposing sports teams <\/b> <\/br>Formality: -0.01 <\/br>Valence: -0.46", "Formality: -0.360708193<br />Valence: -0.155107868<br />rels: Companions<br /><b><\/br> Companions <\/b> <\/br>Formality: -0.36 <\/br>Valence: -0.16", "Formality: -0.421919181<br />Valence:  0.168309793<br />rels: Distant relatives<br /><b><\/br> Distant relatives <\/b> <\/br>Formality: -0.42 <\/br>Valence: 0.17", "Formality:  0.355509832<br />Valence:  0.101927508<br />rels: Entrepreneur-Investor<br /><b><\/br> Entrepreneur-Investor <\/b> <\/br>Formality: 0.36 <\/br>Valence: 0.1", "Formality: -0.291200064<br />Valence: -0.256781829<br />rels: Sorority sisters<br /><b><\/br> Sorority sisters <\/b> <\/br>Formality: -0.29 <\/br>Valence: -0.26", "Formality:  0.047549440<br />Valence: -0.168443211<br />rels: Diplomats<br /><b><\/br> Diplomats <\/b> <\/br>Formality: 0.05 <\/br>Valence: -0.17", "Formality:  0.371403260<br />Valence:  0.139515459<br />rels: Dealer-Buyer<br /><b><\/br> Dealer-Buyer <\/b> <\/br>Formality: 0.37 <\/br>Valence: 0.14", "Formality: -0.406412086<br />Valence:  0.383484702<br />rels: Mother-Infant<br /><b><\/br> Mother-Infant <\/b> <\/br>Formality: -0.41 <\/br>Valence: 0.38", "Formality: -0.262345894<br />Valence: -0.246594643<br />rels: Cohabitants<br /><b><\/br> Cohabitants <\/b> <\/br>Formality: -0.26 <\/br>Valence: -0.25", "Formality: -0.219161143<br />Valence: -0.326086280<br />rels: Casual acquaintances<br /><b><\/br> Casual acquaintances <\/b> <\/br>Formality: -0.22 <\/br>Valence: -0.33", "Formality: -0.481789659<br />Valence:  0.231601861<br />rels: Second cousins<br /><b><\/br> Second cousins <\/b> <\/br>Formality: -0.48 <\/br>Valence: 0.23", "Formality:  0.188503457<br />Valence:  0.040626111<br />rels: Team captain-Team members<br /><b><\/br> Team captain-Team members <\/b> <\/br>Formality: 0.19 <\/br>Valence: 0.04", "Formality:  0.187598420<br />Valence:  0.041844340<br />rels: Predecessor-Successor<br /><b><\/br> Predecessor-Successor <\/b> <\/br>Formality: 0.19 <\/br>Valence: 0.04", "Formality: -0.396772815<br />Valence:  0.129453902<br />rels: Life partners<br /><b><\/br> Life partners <\/b> <\/br>Formality: -0.4 <\/br>Valence: 0.13", "Formality: -0.367345861<br />Valence:  0.048051458<br />rels: Romantic lovers<br /><b><\/br> Romantic lovers <\/b> <\/br>Formality: -0.37 <\/br>Valence: 0.05", "Formality:  0.381433848<br />Valence:  0.111961262<br />rels: Interviewer-Job applicant<br /><b><\/br> Interviewer-Job applicant <\/b> <\/br>Formality: 0.38 <\/br>Valence: 0.11", "Formality:  0.382891441<br />Valence:  0.122156319<br />rels: Officer-Soldier<br /><b><\/br> Officer-Soldier <\/b> <\/br>Formality: 0.38 <\/br>Valence: 0.12", "Formality: -0.341002368<br />Valence:  0.206399089<br />rels: Ancestor-Descendant<br /><b><\/br> Ancestor-Descendant <\/b> <\/br>Formality: -0.34 <\/br>Valence: 0.21", "Formality:  0.200186136<br />Valence:  0.006319565<br />rels: Reader-Writer<br /><b><\/br> Reader-Writer <\/b> <\/br>Formality: 0.2 <\/br>Valence: 0.01", "Formality: -0.402774049<br />Valence:  0.146593945<br />rels: Soul mates<br /><b><\/br> Soul mates <\/b> <\/br>Formality: -0.4 <\/br>Valence: 0.15", "Formality:  0.329100623<br />Valence:  0.141176043<br />rels: A monarch and their minister<br /><b><\/br> A monarch and their minister <\/b> <\/br>Formality: 0.33 <\/br>Valence: 0.14", "Formality:  0.313484848<br />Valence:  0.163145084<br />rels: Professor-Graduate student<br /><b><\/br> Professor-Graduate student <\/b> <\/br>Formality: 0.31 <\/br>Valence: 0.16", "Formality:  0.356281761<br />Valence:  0.139722475<br />rels: Director-Performer<br /><b><\/br> Director-Performer <\/b> <\/br>Formality: 0.36 <\/br>Valence: 0.14", "Formality:  0.311796052<br />Valence:  0.087841822<br />rels: Athletic trainer-Trainee<br /><b><\/br> Athletic trainer-Trainee <\/b> <\/br>Formality: 0.31 <\/br>Valence: 0.09", "Formality: -0.398017455<br />Valence:  0.359833803<br />rels: Godparent-Godchild<br /><b><\/br> Godparent-Godchild <\/b> <\/br>Formality: -0.4 <\/br>Valence: 0.36", "Formality:  0.145090080<br />Valence: -0.322427789<br />rels: Defendant-Plaintiff<br /><b><\/br> Defendant-Plaintiff <\/b> <\/br>Formality: 0.15 <\/br>Valence: -0.32", "Formality:  0.321095074<br />Valence:  0.131200437<br />rels: Doctor-Nurse<br /><b><\/br> Doctor-Nurse <\/b> <\/br>Formality: 0.32 <\/br>Valence: 0.13", "Formality: -0.493338893<br />Valence:  0.288133818<br />rels: Twins<br /><b><\/br> Twins <\/b> <\/br>Formality: -0.49 <\/br>Valence: 0.29", "Formality:  0.310744479<br />Valence:  0.166355230<br />rels: Patient-Caretaker<br /><b><\/br> Patient-Caretaker <\/b> <\/br>Formality: 0.31 <\/br>Valence: 0.17", "Formality:  0.307721027<br />Valence:  0.162271658<br />rels: Psychologist-Client<br /><b><\/br> Psychologist-Client <\/b> <\/br>Formality: 0.31 <\/br>Valence: 0.16", "Formality:  0.296772474<br />Valence:  0.161147771<br />rels: Therapist-Patient<br /><b><\/br> Therapist-Patient <\/b> <\/br>Formality: 0.3 <\/br>Valence: 0.16", "Formality: -0.435525345<br />Valence:  0.366713714<br />rels: Parent-Child<br /><b><\/br> Parent-Child <\/b> <\/br>Formality: -0.44 <\/br>Valence: 0.37", "Formality: -0.082309444<br />Valence: -0.188895820<br />rels: Criminal and their accomplice<br /><b><\/br> Criminal and their accomplice <\/b> <\/br>Formality: -0.08 <\/br>Valence: -0.19", "Formality:  0.105915943<br />Valence: -0.064943419<br />rels: Business partners<br /><b><\/br> Business partners <\/b> <\/br>Formality: 0.11 <\/br>Valence: -0.06", "Formality: -0.145910628<br />Valence: -0.273225293<br />rels: Man Wife-Man Mistress<br /><b><\/br> Man Wife-Man Mistress <\/b> <\/br>Formality: -0.15 <\/br>Valence: -0.27", "Formality: -0.233925607<br />Valence: -0.309510392<br />rels: Neighbors<br /><b><\/br> Neighbors <\/b> <\/br>Formality: -0.23 <\/br>Valence: -0.31", "Formality: -0.159569289<br />Valence: -0.292950035<br />rels: Ex-lovers<br /><b><\/br> Ex-lovers <\/b> <\/br>Formality: -0.16 <\/br>Valence: -0.29", "Formality: -0.502775287<br />Valence:  0.323798113<br />rels: Brother-Sister<br /><b><\/br> Brother-Sister <\/b> <\/br>Formality: -0.5 <\/br>Valence: 0.32", "Formality:  0.417168679<br />Valence:  0.158926598<br />rels: Landlord-Housekeeper<br /><b><\/br> Landlord-Housekeeper <\/b> <\/br>Formality: 0.42 <\/br>Valence: 0.16", "Formality:  0.245199965<br />Valence: -0.007713719<br />rels: Politician-Supporter<br /><b><\/br> Politician-Supporter <\/b> <\/br>Formality: 0.25 <\/br>Valence: -0.01", "Formality: -0.285393979<br />Valence: -0.234504877<br />rels: Fraternity brothers<br /><b><\/br> Fraternity brothers <\/b> <\/br>Formality: -0.29 <\/br>Valence: -0.23", "Formality: -0.431840916<br />Valence:  0.356875853<br />rels: Aunt-Niece/Nephew<br /><b><\/br> Aunt-Niece/Nephew <\/b> <\/br>Formality: -0.43 <\/br>Valence: 0.36", "Formality: -0.230532789<br />Valence: -0.326955920<br />rels: Fans of the same sports team<br /><b><\/br> Fans of the same sports team <\/b> <\/br>Formality: -0.23 <\/br>Valence: -0.33", "Formality: -0.280433105<br />Valence: -0.221391178<br />rels: Roommates<br /><b><\/br> Roommates <\/b> <\/br>Formality: -0.28 <\/br>Valence: -0.22", "Formality:  0.045741222<br />Valence: -0.409857003<br />rels: Opposing negotiators<br /><b><\/br> Opposing negotiators <\/b> <\/br>Formality: 0.05 <\/br>Valence: -0.41", "Formality:  0.384211507<br />Valence:  0.101715959<br />rels: Landlord-Tenant<br /><b><\/br> Landlord-Tenant <\/b> <\/br>Formality: 0.38 <\/br>Valence: 0.1", "Formality:  0.021587056<br />Valence: -0.382158226<br />rels: Celebrity-Haters<br /><b><\/br> Celebrity-Haters <\/b> <\/br>Formality: 0.02 <\/br>Valence: -0.38", "Formality: -0.502046378<br />Valence:  0.297963770<br />rels: Step siblings<br /><b><\/br> Step siblings <\/b> <\/br>Formality: -0.5 <\/br>Valence: 0.3", "Formality:  0.418505601<br />Valence:  0.146843980<br />rels: Foreman-Laborer<br /><b><\/br> Foreman-Laborer <\/b> <\/br>Formality: 0.42 <\/br>Valence: 0.15", "Formality:  0.286406875<br />Valence:  0.155137665<br />rels: Doctor-Patient<br /><b><\/br> Doctor-Patient <\/b> <\/br>Formality: 0.29 <\/br>Valence: 0.16", "Formality:  0.304223715<br />Valence:  0.084614015<br />rels: Prostitute-Customer<br /><b><\/br> Prostitute-Customer <\/b> <\/br>Formality: 0.3 <\/br>Valence: 0.08", "Formality:  0.031312522<br />Valence: -0.435440449<br />rels: Political opponents<br /><b><\/br> Political opponents <\/b> <\/br>Formality: 0.03 <\/br>Valence: -0.44", "Formality: -0.412964199<br />Valence:  0.378807980<br />rels: Step-parent-Step-child<br /><b><\/br> Step-parent-Step-child <\/b> <\/br>Formality: -0.41 <\/br>Valence: 0.38", "Formality: -0.504063672<br />Valence:  0.277390755<br />rels: Cousins<br /><b><\/br> Cousins <\/b> <\/br>Formality: -0.5 <\/br>Valence: 0.28", "Formality:  0.369955433<br />Valence:  0.124596418<br />rels: Superior-Subordinate<br /><b><\/br> Superior-Subordinate <\/b> <\/br>Formality: 0.37 <\/br>Valence: 0.12", "Formality: -0.037134085<br />Valence: -0.458805179<br />rels: Enemies<br /><b><\/br> Enemies <\/b> <\/br>Formality: -0.04 <\/br>Valence: -0.46", "Formality: -0.407080872<br />Valence:  0.139162514<br />rels: Fiance-Fiancee<br /><b><\/br> Fiance-Fiancee <\/b> <\/br>Formality: -0.41 <\/br>Valence: 0.14", "Formality:  0.332914860<br />Valence:  0.102347819<br />rels: Researcher-Research Subject<br /><b><\/br> Researcher-Research Subject <\/b> <\/br>Formality: 0.33 <\/br>Valence: 0.1", "Formality:  0.220075050<br />Valence:  0.011733264<br />rels: Club Member-Club President<br /><b><\/br> Club Member-Club President <\/b> <\/br>Formality: 0.22 <\/br>Valence: 0.01", "Formality: -0.341775031<br />Valence: -0.223754181<br />rels: Pen-friends<br /><b><\/br> Pen-friends <\/b> <\/br>Formality: -0.34 <\/br>Valence: -0.22", "Formality: -0.284957867<br />Valence: -0.087762898<br />rels: A person and their crush<br /><b><\/br> A person and their crush <\/b> <\/br>Formality: -0.28 <\/br>Valence: -0.09", "Formality:  0.134185540<br />Valence: -0.284040271<br />rels: Criminal-Hostage<br /><b><\/br> Criminal-Hostage <\/b> <\/br>Formality: 0.13 <\/br>Valence: -0.28", "Formality:  0.240004731<br />Valence: -0.117532202<br />rels: Slave-Master<br /><b><\/br> Slave-Master <\/b> <\/br>Formality: 0.24 <\/br>Valence: -0.12", "Formality:  0.343460624<br />Valence:  0.126808302<br />rels: Lawyer-Client<br /><b><\/br> Lawyer-Client <\/b> <\/br>Formality: 0.34 <\/br>Valence: 0.13", "Formality: -0.251388015<br />Valence: -0.293985027<br />rels: Church members<br /><b><\/br> Church members <\/b> <\/br>Formality: -0.25 <\/br>Valence: -0.29", "Formality: -0.097284147<br />Valence: -0.471894143<br />rels: Frenemies<br /><b><\/br> Frenemies <\/b> <\/br>Formality: -0.1 <\/br>Valence: -0.47", "Formality: -0.021583013<br />Valence: -0.216088242<br />rels: Political allies<br /><b><\/br> Political allies <\/b> <\/br>Formality: -0.02 <\/br>Valence: -0.22", "Formality:  0.329255192<br />Valence:  0.106175548<br />rels: Guide-Tourist<br /><b><\/br> Guide-Tourist <\/b> <\/br>Formality: 0.33 <\/br>Valence: 0.11", "Formality:  0.342788643<br />Valence:  0.127537272<br />rels: Salesperson-Customer<br /><b><\/br> Salesperson-Customer <\/b> <\/br>Formality: 0.34 <\/br>Valence: 0.13", "Formality: -0.003834975<br />Valence: -0.451766764<br />rels: Sports rivals<br /><b><\/br> Sports rivals <\/b> <\/br>Formality: 0 <\/br>Valence: -0.45", "Formality:  0.315152929<br />Valence:  0.056445628<br />rels: Drug dealer-Addict<br /><b><\/br> Drug dealer-Addict <\/b> <\/br>Formality: 0.32 <\/br>Valence: 0.06", "Formality: -0.238586047<br />Valence: -0.336381595<br />rels: Facebook friends<br /><b><\/br> Facebook friends <\/b> <\/br>Formality: -0.24 <\/br>Valence: -0.34", "Formality: -0.396647678<br />Valence: -0.135645569<br />rels: Close friends<br /><b><\/br> Close friends <\/b> <\/br>Formality: -0.4 <\/br>Valence: -0.14", "Formality:  0.387044897<br />Valence:  0.140276704<br />rels: Chief-Deputy<br /><b><\/br> Chief-Deputy <\/b> <\/br>Formality: 0.39 <\/br>Valence: 0.14", "Formality: -0.394537896<br />Valence:  0.138224643<br />rels: A person and their significant other<br /><b><\/br> A person and their significant other <\/b> <\/br>Formality: -0.39 <\/br>Valence: 0.14", "Formality: -0.290260420<br />Valence: -0.101253969<br />rels: Friends with benefits<br /><b><\/br> Friends with benefits <\/b> <\/br>Formality: -0.29 <\/br>Valence: -0.1", "Formality:  0.289526712<br />Valence:  0.020529169<br />rels: Police officer-Civilian<br /><b><\/br> Police officer-Civilian <\/b> <\/br>Formality: 0.29 <\/br>Valence: 0.02", "Formality:  0.300421554<br />Valence:  0.158783755<br />rels: Consultant-Client<br /><b><\/br> Consultant-Client <\/b> <\/br>Formality: 0.3 <\/br>Valence: 0.16", "Formality:  0.387407245<br />Valence:  0.158108656<br />rels: Customer-Businessman<br /><b><\/br> Customer-Businessman <\/b> <\/br>Formality: 0.39 <\/br>Valence: 0.16", "Formality:  0.339176715<br />Valence:  0.149474325<br />rels: Chef-Customer<br /><b><\/br> Chef-Customer <\/b> <\/br>Formality: 0.34 <\/br>Valence: 0.15", "Formality:  0.341436363<br />Valence:  0.036417626<br />rels: Athlete-Referee<br /><b><\/br> Athlete-Referee <\/b> <\/br>Formality: 0.34 <\/br>Valence: 0.04", "Formality:  0.268321336<br />Valence:  0.045184288<br />rels: Performer-Audience<br /><b><\/br> Performer-Audience <\/b> <\/br>Formality: 0.27 <\/br>Valence: 0.05", "Formality: -0.405783742<br />Valence:  0.178593044<br />rels: Wife-Husband<br /><b><\/br> Wife-Husband <\/b> <\/br>Formality: -0.41 <\/br>Valence: 0.18", "Formality: -0.496872829<br />Valence:  0.308464227<br />rels: Half siblings<br /><b><\/br> Half siblings <\/b> <\/br>Formality: -0.5 <\/br>Valence: 0.31", "Formality:  0.047620189<br />Valence: -0.263333213<br />rels: Victim-Witness<br /><b><\/br> Victim-Witness <\/b> <\/br>Formality: 0.05 <\/br>Valence: -0.26", "Formality:  0.370510895<br />Valence:  0.133544272<br />rels: Principal-Teacher<br /><b><\/br> Principal-Teacher <\/b> <\/br>Formality: 0.37 <\/br>Valence: 0.13", "Formality: -0.395575122<br />Valence:  0.367510210<br />rels: Parent-Teenager<br /><b><\/br> Parent-Teenager <\/b> <\/br>Formality: -0.4 <\/br>Valence: 0.37", "Formality: -0.220081715<br />Valence: -0.314181560<br />rels: Classmates<br /><b><\/br> Classmates <\/b> <\/br>Formality: -0.22 <\/br>Valence: -0.31", "Formality:  0.187738231<br />Valence: -0.040931454<br />rels: Guest-Host<br /><b><\/br> Guest-Host <\/b> <\/br>Formality: 0.19 <\/br>Valence: -0.04", "Formality:  0.358760734<br />Valence:  0.073809192<br />rels: Judge-Lawyer<br /><b><\/br> Judge-Lawyer <\/b> <\/br>Formality: 0.36 <\/br>Valence: 0.07", "Formality:  0.154619142<br />Valence:  0.215214092<br />rels: Babysitter-Infant<br /><b><\/br> Babysitter-Infant <\/b> <\/br>Formality: 0.15 <\/br>Valence: 0.22", "Formality: -0.366167091<br />Valence: -0.123898523<br />rels: Bride-Bridesmaid<br /><b><\/br> Bride-Bridesmaid <\/b> <\/br>Formality: -0.37 <\/br>Valence: -0.12", "Formality: -0.440803826<br />Valence: -0.035614642<br />rels: A person and their family friends<br /><b><\/br> A person and their family friends <\/b> <\/br>Formality: -0.44 <\/br>Valence: -0.04", "Formality: -0.317077507<br />Valence: -0.290464559<br />rels: Playmates<br /><b><\/br> Playmates <\/b> <\/br>Formality: -0.32 <\/br>Valence: -0.29", "Formality:  0.244142575<br />Valence:  0.058555563<br />rels: Coach-athlete<br /><b><\/br> Coach-athlete <\/b> <\/br>Formality: 0.24 <\/br>Valence: 0.06", "Formality:  0.298617549<br />Valence:  0.054476730<br />rels: University student-Administrator<br /><b><\/br> University student-Administrator <\/b> <\/br>Formality: 0.3 <\/br>Valence: 0.05", "Formality: -0.144581896<br />Valence: -0.200320950<br />rels: Religious followers<br /><b><\/br> Religious followers <\/b> <\/br>Formality: -0.14 <\/br>Valence: -0.2", "Formality:  0.160579276<br />Valence: -0.248527293<br />rels: Criminal-Police officer<br /><b><\/br> Criminal-Police officer <\/b> <\/br>Formality: 0.16 <\/br>Valence: -0.25", "Formality:  0.323768928<br />Valence:  0.108093928<br />rels: Leader-Follower<br /><b><\/br> Leader-Follower <\/b> <\/br>Formality: 0.32 <\/br>Valence: 0.11", "Formality: -0.270300686<br />Valence: -0.025393069<br />rels: Man-His Mistress<br /><b><\/br> Man-His Mistress <\/b> <\/br>Formality: -0.27 <\/br>Valence: -0.03", "Formality:  0.009431211<br />Valence:  0.043851798<br />rels: Man-God<br /><b><\/br> Man-God <\/b> <\/br>Formality: 0.01 <\/br>Valence: 0.04", "Formality:  0.299962136<br />Valence:  0.092064338<br />rels: Volunteer-Organizer<br /><b><\/br> Volunteer-Organizer <\/b> <\/br>Formality: 0.3 <\/br>Valence: 0.09", "Formality: -0.094455491<br />Valence: -0.363480245<br />rels: Romantic rivals<br /><b><\/br> Romantic rivals <\/b> <\/br>Formality: -0.09 <\/br>Valence: -0.36", "Formality: -0.407227917<br />Valence:  0.358288289<br />rels: Foster-parent-Foster-child<br /><b><\/br> Foster-parent-Foster-child <\/b> <\/br>Formality: -0.41 <\/br>Valence: 0.36", "Formality:  0.287298646<br />Valence:  0.026406659<br />rels: Television host-Guest<br /><b><\/br> Television host-Guest <\/b> <\/br>Formality: 0.29 <\/br>Valence: 0.03", "Formality: -0.497734993<br />Valence:  0.314297611<br />rels: Siblings<br /><b><\/br> Siblings <\/b> <\/br>Formality: -0.5 <\/br>Valence: 0.31", "Formality:  0.419865431<br />Valence:  0.169129110<br />rels: Manager-Staff<br /><b><\/br> Manager-Staff <\/b> <\/br>Formality: 0.42 <\/br>Valence: 0.17", "Formality:  0.416610777<br />Valence:  0.165587472<br />rels: Owner-Manager<br /><b><\/br> Owner-Manager <\/b> <\/br>Formality: 0.42 <\/br>Valence: 0.17", "Formality: -0.405897789<br />Valence:  0.385878922<br />rels: Adoptive parents-Adopted kids<br /><b><\/br> Adoptive parents-Adopted kids <\/b> <\/br>Formality: -0.41 <\/br>Valence: 0.39", "Formality: -0.386140490<br />Valence:  0.349825169<br />rels: Step-grandparent-Step-grandchild<br /><b><\/br> Step-grandparent-Step-grandchild <\/b> <\/br>Formality: -0.39 <\/br>Valence: 0.35", "Formality:  0.267484107<br />Valence: -0.093428302<br />rels: Master-Servant<br /><b><\/br> Master-Servant <\/b> <\/br>Formality: 0.27 <\/br>Valence: -0.09", "Formality: -0.251062387<br />Valence: -0.209053894<br />rels: Confidants<br /><b><\/br> Confidants <\/b> <\/br>Formality: -0.25 <\/br>Valence: -0.21", "Formality: -0.050681379<br />Valence: -0.217206253<br />rels: Co-workers<br /><b><\/br> Co-workers <\/b> <\/br>Formality: -0.05 <\/br>Valence: -0.22", "Formality: -0.418677030<br />Valence:  0.130534326<br />rels: Bride-Groom<br /><b><\/br> Bride-Groom <\/b> <\/br>Formality: -0.42 <\/br>Valence: 0.13", "Formality: -0.247264763<br />Valence: -0.180196702<br />rels: Brothers in-arms<br /><b><\/br> Brothers in-arms <\/b> <\/br>Formality: -0.25 <\/br>Valence: -0.18", "Formality: -0.402026473<br />Valence:  0.380756924<br />rels: Parent-Infant<br /><b><\/br> Parent-Infant <\/b> <\/br>Formality: -0.4 <\/br>Valence: 0.38", "Formality: -0.425261626<br />Valence:  0.385310547<br />rels: Grandparent-Grandchild<br /><b><\/br> Grandparent-Grandchild <\/b> <\/br>Formality: -0.43 <\/br>Valence: 0.39", "Formality:  0.397530216<br />Valence:  0.171675185<br />rels: Manager-Assistant<br /><b><\/br> Manager-Assistant <\/b> <\/br>Formality: 0.4 <\/br>Valence: 0.17", "Formality:  0.421188931<br />Valence:  0.174689056<br />rels: Boss-Secretary<br /><b><\/br> Boss-Secretary <\/b> <\/br>Formality: 0.42 <\/br>Valence: 0.17", "Formality:  0.324485204<br />Valence:  0.149183481<br />rels: Professor-Teaching Assistant<br /><b><\/br> Professor-Teaching Assistant <\/b> <\/br>Formality: 0.32 <\/br>Valence: 0.15", "Formality:  0.373234426<br />Valence:  0.151950237<br />rels: Customer-Server<br /><b><\/br> Customer-Server <\/b> <\/br>Formality: 0.37 <\/br>Valence: 0.15", "Formality:  0.080603799<br />Valence: -0.135725696<br />rels: Celebrity-Fans<br /><b><\/br> Celebrity-Fans <\/b> <\/br>Formality: 0.08 <\/br>Valence: -0.14", "Formality:  0.330065815<br />Valence:  0.002724328<br />rels: Judge-Contestant<br /><b><\/br> Judge-Contestant <\/b> <\/br>Formality: 0.33 <\/br>Valence: 0"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,0,0,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,0,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "showlegend": false,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [-0.0371340849708017, 0.286406875225371, -0.405783742319576, -0.435525345109821, 0.122923888851999],
+      "y": [-0.458805178890769, 0.155137665287599, 0.178593044214781, 0.366713713854694, -0.31610610593022],
+      "text": ["Formality: -0.03713408<br />Valence: -0.4588052<br />rels: Enemies<br /><b><\/br> Enemies <\/b> <\/br>Formality: -0.04 <\/br>Valence: -0.46", "Formality:  0.28640688<br />Valence:  0.1551377<br />rels: Doctor-Patient<br /><b><\/br> Doctor-Patient <\/b> <\/br>Formality: 0.29 <\/br>Valence: 0.16", "Formality: -0.40578374<br />Valence:  0.1785930<br />rels: Wife-Husband<br /><b><\/br> Wife-Husband <\/b> <\/br>Formality: -0.41 <\/br>Valence: 0.18", "Formality: -0.43552535<br />Valence:  0.3667137<br />rels: Parent-Child<br /><b><\/br> Parent-Child <\/b> <\/br>Formality: -0.44 <\/br>Valence: 0.37", "Formality:  0.12292389<br />Valence: -0.3161061<br />rels: Victim-Criminal<br /><b><\/br> Victim-Criminal <\/b> <\/br>Formality: 0.12 <\/br>Valence: -0.32"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(255,0,0,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(255,0,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "showlegend": false,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    }
+  ],
+  "layout": {
+    "margin": {
+      "t": 23.3059360730594,
+      "r": 7.30593607305936,
+      "b": 10.958904109589,
+      "l": 10.958904109589
+    },
+    "plot_bgcolor": "rgba(255,255,255,1)",
+    "paper_bgcolor": "rgba(255,255,255,1)",
+    "font": {
+      "color": "rgba(0,0,0,1)",
+      "family": "",
+      "size": 14.6118721461187
+    },
+    "xaxis": {
+      "domain": [0, 1],
+      "automargin": true,
+      "type": "linear",
+      "autorange": false,
+      "range": [-0.655, 0.555],
+      "tickmode": "array",
+      "ticktext": ["-0.6", "-0.3", "0.0", "0.3"],
+      "tickvals": [-0.6, -0.3, 1.11022302462516e-16, 0.3],
+      "categoryorder": "array",
+      "categoryarray": ["-0.6", "-0.3", "0.0", "0.3"],
+      "nticks": null,
+      "ticks": "",
+      "tickcolor": null,
+      "ticklen": 3.65296803652968,
+      "tickwidth": 0,
+      "showticklabels": false,
+      "tickfont": {
+        "color": null,
+        "family": null,
+        "size": 0
+      },
+      "tickangle": -0,
+      "showline": true,
+      "linecolor": "rgba(0,0,0,1)",
+      "linewidth": 0,
+      "showgrid": false,
+      "gridcolor": null,
+      "gridwidth": 0,
+      "zeroline": false,
+      "anchor": "y",
+      "title": {
+        "text": "",
+        "font": {
+          "color": null,
+          "family": null,
+          "size": 0
+        }
+      },
+      "hoverformat": ".2f"
+    },
+    "yaxis": {
+      "domain": [0, 1],
+      "automargin": true,
+      "type": "linear",
+      "autorange": false,
+      "range": [-0.514782796567595, 0.42876757524103],
+      "tickmode": "array",
+      "ticktext": ["-0.50", "-0.25", "0.00", "0.25"],
+      "tickvals": [-0.5, -0.25, 0, 0.25],
+      "categoryorder": "array",
+      "categoryarray": ["-0.50", "-0.25", "0.00", "0.25"],
+      "nticks": null,
+      "ticks": "",
+      "tickcolor": null,
+      "ticklen": 3.65296803652968,
+      "tickwidth": 0,
+      "showticklabels": false,
+      "tickfont": {
+        "color": null,
+        "family": null,
+        "size": 0
+      },
+      "tickangle": -0,
+      "showline": true,
+      "linecolor": "rgba(0,0,0,1)",
+      "linewidth": 0,
+      "showgrid": false,
+      "gridcolor": null,
+      "gridwidth": 0,
+      "zeroline": false,
+      "anchor": "x",
+      "title": {
+        "text": "",
+        "font": {
+          "color": null,
+          "family": null,
+          "size": 0
+        }
+      },
+      "hoverformat": ".2f"
+    },
+    "shapes": [
+      {
+        "type": "rect",
+        "fillcolor": null,
+        "line": {
+          "color": null,
+          "width": 0,
+          "linetype": []
+        },
+        "yref": "paper",
+        "xref": "paper",
+        "x0": 0,
+        "x1": 1,
+        "y0": 0,
+        "y1": 1
+      }
+    ],
+    "showlegend": false,
+    "legend": {
+      "bgcolor": "rgba(255,255,255,1)",
+      "bordercolor": "transparent",
+      "borderwidth": 0,
+      "font": {
+        "color": "rgba(0,0,0,1)",
+        "family": "",
+        "size": 11.689497716895
+      }
+    },
+    "hovermode": "closest",
+    "barmode": "relative"
+  },
+  "config": {
+    "doubleClick": "reset",
+    "modeBarButtonsToAdd": ["hoverclosest", "hovercompare"],
+    "showSendToCloud": false
+  },
+  "source": "A",
+  "attrs": {
+    "d4407e944f44": {
+      "x": {},
+      "y": {},
+      "label": {},
+      "text": {},
+      "type": "scatter"
+    },
+    "d44017336d7b": {
+      "x": {},
+      "y": {},
+      "label": {},
+      "text": {}
+    }
+  },
+  "cur_data": "d4407e944f44",
+  "visdat": {
+    "d4407e944f44": ["function (y) ", "x"],
+    "d44017336d7b": ["function (y) ", "x"]
+  },
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "shinyEvents": ["plotly_hover", "plotly_click", "plotly_selected", "plotly_relayout", "plotly_brushed", "plotly_brushing", "plotly_clickannotation", "plotly_doubleclick", "plotly_deselect", "plotly_afterplot", "plotly_sunburstclick"],
+  "base_url": "https://plot.ly"
+}

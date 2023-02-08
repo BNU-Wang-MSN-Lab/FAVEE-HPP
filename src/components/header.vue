@@ -28,7 +28,7 @@ function heightToTop(ele){
     return height;
 }
 const stuClick = function(e) {
-    $(".container").animate({
+    $("html").animate({
         scrollTop: heightToTop($("#study" + e.toString()).get(0))
     }, {
         duration: 500,
@@ -40,7 +40,7 @@ const stuClick = function(e) {
 <template>
     <div id="header">
         <div class="nav">
-            <span><a href="#" class="logo">Human Relationships</a></span>
+            <span><a href="#" class="logo">FAVEE-HPP</a></span>
         </div>
         <div class="btn" @click.stop="btnClick">
             <svg t="1672901242617" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2687"

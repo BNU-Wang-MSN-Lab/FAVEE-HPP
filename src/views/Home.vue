@@ -51,16 +51,9 @@ const hrefClick = (e) => {
 
 <style scoped>
 div.box {
-    display: grid;
-    width: 100vw;
-    min-height: 100vh;
-    grid-template-columns: repeat(10, 1fr);
-    grid-gap: 20px;
-    align-items: center;
-    justify-content: center;
     margin: 0 auto;
     background-repeat: no-repeat !important;
-    background-image: linear-gradient(90deg, white, transparent), url("/assets/拼图@2x.png") !important;
+    background-image: linear-gradient(90deg, white, transparent), url("./assets/imgs/拼图@2x.png") !important;
     background-size: 533px 813px !important;
     background-position: right !important;
     position: relative;
@@ -101,12 +94,12 @@ div.box {
 }
 
 .logo>div:nth-child(1) {
-    background: url(/assets/icon/Beijing_Normal_University_logo.svg.png) no-repeat;
+    background: url(./assets/icon/Beijing_Normal_University_logo.svg.png) no-repeat;
     background-size: contain;
 }
 
 .logo>div:nth-child(2) {
-    background: url(/assets/icon/temple-logo-t-box.svg) no-repeat;
+    background: url(./assets/icon/temple-logo-t-box.svg) no-repeat;
     background-size: contain;
 }
 </style>
