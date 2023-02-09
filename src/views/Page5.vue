@@ -75,7 +75,7 @@ onMounted(() => {
             </div>
         </div>
         <div class="s3">
-            <div class="title">Select your interesting</div>
+            <div class="title">Select your interesting relationship</div>
             <div class="sel">
                 <input @input="input" type="text" name="country" id="study3Country" placeholder="Type to search" />
                 <ul>
@@ -104,7 +104,7 @@ onMounted(() => {
                 across different regions while some relationships are comparably consistent across regions. Our
                 analysis shows that religion and modernization are two important factors that contribute to cultural
                 variation.</p>
-            <p style="font-size: 16px; line-height: 24px;">You can explore the details of your interesting.</p>
+            <p style="font-size: 16px; line-height: 24px;">You can explore the details of your interesting relationship.</p>
         </div>
         <div class="s6">
             <div @click="emits('alertOpen', 'alertSubset')">Subset analysis</div>
