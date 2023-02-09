@@ -79,7 +79,6 @@ const stuClick = function(e) {
     left: 0;
     background-color: rgba(255, 255, 255, 0.6);
     width: 100%;
-    max-width: 1440px;
     height: 65px;
     color: black;
     text-align: left;

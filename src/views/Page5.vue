@@ -75,7 +75,7 @@ onMounted(() => {
             </div>
         </div>
         <div class="s3">
-            <div class="title">Select your interested relationship</div>
+            <div class="title">Select your interesting</div>
             <div class="sel">
                 <input @input="input" type="text" name="country" id="study3Country" placeholder="Type to search" />
                 <ul>
@@ -101,10 +101,10 @@ onMounted(() => {
             <p style="font-size: 16px; line-height: 24px;">Combined with the data in 19 regions, we get the
                 world-averaged FAVEE-HPP model. We also find a subset of relationships that is representative of the
                 whole conceptual space. Besides, we find that the mental representations of some relationships vary
-                across different regions while some relationships are comparably consistence across regions. Our
+                across different regions while some relationships are comparably consistent across regions. Our
                 analysis shows that religion and modernization are two important factors that contribute to cultural
                 variation.</p>
-            <p style="font-size: 16px; line-height: 24px;">You can explore the details of your interested relationship.</p>
+            <p style="font-size: 16px; line-height: 24px;">You can explore the details of your interesting.</p>
         </div>
         <div class="s6">
             <div @click="emits('alertOpen', 'alertSubset')">Subset analysis</div>
@@ -125,6 +125,9 @@ onMounted(() => {
 </template>
 
 <style scoped>
+#study3Can>div>div {
+    margin: 0 auto;
+}
 .box {
     grid-template-rows: 20px auto auto auto 70px auto auto 40px;
     align-items: stretch;
@@ -216,6 +219,7 @@ onMounted(() => {
 #p5_radar {
     width: 400px;
     height: 400px;
+    margin: 0 auto;
     background-position: -36px -13px;
     background-size: 450px 450px;
     position: relative;
@@ -281,7 +285,7 @@ onMounted(() => {
     width: 120px;
     position: absolute;
     top: 30px;
-    left: 521px;
+    left: calc(50% + 218px);
 }
 
 .s7 img {

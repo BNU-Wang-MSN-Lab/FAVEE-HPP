@@ -124,6 +124,11 @@ const stuClick = function (e) {
 .img {
     grid-area: 5 / 2 / 7 / 5;
     align-items: center;
+    height: 100%;
+}
+.img video {
+    width: 100%;
+    height: 100%;
 }
 
 .studyBox {

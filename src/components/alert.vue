@@ -32,13 +32,13 @@ onBeforeUnmount(() => {
 
 <style scoped>
 .tt {
-    width: 100vw;
-    height: 80%;
+    width: 100%;
+    height: 90%;
     margin: 2% 0;
     overflow: hidden scroll;
 }
 .bg {
-    width: 100vw;
+    width: 100%;
     height: 100vh;
     background: rgba(0, 0, 0, 0.1);
     position: absolute;
@@ -48,7 +48,7 @@ onBeforeUnmount(() => {
 }
 
 .box {
-    width: 100vw;
+    width: 100%;
     height: 90%;
     background: #fff;
     border-radius: 15px 15px 0 0;

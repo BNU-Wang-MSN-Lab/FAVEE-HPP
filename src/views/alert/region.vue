@@ -12,7 +12,7 @@ const counList = {
     "Germany": "Germany",
     "Japan": "Japan",
     "Israel": "Israel",
-    "Hong Kong": "HK",
+    "Hong Kong SAR": "HK",
     "France": "France",
     "Spain": "Spain",
     "Mexico": "Mexico",
@@ -46,12 +46,12 @@ const data = {
     },
     2: {
         texts: onstalled.indexOf(chooseCountry.value) >= 0 ? [
-            "The specific results of categorical model in [region]".replaceAll("[region]", chooseCountry.value),
-            "By clicking one point, you can see its corresponding relationship in FAVEE space, which is shown in the radar plot.",
+            "The specific results of categorical model in [region].".replaceAll("[region]", chooseCountry.value),
+            "Select your interesting relationship, and you can see its corresponding relationship in FAVEE space, which is shown in the radar plot.",
             '"Equality" was relatively ambiguous, more details can be seen in the published paper.'
         ] : [
-            "The specific results of categorical model in [region]".replaceAll("[region]", chooseCountry.value),
-            "By clicking one point, you can see its corresponding relationship in FAVEE space, which is shown in the radar plot."
+            "The specific results of categorical model in [region].".replaceAll("[region]", chooseCountry.value),
+            "Select your interesting relationship, and you can see its corresponding relationship in FAVEE space, which is shown in the radar plot."
         ]
     },
     3: {
@@ -143,7 +143,6 @@ onMounted(() => {
         <div class="title">{{ chooseCountry }}</div>
         <div class="button">
             <div @click="hrefClick('https://osf.io/nfkmj')">Download Data and Survey</div>
-            <div @click="hrefClick('./data/data.zip')">Download subset</div>
         </div>
         <div class="content">
             <p v-for="i in data[show].texts">{{ i }}</p>
@@ -195,7 +194,7 @@ onMounted(() => {
                 </div>
                 <div>
                     <div class="tBox">
-                        <div>Select your interested relationship</div>
+                        <div>Select your interesting relationship</div>
                         <div style="position: relative;">
                             <input type="text" id="page4Country" @input="input">
                             <ul>

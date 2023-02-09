@@ -57,7 +57,7 @@ onMounted(() => {
             </span>
         </div>
         <div class="s2">
-            <strong>The galaxy in the universe, relationships can also be clustered into different categories.</strong>
+            <strong>Like the galaxy in the universe, relationships can also be clustered into different categories.</strong>
             Although we
             found a cognitive space in Study 1, categorical thinking is pervasive when people manage relationships in
             daily life, such as arranging messages and phone contacts with labels, assigning seating for wedding guests
@@ -77,8 +77,8 @@ onMounted(() => {
             results in Study 1 (Model 6).
         </div>
         <div class="s5">
-            <div style="width: 600px; height: 600px; position: relative;">
-                <div style="width: 600px; height: 600px; background: url(./assets/fuckfeishu/Study2/study2_tasks1.png); background-size: contain; position: absolute; top: 0px; left: 0px;"></div>
+            <div style="display: block; width: 600px; height: 600px; position: relative;">
+                <div style="width: 600px; height: 600px; background: url(./assets/fuckfeishu/Study2/study2_tasks1.png) no-repeat; background-size: contain; position: absolute; top: 0px; left: 0px;"></div>
                 <div id="model1" style="width:450px;height:750px;overflow:hidden;position:absolute;top: 188px;left: 84px;transform-origin: left top;transform: scale(0.27, 0.28);"></div>
                 <div id="model2" style="width:450px;height:750px;overflow:hidden;position:absolute;top: 188px;left: 288px;transform-origin: left top;transform: scale(0.27, 0.28);"></div>
                 <div id="model3" style="width:450px;height:750px;overflow:hidden;position:absolute;top: 188px;left: 464px;transform-origin: left top;transform: scale(0.27, 0.28);"></div>
@@ -116,19 +116,19 @@ onMounted(() => {
 }
 
 .s2 {
-    grid-area: 3 / 2 / 4 / 5;
+    grid-area: 3 / 2 / 4 / 6;
 }
 
 .s3 {
-    grid-area: 4 / 2 / 5 / 5;
+    grid-area: 4 / 2 / 5 / 6;
 }
 
 .s4 {
-    grid-area: 5 / 2 / 6 / 5;
+    grid-area: 5 / 2 / 6 / 6;
 }
 
 .s5 {
-    grid-area: 3 / 5 / 6 / 10;
+    grid-area: 3 / 6 / 6 / 10;
 }
 .s5>div {
     display: inline-block;
