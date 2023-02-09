@@ -7,7 +7,7 @@
             Study 1 details
         </div>
         <div class="c2">
-            <img style="width: 100%;" src="/assets/fuckfeishu/Study1/Supplementary Fig. 1.jpg" alt="" />
+            <img style="width: 100%;" src="/assets/fuckfeishu/Study1/Supplementary-Fig.-1.jpg" alt="" />
         </div>
         <div class="c3">
             <span>

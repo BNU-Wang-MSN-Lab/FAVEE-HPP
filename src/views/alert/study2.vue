@@ -50,34 +50,35 @@
     grid-template-columns: 20px repeat(8, 1fr) 20px;
     grid-template-rows: 20px repeat(5, auto);
     text-align: left;
-    align-items: stretch;
+    align-items: center;
+    line-height: 1.9em;
 }
 .c1 {
-    grid-area: 2 / 2 / 3 / 10;
+    grid-area: 2 / 3 / 3 / 10;
     font-size: 32px;
     line-height: 40px;
     font-weight: 700;
 }
 .c2 {
-    grid-area: 3 / 2 / 5 / 4;
+    grid-area: 3 / 3 / 4 / 5;
 }
 .c3 {
-    grid-area: 3 / 4 / 5 / 6;
+    grid-area: 3 / 5 / 4 / 7;
 }
 .c4 {
-    grid-area: 5 / 2 / 6 / 6;
+    grid-area: 4 / 3 / 6 / 7;
 }
 .c5 {
-    grid-area: 3 / 6 / 4 / 10;
+    grid-area: 3 / 7 / 4 / 10;
 }
 .c6 {
     padding: 20px;
     margin: 20px 0;
     background-color: #E7E6E6;
     border-radius: 9px;
-    grid-area: 4 / 6 / 5 / 10;
+    grid-area: 4 / 7 / 5 / 10;
 }
 .c7 {
-    grid-area: 5 / 6 / 6 / 10;
+    grid-area: 5 / 7 / 6 / 10;
 }
 </style>

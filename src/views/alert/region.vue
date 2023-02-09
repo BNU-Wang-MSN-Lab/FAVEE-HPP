@@ -6,37 +6,50 @@ import { csvParse } from "d3-dsv";
 const counList = {
     "China": "CHN",
     "United States": "USA",
-    "": "UK",
-    "": "Australia",
-    "": "South_africa",
-    "": "Germany",
-    "": "Japan",
-    "": "Israel",
-    "": "HK(region)",
-    "": "France",
-    "": "Spain",
-    "": "Mexico",
-    "": "Chile",
-    "": "Portugal",
-    "": "Brazil",
-    "": "Russia",
-    "": "Egypt",
-    "": "Qatar",
-    "": "India"
+    "United Kingdom": "UK",
+    "Australia": "Australia",
+    "South Africa": "South_africa",
+    "Germany": "Germany",
+    "Japan": "Japan",
+    "Israel": "Israel",
+    "Hong Kong": "HK",
+    "France": "France",
+    "Spain": "Spain",
+    "Mexico": "Mexico",
+    "Chile": "Chile",
+    "Portugal": "Portugal",
+    "Brazil": "Brazil",
+    "Russian Federation": "Russia",
+    "Egypt": "Egypt",
+    "Qatar": "Qatar",
+    "India": "India"
 };
 
 const show = ref(2);
 const chooseCountry = inject("chooseCountry");
-
+const onstalled = [
+    "India",
+    "Russian Federation",
+    "Qatar",
+    "Egypt"
+]
 const data = {
     1: {
-        texts: [
+        texts: onstalled.indexOf(chooseCountry.value) >= 0 ? [
+            "The specific results of dimensional model in [region], including the loading PCA loading (figure a),".replaceAll("[region]", chooseCountry.value),
+            "relationship score within FAVEE space (figure b), and model comparison analysis (figure c).",
+            '"Equality" was relatively ambiguous, more details can be seen in the published paper.'
+        ] : [
             "The specific results of dimensional model in [region], including the loading PCA loading (figure a),".replaceAll("[region]", chooseCountry.value),
             "relationship score within FAVEE space (figure b), and model comparison analysis (figure c)."
         ]
     },
     2: {
-        texts: [
+        texts: onstalled.indexOf(chooseCountry.value) >= 0 ? [
+            "The specific results of categorical model in [region]".replaceAll("[region]", chooseCountry.value),
+            "By clicking one point, you can see its corresponding relationship in FAVEE space, which is shown in the radar plot.",
+            '"Equality" was relatively ambiguous, more details can be seen in the published paper.'
+        ] : [
             "The specific results of categorical model in [region]".replaceAll("[region]", chooseCountry.value),
             "By clicking one point, you can see its corresponding relationship in FAVEE space, which is shown in the radar plot."
         ]
@@ -130,6 +143,7 @@ onMounted(() => {
         <div class="title">{{ chooseCountry }}</div>
         <div class="button">
             <div @click="hrefClick('https://osf.io/nfkmj')">Download Data and Survey</div>
+            <div @click="hrefClick('./data/data.zip')">Download subset</div>
         </div>
         <div class="content">
             <p v-for="i in data[show].texts">{{ i }}</p>
@@ -144,7 +158,7 @@ onMounted(() => {
                     <img src="/assets/fuckfeishu/Study3/图例/dimensional_b.png" alt="" style="height: 60px;">
                     <div id="study3AlertImage1-1"></div>
                     <div id="study3AlertImage1-2"></div>
-                    <div style="width: 410px; text-align: left;">
+                    <div style="width: 410px; text-align: left; font-size: 10px; line-height: 1em; margin: 0 0 0 50px;">
                         Hover the mouse over the circle, you can see what relationship it is and its position in FAVEE
                         space.
                         Zoom in on an area with the mouse by framing it, and click on the enlarged area to restore it to
@@ -161,14 +175,24 @@ onMounted(() => {
                         <div style="width: 300px;">Bayesian Information Criterion(BIC)</div>
                     </div>
                     <div class="img3"
-                        :style='`background-image: url(./assets/fuckfeishu/Study3/${counList[chooseCountry]}/dimensional/\\ ${counList[chooseCountry]}_AdjR.png), url(./assets/fuckfeishu/Study3/${counList[chooseCountry]}/dimensional/\\ ${counList[chooseCountry]}_BIC.png);`'>
+                        :style='`background-image: url(./assets/fuckfeishu/Study3/${counList[chooseCountry]}/dimensional/${counList[chooseCountry]}_AdjR.png), url(./assets/fuckfeishu/Study3/${counList[chooseCountry]}/dimensional/${counList[chooseCountry]}_BIC.png);`'>
                     </div>
                     <div class="img3Legend"></div>
-                    <div style="position: absolute; top: 0px; left: calc(50% - 450px); font-size: 46px; font-weight: 700;">c</div>
+                    <div
+                        style="position: absolute; top: 0px; left: calc(50% - 450px); font-size: 46px; font-weight: 700;">
+                        c</div>
                 </div>
             </div>
             <div class="img2" v-show="show == 2">
-                <div id="img2AlertImage1"></div>
+                <div id="img2AlertImage1">
+                    <div style="font-size: 10px; line-height: 1em; text-align: left;">
+                        Hover the mouse over the circle,you can see what relationship it is.
+                    </div>
+                    <div style="font-size: 10px; line-height: 1em; text-align: left;">
+                        Zoom in on an area with the mouse by framing it,and double-click on the enlarged area to restore
+                        it to its original size.
+                    </div>
+                </div>
                 <div>
                     <div class="tBox">
                         <div>Select your interested relationship</div>
@@ -198,23 +222,29 @@ onMounted(() => {
             <div class="img3" v-show="show == 3">
                 <div style="grid-area: 1 / 2 / 2 / 4;">
                     <div>Age</div>
-                    <img alt=""
-                    :src="'./assets/fuckfeishu/Study3/' + counList[chooseCountry] + '/demographics/' + `${counList[chooseCountry]}_age.png`">
+                    <img style="width: 45%;" alt=""
+                        :src="'./assets/fuckfeishu/Study3/' + counList[chooseCountry] + '/demographics/' + `${counList[chooseCountry]}_age.png`">
+                    <img style="width: 25%;" alt=""
+                        src="/assets/fuckfeishu/Study3/图例/study3_details_demographics_age.png">
                 </div>
                 <div style="grid-area: 1 / 4 / 2 / 6;">
                     <div>Gender</div>
-                    <img alt=""
-                    :src="'./assets/fuckfeishu/Study3/' + counList[chooseCountry] + '/demographics/' + `${counList[chooseCountry]}_gender.png`">
+                    <img style="width: 45%;" alt=""
+                        :src="'./assets/fuckfeishu/Study3/' + counList[chooseCountry] + '/demographics/' + `${counList[chooseCountry]}_gender.png`">
+                    <img style="width: 25%;transform: scale(1.2);" alt=""
+                        src="/assets/fuckfeishu/Study3/图例/study3_details_demographics_gender.png">
                 </div>
                 <div style="grid-area: 1 / 6 / 2 / 8;">
                     <div>Education</div>
-                    <img alt=""
-                    :src="'./assets/fuckfeishu/Study3/' + counList[chooseCountry] + '/demographics/' + `${counList[chooseCountry]}_education.png`">
+                    <img style="width: 45%;" alt=""
+                        :src="'./assets/fuckfeishu/Study3/' + counList[chooseCountry] + '/demographics/' + `${counList[chooseCountry]}_education.png`">
+                    <img style="width: 25%;transform: scale(1.4);" alt=""
+                        src="/assets/fuckfeishu/Study3/图例/study3_details_demographics_education.png">
                 </div>
                 <div style="grid-area: 1 / 8 / 2 / 10;">
                     <div>Ethnicity</div>
-                    <img alt=""
-                    :src="'./assets/fuckfeishu/Study3/' + counList[chooseCountry] + '/demographics/' + `${counList[chooseCountry]}_ethnicity.png`">
+                    <img style="width: 100%;" alt=""
+                        :src="'./assets/fuckfeishu/Study3/' + counList[chooseCountry] + '/demographics/' + `${counList[chooseCountry]}_ethnicity.png`">
                 </div>
             </div>
         </div>
@@ -233,31 +263,23 @@ onMounted(() => {
 }
 
 .img2 .img2Box>div:nth-child(2) {
-    top: 94px;
-    left: 46px;
-    transform-origin: bottom;
-    transform: rotate(-57deg);
+    top: 85px;
+    left: 40px;
 }
 
 .img2 .img2Box>div:nth-child(3) {
-    top: 204px;
+    top: 210px;
     left: 65px;
-    transform-origin: bottom;
-    transform: rotate(39deg);
 }
 
 .img2 .img2Box>div:nth-child(4) {
-    top: 207px;
+    top: 210px;
     left: 185px;
-    transform-origin: bottom;
-    transform: rotate(-44deg);
 }
 
 .img2 .img2Box>div:nth-child(5) {
-    top: 96px;
-    left: 212px;
-    transform-origin: bottom;
-    transform: rotate(67deg);
+    top: 85px;
+    left: 220px;
 }
 
 .tBox {
@@ -401,7 +423,6 @@ onMounted(() => {
     display: inline-block;
     width: 450px;
     height: 1000px;
-    background-size: 533px 1000px;
     background-repeat: no-repeat;
     background-position: right;
     vertical-align: top;
@@ -438,7 +459,7 @@ onMounted(() => {
     width: 760px;
     height: 284px;
     background: #fff no-repeat;
-    background-position: -125px 0px, 310px 0px;
+    background-position: -131px 0px, 299px 0px;
     background-size: 450px 300px, 450px 300px;
     margin: 0 auto;
 }
@@ -466,9 +487,12 @@ onMounted(() => {
     grid-template-columns: 20px repeat(8, 1fr) 20px;
     margin: 40px 0 0 0;
 }
+
 .content>.img3 img {
-    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
 }
+
 .content>.img3>div>div {
     font-size: 26px;
     line-height: 30px;

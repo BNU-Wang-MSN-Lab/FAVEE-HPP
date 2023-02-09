@@ -9,7 +9,23 @@ const chooseCountry = inject("chooseCountry");
 
 const emits = defineEmits(["alertOpen"]);
 
-const countries = ["China", "United States"];
+const countries = [
+    "China",
+    'Hong Kong',
+    "United States",
+    "United Kingdom",
+    "Australia",
+    "South Africa",
+    "Germany",
+    "Japan",
+    "Israel",
+    "France",
+    "Russian Federation",
+    'Spain', 'Mexico', 'Chile',
+    'Portugal', 'Brazil',
+    'Egypt', 'Qatar',
+    'India'
+];
 
 const showCoun = ref([]);
 showCoun.value = countries;
@@ -32,7 +48,7 @@ const chosCoun = function (e) {
 }
 onMounted(() => {
     const svgWidth = (document.querySelector("#p6_1").clientWidth - 60) * (6 / 8);
-    const svgHeight = document.querySelector("html").clientHeight * 0.8;
+    const svgHeight = document.querySelector("html").clientHeight * 0.6;
     const padding = 10;
     const svg = d3.select(".svg")
         .append("svg")
@@ -62,7 +78,7 @@ onMounted(() => {
                 .data(e.features, d => d.properties.COUNTRY)
                 .join("path");
             mapPath.attr("d", pathGenerator)
-                .attr("stroke-width", 0.5)
+                .attr("stroke-width", 0.2)
                 .attr("stroke", "#fff")
                 .attr("fill", d => countries.indexOf(d.properties.COUNTRY) >= 0 ? (d.properties.COUNTRY == chooseCountry.value ? "#ff00ff" : "#000000") : "#e3e3e3")
                 .on("click", d => {

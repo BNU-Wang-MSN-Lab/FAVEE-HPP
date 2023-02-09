@@ -53,7 +53,7 @@ const hrefClick = (e) => {
 div.box {
     margin: 0 auto;
     background-repeat: no-repeat !important;
-    background-image: linear-gradient(90deg, white, transparent), url("./assets/imgs/拼图@2x.png") !important;
+    background-image: linear-gradient(90deg, white, transparent), url("/assets/imgs/拼图@2x.png") !important;
     background-size: 35vw 100vh !important;
     background-position: right !important;
     position: relative;
@@ -94,12 +94,12 @@ div.box {
 }
 
 .logo>div:nth-child(1) {
-    background: url(./assets/icon/Beijing_Normal_University_logo.svg.png) no-repeat;
+    background: url(/assets/icon/Beijing_Normal_University_logo.svg.png) no-repeat;
     background-size: contain;
 }
 
 .logo>div:nth-child(2) {
-    background: url(./assets/icon/temple-logo-t-box.svg) no-repeat;
+    background: url(/assets/icon/temple-logo-t-box.svg) no-repeat;
     background-size: contain;
 }
 </style>

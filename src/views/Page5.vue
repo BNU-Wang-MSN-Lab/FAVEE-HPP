@@ -70,7 +70,7 @@ onMounted(() => {
             </span>
         </div>
         <div class="s2">
-            <div>
+            <div style="font-size: 24px; line-height: 1.5em;">
                 <strong>{{ choosedWord }}</strong>{{ showWord }}
             </div>
         </div>
@@ -116,6 +116,7 @@ onMounted(() => {
             <div>
                 <img src="/assets/fuckfeishu/Study3/图例/study3_1.png" alt="" />
                 <img src="/assets/fuckfeishu/Study3/图例/study3_2.png" alt="" />
+                <img src="/assets/fuckfeishu/Study3/图例/study3_3.png" alt="" />
             </div>
             <div>Hover the mouse over the circle, you can see what relationship it is and its position in FAVEE space.
             </div>
@@ -233,29 +234,21 @@ onMounted(() => {
 #p5_radar>div:nth-child(2) {
     top: 133px;
     left: 46px;
-    transform-origin: bottom;
-    transform: rotate(-57deg);
 }
 
 #p5_radar>div:nth-child(3) {
-    top: 293px;
+    top: 302px;
     left: 83px;
-    transform-origin: bottom;
-    transform: rotate(39deg);
 }
 
 #p5_radar>div:nth-child(4) {
-    top: 294px;
+    top: 302px;
     left: 264px;
-    transform-origin: bottom;
-    transform: rotate(-44deg);
 }
 
 #p5_radar>div:nth-child(5) {
     top: 133px;
     left: 292px;
-    transform-origin: bottom;
-    transform: rotate(67deg);
 }
 
 .s5 {
@@ -288,7 +281,7 @@ onMounted(() => {
     width: 120px;
     position: absolute;
     top: 30px;
-    right: 0;
+    left: 521px;
 }
 
 .s7 img {

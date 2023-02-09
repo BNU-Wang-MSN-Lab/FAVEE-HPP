@@ -1,19 +1,19 @@
 {
   "data": [
     {
-      "x": [1.41788685246988, 1.51011157609647, 1.63649896879203, 0.978706660547791, 1.35587381914881, 1.48605936824959, 1.58649676650197, 0.263454558333036, 1.43481128535077, 1.46453609431416, 1.69887075654644, 1.62456930641063, 0.872807397381374, 1.43363793633047, 1.26252663277109, 1.29903203629125, 1.25921692975981, 1.47142545589015, 1.63454570428257, 1.08268831601119, 0.270389291218079, 0.603116562565646, 2.01784905068403, 2.00224561615488, 1.0166219083999, 0.445681582290734, 0.691263607440629, 1.45433058136873, 1.74055828739579, 0.66637850934912, 1.56785602354416, 1.30984870936372, 1.64766242991677, 1.50641891545621, 0.897621927420901, 1.6406607126873, 1.87793204912867, 0.75544584815987, 1.85904641020293],
-      "y": [2.33937804048615, -0.130938901869304, 3.40257428189083, 2.58303868234121, 3.22664939111533, 3.09830478849662, 2.37155309671815, 2.31429334586643, -0.843226598354598, 2.13778828216263, -0.472243260840139, 2.18457607529534, -0.118616084154819, 3.40479110031846, 3.28493557694379, 2.40030039769437, 3.29910732051843, 3.41045538728997, 3.5068630987446, -0.937468813539213, 2.18684248211609, 2.28653000718993, 2.31435826897716, 2.47815565099224, -0.746787369879023, 1.34630322546213, 1.68213244829086, 1.98422701831857, 2.42499730573437, 1.59303470828332, -0.854804442766648, -1.12238279899685, 2.03363874929945, 1.7836455720413, -0.170204416084283, 2.21764419892365, 2.47347444426014, 1.09357379884294, 3.15504702784689],
-      "text": ["Dim1:  1.41788685<br />Dim2:  2.33937804<br />relation: Divorced spouses<br />Divorced spouses<br />cluster: Hostile", "Dim1:  1.51011158<br />Dim2: -0.13093890<br />relation: A person and their in laws<br />A person and their in laws<br />cluster: Hostile", "Dim1:  1.63649897<br />Dim2:  3.40257428<br />relation: Guard-Prisoner<br />Guard-Prisoner<br />cluster: Hostile", "Dim1:  0.97870666<br />Dim2:  2.58303868<br />relation: Opposing negotiators<br />Opposing negotiators<br />cluster: Hostile", "Dim1:  1.35587382<br />Dim2:  3.22664939<br />relation: Political opponents<br />Political opponents<br />cluster: Hostile", "Dim1:  1.48605937<br />Dim2:  3.09830479<br />relation: Business rivals<br />Business rivals<br />cluster: Hostile", "Dim1:  1.58649677<br />Dim2:  2.37155310<br />relation: Enemies<br />Enemies<br />cluster: Hostile", "Dim1:  0.26345456<br />Dim2:  2.31429335<br />relation: Master-Servant<br />Master-Servant<br />cluster: Hostile", "Dim1:  1.43481129<br />Dim2: -0.84322660<br />relation: Casual acquaintances<br />Casual acquaintances<br />cluster: Hostile", "Dim1:  1.46453609<br />Dim2:  2.13778828<br />relation: Man Wife-Man Mistress<br />Man Wife-Man Mistress<br />cluster: Hostile", "Dim1:  1.69887076<br />Dim2: -0.47224326<br />relation: Distant relatives<br />Distant relatives<br />cluster: Hostile", "Dim1:  1.62456931<br />Dim2:  2.18457608<br />relation: Victim-Criminal<br />Victim-Criminal<br />cluster: Hostile", "Dim1:  0.87280740<br />Dim2: -0.11861608<br />relation: Victim-Witness<br />Victim-Witness<br />cluster: Hostile", "Dim1:  1.43363794<br />Dim2:  3.40479110<br />relation: Criminal-Police officer<br />Criminal-Police officer<br />cluster: Hostile", "Dim1:  1.26252663<br />Dim2:  3.28493558<br />relation: Criminal-Prosecutor<br />Criminal-Prosecutor<br />cluster: Hostile", "Dim1:  1.29903204<br />Dim2:  2.40030040<br />relation: Criminal-Hostage<br />Criminal-Hostage<br />cluster: Hostile", "Dim1:  1.25921693<br />Dim2:  3.29910732<br />relation: Defendant-Plaintiff<br />Defendant-Plaintiff<br />cluster: Hostile", "Dim1:  1.47142546<br />Dim2:  3.41045539<br />relation: Police officer-Offender<br />Police officer-Offender<br />cluster: Hostile", "Dim1:  1.63454570<br />Dim2:  3.50686310<br />relation: Parole officer-Parolee<br />Parole officer-Parolee<br />cluster: Hostile", "Dim1:  1.08268832<br />Dim2: -0.93746881<br />relation: Religious followers<br />Religious followers<br />cluster: Hostile", "Dim1:  0.27038929<br />Dim2:  2.18684248<br />relation: Prostitute-Customer<br />Prostitute-Customer<br />cluster: Hostile", "Dim1:  0.60311656<br />Dim2:  2.28653001<br />relation: Slave-Master<br />Slave-Master<br />cluster: Hostile", "Dim1:  2.01784905<br />Dim2:  2.31435827<br />relation: Sports rivals<br />Sports rivals<br />cluster: Hostile", "Dim1:  2.00224562<br />Dim2:  2.47815565<br />relation: Romantic rivals<br />Romantic rivals<br />cluster: Hostile", "Dim1:  1.01662191<br />Dim2: -0.74678737<br />relation: Classmates<br />Classmates<br />cluster: Hostile", "Dim1:  0.44568158<br />Dim2:  1.34630323<br />relation: Television host-Guest<br />Television host-Guest<br />cluster: Hostile", "Dim1:  0.69126361<br />Dim2:  1.68213245<br />relation: Celebrity-Fans<br />Celebrity-Fans<br />cluster: Hostile", "Dim1:  1.45433058<br />Dim2:  1.98422702<br />relation: Celebrity-Haters<br />Celebrity-Haters<br />cluster: Hostile", "Dim1:  1.74055829<br />Dim2:  2.42499731<br />relation: Bully-Victim<br />Bully-Victim<br />cluster: Hostile", "Dim1:  0.66637851<br />Dim2:  1.59303471<br />relation: A person and their social media follower<br />A person and their social media follower<br />cluster: Hostile", "Dim1:  1.56785602<br />Dim2: -0.85480444<br />relation: Pen-friends<br />Pen-friends<br />cluster: Hostile", "Dim1:  1.30984871<br />Dim2: -1.12238280<br />relation: Friends with benefits<br />Friends with benefits<br />cluster: Hostile", "Dim1:  1.64766243<br />Dim2:  2.03363875<br />relation: Ex-lovers<br />Ex-lovers<br />cluster: Hostile", "Dim1:  1.50641892<br />Dim2:  1.78364557<br />relation: Strangers<br />Strangers<br />cluster: Hostile", "Dim1:  0.89762193<br />Dim2: -0.17020442<br />relation: Neighbors<br />Neighbors<br />cluster: Hostile", "Dim1:  1.64066071<br />Dim2:  2.21764420<br />relation: Fans of opposing sports teams<br />Fans of opposing sports teams<br />cluster: Hostile", "Dim1:  1.87793205<br />Dim2:  2.47347444<br />relation: Frenemies<br />Frenemies<br />cluster: Hostile", "Dim1:  0.75544585<br />Dim2:  1.09357380<br />relation: Alumni<br />Alumni<br />cluster: Hostile", "Dim1:  1.85904641<br />Dim2:  3.15504703<br />relation: Competitors in sports<br />Competitors in sports<br />cluster: Hostile"],
+      "x": [2.86931139362353, 1.25852304235198, 2.1675724414245, 1.51104183514031, 2.14055599244533, 2.29394548944919, 2.91091868756427, 0.526111377511269, 0.823132844497815, 3.08923264073158, 1.12644060449184, 3.01009313458199, 0.605683868538538, 2.03203392753103, 2.05258429459525, 2.88499839691455, 2.11391985867933, 1.90328764130223, 1.9963882930922, 0.416813494619757, 0.278125081403415, 0.644051078031066, 3.00008106258497, 2.82252519358619, 0.502662549719719, 0.43800489173353, 0.613735637313659, 3.25811056302911, 2.90429492660222, 0.796737841578391, 0.935829728771509, 0.698413038047434, 3.21587769930627, 3.17786735184598, 0.569815251133005, 3.11617240157062, 3.03189236628509, 0.7116295840716, 2.51995838711566],
+      "y": [2.17351298797614, -0.485067485295141, 2.27459438235934, 2.06172887912592, 2.05299066410668, 1.96778282954572, 2.32456963919315, 2.62786909730743, -0.87086397606638, 2.32677213047093, -0.802008902954834, 2.47241600755927, -0.213277748321753, 2.16642360104978, 2.08966897217308, 2.45477713034595, 2.0003239725458, 2.04367529835134, 2.18212785280206, -0.759674310362486, 2.88031519180203, 2.76389125326176, 2.13678454297832, 1.87798842063003, -0.605451365365631, 1.74976279928595, 2.00539198572269, 2.40296356298158, 2.45623088348799, 1.92553645361396, -0.844550892559696, -1.03081131467501, 2.03725942505804, 2.12331562841907, -0.306806004653345, 2.21609514390039, 1.99711123798685, 1.28858043382923, 2.24172211298898],
+      "text": ["Divorced spouses", "A person and their in laws", "Guard-Prisoner", "Opposing negotiators", "Political opponents", "Business rivals", "Enemies", "Master-Servant", "Casual acquaintances", "Man Wife-Man Mistress", "Distant relatives", "Victim-Criminal", "Victim-Witness", "Criminal-Police officer", "Criminal-Prosecutor", "Criminal-Hostage", "Defendant-Plaintiff", "Police officer-Offender", "Parole officer-Parolee", "Religious followers", "Prostitute-Customer", "Slave-Master", "Sports rivals", "Romantic rivals", "Classmates", "Television host-Guest", "Celebrity-Fans", "Celebrity-Haters", "Bully-Victim", "A person and their social media follower", "Pen-friends", "Friends with benefits", "Ex-lovers", "Strangers", "Neighbors", "Fans of opposing sports teams", "Frenemies", "Alumni", "Competitors in sports"],
       "type": "scatter",
       "mode": "markers",
       "marker": {
         "autocolorscale": false,
         "color": "rgba(190,190,190,1)",
         "opacity": 0.8,
-        "size": 11.3385826771654,
+        "size": 7.55905511811024,
         "symbol": "circle",
         "line": {
-          "width": 3.77952755905512,
+          "width": 1.88976377952756,
           "color": "rgba(36,102,162,1)"
         }
       },
@@ -27,19 +27,19 @@
       "frame": null
     },
     {
-      "x": [-0.376252539198729, -0.36792925115815, 0.663411124481828, 0.67963276750165, -0.541385469524415, 1.64012434904525, 0.727486163478486, 1.61575485985986, -0.168413032264833, -0.142190978519165, -0.348743457349911, -0.647752237820926, -0.179148615216529, -0.290256821834498, 1.81879049589681, 0.724383501683792, 0.692141336995101, 0.867829985435802, 1.05740676362814, 0.960957576121908, 0.882870772950597, 0.816494675159658, 1.82293076254369, -0.793672256235334, -0.511912272844654, 1.26326588342494, 1.16336601072999, 1.05099151103491, 0.930327528432964, 0.630487850608883, 0.606942786938571, 0.593457336428069, 1.52613689364638, 0.77634357980832, 0.750419500454703, 0.716220645710572, 0.711496449204957, 0.268227008981818, 0.820820823230791, 0.304504815732495, 0.252216729905697, 1.02630370731651, 0.0526833578705981, -0.0952478296460892, 0.601914548665533, 0.747290448025482, 0.479721702759493, 0.547972844952236, 1.32656453060674, 0.371527107427431, 0.993181043950969, -0.108032096927768],
-      "y": [-3.07406834274934, -3.03689959806303, -4.01900663578702, -3.99477364441393, -3.06175070391711, -0.481412405953597, -3.85993612158077, -0.632824974018275, -3.04309382962399, -2.8939523718758, -2.83455406662202, -2.82661731093791, -2.3686142608775, -2.52928821010134, -0.51579902582955, -4.0437009668302, -1.05952706599057, -2.68404701459438, -2.36613212494623, -2.8272700187913, -2.48772203373028, -2.39943886123526, -0.80806612842194, -1.88865763309019, -2.44307227392375, -0.928135297881998, -1.25668572697395, -1.20904934732763, -2.60434638624939, -2.75844879845003, -2.613265988022, -4.11127396933741, -1.01751861775045, -2.70806935001684, -3.77159641984283, -3.76160234018387, -3.78874279337001, -1.59744942947419, -1.30653941672322, -2.88894205486366, -2.79030169001897, -1.51141581739333, -2.89765472217668, -3.11900163960413, -1.98121147806276, -3.99552713391976, -3.56095767584177, -1.76122654966801, -1.2045697865146, -3.42506667314416, -1.72626377470535, -1.63192508953414],
-      "text": ["Dim1: -0.37625254<br />Dim2: -3.07406834<br />relation: Parent-Child<br />Parent-Child<br />cluster: Private", "Dim1: -0.36792925<br />Dim2: -3.03689960<br />relation: Parent-Teenager<br />Parent-Teenager<br />cluster: Private", "Dim1:  0.66341112<br />Dim2: -4.01900664<br />relation: Wife-Husband<br />Wife-Husband<br />cluster: Private", "Dim1:  0.67963277<br />Dim2: -3.99477364<br />relation: Fiance-Fiancee<br />Fiance-Fiancee<br />cluster: Private", "Dim1: -0.54138547<br />Dim2: -3.06175070<br />relation: Siblings<br />Siblings<br />cluster: Private", "Dim1:  1.64012435<br />Dim2: -0.48141241<br />relation: Cousins<br />Cousins<br />cluster: Private", "Dim1:  0.72748616<br />Dim2: -3.85993612<br />relation: Close friends<br />Close friends<br />cluster: Private", "Dim1:  1.61575486<br />Dim2: -0.63282497<br />relation: Second cousins<br />Second cousins<br />cluster: Private", "Dim1: -0.16841303<br />Dim2: -3.04309383<br />relation: Parent-Infant<br />Parent-Infant<br />cluster: Private", "Dim1: -0.14219098<br />Dim2: -2.89395237<br />relation: Grandparent-Grandchild<br />Grandparent-Grandchild<br />cluster: Private", "Dim1: -0.34874346<br />Dim2: -2.83455407<br />relation: Step-parent-Step-child<br />Step-parent-Step-child<br />cluster: Private", "Dim1: -0.64775224<br />Dim2: -2.82661731<br />relation: Foster-parent-Foster-child<br />Foster-parent-Foster-child<br />cluster: Private", "Dim1: -0.17914862<br />Dim2: -2.36861426<br />relation: Godparent-Godchild<br />Godparent-Godchild<br />cluster: Private", "Dim1: -0.29025682<br />Dim2: -2.52928821<br />relation: Step-grandparent-Step-grandchild<br />Step-grandparent-Step-grandchild<br />cluster: Private", "Dim1:  1.81879050<br />Dim2: -0.51579903<br />relation: Ancestor-Descendant<br />Ancestor-Descendant<br />cluster: Private", "Dim1:  0.72438350<br />Dim2: -4.04370097<br />relation: Bride-Groom<br />Bride-Groom<br />cluster: Private", "Dim1:  0.69214134<br />Dim2: -1.05952707<br />relation: Man-His Mistress<br />Man-His Mistress<br />cluster: Private", "Dim1:  0.86782999<br />Dim2: -2.68404701<br />relation: Brother-Sister<br />Brother-Sister<br />cluster: Private", "Dim1:  1.05740676<br />Dim2: -2.36613212<br />relation: Step siblings<br />Step siblings<br />cluster: Private", "Dim1:  0.96095758<br />Dim2: -2.82727002<br />relation: Close relatives<br />Close relatives<br />cluster: Private", "Dim1:  0.88287077<br />Dim2: -2.48772203<br />relation: Twins<br />Twins<br />cluster: Private", "Dim1:  0.81649468<br />Dim2: -2.39943886<br />relation: A person and their family friends<br />A person and their family friends<br />cluster: Private", "Dim1:  1.82293076<br />Dim2: -0.80806613<br />relation: A person and their deceased spouse<br />A person and their deceased spouse<br />cluster: Private", "Dim1: -0.79367226<br />Dim2: -1.88865763<br />relation: Babysitter-Infant<br />Babysitter-Infant<br />cluster: Private", "Dim1: -0.51191227<br />Dim2: -2.44307227<br />relation: Man-God<br />Man-God<br />cluster: Private", "Dim1:  1.26326588<br />Dim2: -0.92813530<br />relation: Peers<br />Peers<br />cluster: Private", "Dim1:  1.16336601<br />Dim2: -1.25668573<br />relation: Roommates<br />Roommates<br />cluster: Private", "Dim1:  1.05099151<br />Dim2: -1.20904935<br />relation: Sorority sisters<br />Sorority sisters<br />cluster: Private", "Dim1:  0.93032753<br />Dim2: -2.60434639<br />relation: Fraternity brothers<br />Fraternity brothers<br />cluster: Private", "Dim1:  0.63048785<br />Dim2: -2.75844880<br />relation: Bride-Bridesmaid<br />Bride-Bridesmaid<br />cluster: Private", "Dim1:  0.60694279<br />Dim2: -2.61326599<br />relation: Groom-Groomsman<br />Groom-Groomsman<br />cluster: Private", "Dim1:  0.59345734<br />Dim2: -4.11127397<br />relation: Friends<br />Friends<br />cluster: Private", "Dim1:  1.52613689<br />Dim2: -1.01751862<br />relation: Facebook friends<br />Facebook friends<br />cluster: Private", "Dim1:  0.77634358<br />Dim2: -2.70806935<br />relation: Childhood friends<br />Childhood friends<br />cluster: Private", "Dim1:  0.75041950<br />Dim2: -3.77159642<br />relation: Romantic lovers<br />Romantic lovers<br />cluster: Private", "Dim1:  0.71622065<br />Dim2: -3.76160234<br />relation: Life partners<br />Life partners<br />cluster: Private", "Dim1:  0.71149645<br />Dim2: -3.78874279<br />relation: Soul mates<br />Soul mates<br />cluster: Private", "Dim1:  0.26822701<br />Dim2: -1.59744943<br />relation: Church members<br />Church members<br />cluster: Private", "Dim1:  0.82082082<br />Dim2: -1.30653942<br />relation: Fans of the same sports team<br />Fans of the same sports team<br />cluster: Private", "Dim1:  0.30450482<br />Dim2: -2.88894205<br />relation: Aunt-Niece(Nephew)<br />Aunt-Niece(Nephew)<br />cluster: Private", "Dim1:  0.25221673<br />Dim2: -2.79030169<br />relation: Uncle-Niece(Nephew)<br />Uncle-Niece(Nephew)<br />cluster: Private", "Dim1:  1.02630371<br />Dim2: -1.51141582<br />relation: Half siblings<br />Half siblings<br />cluster: Private", "Dim1:  0.05268336<br />Dim2: -2.89765472<br />relation: Adoptive parents-Adopted kids<br />Adoptive parents-Adopted kids<br />cluster: Private", "Dim1: -0.09524783<br />Dim2: -3.11900164<br />relation: Mother-Infant<br />Mother-Infant<br />cluster: Private", "Dim1:  0.60191455<br />Dim2: -1.98121148<br />relation: Confidants<br />Confidants<br />cluster: Private", "Dim1:  0.74729045<br />Dim2: -3.99552713<br />relation: A person and their significant other<br />A person and their significant other<br />cluster: Private", "Dim1:  0.47972170<br />Dim2: -3.56095768<br />relation: Companions<br />Companions<br />cluster: Private", "Dim1:  0.54797284<br />Dim2: -1.76122655<br />relation: Playmates<br />Playmates<br />cluster: Private", "Dim1:  1.32656453<br />Dim2: -1.20456979<br />relation: A person and their crush<br />A person and their crush<br />cluster: Private", "Dim1:  0.37152711<br />Dim2: -3.42506667<br />relation: Cohabitants<br />Cohabitants<br />cluster: Private", "Dim1:  0.99318104<br />Dim2: -1.72626377<br />relation: Long-distance lovers<br />Long-distance lovers<br />cluster: Private", "Dim1: -0.10803210<br />Dim2: -1.63192509<br />relation: Brothers in-arms<br />Brothers in-arms<br />cluster: Private"],
+      "x": [0.351267549629612, 0.408124814377371, -0.0595443572011654, -0.326236882834578, 0.476673277039502, 1.10490761565107, -0.274166760818758, 1.1441954698413, 0.312246799783006, 0.420207030588693, 0.357403387379437, 0.552021425994916, 0.545360081735691, 0.504954707563598, 1.20964896829573, -0.254782218702474, 0.189534025558918, -0.629328322455302, -0.696659731979518, -0.554965543961337, -0.528666988126205, -0.47819429175822, 1.23944922914786, -1.26444207217591, 0.413181786330759, 0.40552611775452, 0.275173337470408, 0.345556841549363, -0.425568787796414, -0.611309870533736, -0.389865942739876, -0.435313740949957, 0.623912118049928, -0.630309377421986, -0.0829053979727066, 0.0570156058173761, -0.0523835779122916, -0.610729325982827, -0.270696112164422, -0.209186014353061, -0.0653953390959296, 0.16298213563272, -0.0422912225107974, 0.192929149977715, -0.49693381607287, -0.0530801196103301, 0.155045987289349, -0.573425715546958, 0.433455127444466, 0.309122343166602, 0.117543489642724, -0.827047312542892],
+      "y": [-3.64146012739541, -3.60980319785489, -4.37701876915349, -4.41798926453454, -3.56205373105497, -0.784348051582832, -4.54848001887701, -0.874825320909459, -3.68489648398906, -3.38513398991586, -3.18422512893421, -3.28641013312421, -2.77449442033715, -3.02787136147357, -0.929647055746256, -4.52072800681679, -1.22914745314088, -2.96184542797628, -2.85968214581018, -3.03761579767473, -2.71931346639608, -2.58568026973476, -0.960235314919304, -0.802230459248181, -3.01558299666644, -0.794906349429249, -1.08133722923515, -1.00956025386413, -2.65346621995796, -2.86266446014514, -2.80004862586707, -4.33027314287061, -0.901295907540815, -2.90689642574876, -4.66179956817513, -4.52092878366818, -4.66163611930792, -1.25225363639455, -1.24243792808274, -2.99045308276989, -3.00905402942441, -1.31115696226646, -3.14776415344517, -3.55940869331922, -1.8558123374843, -4.54481526301475, -4.54201725257831, -1.49872598641607, -1.13604071698659, -4.30729760295695, -1.53148978980333, -1.17344044647249],
+      "text": ["Parent-Child", "Parent-Teenager", "Wife-Husband", "Fiance-Fiancee", "Siblings", "Cousins", "Close friends", "Second cousins", "Parent-Infant", "Grandparent-Grandchild", "Step-parent-Step-child", "Foster-parent-Foster-child", "Godparent-Godchild", "Step-grandparent-Step-grandchild", "Ancestor-Descendant", "Bride-Groom", "Man-His Mistress", "Brother-Sister", "Step siblings", "Close relatives", "Twins", "A person and their family friends", "A person and their deceased spouse", "Babysitter-Infant", "Man-God", "Peers", "Roommates", "Sorority sisters", "Fraternity brothers", "Bride-Bridesmaid", "Groom-Groomsman", "Friends", "Facebook friends", "Childhood friends", "Romantic lovers", "Life partners", "Soul mates", "Church members", "Fans of the same sports team", "Aunt-Niece(Nephew)", "Uncle-Niece(Nephew)", "Half siblings", "Adoptive parents-Adopted kids", "Mother-Infant", "Confidants", "A person and their significant other", "Companions", "Playmates", "A person and their crush", "Cohabitants", "Long-distance lovers", "Brothers in-arms"],
       "type": "scatter",
       "mode": "markers",
       "marker": {
         "autocolorscale": false,
         "color": "rgba(190,190,190,1)",
         "opacity": 0.8,
-        "size": 11.3385826771654,
+        "size": 7.55905511811024,
         "symbol": "circle",
         "line": {
-          "width": 3.77952755905512,
+          "width": 1.88976377952756,
           "color": "rgba(193,18,33,1)"
         }
       },
@@ -53,19 +53,19 @@
       "frame": null
     },
     {
-      "x": [-1.52837805326885, -1.00485805041036, -1.96960158858149, -2.22693179491891, -0.660575797237925, -0.888884928471004, -1.53506251372093, -1.57390560939967, -1.06581864266249, -1.92718353727695, -2.05436007213703, -1.96909527646551, -1.79505352619788, -2.01999075386474, -2.05267049307202, -2.06924559814947, -2.14749188705568, -0.984977407839308, -1.77010570461843, -1.03543041529804, -1.4866108303832, 0.078093954139411, 0.102086214480392, -0.953882064244466, -0.547553437437075, -0.956488411292132, -0.900619398558701, -2.26962578487157, -2.06660132037563, -2.31058018817321, -1.13154080499397, -1.59700434573534, -1.36137800336666, -1.2524823391233, -0.428970311702582, -0.649847146060384, -0.31968061724206, -1.61671514525388, -0.78480633620284, -0.696173443403278, -0.35735430704115, -0.320381219584421, -1.9841033535952, -1.60748516177743, -0.850355323013239, 0.251342266200215, -1.78006719156209, -2.37643974046509, -2.06749889833846, -1.14239527651957, -0.112049935150529, -0.250219029935059, -1.35743053696673, -1.58937543441215, -0.8690121730621, 0.26023100992562, -1.72927381832338, -1.72931479270134, -1.73544353855463, -0.427018551002041, -1.15904700022931, -1.1789443463099, 1.13210323766058, -1.56017618127734, -0.245657597750519, -0.585686981186035, -1.17573119855063, 0.320439117650941],
-      "y": [0.181116363587382, 1.44230491675217, -0.0289082115050525, -0.183998489679736, 2.19528278376763, -0.562419261672406, -0.272313062993218, -0.254861726376626, -0.708857262172311, 1.44954849527622, 1.25330857507498, 1.3480511563995, 1.35428097751262, 1.24587293919505, 0.408143202970384, 0.873968117185616, 0.852537386076586, 2.09601987278023, 1.26796322151918, 2.17437368831265, 1.0111192602363, 1.8591937759795, 0.601475612650963, 2.18856995203228, 2.39471602820336, 2.49602430532183, 2.33812132984409, -0.0609649015365807, 0.202819233074251, -0.107755002425628, 1.26291857985635, -0.39131089129394, -0.490414169079972, -0.551054891689382, 1.08159893683795, 0.551980159661923, 0.8059211603888, -0.0724843347693886, -0.0151487781385731, 2.07876675629231, 0.966554728692646, 0.915349605577732, 1.5075555617968, 1.46322321917562, 2.18546754892602, 1.92402686248754, 0.869217398599651, -0.160990816819487, 1.5787587040285, -0.414947577252738, 1.40534644640395, 1.06651684146903, 0.210383894076513, 0.133954542015821, 1.40781805454671, 0.671671134342117, -0.159807695123712, 0.267747009591591, 0.712698357040553, 1.47612373546589, 2.09830535363054, 2.01091548166713, -0.559569186079035, -0.092289706065886, 2.04468980945612, 0.703086290279648, 0.733634737469459, 1.20452636612387],
-      "text": ["Dim1: -1.52837805<br />Dim2:  0.18111636<br />relation: Employer-Employee<br />Employer-Employee<br />cluster: Public", "Dim1: -1.00485805<br />Dim2:  1.44230492<br />relation: Interviewer-Job applicant<br />Interviewer-Job applicant<br />cluster: Public", "Dim1: -1.96960159<br />Dim2: -0.02890821<br />relation: Nurse-Patient<br />Nurse-Patient<br />cluster: Public", "Dim1: -2.22693179<br />Dim2: -0.18399849<br />relation: Therapist-Patient<br />Therapist-Patient<br />cluster: Public", "Dim1: -0.66057580<br />Dim2:  2.19528278<br />relation: Salesperson-Customer<br />Salesperson-Customer<br />cluster: Public", "Dim1: -0.88888493<br />Dim2: -0.56241926<br />relation: Business partners<br />Business partners<br />cluster: Public", "Dim1: -1.53506251<br />Dim2: -0.27231306<br />relation: Teacher-Student<br />Teacher-Student<br />cluster: Public", "Dim1: -1.57390561<br />Dim2: -0.25486173<br />relation: Professor-Graduate student<br />Professor-Graduate student<br />cluster: Public", "Dim1: -1.06581864<br />Dim2: -0.70885726<br />relation: Teammates in sports<br />Teammates in sports<br />cluster: Public", "Dim1: -1.92718354<br />Dim2:  1.44954850<br />relation: Manager-Staff<br />Manager-Staff<br />cluster: Public", "Dim1: -2.05436007<br />Dim2:  1.25330858<br />relation: Foreman-Laborer<br />Foreman-Laborer<br />cluster: Public", "Dim1: -1.96909528<br />Dim2:  1.34805116<br />relation: Owner-Manager<br />Owner-Manager<br />cluster: Public", "Dim1: -1.79505353<br />Dim2:  1.35428098<br />relation: Union leader-union member<br />Union leader-union member<br />cluster: Public", "Dim1: -2.01999075<br />Dim2:  1.24587294<br />relation: Manager-Assistant<br />Manager-Assistant<br />cluster: Public", "Dim1: -2.05267049<br />Dim2:  0.40814320<br />relation: Chief-Deputy<br />Chief-Deputy<br />cluster: Public", "Dim1: -2.06924560<br />Dim2:  0.87396812<br />relation: Supervisor-Subordinate<br />Supervisor-Subordinate<br />cluster: Public", "Dim1: -2.14749189<br />Dim2:  0.85253739<br />relation: Boss-Secretary<br />Boss-Secretary<br />cluster: Public", "Dim1: -0.98497741<br />Dim2:  2.09601987<br />relation: Entrepreneur-Investor<br />Entrepreneur-Investor<br />cluster: Public", "Dim1: -1.77010570<br />Dim2:  1.26796322<br />relation: Intern-Employee<br />Intern-Employee<br />cluster: Public", "Dim1: -1.03543042<br />Dim2:  2.17437369<br />relation: Lawyer-Client<br />Lawyer-Client<br />cluster: Public", "Dim1: -1.48661083<br />Dim2:  1.01111926<br />relation: Judge-Lawyer<br />Judge-Lawyer<br />cluster: Public", "Dim1:  0.07809395<br />Dim2:  1.85919378<br />relation: Drug dealer-Addict<br />Drug dealer-Addict<br />cluster: Public", "Dim1:  0.10208621<br />Dim2:  0.60147561<br />relation: Police officer-Civilian<br />Police officer-Civilian<br />cluster: Public", "Dim1: -0.95388206<br />Dim2:  2.18856995<br />relation: Consultant-Client<br />Consultant-Client<br />cluster: Public", "Dim1: -0.54755344<br />Dim2:  2.39471603<br />relation: Chef-Customer<br />Chef-Customer<br />cluster: Public", "Dim1: -0.95648841<br />Dim2:  2.49602431<br />relation: Customer-Server<br />Customer-Server<br />cluster: Public", "Dim1: -0.90061940<br />Dim2:  2.33812133<br />relation: Customer-Businessman<br />Customer-Businessman<br />cluster: Public", "Dim1: -2.26962578<br />Dim2: -0.06096490<br />relation: Doctor-Patient<br />Doctor-Patient<br />cluster: Public", "Dim1: -2.06660132<br />Dim2:  0.20281923<br />relation: Doctor-Nurse<br />Doctor-Nurse<br />cluster: Public", "Dim1: -2.31058019<br />Dim2: -0.10775500<br />relation: Patient-Caretaker<br />Patient-Caretaker<br />cluster: Public", "Dim1: -1.13154080<br />Dim2:  1.26291858<br />relation: Driver-Passenger<br />Driver-Passenger<br />cluster: Public", "Dim1: -1.59700435<br />Dim2: -0.39131089<br />relation: Coach-athlete<br />Coach-athlete<br />cluster: Public", "Dim1: -1.36137800<br />Dim2: -0.49041417<br />relation: Team captain-Team members<br />Team captain-Team members<br />cluster: Public", "Dim1: -1.25248234<br />Dim2: -0.55105489<br />relation: Club Member-Club President<br />Club Member-Club President<br />cluster: Public", "Dim1: -0.42897031<br />Dim2:  1.08159894<br />relation: Politician-Supporter<br />Politician-Supporter<br />cluster: Public", "Dim1: -0.64984715<br />Dim2:  0.55198016<br />relation: Leader-Follower<br />Leader-Follower<br />cluster: Public", "Dim1: -0.31968062<br />Dim2:  0.80592116<br />relation: Representative-Citizen<br />Representative-Citizen<br />cluster: Public", "Dim1: -1.61671515<br />Dim2: -0.07248433<br />relation: Officer-Soldier<br />Officer-Soldier<br />cluster: Public", "Dim1: -0.78480634<br />Dim2: -0.01514878<br />relation: Religious leader-Congregant<br />Religious leader-Congregant<br />cluster: Public", "Dim1: -0.69617344<br />Dim2:  2.07876676<br />relation: Guide-Tourist<br />Guide-Tourist<br />cluster: Public", "Dim1: -0.35735431<br />Dim2:  0.96655473<br />relation: Athlete-Referee<br />Athlete-Referee<br />cluster: Public", "Dim1: -0.32038122<br />Dim2:  0.91534961<br />relation: Reader-Writer<br />Reader-Writer<br />cluster: Public", "Dim1: -1.98410335<br />Dim2:  1.50755556<br />relation: Reviewer-Writer<br />Reviewer-Writer<br />cluster: Public", "Dim1: -1.60748516<br />Dim2:  1.46322322<br />relation: Performer-Audience<br />Performer-Audience<br />cluster: Public", "Dim1: -0.85035532<br />Dim2:  2.18546755<br />relation: Dealer-Buyer<br />Dealer-Buyer<br />cluster: Public", "Dim1:  0.25134227<br />Dim2:  1.92402686<br />relation: Sugar daddy-Sugar baby<br />Sugar daddy-Sugar baby<br />cluster: Public", "Dim1: -1.78006719<br />Dim2:  0.86921740<br />relation: Director-Performer<br />Director-Performer<br />cluster: Public", "Dim1: -2.37643974<br />Dim2: -0.16099082<br />relation: Psychologist-Client<br />Psychologist-Client<br />cluster: Public", "Dim1: -2.06749890<br />Dim2:  1.57875870<br />relation: Judge-Contestant<br />Judge-Contestant<br />cluster: Public", "Dim1: -1.14239528<br />Dim2: -0.41494758<br />relation: Co-workers<br />Co-workers<br />cluster: Public", "Dim1: -0.11204994<br />Dim2:  1.40534645<br />relation: Criminal and their accomplice<br />Criminal and their accomplice<br />cluster: Public", "Dim1: -0.25021903<br />Dim2:  1.06651684<br />relation: Diplomats<br />Diplomats<br />cluster: Public", "Dim1: -1.35743054<br />Dim2:  0.21038389<br />relation: Principal-Teacher<br />Principal-Teacher<br />cluster: Public", "Dim1: -1.58937543<br />Dim2:  0.13395454<br />relation: Professor-Teaching Assistant<br />Professor-Teaching Assistant<br />cluster: Public", "Dim1: -0.86901217<br />Dim2:  1.40781805<br />relation: University student-Administrator<br />University student-Administrator<br />cluster: Public", "Dim1:  0.26023101<br />Dim2:  0.67167113<br />relation: Student-Dorm Resident assistant<br />Student-Dorm Resident assistant<br />cluster: Public", "Dim1: -1.72927382<br />Dim2: -0.15980770<br />relation: Mentor-Mentee<br />Mentor-Mentee<br />cluster: Public", "Dim1: -1.72931479<br />Dim2:  0.26774701<br />relation: Athletic trainer-Trainee<br />Athletic trainer-Trainee<br />cluster: Public", "Dim1: -1.73544354<br />Dim2:  0.71269836<br />relation: Researcher-Research Subject<br />Researcher-Research Subject<br />cluster: Public", "Dim1: -0.42701855<br />Dim2:  1.47612374<br />relation: Predecessor-Successor<br />Predecessor-Successor<br />cluster: Public", "Dim1: -1.15904700<br />Dim2:  2.09830535<br />relation: Landlord-Tenant<br />Landlord-Tenant<br />cluster: Public", "Dim1: -1.17894435<br />Dim2:  2.01091548<br />relation: Landlord-Housekeeper<br />Landlord-Housekeeper<br />cluster: Public", "Dim1:  1.13210324<br />Dim2: -0.55956919<br />relation: Guest-Host<br />Guest-Host<br />cluster: Public", "Dim1: -1.56017618<br />Dim2: -0.09228971<br />relation: Volunteer-Organizer<br />Volunteer-Organizer<br />cluster: Public", "Dim1: -0.24565760<br />Dim2:  2.04468981<br />relation: Native-Tourist<br />Native-Tourist<br />cluster: Public", "Dim1: -0.58568698<br />Dim2:  0.70308629<br />relation: Political allies<br />Political allies<br />cluster: Public", "Dim1: -1.17573120<br />Dim2:  0.73363474<br />relation: Superior-Subordinate<br />Superior-Subordinate<br />cluster: Public", "Dim1:  0.32043912<br />Dim2:  1.20452637<br />relation: A monarch and their minister<br />A monarch and their minister<br />cluster: Public"],
+      "x": [-1.53060214718039, -0.306376361188967, -2.14868119986152, -2.3366565520976, -0.276610417462088, -1.15978584730573, -1.67399182128296, -1.64138770167511, -1.4288589036993, -1.42040539285587, -1.59389864481068, -1.61616980123497, -1.28779554272069, -1.58699727701791, -1.90036234018938, -1.79322211786488, -1.83194693577454, -0.446116428123772, -1.59789829768968, -0.623002471434265, -1.32536257765667, -0.0569489723244483, 0.0907354299931491, -0.747550230745526, -0.490206195211365, -0.637433739485117, -0.609102618592368, -2.47480311545603, -2.2506188523236, -2.38861883355298, -0.824798883103324, -1.65511317106351, -1.66204005349229, -1.49446379419162, -0.139844741109576, -0.663475336662568, -0.252877191781842, -1.90110786239684, -0.674490224349565, -0.253832951859928, -0.28073167426331, 0.204354277768758, -1.57128667781476, -1.25151574685911, -0.500300106181403, 0.241554834609445, -1.41167091029758, -2.43306326136027, -1.70546503340227, -1.32176946625178, -0.750195988016739, -0.346891405725353, -1.52778797298987, -1.37451991110716, -0.163106561098798, -0.0385379826529708, -1.76565661573261, -1.85953983904882, -1.63631726861665, 0.0649890465661933, -0.658200099153283, -0.813339651529816, 0.0645748825203976, -1.65766809383617, 0.175942597747893, -0.674054869624219, -1.17023462637843, 0.340774767256942],
+      "y": [0.5352474382328, 1.66686108451306, 0.13810093156098, 0.206393998135871, 2.57297421040965, -0.0133353076150879, 0.330015049578363, 0.1833521892029, 0.303944618967332, 1.62981774305614, 1.59500973374306, 1.47163559739103, 1.48575992502746, 1.46342338047271, 0.818999925451591, 1.42511523346315, 1.51395510490896, 2.64873948550383, 1.5795117229958, 2.52704259035256, 1.10235503525687, 2.76049142925228, 0.805730598708959, 2.44028726857231, 2.13338163300069, 2.33711183441649, 2.54274856157793, 0.419541071138839, 0.511336854174575, 0.281180166797698, 1.55134322703413, -0.149232457524473, -0.159687504188764, -0.0432811964699686, 1.30923615246432, 0.812018069664427, 1.11357481447421, 0.10897498867607, 0.0588521710911092, 2.56916674299809, 1.13017025101776, 1.23211546889545, 1.79739177241067, 1.64276974704944, 2.76268861494808, 2.90096222261263, 1.17538843117042, 0.362588099984381, 1.90004963934186, 0.224058358004533, 0.717453071306981, 1.00008720325611, 0.63819194502047, 0.705975259800906, 1.70934689513386, 0.951678460872943, 0.179074702952797, 0.497848549323058, 0.916371071344416, 1.74474569247642, 2.50705626321223, 2.48601169114468, -0.722849327691845, 0.534671570323212, 2.33098555084167, 1.1671528451953, 1.00545841386632, 1.57889225960403],
+      "text": ["Employer-Employee", "Interviewer-Job applicant", "Nurse-Patient", "Therapist-Patient", "Salesperson-Customer", "Business partners", "Teacher-Student", "Professor-Graduate student", "Teammates in sports", "Manager-Staff", "Foreman-Laborer", "Owner-Manager", "Union leader-union member", "Manager-Assistant", "Chief-Deputy", "Supervisor-Subordinate", "Boss-Secretary", "Entrepreneur-Investor", "Intern-Employee", "Lawyer-Client", "Judge-Lawyer", "Drug dealer-Addict", "Police officer-Civilian", "Consultant-Client", "Chef-Customer", "Customer-Server", "Customer-Businessman", "Doctor-Patient", "Doctor-Nurse", "Patient-Caretaker", "Driver-Passenger", "Coach-athlete", "Team captain-Team members", "Club Member-Club President", "Politician-Supporter", "Leader-Follower", "Representative-Citizen", "Officer-Soldier", "Religious leader-Congregant", "Guide-Tourist", "Athlete-Referee", "Reader-Writer", "Reviewer-Writer", "Performer-Audience", "Dealer-Buyer", "Sugar daddy-Sugar baby", "Director-Performer", "Psychologist-Client", "Judge-Contestant", "Co-workers", "Criminal and their accomplice", "Diplomats", "Principal-Teacher", "Professor-Teaching Assistant", "University student-Administrator", "Student-Dorm Resident assistant", "Mentor-Mentee", "Athletic trainer-Trainee", "Researcher-Research Subject", "Predecessor-Successor", "Landlord-Tenant", "Landlord-Housekeeper", "Guest-Host", "Volunteer-Organizer", "Native-Tourist", "Political allies", "Superior-Subordinate", "A monarch and their minister"],
       "type": "scatter",
       "mode": "markers",
       "marker": {
         "autocolorscale": false,
         "color": "rgba(190,190,190,1)",
         "opacity": 0.8,
-        "size": 11.3385826771654,
+        "size": 7.55905511811024,
         "symbol": "circle",
         "line": {
-          "width": 3.77952755905512,
+          "width": 1.88976377952756,
           "color": "rgba(38,148,100,1)"
         }
       },
@@ -81,10 +81,10 @@
   ],
   "layout": {
     "margin": {
-      "t": 23.3059360730594,
+      "t": 24.3496412263536,
       "r": 7.30593607305936,
-      "b": 42.8393524283935,
-      "l": 42.8393524283935
+      "b": 38.5696495285536,
+      "l": 50.8094645080946
     },
     "plot_bgcolor": "rgba(255,255,255,1)",
     "paper_bgcolor": "rgba(255,255,255,1)",
@@ -98,12 +98,12 @@
       "automargin": true,
       "type": "linear",
       "autorange": false,
-      "range": [-2.59615418002255, 2.23756349024149],
+      "range": [-2.76144879938029, 3.54475624695336],
       "tickmode": "array",
-      "ticktext": ["-2", "-1", "0", "1", "2"],
-      "tickvals": [-2, -1, 0, 1, 2],
+      "ticktext": ["-2", "0", "2"],
+      "tickvals": [-2, 0, 2],
       "categoryorder": "array",
-      "categoryarray": ["-2", "-1", "0", "1", "2"],
+      "categoryarray": ["-2", "0", "2"],
       "nticks": null,
       "ticks": "outside",
       "tickcolor": "rgba(51,51,51,1)",
@@ -113,7 +113,7 @@
       "tickfont": {
         "color": "rgba(77,77,77,1)",
         "family": "",
-        "size": 15.9402241594022
+        "size": 13.2835201328352
       },
       "tickangle": -0,
       "showline": true,
@@ -129,7 +129,7 @@
         "font": {
           "color": "rgba(0,0,0,1)",
           "family": "",
-          "size": 15.9402241594022
+          "size": 13.2835201328352
         }
       },
       "hoverformat": ".2f"
@@ -139,12 +139,12 @@
       "automargin": true,
       "type": "linear",
       "autorange": false,
-      "range": [-4.49218082274152, 3.8877699521487],
+      "range": [-5.03993765771452, 3.27910031215201],
       "tickmode": "array",
-      "ticktext": ["-4", "-2", "0", "2"],
-      "tickvals": [-4, -2, 0, 2],
+      "ticktext": ["-5.0", "-2.5", "0.0", "2.5"],
+      "tickvals": [-5, -2.5, 0, 2.5],
       "categoryorder": "array",
-      "categoryarray": ["-4", "-2", "0", "2"],
+      "categoryarray": ["-5.0", "-2.5", "0.0", "2.5"],
       "nticks": null,
       "ticks": "outside",
       "tickcolor": "rgba(51,51,51,1)",
@@ -154,7 +154,7 @@
       "tickfont": {
         "color": "rgba(77,77,77,1)",
         "family": "",
-        "size": 15.9402241594022
+        "size": 13.2835201328352
       },
       "tickangle": -0,
       "showline": true,
@@ -170,7 +170,7 @@
         "font": {
           "color": "rgba(0,0,0,1)",
           "family": "",
-          "size": 15.9402241594022
+          "size": 13.2835201328352
         }
       },
       "hoverformat": ".2f"
@@ -193,25 +193,10 @@
       }
     ],
     "showlegend": true,
-    "legend": {
-      "bgcolor": "rgba(255,255,255,1)",
-      "bordercolor": "transparent",
-      "borderwidth": 0,
-      "font": {
-        "color": "rgba(0,0,0,1)",
-        "family": "",
-        "size": 13.2835201328352
-      },
-      "title": {
-        "text": "cluster",
-        "font": {
-          "color": null,
-          "family": null,
-          "size": 0
-        }
-      }
-    },
+    "legend": false,
     "hovermode": "closest",
+    "width": 400,
+    "height": 350,
     "barmode": "relative"
   },
   "config": {
@@ -221,7 +206,7 @@
   },
   "source": "A",
   "attrs": {
-    "16b38340b2008": {
+    "9a44ccb2d35": {
       "x": {},
       "y": {},
       "label": {},
@@ -230,9 +215,9 @@
       "type": "scatter"
     }
   },
-  "cur_data": "16b38340b2008",
+  "cur_data": "9a44ccb2d35",
   "visdat": {
-    "16b38340b2008": ["function (y) ", "x"]
+    "9a44ccb2d35": ["function (y) ", "x"]
   },
   "highlight": {
     "on": "plotly_click",

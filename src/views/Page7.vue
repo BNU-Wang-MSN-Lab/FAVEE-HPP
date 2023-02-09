@@ -34,7 +34,7 @@
             </span>
         </div>
         <div class="s6">
-            <img style="width: 100%;" src="/assets/fuckfeishu/Study3/更新图/Extended Data Fig. 9.png" alt="">
+            <img style="width: 100%;" src="/assets/fuckfeishu/Study3/更新图/Extended-Data-Fig.-9.png" alt="">
         </div>
     </div>
 </template>
@@ -44,18 +44,19 @@
     grid-template-rows: 20px repeat(5, auto) 40px;
     text-align: left;
     grid-row-gap: 0px;
+    line-height: 1.8em;
 }
 .s1 {
     grid-area: 2 / 2 / 3 / 6;
 }
 .s2 {
-    grid-area: 3 / 2 / 5 / 4;
+    grid-area: 3 / 2 / 6 / 4;
 }
 .s3 {
-    grid-area: 3 / 4 / 5 / 6;
+    grid-area: 3 / 4 / 6 / 6;
 }
 .s4 {
-    grid-area: 5 / 2 / 7 / 6;
+    grid-area: 6 / 2 / 7 / 6;
 }
 .s5 {
     grid-area: 2 / 6 / 4 / 10;
