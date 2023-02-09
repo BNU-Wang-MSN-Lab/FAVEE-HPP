@@ -61,7 +61,7 @@
     "font": {
       "color": "rgba(0,0,0,1)",
       "family": "",
-      "size": 14.6118721461187
+      "size": 40
     },
     "xaxis": {
       "domain": [0, 1],
@@ -170,7 +170,7 @@
       "font": {
         "color": "rgba(0,0,0,1)",
         "family": "",
-        "size": 11.689497716895
+        "size": 40
       }
     },
     "hovermode": "closest",
