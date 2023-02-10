@@ -105,7 +105,7 @@ onMounted(() => {
                 Check selected region
             </div>
             <div v-if="chooseCountry == null">
-                Select your interesting for more details by clicking the black area on the map.
+                Select your interesting region for more details by clicking the black area on the map.
             </div>
         </div>
         <div class="s3">
