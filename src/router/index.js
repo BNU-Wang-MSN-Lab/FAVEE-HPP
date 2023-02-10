@@ -38,6 +38,9 @@ const routes = [
             alertCultural,
             alertRelationship,
             alertRegion
+        },
+        meta: {
+            transition: 'slide-left'
         }
     }
 ]

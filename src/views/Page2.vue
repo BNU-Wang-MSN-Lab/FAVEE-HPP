@@ -7,14 +7,14 @@ const alertOpen = function () {
     emits("alertOpen", "alertDemographics");
 }
 const icon = ref([
-    { iconUrl: "./assets/icon/target.png", num: 3, tit: "Studys" },
+    { iconUrl: "./assets/icon/target.png", num: 3, tit: "Studies" },
     { iconUrl: "./assets/icon/meeting.png", num: "19,532", tit: "Participants" },
     { iconUrl: "./assets/icon/team.png", num: 19, tit: "Regions" },
     { iconUrl: "./assets/icon/language-learning.png", num: 10, tit: "Languages" },
 ]);
 const studyInfo = ref([
-    { id: 1, tit: "FAVEE model", content: "5D representational space is referred to as the FAVEE model (abbreviations for Formality, Activeness, Valence, Exchange, and Equality), which is a unified cognitive space." },
-    { id: 2, tit: "HPP model", content: "Categorical model consists of 3 clusters ‘Hostile, Private and Public’ (abbreviated as ‘HPP’ model). Compare relationship categories with dimensions." },
+    { id: 1, tit: "FAVEE model", content: "5D representational space is referred to as the FAVEE model (abbreviations for <strong>F</strong>ormality, <strong>A</strong>ctiveness, <strong>V</strong>alence, <strong>E</strong>xchange, and <strong>E</strong>quality), which is a unified cognitive space." },
+    { id: 2, tit: "HPP model", content: "Categorical model consists of 3 clusters ‘<strong>H</strong>ostile, <strong>P</strong>rivate and <strong>P</strong>ublic’ (abbreviated as ‘HPP’ model). Compare relationship categories with dimensions." },
     { id: 3, tit: "FAVEE-HPP model and its cultural variation", content: "FAVEE-HPP model is both universal and culturally variable. Within the FAVEE-HPP model, you can explore your interesting relationship in detail." }
 ]);
 function heightToTop(ele) {
@@ -65,8 +65,7 @@ const stuClick = function (e) {
                 <div @click="stuClick(i.id)" style="cursor: pointer;">
                     {{ i.tit }}
                 </div>
-                <div>
-                    {{ i.content }}
+                <div v-html="i.content">
                 </div>
             </div>
         </div>

@@ -40,11 +40,11 @@ const chosWord = function (e) {
 
     const wo = wordsData[words.indexOf(e)];
     choosedWord.value = wo[""];
-    showWord.value = `= \n Formality * (${Math.round(wo["Formality"] * 100) / 100
-        })\n + Activeness * (${Math.round(wo["Activeness"] * 100) / 100
-        })\n + Valence * (${Math.round(wo["Valence"] * 100) / 100
-        })\n + Exchange * (${Math.round(wo["Exchange"] * 100) / 100
-        })\n + Equality * (${Math.round(wo["Equality"] * 100) / 100
+    showWord.value = `= \n Formality × (${Math.round(wo["Formality"] * 100) / 100
+        }) +\n Activeness × (${Math.round(wo["Activeness"] * 100) / 100
+        }) +\n Valence × (${Math.round(wo["Valence"] * 100) / 100
+        }) +\n Exchange × (${Math.round(wo["Exchange"] * 100) / 100
+        }) +\n Equality × (${Math.round(wo["Equality"] * 100) / 100
         })`
 }
 
@@ -75,7 +75,7 @@ onMounted(() => {
             </div>
         </div>
         <div class="s3">
-            <div class="title">Select your interesting relationship</div>
+            <div class="title">Select your relationship of interest</div>
             <div class="sel">
                 <input @input="input" type="text" name="country" id="study3Country" placeholder="Type to search" />
                 <ul>

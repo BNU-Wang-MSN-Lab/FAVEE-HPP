@@ -107,7 +107,7 @@ onMounted(() => {
     grid-template-rows: 20px repeat(4, auto) 40px;
     text-align: left;
     grid-row-gap: 0;
-    font-size: 14px;
+    font-size: 15px;
     line-height: 1.8em;
 }
 

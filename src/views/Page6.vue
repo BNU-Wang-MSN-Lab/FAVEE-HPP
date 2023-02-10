@@ -96,7 +96,7 @@ onMounted(() => {
     <div class="box">
         <div class="s1" id="p6_1">
             <p style="font-size: 24px; line-height: 30px;">Explore your region</p>
-            <p style="font-size: 16px; line-height: 24px; margin: 20px 0 10px 10px;">Select your interested region for more details.</p>
+            <p style="font-size: 16px; line-height: 24px; margin: 20px 0 10px 10px;">Select your region of interest for more details.</p>
         </div>
         <div class="s2">
             <div class="svg">
@@ -105,7 +105,7 @@ onMounted(() => {
                 Check selected region
             </div>
             <div v-if="chooseCountry == null">
-                Select your interesting region for more details by clicking the black area on the map.
+                Select your region of interest for more details by clicking the black area on the map.
             </div>
         </div>
         <div class="s3">

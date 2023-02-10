@@ -47,11 +47,11 @@ const data = {
     2: {
         texts: onstalled.indexOf(chooseCountry.value) >= 0 ? [
             "The specific results of categorical model in [region].".replaceAll("[region]", chooseCountry.value),
-            "Select your interesting relationship, and you can see its corresponding relationship in FAVEE space, which is shown in the radar plot.",
+            "Select your relationship of interest, and you can see its corresponding relationship in FAVEE space, which is shown in the radar plot.",
             '"Equality" was relatively ambiguous, more details can be seen in the published paper.'
         ] : [
             "The specific results of categorical model in [region].".replaceAll("[region]", chooseCountry.value),
-            "Select your interesting relationship, and you can see its corresponding relationship in FAVEE space, which is shown in the radar plot."
+            "Select your relationship of interest, and you can see its corresponding relationship in FAVEE space, which is shown in the radar plot."
         ]
     },
     3: {
@@ -92,11 +92,11 @@ const chosWord = function (e) {
 
     const wo = wordsData[words.indexOf(e)];
     choosedWord.value = wo[""];
-    showWord.value = `= \n Formality * (${Math.round(wo["Formality"] * 100) / 100
-        })\n + Activeness * (${Math.round(wo["Activeness"] * 100) / 100
-        })\n + Valence * (${Math.round(wo["Valence"] * 100) / 100
-        })\n + Exchange * (${Math.round(wo["Exchange"] * 100) / 100
-        })\n + Equality * (${Math.round(wo["Equality"] * 100) / 100
+    showWord.value = `= \n Formality × (${Math.round(wo["Formality"] * 100) / 100
+        }) + \n Activeness × (${Math.round(wo["Activeness"] * 100) / 100
+        }) + \n Valence × (${Math.round(wo["Valence"] * 100) / 100
+        }) + \n Exchange × (${Math.round(wo["Exchange"] * 100) / 100
+        }) + \n Equality × (${Math.round(wo["Equality"] * 100) / 100
         })`
 }
 
@@ -194,7 +194,7 @@ onMounted(() => {
                 </div>
                 <div>
                     <div class="tBox">
-                        <div>Select your interesting relationship</div>
+                        <div>Select your relationship of interest</div>
                         <div style="position: relative;">
                             <input type="text" id="page4Country" @input="input">
                             <ul>

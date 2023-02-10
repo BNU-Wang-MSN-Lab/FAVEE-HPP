@@ -1,7 +1,9 @@
 <script setup>
 import fHeader from "./components/header.vue";
 import fAlert from "./components/alert.vue";
+import $ from "jquery";
 import { provide, reactive, ref } from "vue";
+import { useRouter } from "vue-router";
 
 const chooseCountry = ref(null);
 provide("chooseCountry", chooseCountry);

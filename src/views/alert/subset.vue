@@ -30,7 +30,7 @@ const hrefClick = (e) => {
                 Download subset
             </div>
             <span>Figure a shows high correlation (Pearson’s r > 0.9) between PCA loading scores derived from the full
-                set versus subsets of relationships (n=40). These relationships were shown in Figure b (font size
+                set versus subsets of relationships (n=40). These relationships were shown in figure b (font size
                 corresponds to relationship familiarity). As shown in figure c, the RDM across global regions of the
                 subsets is relatively similar to that of the full set. The subsets were good enough to capture the
                 cross-cultural variability of relationship representations and replicate the cultural mechanism, which
