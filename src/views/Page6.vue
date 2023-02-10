@@ -96,8 +96,7 @@ onMounted(() => {
     <div class="box">
         <div class="s1" id="p6_1">
             <p style="font-size: 24px; line-height: 30px;">Explore your region</p>
-            <p style="font-size: 16px; line-height: 24px; margin: 20px 0 10px 10px;">You can explore more details in
-                your interesting.</p>
+            <p style="font-size: 16px; line-height: 24px; margin: 20px 0 10px 10px;">Select your interested region for more details.</p>
         </div>
         <div class="s2">
             <div class="svg">

@@ -72,7 +72,7 @@ onMounted(() => {
                 abbreviated as HPP)</strong> whereas the free sorting task (Model 2) identified <strong>six clusters
                 (i.e., hostile, romantic, familial, affiliative, transactional, and power). </strong>
             <br />
-            For dimensional models two categorization tasks consistently suggested a 2D space of ‘Valence-Formality’
+            For dimensional models, two categorization tasks consistently suggested a 2D space of ‘Valence-Formality’
             (Model 4 and Model 5) whereas the dimensional survey identified the 5D FAVEE space, which replicated the
             results in Study 1 (Model 6).
         </div>
@@ -89,7 +89,7 @@ onMounted(() => {
                 <div id="i2" style="width: 389px;height: 176px;overflow: hidden;position: absolute;top: 169px;left: 275px;transform-origin: left top;transform: scale(0.18); background: url(./assets/fuckfeishu/Study2/study2_tasks/study2_tasks_04.png);"></div>
                 <div id="i3" style="width: 389px;height: 176px;overflow: hidden;position: absolute;top: 169px;left: 465px;transform-origin: left top;transform: scale(0.18); background: url(./assets/fuckfeishu/Study2/study2_tasks/study2_tasks_06.png);"></div>
                 <div id="i4" style="width: 389px;height: 971px;overflow: hidden;position: absolute;top: 204px;left: 37px;transform-origin: left top;transform: scale(0.18); background: url(./assets/fuckfeishu/Study2/study2_tasks/study2_tasks_07.png);"></div>
-                <div id="i5" style="width: 389px;height: 971px;overflow: hidden;position: absolute;top: 204px;left: 234px;transform-origin: left top;transform: scale(0.18); background: url(./assets/fuckfeishu/Study2/study2_tasks/study2_tasks_09.png);"></div>
+                <div id="i5" style="width: 488px;height: 971px;overflow: hidden;position: absolute;top: 204px;left: 222px;transform-origin: left top;transform: scale(0.18); background: url(./assets/fuckfeishu/Study2/study2_tasks/study2_tasks_09.png);"></div>
                 <div id="i6" style="width: 306px;height: 971px;overflow: hidden;position: absolute;top: 204px;left: 428px;transform-origin: left top;transform: scale(0.18); background: url(./assets/fuckfeishu/Study2/study2_tasks/study2_tasks_11.png);"></div>
             </div>
             <div @click="emits('alertOpen', 'alertStudy2')" style="font-size: 22px; width: 25%; line-height: 1em; color: var(--theme-color-blue); cursor: pointer;">

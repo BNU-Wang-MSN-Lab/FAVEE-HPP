@@ -55,7 +55,7 @@ const stuClick = function (e) {
                 @click="emits('alertOpen', 'alertDemographics')">demographics ></span>
         </div>
         <div class="img">
-            <video style="width:100%;" autoplay="autoplay" loop="loop" src="/assets/video/favee-3d.mp4"></video>
+            <video style="width:100%;" autoplay="autoplay" loop="loop" muted="muted" src="/assets/video/favee-3d.mp4"></video>
         </div>
         <div class="studyBox">
             <div class="study" v-for="i in studyInfo">
