@@ -27,6 +27,9 @@ const alertCancel = () => {
   <div class="container">
     <RouterView class="cc"></RouterView>
     <RouterView name="Home1" class="cc"></RouterView>
+    <RouterView name="Home4" class="cc"></RouterView>
+    <RouterView name="Home2" class="cc"></RouterView>
+    <RouterView name="Home3" class="cc"></RouterView>
     <RouterView name="Page1" class="cc"></RouterView>
     <RouterView name="Page2" class="cc" v-on:alertOpen="alertOpen"></RouterView>
     <RouterView name="Page3" class="cc" v-on:alertOpen="alertOpen"></RouterView>

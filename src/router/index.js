@@ -1,6 +1,9 @@
 import { createRouter, createWebHashHistory } from "vue-router";
 import Home from '../views/Home.vue';
 import Home1 from '../views/Home1.vue';
+import Home2 from '../views/Home2.vue';
+import Home3 from '../views/Home3.vue';
+import Home4 from '../views/Home4.vue';
 
 import Page1 from '../views/Page1.vue';
 import Page2 from '../views/Page2.vue';
@@ -25,7 +28,10 @@ const routes = [
         components: {
             default: Home,
             Page1,
-            Home1
+            Home1,
+            Home2,
+            Home3,
+            Home4
         }
     }, {
         path: "/explore",
