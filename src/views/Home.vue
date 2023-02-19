@@ -25,16 +25,20 @@ const hrefClick = (e) => {
                 <div class="title">
                     Human Relationships
                 </div>
-                <div style="font-size: 24px; line-height: 30px;">
+                <div style="font-size: 18px; line-height: 25px;">
                     <p>
-                        Such an enrich social life we are involved in! Image each relationship is a star in the sky, our
-                        human relationship in total is a vast universe. Is there a cognitive map in our mind that guides
-                        us to explore this universe?
+                        A defining characteristic of Homo sapiens is the richness and complexity of our social
+                        relationships. In the last 50 years, both social sciences and biological sciences have sought to
+                        understand the nature of social relationships. Different theoretical models and taxonomies have been
+                        developed by psychologists, sociologists, anthropologists, linguists, economists, biologists, and
+                        communication researchers, but no consensus has been reached.
                     </p>
                     <p>
-                        By collecting data across diverse populations in the world, we found the FAVEE-HPP model. Not
-                        only it is a unified representational space across disciplines, but it also adapted to various
-                        cultures.
+                        To address this long-standing question, we collected large-scale behavioral data across diverse
+                        populations in the world to investigate how social relationship are represented and organized in the
+                        human mind. We revealed the universality and cultural variability in the ways that people
+                        conceptualize social relationships and elucidated the cognitive structures and cultural principles
+                        underlying social relationship knowledge.
                     </p>
                 </div>
                 <div>
@@ -58,17 +62,19 @@ div.box {
     background-position: right !important;
     position: relative;
 }
+
 .box>div {
     grid-column: 2 / span 6;
 }
+
 .content {
     text-align: left;
 }
 
 .title {
     color: var(--theme-color-blue);
-    font-size: 64px;
-    line-height: 76px;
+    font-size: 60px;
+    line-height: 60px;
 }
 
 .button {
@@ -101,5 +107,4 @@ div.box {
 .logo>div:nth-child(2) {
     background: url(/assets/icon/temple-logo-t-box.svg) no-repeat;
     background-size: contain;
-}
-</style>
+}</style>

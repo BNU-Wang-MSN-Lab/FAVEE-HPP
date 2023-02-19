@@ -1,12 +1,15 @@
 <script setup>
 import { reactive } from 'vue';
 import $ from "jquery";
+import { useRoute } from 'vue-router';
 const data = reactive({
     header: [
         { path: "/", name: "Introduction" },
-        { path: "#study1", name: "Studys" }
+        { path: "/principle", name: "Science behind it" },
+        { path: "/explore", name: "Data Exploration" }
     ]
 });
+const route = useRoute();
 
 const btnClick = function (e) {
     document.querySelector("div#header").style.height =
@@ -52,21 +55,8 @@ const stuClick = function(e) {
             </svg>
         </div>
         <ul>
-            <li class="selected">
-                <a href="/">Introduction</a>
-            </li>
-            <li>
-                <a href="#">Study <span>
-                        <svg width="18" height="15" viewBox="0 0 18 5" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M5 1.5L10 6.5L15 1.5" stroke="#7A7671" stroke-width="2" stroke-linecap="round"
-                                stroke-linejoin="round" />
-                        </svg>
-                    </span></a>
-                <ul>
-                    <li @click="stuClick(1)">Study 1</li>
-                    <li @click="stuClick(2)">Study 2</li>
-                    <li @click="stuClick(3)">Study 3</li>
-                </ul>
+            <li :class="{ selected: route.path == i.path }" v-for="i in data.header">
+                <RouterLink :to="i.path">{{ i.name }}</RouterLink>
             </li>
         </ul>
     </div>
@@ -124,6 +114,7 @@ ul li {
     float: left;
     padding: 0 30px;
     position: relative;
+    cursor: pointer;
 }
 ul li ul {
     width: 120px;

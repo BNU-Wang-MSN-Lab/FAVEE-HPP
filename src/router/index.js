@@ -1,5 +1,6 @@
 import { createRouter, createWebHashHistory } from "vue-router";
 import Home from '../views/Home.vue';
+import Home1 from '../views/Home1.vue';
 
 import Page1 from '../views/Page1.vue';
 import Page2 from '../views/Page2.vue';
@@ -19,28 +20,34 @@ import alertCultural from '../views/alert/cultural.vue';
 import alertRelationship from '../views/alert/relationship.vue';
 
 const routes = [
-    { 
+    {
         path: "/",
         components: {
             default: Home,
             Page1,
-            Page2,
-            Page3,
+            Home1
+        }
+    }, {
+        path: "/explore",
+        components: {
+            default: Page6,
+            alertRegion
+        }
+    }, {
+        path: "/principle",
+        components: {
+            default: Page3,
             Page4,
             Page5,
-            Page6,
             Page7,
+            Page2,
+            alertDemographics,
             alertStudy1,
             alertStudy2,
             alertStudy3,
-            alertDemographics,
             alertSubset,
             alertCultural,
             alertRelationship,
-            alertRegion
-        },
-        meta: {
-            transition: 'slide-left'
         }
     }
 ]
