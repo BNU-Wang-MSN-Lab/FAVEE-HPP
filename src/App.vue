@@ -25,18 +25,16 @@ const alertCancel = () => {
 <template>
   <fHeader />
   <div class="container">
-    <RouterView class="cc"></RouterView>
-    <RouterView name="Home1" class="cc"></RouterView>
-    <RouterView name="Home4" class="cc"></RouterView>
-    <RouterView name="Home2" class="cc"></RouterView>
-    <RouterView name="Home3" class="cc"></RouterView>
-    <RouterView name="Page1" class="cc"></RouterView>
+    <RouterView v-on:alertOpen="alertOpen" class="cc"></RouterView>
+    <RouterView name="Home1" class="cc" v-on:alertOpen="alertOpen"></RouterView>
+    <RouterView name="Home4" class="cc" v-on:alertOpen="alertOpen"></RouterView>
+    <RouterView name="Home2" class="cc" v-on:alertOpen="alertOpen"></RouterView>
+    <RouterView name="Home3" class="cc" v-on:alertOpen="alertOpen"></RouterView>
+    <RouterView name="Page1" class="cc" v-on:alertOpen="alertOpen"></RouterView>
     <RouterView name="Page2" class="cc" v-on:alertOpen="alertOpen"></RouterView>
-    <RouterView name="Page3" class="cc" v-on:alertOpen="alertOpen"></RouterView>
     <RouterView name="Page4" class="cc" v-on:alertOpen="alertOpen"></RouterView>
     <RouterView name="Page7" class="cc" v-on:alertOpen="alertOpen"></RouterView>
     <RouterView name="Page5" class="cc" v-on:alertOpen="alertOpen"></RouterView>
-    <RouterView name="Page6" class="cc" v-on:alertOpen="alertOpen"></RouterView>
   </div>
   <fAlert :view="show.name" v-on:alertCancel="alertCancel" v-if="show.alert" />
 </template>

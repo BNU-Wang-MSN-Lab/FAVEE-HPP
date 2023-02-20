@@ -5,7 +5,7 @@ const data = reactive({
     imgs: [
     ]
 });
-for(let i = 22; i<42; i++) {
+for(let i = 22; i<46; i++) {
     data.imgs.push(`图片${i}.jpg`);
 }
 </script>
@@ -46,6 +46,8 @@ div.box {
 .img {
     display: flex;
     flex-flow: row wrap;
+    margin: 0 auto;
+    max-width: 972px;
     align-items: end;
     grid-area: 2 / 2 / 3 / 10;
 }
@@ -54,5 +56,8 @@ div.box {
 }
 .img>div:nth-child(odd) {
     height: calc(200px);
+}
+.img img {
+    border-radius: 50% 50%;
 }
 </style>

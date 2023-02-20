@@ -54,6 +54,7 @@
 
 <style scoped>
 div.box {
+    min-height: 0px;
     margin: 0 auto;
     position: relative;
     font-size: 14px;

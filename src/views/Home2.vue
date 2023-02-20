@@ -40,14 +40,50 @@
                 FAVEEHPP framework;<br />
                 A Universal relationship compass across cultures
             </p>
-            <img style="width: 80%;" src="/assets/imgs/new/图片9.png" alt="">
+            <div style="width: 80%; margin: 0 auto; position: relative;">
+                <img style="width: 100%;" src="/assets/imgs/new/图片9.png" alt="">
+                <div style="position:absolute;right: -25px; top: 0; font-size: 16px;">
+                    United<br/>
+                    States
+                </div>
+            </div>
             <div style="width: 80%; margin: 0 auto;">
-                <img style="display: inline-block; width: calc(100% / 3);" src="/assets/imgs/new/图片11.png" alt="">
-                <img style="display: inline-block; width: calc(100% / 3);" src="/assets/imgs/new/图片12.png" alt="">
-                <img style="display: inline-block; width: calc(100% / 3);" src="/assets/imgs/new/图片13.png" alt="">
-                <img style="display: inline-block; width: calc(100% / 3);" src="/assets/imgs/new/图片14.png" alt="">
-                <img style="display: inline-block; width: calc(100% / 3);" src="/assets/imgs/new/图片15.png" alt="">
-                <img style="display: inline-block; width: calc(100% / 3);" src="/assets/imgs/new/图片16.png" alt="">
+                <div style="display: inline-block; width: calc(100% / 3);">
+                    <img style="width: 100%;" src="/assets/imgs/new/图片11.png" alt="">
+                    <div>
+                        Australia
+                    </div>
+                </div>
+                <div style="display: inline-block; width: calc(100% / 3);">
+                    <img style="width: 100%;" src="/assets/imgs/new/图片12.png" alt="">
+                    <div>
+                        China
+                    </div>
+                </div>
+                <div style="display: inline-block; width: calc(100% / 3);">
+                    <img style="width: 100%;" src="/assets/imgs/new/图片13.png" alt="">
+                    <div>
+                        France
+                    </div>
+                </div>
+                <div style="display: inline-block; width: calc(100% / 3);">
+                    <img style="width: 100%;" src="/assets/imgs/new/图片14.png" alt="">
+                    <div>
+                        Israel
+                    </div>
+                </div>
+                <div style="display: inline-block; width: calc(100% / 3);">
+                    <img style="width: 100%;" src="/assets/imgs/new/图片15.png" alt="">
+                    <div>
+                        Mexico
+                    </div>
+                </div>
+                <div style="display: inline-block; width: calc(100% / 3);">
+                    <img style="width: 100%;" src="/assets/imgs/new/图片16.png" alt="">
+                    <div>
+                        Portugal
+                    </div>
+                </div>
             </div>
         </div>
     </div>
