@@ -8,3 +8,4 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 
 > Please make sure your screen width is equal to 1280 for optimal experience
+> 
