@@ -31,4 +31,4 @@ jobs:
           target_branch: gh-page-dist
           build_dir: ./dist
         env:
-          GITHUB_TOKEN: ${{ secrets.Page }}
+          GITHUB_TOKEN: ${{ secrets.PAGE }}
