@@ -22,7 +22,7 @@ for(let i = 22; i<46; i++) {
         </div>
         <div class="img">
             <div v-for="i in data.imgs">
-                <img style="width: 100%;" :src="`/assets/imgs/new/${i}`" alt="">
+                <img style="width: 100%;" :src="`./assets/imgs/new/${i}`" alt="">
             </div>
         </div>
     </div>
