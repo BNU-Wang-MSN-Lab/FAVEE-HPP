@@ -1,0 +1,235 @@
+{
+  "data": [
+    {
+      "x": [1.92459941394184, 1.80460887302693, 0.705502891684255, 1.47273164460474, 1.28680845822839, 1.14189068191193, 1.55957703551596, 1.14332455602314, 1.19216233718224, 1.98847596431432, 1.42218407734194, 1.83682500114388, 1.68341539261093, 1.72559134930805, 1.96218790826479, 1.76425467247412, 1.54343713485178, 1.77513069056192, -0.387679993721923, -0.441332140284222, -0.41747086002104, -0.149193170429824, -0.1775472051107, 2.15672386954663, 2.24039489879449, 0.540181230032968, 1.79916890961347, 1.6754405634303, 2.36668063420318, 2.24042402769579, 2.35990078604024, 2.34780306355869, 1.3459485819389, 1.8814411361121, 1.31060838152055, 2.0322567588712, 1.48762429926834, 1.22283694383166, 1.28140118210564, 1.27145543612971, 0.176501208738337, 1.82888951218783, 2.27167842969461, 1.98255804516902, 2.17265877594081, 1.98340187574094, 2.09060367173895, 0.0809926842295807],
+      "y": [1.66975061541954, 1.6445426502605, -2.92091589399838, 1.87283126575864, 1.75833363555808, 1.09555876026559, -0.512567248257348, 0.165982289949983, 0.327982010538312, 0.684034471959946, -0.116690534622033, 1.70683577553105, 1.77547524535874, 1.52736313460102, 1.52228775352219, 1.76331343486356, 1.57638062013839, 1.80211180646485, 0.856316088512958, 0.965365284473246, 1.02550965313624, 0.113345507971082, 3.29766434358317, -0.0450061242558711, -0.105682907677082, 2.73192733391229, -0.644355712236232, -0.86054847253121, -1.17514244922571, -1.08422596410742, -1.29272458655163, -1.26507595869687, -0.225946182255898, -0.0135080888521909, -0.00274363961343721, 0.0453286742635476, -0.28626996289482, -0.530799275203917, -0.673251622774685, -0.630385617607998, 0.855910812562892, -0.102087631131336, -0.583808727251166, -0.965323004354795, -0.673474983195534, -0.794043785231672, -0.931078399488241, 0.69699713170703],
+      "text": ["Divorced spouses", "A person and their in laws", "Cousins", "Guard-Prisoner", "Opposing negotiators", "Enemies", "Man Wife-Man Mistress", "Step siblings", "Distant relatives", "Victim-Criminal", "Drug dealer-Addict", "Victim-Witness", "Criminal-Police officer", "Criminal-Prosecutor", "Criminal-Hostage", "Defendant-Plaintiff", "Police officer-Offender", "Parole officer-Parolee", "Chef-Customer", "Customer-Server", "Customer-Businessman", "Club Member-Club President", "Religious followers", "Prostitute-Customer", "Slave-Master", "Criminal and their accomplice", "Peers", "Sorority sisters", "Landlord-Tenant", "Landlord-Housekeeper", "Guest-Host", "Television host-Guest", "Celebrity-Fans", "Celebrity-Haters", "Native-Tourist", "Bully-Victim", "Facebook friends", "A person and their social media follower", "Pen-friends", "Friends with benefits", "Political allies", "Ex-lovers", "Strangers", "Neighbors", "Fans of opposing sports teams", "Frenemies", "Alumni", "A monarch and their minister"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(190,190,190,1)",
+        "opacity": 0.8,
+        "size": 7.55905511811024,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(36,102,162,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Hostile",
+      "legendgroup": "Hostile",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [0.189732236861746, 0.481212706472225, -0.0331958463943063, 0.394434150868278, 0.550451312344981, -0.942169197402535, 1.05522294661463, -1.6182703593542, -1.78683612750771, -1.41962045485218, -0.785770234201843, 0.0584575629682118, -1.09411677711644, -1.25434472288211, 1.0414040880334, 0.910291284991783, 0.820209451250019, -0.923894162899543, -0.98754944798642, 0.637681698932293, 0.56756952106095, -0.604190524347036, -0.49699747218414, 1.19103926771157, 1.33292218812431, 1.2220971161503, -0.551065670589787, -0.454687257757916, -0.167190272689064, -0.902771791491291, -0.100652753016529, -0.310603426323662, -0.328386829081384, 0.654826557507643, 0.514320320725037, 0.648665636624229, 0.516914799073502, -2.19893855515826, -2.28703893477012],
+      "y": [-2.74901117511718, -2.91519273046613, -2.70951464794817, -2.87600192982128, -2.90760995358257, -1.63882478057525, -1.45630054612173, -1.33537359472461, -1.18391046405397, -0.530682830855591, -1.86474398187495, -1.91131305502065, -1.76458410528423, -1.48356565404308, -1.83278146229741, -1.96576379364741, -1.90577158839688, -0.918871930313018, -1.1813656040984, -2.03384486958711, -2.20058251328861, -1.50405675658908, -1.49276517916566, -1.63589669809645, -1.42700138535496, -1.64426679715132, -0.840849305343897, -2.08226768374759, -2.2840135455839, -1.9509621683313, -2.23418442440475, -1.4475270141278, -1.38663761982587, -1.60909713061215, -2.14506589638651, -2.31437522742648, -1.9343908555346, -1.01824461581879, -0.889092884392291],
+      "text": ["Parent-Child", "Parent-Teenager", "Wife-Husband", "Fiance-Fiancee", "Siblings", "Close friends", "Second cousins", "Parent-Infant", "Grandparent-Grandchild", "Ancestor-Descendant", "Bride-Groom", "Man-His Mistress", "Brother-Sister", "Close relatives", "Twins", "A person and their family friends", "A person and their deceased spouse", "Doctor-Patient", "Patient-Caretaker", "Sugar daddy-Sugar baby", "Man-God", "Classmates", "Roommates", "Fraternity brothers", "Bride-Bridesmaid", "Groom-Groomsman", "Friends", "Childhood friends", "Romantic lovers", "Life partners", "Soul mates", "Aunt-Niece(Nephew)", "Uncle-Niece(Nephew)", "Half siblings", "Adoptive parents-Adopted kids", "Mother-Infant", "A person and their significant other", "A person and their crush", "Long-distance lovers"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(190,190,190,1)",
+        "opacity": 0.8,
+        "size": 7.55905511811024,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(193,18,33,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Private",
+      "legendgroup": "Private",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [-2.11756383751762, -2.09502385302731, -2.05702424894841, -2.1807775391117, -2.03766141603291, -2.15987672916024, 0.967416828465016, 0.945347571258262, -1.90030075252751, -1.76853675950757, 0.652097734194124, 0.830491455189665, -1.90164572153208, -0.325845896231327, -0.257387109279559, -0.257768798050763, -0.315744775121451, -0.213303025896624, -0.258779811392973, -0.282077302175086, -0.349355717241322, -0.150313833682797, -1.2438034704168, -1.2622330563761, -1.19752458545337, -0.79980012341619, -0.909266596585979, -0.840574210617679, -0.773392591254177, -1.59968204608974, -0.610549654242004, -0.860064019802902, -1.64543464696282, -1.11746574197215, -1.32759706707389, -1.19603400174194, -1.57975970725533, -1.76205800345572, -2.35183882545437, -0.342816198624066, -0.34009170444548, -1.18251032251777, -0.447789457106778, -0.720585778583189, -0.464109123904707, -0.461230051716102, -0.330759979808751, -0.906361394064125, -0.885617265281137, -0.266744727859519, -1.02034359222483, 0.163749592301684, -0.0284704325701686, 0.342298450537244, -0.967969048941492, -0.886420376018358, -0.920982679943054, -2.04571553575114, -0.755615279948062, -0.978708674493532, 0.529717237528438, 2.02112348489515, -0.103526811652677, 0.320716913508633, 0.135065067930681, -2.1255414158263, 0.538493963215672, -2.38473666948304, -2.45854681554765, -2.02335995970144, -2.44397960886502, -2.29414156740374],
+      "y": [0.86632712180337, 1.03634227815325, 0.545172067880998, 0.388266625797018, 0.929651580668787, 0.690008973148154, 1.01027382276261, 0.974837557495407, 0.014652761856196, -0.0361756478159651, -1.28381522571045, -1.0668827924066, -0.0413402553771833, 3.01869499759757, 3.09804520226132, 3.11589302987853, 3.04553136565487, 1.1431079604573, 1.2805895009626, 1.18297578939453, 0.533187790507713, 1.25485770776899, 0.10786581940325, 0.412651605512064, -0.201660548839018, 0.389633143021634, 0.751692101538251, 0.360582764577907, 0.891288327346547, 1.09711827425243, 0.789536727808382, 0.109614167162747, 0.975190143507896, -0.270712306841705, -0.412313014360012, 0.348885813993699, -0.324257294471101, 0.884242086449187, -0.565504502450962, 3.010728192811, 3.20736823855313, 2.03017656685045, 3.20453312354293, 2.91735203938111, 0.0409647195044555, 0.0941480725343973, 0.141549284854075, -0.0340696473122511, -0.0687871004003461, 0.176628938285995, 2.59427293681582, 3.13684037831507, 3.08023120998464, 2.89655630171851, 2.70304965849524, 2.77714141986363, 2.77096285144592, -0.23910980366163, -0.295497492562467, -0.504533397998167, -1.09927100873847, -1.31557979187657, -0.376699927397617, -0.859841493475755, -0.902946926996687, 0.460338036154175, -1.41133189254004, -0.606933092568709, -0.471982178443747, 1.33171223157436, -0.582118108381107, -0.689092987967283],
+      "text": ["Employer-Employee", "Interviewer-Job applicant", "Nurse-Patient", "Therapist-Patient", "Salesperson-Customer", "Business partners", "Political opponents", "Business rivals", "Teacher-Student", "Professor-Graduate student", "Master-Servant", "Casual acquaintances", "Teammates in sports", "Step-parent-Step-child", "Foster-parent-Foster-child", "Godparent-Godchild", "Step-grandparent-Step-grandchild", "Manager-Staff", "Foreman-Laborer", "Owner-Manager", "Union leader-union member", "Manager-Assistant", "Chief-Deputy", "Supervisor-Subordinate", "Boss-Secretary", "Entrepreneur-Investor", "Intern-Employee", "Lawyer-Client", "Judge-Lawyer", "Police officer-Civilian", "Consultant-Client", "Doctor-Nurse", "Driver-Passenger", "Coach-athlete", "Team captain-Team members", "Politician-Supporter", "Leader-Follower", "Representative-Citizen", "Officer-Soldier", "Babysitter-Infant", "Religious leader-Congregant", "Guide-Tourist", "Athlete-Referee", "Reader-Writer", "Reviewer-Writer", "Performer-Audience", "Dealer-Buyer", "Director-Performer", "Psychologist-Client", "Judge-Contestant", "Co-workers", "Sports rivals", "Romantic rivals", "Diplomats", "Principal-Teacher", "Professor-Teaching Assistant", "University student-Administrator", "Student-Dorm Resident assistant", "Mentor-Mentee", "Athletic trainer-Trainee", "Researcher-Research Subject", "Predecessor-Successor", "Volunteer-Organizer", "Church members", "Fans of the same sports team", "Superior-Subordinate", "Confidants", "Companions", "Playmates", "Competitors in sports", "Cohabitants", "Brothers in-arms"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(190,190,190,1)",
+        "opacity": 0.8,
+        "size": 7.55905511811024,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(38,148,100,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Public",
+      "legendgroup": "Public",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    }
+  ],
+  "layout": {
+    "margin": {
+      "t": 24.3496412263536,
+      "r": 7.30593607305936,
+      "b": 38.5696495285536,
+      "l": 37.5259443752594
+    },
+    "plot_bgcolor": "rgba(255,255,255,1)",
+    "paper_bgcolor": "rgba(255,255,255,1)",
+    "font": {
+      "color": "rgba(0,0,0,1)",
+      "family": "",
+      "size": 14.6118721461187
+    },
+    "xaxis": {
+      "domain": [0, 1],
+      "automargin": true,
+      "type": "linear",
+      "autorange": false,
+      "range": [-2.69980818803519, 2.60794200669072],
+      "tickmode": "array",
+      "ticktext": ["-2", "-1", "0", "1", "2"],
+      "tickvals": [-2, -1, 4.44089209850063e-16, 1, 2],
+      "categoryorder": "array",
+      "categoryarray": ["-2", "-1", "0", "1", "2"],
+      "nticks": null,
+      "ticks": "outside",
+      "tickcolor": "rgba(51,51,51,1)",
+      "ticklen": 3.65296803652968,
+      "tickwidth": 0,
+      "showticklabels": true,
+      "tickfont": {
+        "color": "rgba(77,77,77,1)",
+        "family": "",
+        "size": 13.2835201328352
+      },
+      "tickangle": -0,
+      "showline": true,
+      "linecolor": "rgba(0,0,0,1)",
+      "linewidth": 0,
+      "showgrid": false,
+      "gridcolor": null,
+      "gridwidth": 0,
+      "zeroline": false,
+      "anchor": "y",
+      "title": {
+        "text": "Dim1",
+        "font": {
+          "color": "rgba(0,0,0,1)",
+          "family": "",
+          "size": 13.2835201328352
+        }
+      },
+      "hoverformat": ".2f"
+    },
+    "yaxis": {
+      "domain": [0, 1],
+      "automargin": true,
+      "type": "linear",
+      "autorange": false,
+      "range": [-3.23184490587745, 3.60859335546224],
+      "tickmode": "array",
+      "ticktext": ["-2", "0", "2"],
+      "tickvals": [-2, 0, 2],
+      "categoryorder": "array",
+      "categoryarray": ["-2", "0", "2"],
+      "nticks": null,
+      "ticks": "outside",
+      "tickcolor": "rgba(51,51,51,1)",
+      "ticklen": 3.65296803652968,
+      "tickwidth": 0,
+      "showticklabels": true,
+      "tickfont": {
+        "color": "rgba(77,77,77,1)",
+        "family": "",
+        "size": 13.2835201328352
+      },
+      "tickangle": -0,
+      "showline": true,
+      "linecolor": "rgba(0,0,0,1)",
+      "linewidth": 0,
+      "showgrid": false,
+      "gridcolor": null,
+      "gridwidth": 0,
+      "zeroline": false,
+      "anchor": "x",
+      "title": {
+        "text": "Dim2",
+        "font": {
+          "color": "rgba(0,0,0,1)",
+          "family": "",
+          "size": 13.2835201328352
+        }
+      },
+      "hoverformat": ".2f"
+    },
+    "shapes": [
+      {
+        "type": "rect",
+        "fillcolor": null,
+        "line": {
+          "color": null,
+          "width": 0,
+          "linetype": []
+        },
+        "yref": "paper",
+        "xref": "paper",
+        "x0": 0,
+        "x1": 1,
+        "y0": 0,
+        "y1": 1
+      }
+    ],
+    "showlegend": true,
+    "legend": false,
+    "hovermode": "closest",
+    "width": 400,
+    "height": 350,
+    "barmode": "relative"
+  },
+  "config": {
+    "doubleClick": "reset",
+    "modeBarButtonsToAdd": ["hoverclosest", "hovercompare"],
+    "showSendToCloud": false
+  },
+  "source": "A",
+  "attrs": {
+    "9a4432373951": {
+      "x": {},
+      "y": {},
+      "label": {},
+      "text": {},
+      "colour": {},
+      "type": "scatter"
+    }
+  },
+  "cur_data": "9a4432373951",
+  "visdat": {
+    "9a4432373951": ["function (y) ", "x"]
+  },
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "shinyEvents": ["plotly_hover", "plotly_click", "plotly_selected", "plotly_relayout", "plotly_brushed", "plotly_brushing", "plotly_clickannotation", "plotly_doubleclick", "plotly_deselect", "plotly_afterplot", "plotly_sunburstclick"],
+  "base_url": "https://plot.ly"
+}
