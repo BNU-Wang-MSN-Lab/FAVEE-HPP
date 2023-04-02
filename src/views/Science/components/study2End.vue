@@ -20,7 +20,7 @@ const clickEvent = (e) => {
             <div @click="clickEvent" data-alert-view="study2_1">More Details</div>
         </div>
         <div class="img">
-            <img src="@/assets/img/science/Extended Data Fig. 5.png" alt="">
+            <img src="@/assets/img/science/Extended_Data_Fig._5.png" alt="">
         </div>
     </div>
 </template>

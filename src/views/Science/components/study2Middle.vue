@@ -4,7 +4,7 @@
             Using laboratory behavioral experiments, we identified three building blocks for social relationship knowledge:
         </div>
         <div class="img">
-            <img src="@/assets/img/science/Fig. 20.png" alt="">
+            <img src="@/assets/img/science/Fig._20.png" alt="">
         </div>
     </div>
 </template>

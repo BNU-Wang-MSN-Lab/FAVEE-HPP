@@ -11,7 +11,7 @@
                 <img src="@/assets/img/science/65462.png.png" alt="">
             </div>
             <div>
-                <img src="@/assets/img/science/54654. 2.png" alt="">
+                <img src="@/assets/img/science/54654._2.png" alt="">
             </div>
             <div>
                 <div class="tit">Conclusion:</div>

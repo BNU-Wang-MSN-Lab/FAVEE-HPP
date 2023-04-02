@@ -5,7 +5,7 @@
       v-for="(item, index) in list"
       :key="item"
       :msg="item"
-      :img="`src/assets/img/home/card/card_img${index+1}.png`"
+      :img="index"
       :index="index"
     >
     </hover-card>

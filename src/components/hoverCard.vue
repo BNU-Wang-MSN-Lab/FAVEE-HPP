@@ -3,9 +3,15 @@ import { ref, computed } from "vue";
 
 const prop = defineProps({
   msg: String,
-  img: String,
+  img: Number,
   index: Number,
 });
+const ii = prop.img + 1;
+const imgSrc = ref("");
+import(`../assets/img/home/card/card_img${ii}.png`)
+  .then(r => r.default)
+  .then(r => imgSrc.value = r);
+
 let sumOrigin = computed(() => {
   if (prop.index == 0) return "right-bottom";
   if (prop.index > 0 && prop.index < 6) return "center-bottom";
@@ -22,7 +28,7 @@ let sumOrigin = computed(() => {
   <div
     class="hover-card"
     :class="sumOrigin"
-    :style="`background: url(${img}) center/cover no-repeat`"
+    :style="`background: url(${imgSrc}) center/cover no-repeat`"
   >
     <div class="hover-bottom">
       <div class="answer">

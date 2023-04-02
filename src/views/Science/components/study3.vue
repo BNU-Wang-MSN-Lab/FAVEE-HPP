@@ -22,7 +22,7 @@ const clickEvent = (e) => {
         </div>
         <div class="img">
             <img src="@/assets/img/science/世界地图.png" alt="">
-            <img src="@/assets/img/science/relationship compass.png" alt="">
+            <img src="@/assets/img/science/relationship_compass.png" alt="">
         </div>
         <div class="sub-tit">
             FAVEE-HPP: A Universal relationship compass across cultures
