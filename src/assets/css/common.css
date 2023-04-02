@@ -1,0 +1,50 @@
+:root {
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+
+    --lightblue: rgba(102, 109, 255, 1);
+    --blue: rgba(68, 76, 252, 1);
+    --blue1: rgba(79, 86, 255, 1);
+    --lightorange: rgba(255, 211, 175, 1);
+    --orange: rgba(255, 161, 85, 1);
+    --grey: rgba(0, 0, 0, 0.2);
+    --morelightorange: rgba(255, 223, 198, 1);
+  
+    --bg1: rgba(250, 250, 252, 1);
+    --bg2: rgba(255, 255, 255, 1);
+    --bg3: rgba(249, 249, 255, 1);
+    --bg4: #e3e3e3;
+  
+    --font-color-body: rgba(35, 37, 54, 1);
+    --font-color-white: #fff;
+    --font-color-link: rgba(68, 76, 252, 1);
+    --font-color-blue: rgba(97, 77, 229, 1);
+
+    /* color-scheme: light dark; */
+    /* background-color: #242424; */
+    --theme-color-orange: rgba(255, 161, 85, 1);
+    --theme-color-blue: rgba(68, 76, 252, 1);
+    user-select: none;
+    font-size: 16px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 600px) {
+    :root {
+        font-size: 9px;
+    }
+}

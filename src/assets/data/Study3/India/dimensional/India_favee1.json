@@ -1,0 +1,242 @@
+{
+  "data": [
+    {
+      "x": [-2.96945720483944, -2.50822344323497, -2.77362577745161, -2.65391290765615, -1.64706029866745, -0.385145385095629, -1.01165033226726, -1.5475703150093, 0.619909166280671, 0.612659235423474, -0.113335076511451, 0.484326986179608, 0.406876147526192, 0.750678509145743, 1.04867953443136, 0.587331880601836, 0.941380524299324, 1.16051937537241, 0.652769128490715, 0.831975560672283, 0.914906135658484, 0.400837360536231, -0.450184375383441, 0.0566382578374547, 1.45472971440747, 0.00675109902931253, -1.13905974362114, -0.437223508694023, -0.0699594997941955, -0.000344108466229523, -0.237656159803005, -0.147333430484711, -0.184822563816643, -1.40247027583043, -1.16865675123215, -0.704881046447578, -0.729208851080801, -0.550880707232391, -0.362060245153811, -0.786210773544683, -1.83547685008035, -0.983926260110675, -1.74600583995905, 1.12997905363388, 1.16703099142548, 1.63225217639188, 1.02935814565911, 1.15688540826632, 0.817339677217123, 0.584820616831208, 0.619305273025132, 0.441187631170098, 0.63734186347585, 0.701926250690896, 0.644811576460014, -0.439712909435597, -0.64689794060025, -1.25409532644206, -0.734455723229723, -0.558663332011587, -0.712322080048283, -0.600389065318774, -0.270454530065731, 0.508026382494963, -0.350877304567878, 1.27422942967237, 0.550153962960757, 1.36171514109785, 0.683158544380855, -0.603208934427703, -0.81648095950331, -0.611134612717947, 1.77534880510406, 0.872799627154909, 0.774476976790253, 0.645868238707494, 0.49958998741331, 0.300957734465398, 0.466396387860952, 0.356150618404819, 0.314676824254044, 0.209658458567696, 0.57993851961702, -0.012907044387032, 1.28954463774392, 0.159779738749019, 0.758392474353657, 1.12221648563985, 1.33339959214178, 0.4853340406858, 1.9271888000712, -1.18734027057505, 1.2744326755958, 1.11508755499104, 0.725826622547099, -1.18253714489502, 0.94909834205809, 0.971912572350609, -1.06104688507787, 0.0736769080853522, 1.14392111736713, 0.874496363372223, 0.662062008571307, 0.71139803729407, -0.420629871992451, 0.428682895366668, 0.0580512970877866, 0.365467852534191, -0.73562758686318, -0.683884306733129, -0.665655777414502, -0.321205731158891, -0.034458035727551, 0.14963952315571, -0.0131524374599076, 1.38102074060392, 1.51585440070211, 1.22457045524046, 0.907483983269067, 1.77391613773308, 0.182920227779589, -0.391643329510354, -0.66784460427178, -0.505733691085346, -0.523944208819543, -1.03468162322492, -0.556759409821965, -0.320141493242738, -1.45275809050293, -0.990840362451207, -0.229206417298196, 0.556190669860927, -2.61569895915386, -1.25451354642824, -1.93978577420519, -1.53157213592896, 1.14972383522249, 0.951306351778049, 0.488952526980902, 0.000421036651008844, 0.613502620096726, 1.50472854785638, 0.192901904122603, 0.125822525725695, 0.495333712297583, 0.0612396588702257, -0.621050216458018, -1.28314219072824, 1.08988506301519, 0.694771872293451, 0.19554932736376, -0.519309986579987, -0.819625551484699, -0.438826286341514, 0.544317827980245, -1.84202342192666, -1.35208267317827, -0.990773019407828, -0.550939350119652],
+      "y": [0.376806956373071, -0.535060953246499, 0.748217452870364, -0.337480818663407, -0.705572528581002, -1.05329500946149, -0.755407670993072, -0.75803559296307, 1.84516178269327, 1.14578194492303, 0.112998140107637, 1.54600047025928, 1.73540350424126, 0.956646972720656, 1.38846088727029, -0.385358045522555, 0.24980335368021, 0.113399290745597, -0.700152132375825, 1.07404515627865, 0.917781512023941, -0.202050838493576, 1.18366688348981, -0.571008219439008, 1.28695253099458, 0.338630476015515, 2.09663123011996, 1.5973719711501, 0.25566903443722, -0.0413314197150975, 0.033667950699957, -0.17539386706745, 1.0321729842617, 1.11948454940933, -0.340253787734755, -1.69374641078426, 1.34414806992887, -0.555412321678703, -0.643840574898496, 1.4818688684506, -0.422727325091526, -0.436307863059526, -1.22286243443597, 0.129547128618126, 0.42040928162393, -0.0378920274525221, -0.155073723405566, 0.780295922305147, 1.04351356873729, 0.795122302495677, 1.09051192789132, -0.16693402068299, -0.0743472930532298, 0.284049699703197, 0.0597853758358778, -2.07451673749925, -1.29736755086377, -0.184563241468634, -0.143884518475962, -0.466863625730098, -0.490668274720522, 0.138033681760499, 0.0423726469483888, 0.588526262374994, -0.177591553660546, -0.0814381254598898, -0.583602459644518, -0.824151084821143, -0.384372951947358, 0.452086437961524, 0.528838152043273, 0.587329612285357, 0.414316756982578, 0.375013960550391, 0.65126219431912, -0.30596474279034, 0.386205317018807, 0.708430889414222, 1.23824351697192, 2.17361166960336, 0.570488613536286, -0.229898211053877, -0.693882830282545, -2.6955904389294, 0.0951873440374317, 0.356849633484275, -1.60309165127627, 0.429450113792659, 0.0627220242779096, -0.0995504284821488, -0.13445668161062, -0.941042536400504, 0.34938383001233, 0.136055267031091, 0.196961868498321, -0.365667081275273, 0.699586096390212, 0.268138588670202, 0.380799487409108, -0.604226026740419, -0.0602661941973138, 0.607759627756516, 0.467542769175374, -0.0330761937435943, 0.984402183186024, 0.392666489800389, 0.891811713818396, -0.516523398183718, -1.78535166873516, 1.10295655848911, 0.568142427337029, -1.45614844340535, -0.585304023773651, -0.750268567338719, -0.618686472095112, -0.410986920432483, -1.6092165873598, -1.6168766925156, -1.55354341892965, -1.3995377631575, 0.0784023139153282, -1.14605383086914, -2.63700608384735, -0.910668968607279, -2.38288316681953, 0.573687589731049, -0.93679798129506, -1.06397248516851, 0.394331244833264, -0.903968949959137, -1.32600458910485, -0.172657096270259, -0.0830560319299317, -1.81509669339829, 1.84319884038889, -0.497613469669843, -2.72304108320924, -1.14929984447944, 0.0827314206217248, 0.136222259903457, -1.25713317167699, 0.902785208407494, 0.646959282008533, 0.713706561257567, -1.01267513247671, -0.558165052239268, -0.533185174135285, -0.249429492844357, -0.94488860287064, -0.436634314361012, -0.234502704953161, -0.583198926004555, 1.67858936381141, 1.73127634747157, 1.06948605963884, 1.61105287613628, 1.83096303064434, 1.55869099792361, 2.02438851000429],
+      "text": ["<b><\/br> Parent-Child <\/b> <\/br>Formality: -2.97 <\/br>Activeness: 0.38 <\/br>Valence: 1.71 <\/br>Exchange: 0.8 <\/br>Equality: -0.61", "<b><\/br> Parent-Teenager <\/b> <\/br>Formality: -2.51 <\/br>Activeness: -0.54 <\/br>Valence: 1.62 <\/br>Exchange: 0.38 <\/br>Equality: -0.73", "<b><\/br> Wife-Husband <\/b> <\/br>Formality: -2.77 <\/br>Activeness: 0.75 <\/br>Valence: 0.74 <\/br>Exchange: 0.95 <\/br>Equality: -0.46", "<b><\/br> Fiance-Fiancee <\/b> <\/br>Formality: -2.65 <\/br>Activeness: -0.34 <\/br>Valence: 1.24 <\/br>Exchange: 0.04 <\/br>Equality: -0.5", "<b><\/br> Siblings <\/b> <\/br>Formality: -1.65 <\/br>Activeness: -0.71 <\/br>Valence: 1.16 <\/br>Exchange: 1.16 <\/br>Equality: -0.73", "<b><\/br> Divorced spouses <\/b> <\/br>Formality: -0.39 <\/br>Activeness: -1.05 <\/br>Valence: -0.89 <\/br>Exchange: -2.68 <\/br>Equality: -1.87", "<b><\/br> A person and their in laws <\/b> <\/br>Formality: -1.01 <\/br>Activeness: -0.76 <\/br>Valence: 0.17 <\/br>Exchange: -0.57 <\/br>Equality: -1.62", "<b><\/br> Cousins <\/b> <\/br>Formality: -1.55 <\/br>Activeness: -0.76 <\/br>Valence: 1.57 <\/br>Exchange: 0.5 <\/br>Equality: -0.74", "<b><\/br> Employer-Employee <\/b> <\/br>Formality: 0.62 <\/br>Activeness: 1.85 <\/br>Valence: -0.35 <\/br>Exchange: -0.65 <\/br>Equality: -0.99", "<b><\/br> Interviewer-Job applicant <\/b> <\/br>Formality: 0.61 <\/br>Activeness: 1.15 <\/br>Valence: 0.24 <\/br>Exchange: -0.83 <\/br>Equality: -1.53", "<b><\/br> Guard-Prisoner <\/b> <\/br>Formality: -0.11 <\/br>Activeness: 0.11 <\/br>Valence: -0.43 <\/br>Exchange: -0.99 <\/br>Equality: -1.6", "<b><\/br> Nurse-Patient <\/b> <\/br>Formality: 0.48 <\/br>Activeness: 1.55 <\/br>Valence: 0.33 <\/br>Exchange: -0.38 <\/br>Equality: -0.32", "<b><\/br> Therapist-Patient <\/b> <\/br>Formality: 0.41 <\/br>Activeness: 1.74 <\/br>Valence: 0.36 <\/br>Exchange: -0.47 <\/br>Equality: -0.36", "<b><\/br> Salesperson-Customer <\/b> <\/br>Formality: 0.75 <\/br>Activeness: 0.96 <\/br>Valence: -0.57 <\/br>Exchange: -0.66 <\/br>Equality: -0.42", "<b><\/br> Business partners <\/b> <\/br>Formality: 1.05 <\/br>Activeness: 1.39 <\/br>Valence: -0.46 <\/br>Exchange: -0.37 <\/br>Equality: -0.11", "<b><\/br> Opposing negotiators <\/b> <\/br>Formality: 0.59 <\/br>Activeness: -0.39 <\/br>Valence: -0.95 <\/br>Exchange: -0.76 <\/br>Equality: -1.04", "<b><\/br> Political opponents <\/b> <\/br>Formality: 0.94 <\/br>Activeness: 0.25 <\/br>Valence: -2 <\/br>Exchange: -0.82 <\/br>Equality: 0.3", "<b><\/br> Business rivals <\/b> <\/br>Formality: 1.16 <\/br>Activeness: 0.11 <\/br>Valence: -2.18 <\/br>Exchange: -0.58 <\/br>Equality: 0.7", "<b><\/br> Enemies <\/b> <\/br>Formality: 0.65 <\/br>Activeness: -0.7 <\/br>Valence: -2.12 <\/br>Exchange: -1.6 <\/br>Equality: 0.6", "<b><\/br> Teacher-Student <\/b> <\/br>Formality: 0.83 <\/br>Activeness: 1.07 <\/br>Valence: 0.61 <\/br>Exchange: 0.28 <\/br>Equality: 1.16", "<b><\/br> Professor-Graduate student <\/b> <\/br>Formality: 0.91 <\/br>Activeness: 0.92 <\/br>Valence: 0.83 <\/br>Exchange: 0.39 <\/br>Equality: 0.99", "<b><\/br> Master-Servant <\/b> <\/br>Formality: 0.4 <\/br>Activeness: -0.2 <\/br>Valence: 0.68 <\/br>Exchange: -0.18 <\/br>Equality: 0.93", "<b><\/br> Close friends <\/b> <\/br>Formality: -0.45 <\/br>Activeness: 1.18 <\/br>Valence: -0.4 <\/br>Exchange: 0.85 <\/br>Equality: 1.76", "<b><\/br> Casual acquaintances <\/b> <\/br>Formality: 0.06 <\/br>Activeness: -0.57 <\/br>Valence: 0.47 <\/br>Exchange: 0.39 <\/br>Equality: 0.39", "<b><\/br> Teammates in sports <\/b> <\/br>Formality: 1.45 <\/br>Activeness: 1.29 <\/br>Valence: -0.04 <\/br>Exchange: -0.09 <\/br>Equality: 2.03", "<b><\/br> Second cousins <\/b> <\/br>Formality: 0.01 <\/br>Activeness: 0.34 <\/br>Valence: 0.75 <\/br>Exchange: -0.63 <\/br>Equality: 2.15", "<b><\/br> Parent-Infant <\/b> <\/br>Formality: -1.14 <\/br>Activeness: 2.1 <\/br>Valence: 1.05 <\/br>Exchange: -0.17 <\/br>Equality: 2.41", "<b><\/br> Grandparent-Grandchild <\/b> <\/br>Formality: -0.44 <\/br>Activeness: 1.6 <\/br>Valence: 1.98 <\/br>Exchange: -0.36 <\/br>Equality: 2.02", "<b><\/br> Step-parent-Step-child <\/b> <\/br>Formality: -0.07 <\/br>Activeness: 0.26 <\/br>Valence: 1.02 <\/br>Exchange: -1.61 <\/br>Equality: 0.35", "<b><\/br> Foster-parent-Foster-child <\/b> <\/br>Formality: 0 <\/br>Activeness: -0.04 <\/br>Valence: 1.55 <\/br>Exchange: -1.33 <\/br>Equality: 0.29", "<b><\/br> Godparent-Godchild <\/b> <\/br>Formality: -0.24 <\/br>Activeness: 0.03 <\/br>Valence: 2.02 <\/br>Exchange: -1.68 <\/br>Equality: 0.85", "<b><\/br> Step-grandparent-Step-grandchild <\/b> <\/br>Formality: -0.15 <\/br>Activeness: -0.18 <\/br>Valence: 2.21 <\/br>Exchange: -1.4 <\/br>Equality: 0.12", "<b><\/br> Ancestor-Descendant <\/b> <\/br>Formality: -0.18 <\/br>Activeness: 1.03 <\/br>Valence: -0.42 <\/br>Exchange: 1.05 <\/br>Equality: -0.3", "<b><\/br> Bride-Groom <\/b> <\/br>Formality: -1.4 <\/br>Activeness: 1.12 <\/br>Valence: -1.33 <\/br>Exchange: 1.43 <\/br>Equality: 0.73", "<b><\/br> Man-His Mistress <\/b> <\/br>Formality: -1.17 <\/br>Activeness: -0.34 <\/br>Valence: -1.34 <\/br>Exchange: 2.14 <\/br>Equality: 0.11", "<b><\/br> Man Wife-Man Mistress <\/b> <\/br>Formality: -0.7 <\/br>Activeness: -1.69 <\/br>Valence: -1.02 <\/br>Exchange: 0.8 <\/br>Equality: -0.13", "<b><\/br> Brother-Sister <\/b> <\/br>Formality: -0.73 <\/br>Activeness: 1.34 <\/br>Valence: -0.98 <\/br>Exchange: 1.72 <\/br>Equality: 0.71", "<b><\/br> Step siblings <\/b> <\/br>Formality: -0.55 <\/br>Activeness: -0.56 <\/br>Valence: -0.49 <\/br>Exchange: 0.2 <\/br>Equality: -0.74", "<b><\/br> Distant relatives <\/b> <\/br>Formality: -0.36 <\/br>Activeness: -0.64 <\/br>Valence: -0.13 <\/br>Exchange: 0.07 <\/br>Equality: -1.01", "<b><\/br> Close relatives <\/b> <\/br>Formality: -0.79 <\/br>Activeness: 1.48 <\/br>Valence: -0.93 <\/br>Exchange: 0.88 <\/br>Equality: -0.16", "<b><\/br> Twins <\/b> <\/br>Formality: -1.84 <\/br>Activeness: -0.42 <\/br>Valence: 0.2 <\/br>Exchange: 0.1 <\/br>Equality: 2.43", "<b><\/br> A person and their family friends <\/b> <\/br>Formality: -0.98 <\/br>Activeness: -0.44 <\/br>Valence: 0.67 <\/br>Exchange: 0.75 <\/br>Equality: 1.17", "<b><\/br> A person and their deceased spouse <\/b> <\/br>Formality: -1.75 <\/br>Activeness: -1.22 <\/br>Valence: 0.19 <\/br>Exchange: 0.62 <\/br>Equality: 1.04", "<b><\/br> Manager-Staff <\/b> <\/br>Formality: 1.13 <\/br>Activeness: 0.13 <\/br>Valence: -0.21 <\/br>Exchange: 0.33 <\/br>Equality: -1.36", "<b><\/br> Foreman-Laborer <\/b> <\/br>Formality: 1.17 <\/br>Activeness: 0.42 <\/br>Valence: 0.09 <\/br>Exchange: 0.18 <\/br>Equality: -1.86", "<b><\/br> Owner-Manager <\/b> <\/br>Formality: 1.63 <\/br>Activeness: -0.04 <\/br>Valence: 0.2 <\/br>Exchange: 0.78 <\/br>Equality: -1.6", "<b><\/br> Union leader-union member <\/b> <\/br>Formality: 1.03 <\/br>Activeness: -0.16 <\/br>Valence: -0.41 <\/br>Exchange: 0.51 <\/br>Equality: -0.51", "<b><\/br> Manager-Assistant <\/b> <\/br>Formality: 1.16 <\/br>Activeness: 0.78 <\/br>Valence: -0.89 <\/br>Exchange: 1.02 <\/br>Equality: -1.54", "<b><\/br> Chief-Deputy <\/b> <\/br>Formality: 0.82 <\/br>Activeness: 1.04 <\/br>Valence: 0.2 <\/br>Exchange: 0.69 <\/br>Equality: -0.71", "<b><\/br> Supervisor-Subordinate <\/b> <\/br>Formality: 0.58 <\/br>Activeness: 0.8 <\/br>Valence: 0.13 <\/br>Exchange: 0.24 <\/br>Equality: -0.34", "<b><\/br> Boss-Secretary <\/b> <\/br>Formality: 0.62 <\/br>Activeness: 1.09 <\/br>Valence: 0.01 <\/br>Exchange: 1.35 <\/br>Equality: -0.96", "<b><\/br> Entrepreneur-Investor <\/b> <\/br>Formality: 0.44 <\/br>Activeness: -0.17 <\/br>Valence: 0.86 <\/br>Exchange: 1.1 <\/br>Equality: -0.72", "<b><\/br> Intern-Employee <\/b> <\/br>Formality: 0.64 <\/br>Activeness: -0.07 <\/br>Valence: 0.39 <\/br>Exchange: 0.89 <\/br>Equality: -0.7", "<b><\/br> Lawyer-Client <\/b> <\/br>Formality: 0.7 <\/br>Activeness: 0.28 <\/br>Valence: 0.51 <\/br>Exchange: 0.96 <\/br>Equality: -0.44", "<b><\/br> Judge-Lawyer <\/b> <\/br>Formality: 0.64 <\/br>Activeness: 0.06 <\/br>Valence: 0.27 <\/br>Exchange: 0.07 <\/br>Equality: -1.07", "<b><\/br> Victim-Criminal <\/b> <\/br>Formality: -0.44 <\/br>Activeness: -2.07 <\/br>Valence: -1.2 <\/br>Exchange: -1.65 <\/br>Equality: -0.77", "<b><\/br> Drug dealer-Addict <\/b> <\/br>Formality: -0.65 <\/br>Activeness: -1.3 <\/br>Valence: 0.24 <\/br>Exchange: 0.61 <\/br>Equality: -1.26", "<b><\/br> Victim-Witness <\/b> <\/br>Formality: -1.25 <\/br>Activeness: -0.18 <\/br>Valence: -0.74 <\/br>Exchange: -1.38 <\/br>Equality: -1.66", "<b><\/br> Criminal-Police officer <\/b> <\/br>Formality: -0.73 <\/br>Activeness: -0.14 <\/br>Valence: -1.57 <\/br>Exchange: -1.28 <\/br>Equality: -1.75", "<b><\/br> Criminal-Prosecutor <\/b> <\/br>Formality: -0.56 <\/br>Activeness: -0.47 <\/br>Valence: -0.94 <\/br>Exchange: -1.19 <\/br>Equality: -1.28", "<b><\/br> Criminal-Hostage <\/b> <\/br>Formality: -0.71 <\/br>Activeness: -0.49 <\/br>Valence: -0.59 <\/br>Exchange: -1.14 <\/br>Equality: -1.22", "<b><\/br> Defendant-Plaintiff <\/b> <\/br>Formality: -0.6 <\/br>Activeness: 0.14 <\/br>Valence: -0.33 <\/br>Exchange: -1.66 <\/br>Equality: -1.32", "<b><\/br> Police officer-Offender <\/b> <\/br>Formality: -0.27 <\/br>Activeness: 0.04 <\/br>Valence: -1.44 <\/br>Exchange: -1.18 <\/br>Equality: -0.73", "<b><\/br> Police officer-Civilian <\/b> <\/br>Formality: 0.51 <\/br>Activeness: 0.59 <\/br>Valence: 0.2 <\/br>Exchange: -0.28 <\/br>Equality: -0.61", "<b><\/br> Parole officer-Parolee <\/b> <\/br>Formality: -0.35 <\/br>Activeness: -0.18 <\/br>Valence: 1.14 <\/br>Exchange: -1.32 <\/br>Equality: -2.91", "<b><\/br> Consultant-Client <\/b> <\/br>Formality: 1.27 <\/br>Activeness: -0.08 <\/br>Valence: 0.6 <\/br>Exchange: 1.14 <\/br>Equality: -0.86", "<b><\/br> Chef-Customer <\/b> <\/br>Formality: 0.55 <\/br>Activeness: -0.58 <\/br>Valence: 1.4 <\/br>Exchange: 1.27 <\/br>Equality: -1.58", "<b><\/br> Customer-Server <\/b> <\/br>Formality: 1.36 <\/br>Activeness: -0.82 <\/br>Valence: 0.81 <\/br>Exchange: 0.91 <\/br>Equality: -0.83", "<b><\/br> Customer-Businessman <\/b> <\/br>Formality: 0.68 <\/br>Activeness: -0.38 <\/br>Valence: 0.78 <\/br>Exchange: 1.96 <\/br>Equality: -1.87", "<b><\/br> Doctor-Patient <\/b> <\/br>Formality: -0.6 <\/br>Activeness: 0.45 <\/br>Valence: 2.23 <\/br>Exchange: 1.48 <\/br>Equality: -0.97", "<b><\/br> Doctor-Nurse <\/b> <\/br>Formality: -0.82 <\/br>Activeness: 0.53 <\/br>Valence: 2.11 <\/br>Exchange: 0.52 <\/br>Equality: -2.3", "<b><\/br> Patient-Caretaker <\/b> <\/br>Formality: -0.61 <\/br>Activeness: 0.59 <\/br>Valence: 1.88 <\/br>Exchange: 1.84 <\/br>Equality: -0.16", "<b><\/br> Driver-Passenger <\/b> <\/br>Formality: 1.78 <\/br>Activeness: 0.41 <\/br>Valence: -0.14 <\/br>Exchange: 1.11 <\/br>Equality: -0.4", "<b><\/br> Coach-athlete <\/b> <\/br>Formality: 0.87 <\/br>Activeness: 0.38 <\/br>Valence: -0.2 <\/br>Exchange: 1.61 <\/br>Equality: 0.11", "<b><\/br> Team captain-Team members <\/b> <\/br>Formality: 0.77 <\/br>Activeness: 0.65 <\/br>Valence: -0.95 <\/br>Exchange: 1.1 <\/br>Equality: 0.49", "<b><\/br> Club Member-Club President <\/b> <\/br>Formality: 0.65 <\/br>Activeness: -0.31 <\/br>Valence: -1.2 <\/br>Exchange: 0.35 <\/br>Equality: 0.06", "<b><\/br> Politician-Supporter <\/b> <\/br>Formality: 0.5 <\/br>Activeness: 0.39 <\/br>Valence: -1.02 <\/br>Exchange: -0.1 <\/br>Equality: 0.09", "<b><\/br> Leader-Follower <\/b> <\/br>Formality: 0.3 <\/br>Activeness: 0.71 <\/br>Valence: -0.32 <\/br>Exchange: 0.29 <\/br>Equality: 0.23", "<b><\/br> Representative-Citizen <\/b> <\/br>Formality: 0.47 <\/br>Activeness: 1.24 <\/br>Valence: -1.35 <\/br>Exchange: -0.51 <\/br>Equality: -0.37", "<b><\/br> Officer-Soldier <\/b> <\/br>Formality: 0.36 <\/br>Activeness: 2.17 <\/br>Valence: -1.27 <\/br>Exchange: 0.09 <\/br>Equality: -0.28", "<b><\/br> Babysitter-Infant <\/b> <\/br>Formality: 0.31 <\/br>Activeness: 0.57 <\/br>Valence: 2.6 <\/br>Exchange: -0.56 <\/br>Equality: 0.76", "<b><\/br> Religious leader-Congregant <\/b> <\/br>Formality: 0.21 <\/br>Activeness: -0.23 <\/br>Valence: 0.77 <\/br>Exchange: -1.43 <\/br>Equality: 0.35", "<b><\/br> Religious followers <\/b> <\/br>Formality: 0.58 <\/br>Activeness: -0.69 <\/br>Valence: 1.13 <\/br>Exchange: -1.51 <\/br>Equality: 0.48", "<b><\/br> Prostitute-Customer <\/b> <\/br>Formality: -0.01 <\/br>Activeness: -2.7 <\/br>Valence: 0.78 <\/br>Exchange: -0.19 <\/br>Equality: -0.11", "<b><\/br> Guide-Tourist <\/b> <\/br>Formality: 1.29 <\/br>Activeness: 0.1 <\/br>Valence: 1.38 <\/br>Exchange: 0.13 <\/br>Equality: 0.22", "<b><\/br> Athlete-Referee <\/b> <\/br>Formality: 0.16 <\/br>Activeness: 0.36 <\/br>Valence: 1.71 <\/br>Exchange: -2.28 <\/br>Equality: 0.07", "<b><\/br> Slave-Master <\/b> <\/br>Formality: 0.76 <\/br>Activeness: -1.6 <\/br>Valence: -0.73 <\/br>Exchange: -1.31 <\/br>Equality: 0.49", "<b><\/br> Reader-Writer <\/b> <\/br>Formality: 1.12 <\/br>Activeness: 0.43 <\/br>Valence: 1.99 <\/br>Exchange: -0.76 <\/br>Equality: 0.39", "<b><\/br> Reviewer-Writer <\/b> <\/br>Formality: 1.33 <\/br>Activeness: 0.06 <\/br>Valence: -0.65 <\/br>Exchange: 1.16 <\/br>Equality: -0.31", "<b><\/br> Performer-Audience <\/b> <\/br>Formality: 0.49 <\/br>Activeness: -0.1 <\/br>Valence: -0.23 <\/br>Exchange: 1.73 <\/br>Equality: -0.78", "<b><\/br> Dealer-Buyer <\/b> <\/br>Formality: 1.93 <\/br>Activeness: -0.13 <\/br>Valence: -1.34 <\/br>Exchange: 1.27 <\/br>Equality: -0.51", "<b><\/br> Sugar daddy-Sugar baby <\/b> <\/br>Formality: -1.19 <\/br>Activeness: -0.94 <\/br>Valence: -0.12 <\/br>Exchange: 0.34 <\/br>Equality: 0.92", "<b><\/br> Director-Performer <\/b> <\/br>Formality: 1.27 <\/br>Activeness: 0.35 <\/br>Valence: -0.65 <\/br>Exchange: 1.14 <\/br>Equality: 0.25", "<b><\/br> Psychologist-Client <\/b> <\/br>Formality: 1.12 <\/br>Activeness: 0.14 <\/br>Valence: -0.92 <\/br>Exchange: 1.34 <\/br>Equality: 0.26", "<b><\/br> Judge-Contestant <\/b> <\/br>Formality: 0.73 <\/br>Activeness: 0.2 <\/br>Valence: -0.27 <\/br>Exchange: 0.83 <\/br>Equality: -0.74", "<b><\/br> Man-God <\/b> <\/br>Formality: -1.18 <\/br>Activeness: -0.37 <\/br>Valence: -0.55 <\/br>Exchange: -0.4 <\/br>Equality: 0.79", "<b><\/br> Co-workers <\/b> <\/br>Formality: 0.95 <\/br>Activeness: 0.7 <\/br>Valence: 0.88 <\/br>Exchange: -1.01 <\/br>Equality: 0.78", "<b><\/br> Sports rivals <\/b> <\/br>Formality: 0.97 <\/br>Activeness: 0.27 <\/br>Valence: -0.52 <\/br>Exchange: -3.47 <\/br>Equality: 0.03", "<b><\/br> Romantic rivals <\/b> <\/br>Formality: -1.06 <\/br>Activeness: 0.38 <\/br>Valence: 0.27 <\/br>Exchange: -2.71 <\/br>Equality: 0.71", "<b><\/br> Criminal and their accomplice <\/b> <\/br>Formality: 0.07 <\/br>Activeness: -0.6 <\/br>Valence: 0.32 <\/br>Exchange: -1.94 <\/br>Equality: -0.12", "<b><\/br> Diplomats <\/b> <\/br>Formality: 1.14 <\/br>Activeness: -0.06 <\/br>Valence: 0.28 <\/br>Exchange: -2 <\/br>Equality: 0.09", "<b><\/br> Principal-Teacher <\/b> <\/br>Formality: 0.87 <\/br>Activeness: 0.61 <\/br>Valence: 2.11 <\/br>Exchange: -0.2 <\/br>Equality: -0.52", "<b><\/br> Professor-Teaching Assistant <\/b> <\/br>Formality: 0.66 <\/br>Activeness: 0.47 <\/br>Valence: 2.01 <\/br>Exchange: -0.65 <\/br>Equality: -0.17", "<b><\/br> University student-Administrator <\/b> <\/br>Formality: 0.71 <\/br>Activeness: -0.03 <\/br>Valence: 2.29 <\/br>Exchange: -0.26 <\/br>Equality: -0.54", "<b><\/br> Student-Dorm Resident assistant <\/b> <\/br>Formality: -0.42 <\/br>Activeness: 0.98 <\/br>Valence: -0.03 <\/br>Exchange: -0.49 <\/br>Equality: -0.15", "<b><\/br> Mentor-Mentee <\/b> <\/br>Formality: 0.43 <\/br>Activeness: 0.39 <\/br>Valence: 0.99 <\/br>Exchange: 1.03 <\/br>Equality: -0.11", "<b><\/br> Athletic trainer-Trainee <\/b> <\/br>Formality: 0.06 <\/br>Activeness: 0.89 <\/br>Valence: 0.15 <\/br>Exchange: 0.83 <\/br>Equality: -0.64", "<b><\/br> Researcher-Research Subject <\/b> <\/br>Formality: 0.37 <\/br>Activeness: -0.52 <\/br>Valence: 0.66 <\/br>Exchange: 0.74 <\/br>Equality: 0.32", "<b><\/br> Peers <\/b> <\/br>Formality: -0.74 <\/br>Activeness: -1.79 <\/br>Valence: -0.31 <\/br>Exchange: 0.03 <\/br>Equality: 0.51", "<b><\/br> Classmates <\/b> <\/br>Formality: -0.68 <\/br>Activeness: 1.1 <\/br>Valence: -1.2 <\/br>Exchange: -0.19 <\/br>Equality: 0.85", "<b><\/br> Roommates <\/b> <\/br>Formality: -0.67 <\/br>Activeness: 0.57 <\/br>Valence: -0.83 <\/br>Exchange: 0.45 <\/br>Equality: 0.67", "<b><\/br> Sorority sisters <\/b> <\/br>Formality: -0.32 <\/br>Activeness: -1.46 <\/br>Valence: 0.2 <\/br>Exchange: 0.27 <\/br>Equality: 0.67", "<b><\/br> Fraternity brothers <\/b> <\/br>Formality: -0.03 <\/br>Activeness: -0.59 <\/br>Valence: 0.13 <\/br>Exchange: -0.05 <\/br>Equality: 2.29", "<b><\/br> Bride-Bridesmaid <\/b> <\/br>Formality: 0.15 <\/br>Activeness: -0.75 <\/br>Valence: 0.44 <\/br>Exchange: 0.1 <\/br>Equality: 1.65", "<b><\/br> Groom-Groomsman <\/b> <\/br>Formality: -0.01 <\/br>Activeness: -0.62 <\/br>Valence: -0.23 <\/br>Exchange: -0.2 <\/br>Equality: 1.97", "<b><\/br> Predecessor-Successor <\/b> <\/br>Formality: 1.38 <\/br>Activeness: -0.41 <\/br>Valence: 0.54 <\/br>Exchange: -0.29 <\/br>Equality: 1.33", "<b><\/br> Landlord-Tenant <\/b> <\/br>Formality: 1.52 <\/br>Activeness: -1.61 <\/br>Valence: -0.11 <\/br>Exchange: 0.2 <\/br>Equality: 1.41", "<b><\/br> Landlord-Housekeeper <\/b> <\/br>Formality: 1.22 <\/br>Activeness: -1.62 <\/br>Valence: 0.48 <\/br>Exchange: 0.18 <\/br>Equality: 1.01", "<b><\/br> Guest-Host <\/b> <\/br>Formality: 0.91 <\/br>Activeness: -1.55 <\/br>Valence: 0.59 <\/br>Exchange: 0.03 <\/br>Equality: 1.8", "<b><\/br> Television host-Guest <\/b> <\/br>Formality: 1.77 <\/br>Activeness: -1.4 <\/br>Valence: 0.52 <\/br>Exchange: -0.28 <\/br>Equality: 1.93", "<b><\/br> Volunteer-Organizer <\/b> <\/br>Formality: 0.18 <\/br>Activeness: 0.08 <\/br>Valence: -0.36 <\/br>Exchange: 0.4 <\/br>Equality: -0.12", "<b><\/br> Celebrity-Fans <\/b> <\/br>Formality: -0.39 <\/br>Activeness: -1.15 <\/br>Valence: 0.63 <\/br>Exchange: 0.02 <\/br>Equality: -0.14", "<b><\/br> Celebrity-Haters <\/b> <\/br>Formality: -0.67 <\/br>Activeness: -2.64 <\/br>Valence: -0.51 <\/br>Exchange: -0.19 <\/br>Equality: -0.55", "<b><\/br> Native-Tourist <\/b> <\/br>Formality: -0.51 <\/br>Activeness: -0.91 <\/br>Valence: 0.22 <\/br>Exchange: 0.61 <\/br>Equality: -1.12", "<b><\/br> Bully-Victim <\/b> <\/br>Formality: -0.52 <\/br>Activeness: -2.38 <\/br>Valence: -0.69 <\/br>Exchange: -0.95 <\/br>Equality: -0.3", "<b><\/br> Friends <\/b> <\/br>Formality: -1.03 <\/br>Activeness: 0.57 <\/br>Valence: -0.18 <\/br>Exchange: 0.05 <\/br>Equality: -0.36", "<b><\/br> Facebook friends <\/b> <\/br>Formality: -0.56 <\/br>Activeness: -0.94 <\/br>Valence: -0.22 <\/br>Exchange: -0.05 <\/br>Equality: -0.16", "<b><\/br> A person and their social media follower <\/b> <\/br>Formality: -0.32 <\/br>Activeness: -1.06 <\/br>Valence: 0.1 <\/br>Exchange: 0.36 <\/br>Equality: -0.07", "<b><\/br> Childhood friends <\/b> <\/br>Formality: -1.45 <\/br>Activeness: 0.39 <\/br>Valence: -1.35 <\/br>Exchange: 0.24 <\/br>Equality: 0.91", "<b><\/br> Pen-friends <\/b> <\/br>Formality: -0.99 <\/br>Activeness: -0.9 <\/br>Valence: -0.66 <\/br>Exchange: 0.37 <\/br>Equality: 0", "<b><\/br> Friends with benefits <\/b> <\/br>Formality: -0.23 <\/br>Activeness: -1.33 <\/br>Valence: -0.82 <\/br>Exchange: 1.23 <\/br>Equality: 0.14", "<b><\/br> Political allies <\/b> <\/br>Formality: 0.56 <\/br>Activeness: -0.17 <\/br>Valence: -1.06 <\/br>Exchange: 1.3 <\/br>Equality: -1.94", "<b><\/br> Romantic lovers <\/b> <\/br>Formality: -2.62 <\/br>Activeness: -0.08 <\/br>Valence: -1.42 <\/br>Exchange: 0.36 <\/br>Equality: 0.3", "<b><\/br> Ex-lovers <\/b> <\/br>Formality: -1.25 <\/br>Activeness: -1.82 <\/br>Valence: -1.47 <\/br>Exchange: 0.21 <\/br>Equality: -0.72", "<b><\/br> Life partners <\/b> <\/br>Formality: -1.94 <\/br>Activeness: 1.84 <\/br>Valence: -2.05 <\/br>Exchange: 0.3 <\/br>Equality: 1.18", "<b><\/br> Soul mates <\/b> <\/br>Formality: -1.53 <\/br>Activeness: -0.5 <\/br>Valence: -1.23 <\/br>Exchange: 1.05 <\/br>Equality: 0.83", "<b><\/br> Strangers <\/b> <\/br>Formality: 1.15 <\/br>Activeness: -2.72 <\/br>Valence: 0.38 <\/br>Exchange: -0.14 <\/br>Equality: 0.9", "<b><\/br> Neighbors <\/b> <\/br>Formality: 0.95 <\/br>Activeness: -1.15 <\/br>Valence: -0.94 <\/br>Exchange: 0.3 <\/br>Equality: 1.27", "<b><\/br> Church members <\/b> <\/br>Formality: 0.49 <\/br>Activeness: 0.08 <\/br>Valence: -0.44 <\/br>Exchange: 0.02 <\/br>Equality: 0.48", "<b><\/br> Fans of the same sports team <\/b> <\/br>Formality: 0 <\/br>Activeness: 0.14 <\/br>Valence: -0.65 <\/br>Exchange: -0.48 <\/br>Equality: 0.68", "<b><\/br> Fans of opposing sports teams <\/b> <\/br>Formality: 0.61 <\/br>Activeness: -1.26 <\/br>Valence: -0.38 <\/br>Exchange: -0.61 <\/br>Equality: 0.58", "<b><\/br> Superior-Subordinate <\/b> <\/br>Formality: 1.5 <\/br>Activeness: 0.9 <\/br>Valence: -0.3 <\/br>Exchange: 0.51 <\/br>Equality: 0.58", "<b><\/br> Aunt-Niece(Nephew) <\/b> <\/br>Formality: 0.19 <\/br>Activeness: 0.65 <\/br>Valence: -0.27 <\/br>Exchange: 0.54 <\/br>Equality: 1.18", "<b><\/br> Uncle-Niece(Nephew) <\/b> <\/br>Formality: 0.13 <\/br>Activeness: 0.71 <\/br>Valence: 0.53 <\/br>Exchange: 0.59 <\/br>Equality: 1.01", "<b><\/br> Frenemies <\/b> <\/br>Formality: 0.5 <\/br>Activeness: -1.01 <\/br>Valence: -1.57 <\/br>Exchange: -0.08 <\/br>Equality: 0.71", "<b><\/br> Half siblings <\/b> <\/br>Formality: 0.06 <\/br>Activeness: -0.56 <\/br>Valence: -0.55 <\/br>Exchange: 0.65 <\/br>Equality: 0.89", "<b><\/br> Adoptive parents-Adopted kids <\/b> <\/br>Formality: -0.62 <\/br>Activeness: -0.53 <\/br>Valence: -0.02 <\/br>Exchange: 0.99 <\/br>Equality: 0.52", "<b><\/br> Mother-Infant <\/b> <\/br>Formality: -1.28 <\/br>Activeness: -0.25 <\/br>Valence: 0.94 <\/br>Exchange: 0.57 <\/br>Equality: 0.96", "<b><\/br> Alumni <\/b> <\/br>Formality: 1.09 <\/br>Activeness: -0.94 <\/br>Valence: -0.73 <\/br>Exchange: 0.38 <\/br>Equality: 0.55", "<b><\/br> A monarch and their minister <\/b> <\/br>Formality: 0.69 <\/br>Activeness: -0.44 <\/br>Valence: -0.43 <\/br>Exchange: 0.59 <\/br>Equality: -0.69", "<b><\/br> Confidants <\/b> <\/br>Formality: 0.2 <\/br>Activeness: -0.23 <\/br>Valence: -0.14 <\/br>Exchange: 0.55 <\/br>Equality: 0.59", "<b><\/br> A person and their significant other <\/b> <\/br>Formality: -0.52 <\/br>Activeness: -0.58 <\/br>Valence: -0.2 <\/br>Exchange: 0.27 <\/br>Equality: 0.89", "<b><\/br> Companions <\/b> <\/br>Formality: -0.82 <\/br>Activeness: 1.68 <\/br>Valence: -0.07 <\/br>Exchange: -0.94 <\/br>Equality: -0.09", "<b><\/br> Playmates <\/b> <\/br>Formality: -0.44 <\/br>Activeness: 1.73 <\/br>Valence: -0.49 <\/br>Exchange: -0.66 <\/br>Equality: -0.58", "<b><\/br> Competitors in sports <\/b> <\/br>Formality: 0.54 <\/br>Activeness: 1.07 <\/br>Valence: -0.98 <\/br>Exchange: -2.32 <\/br>Equality: -0.54", "<b><\/br> A person and their crush <\/b> <\/br>Formality: -1.84 <\/br>Activeness: 1.61 <\/br>Valence: -0.34 <\/br>Exchange: -0.57 <\/br>Equality: 0.29", "<b><\/br> Cohabitants <\/b> <\/br>Formality: -1.35 <\/br>Activeness: 1.83 <\/br>Valence: -0.89 <\/br>Exchange: -1.35 <\/br>Equality: -0.38", "<b><\/br> Long-distance lovers <\/b> <\/br>Formality: -0.99 <\/br>Activeness: 1.56 <\/br>Valence: -0.5 <\/br>Exchange: -0.17 <\/br>Equality: 0.33", "<b><\/br> Brothers in-arms <\/b> <\/br>Formality: -0.55 <\/br>Activeness: 2.02 <\/br>Valence: -1.02 <\/br>Exchange: -0.98 <\/br>Equality: 0.38"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(218,253,89,1)",
+        "opacity": 0.8,
+        "size": [10.0483925226608, 9.78731101516952, 10.3527089138818, 10.280382276693, 9.79443485280413, 6.8823350196965, 7.60897504656061, 9.77601290336157, 9.20875065793465, 7.86564489347173, 7.65849256316966, 10.648044778981, 10.5562712896311, 10.4359983707855, 11.0445577702218, 9.09205636258926, 11.796515253874, 12.5017576251365, 12.3222809191399, 13.2448032252419, 12.9814058297892, 12.8780175622692, 14.1651236120798, 11.9692407070838, 14.5567242343334, 14.7211595042916, 15.0879517885526, 14.545499413596, 11.8957225662766, 11.790364236511, 12.7439499373312, 11.4800544864023, 10.6828478636827, 12.5452504142172, 11.4641739230445, 11.0126180459068, 12.5202737285043, 9.77239882341263, 9.1593601862486, 10.9444366996258, 15.1181102362205, 13.2682238638537, 13.0562235404658, 8.31702464406353, 6.91880885114276, 7.66491860827748, 10.2607974359875, 7.83790683504404, 9.82655180056883, 10.6032589015462, 9.28041868696165, 9.81798901651225, 9.86609525451782, 10.3893965451627, 9.02576781041795, 9.70987091150004, 8.57381282116395, 7.488574729139, 7.25007589932214, 8.50343132337212, 8.65422228977726, 8.42571916085013, 9.7965882784367, 10.0431002769625, 0.377952755905512, 9.51721722125717, 7.73735167180841, 9.57313282807642, 6.88731587398625, 9.26863574192605, 5.35757759211395, 10.9481254547358, 10.4875132984989, 11.4527431838894, 12.1312735817889, 11.3759164307791, 11.4236397838026, 11.687526718104, 10.5376343204486, 10.7186097217072, 12.5906925363062, 11.8948246165782, 12.1233865378467, 11.044274453872, 11.6534382513619, 11.3914436526215, 12.1379777333451, 11.9578492844592, 10.6566707196116, 9.67493926988887, 10.2570456243591, 12.8617686498904, 11.7130780863275, 11.7364532482592, 9.77339046688599, 12.6480195641344, 12.6216264468168, 11.313174485382, 12.5148639378868, 11.0373501583651, 11.4153750690696, 10.2331667809555, 10.9243849649954, 10.1974355528773, 10.9751912818654, 11.0555723022131, 9.97959554429171, 11.8374099205171, 12.1735576132318, 12.7393890619235, 12.4504202926057, 12.4447529365128, 14.9254355768842, 13.9953293839321, 14.4625838299437, 13.5054676526689, 13.6385487705223, 13.007515125843, 14.2204252820934, 14.4039973466935, 11.0227001700091, 10.9929843973324, 10.1828455201351, 8.90136717909319, 10.6735029222124, 10.5579498860934, 10.9479422413443, 11.1287608299793, 12.8425441822815, 11.2644551852131, 11.5209030284026, 6.64093434877885, 11.804969775656, 9.81916036407524, 13.2785726763551, 12.7091705806825, 12.8242751699861, 13.4193288200291, 12.1157345406111, 12.4596758437351, 12.2885907320743, 12.2898222743236, 13.27340900605, 13.0114871763558, 12.5100522527263, 12.8095330996739, 12.1836737667034, 12.9268625572077, 12.2336425496745, 9.8813656230194, 12.3108410847038, 12.8060558926204, 11.0820874615615, 10.106813261151, 10.2028087772802, 11.7782348336463, 10.5232373860759, 11.8602814128589, 11.9455206548644],
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(218,253,89,1)"
+        }
+      },
+      "hoveron": "points",
+      "showlegend": false,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [-3.21428950508497, 2.17202110031673],
+      "y": [0, 0],
+      "text": "",
+      "type": "scatter",
+      "mode": "lines",
+      "line": {
+        "width": 7.55905511811024,
+        "color": "rgba(255,255,255,1)",
+        "dash": "dash"
+      },
+      "hoveron": "points",
+      "showlegend": false,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [0, 0],
+      "y": [-2.96787372084987, 2.41844430724399],
+      "text": "",
+      "type": "scatter",
+      "mode": "lines",
+      "line": {
+        "width": 7.55905511811024,
+        "color": "rgba(255,255,255,1)",
+        "dash": "dash"
+      },
+      "hoveron": "points",
+      "showlegend": false,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    }
+  ],
+  "layout": {
+    "margin": {
+      "t": 23.3059360730594,
+      "r": 7.30593607305936,
+      "b": 42.8393524283935,
+      "l": 42.8393524283935
+    },
+    "plot_bgcolor": "rgba(0,0,0,1)",
+    "paper_bgcolor": "rgba(255,255,255,1)",
+    "font": {
+      "color": "rgba(0,0,0,1)",
+      "family": "",
+      "size": 14.6118721461187
+    },
+    "xaxis": {
+      "domain": [0, 1],
+      "automargin": true,
+      "type": "linear",
+      "autorange": false,
+      "range": [-3.21428950508497, 2.17202110031673],
+      "tickmode": "array",
+      "ticktext": ["-3", "-2", "-1", "0", "1", "2"],
+      "tickvals": [-3, -2, -1, 0, 1, 2],
+      "categoryorder": "array",
+      "categoryarray": ["-3", "-2", "-1", "0", "1", "2"],
+      "nticks": null,
+      "ticks": "outside",
+      "tickcolor": "rgba(51,51,51,1)",
+      "ticklen": 3.65296803652968,
+      "tickwidth": 0,
+      "showticklabels": true,
+      "tickfont": {
+        "color": "rgba(77,77,77,1)",
+        "family": "sans",
+        "size": 15.9402241594022
+      },
+      "tickangle": -0,
+      "showline": false,
+      "linecolor": null,
+      "linewidth": 0,
+      "showgrid": false,
+      "gridcolor": null,
+      "gridwidth": 0,
+      "zeroline": false,
+      "anchor": "y",
+      "title": {
+        "text": "          Informal          RC1:Formality        Formal               ",
+        "font": {
+          "color": "rgba(0,0,0,1)",
+          "family": "sans",
+          "size": 15.9402241594022
+        }
+      },
+      "hoverformat": ".2f"
+    },
+    "yaxis": {
+      "domain": [0, 1],
+      "automargin": true,
+      "type": "linear",
+      "autorange": false,
+      "range": [-2.96787372084987, 2.41844430724399],
+      "tickmode": "array",
+      "ticktext": ["-2", "-1", "0", "1", "2"],
+      "tickvals": [-2, -1, 0, 1, 2],
+      "categoryorder": "array",
+      "categoryarray": ["-2", "-1", "0", "1", "2"],
+      "nticks": null,
+      "ticks": "outside",
+      "tickcolor": "rgba(51,51,51,1)",
+      "ticklen": 3.65296803652968,
+      "tickwidth": 0,
+      "showticklabels": true,
+      "tickfont": {
+        "color": "rgba(77,77,77,1)",
+        "family": "sans",
+        "size": 15.9402241594022
+      },
+      "tickangle": -0,
+      "showline": false,
+      "linecolor": null,
+      "linewidth": 0,
+      "showgrid": false,
+      "gridcolor": null,
+      "gridwidth": 0,
+      "zeroline": false,
+      "anchor": "x",
+      "title": {
+        "text": "   Distant        RC2:Activeness         Close   ",
+        "font": {
+          "color": "rgba(0,0,0,1)",
+          "family": "sans",
+          "size": 15.9402241594022
+        }
+      },
+      "hoverformat": ".2f"
+    },
+    "shapes": [
+      {
+        "type": "rect",
+        "fillcolor": null,
+        "line": {
+          "color": null,
+          "width": 0,
+          "linetype": []
+        },
+        "yref": "paper",
+        "xref": "paper",
+        "x0": 0,
+        "x1": 1,
+        "y0": 0,
+        "y1": 1
+      }
+    ],
+    "showlegend": false,
+    "legend": {
+      "bgcolor": "rgba(255,255,255,1)",
+      "bordercolor": "transparent",
+      "borderwidth": 0,
+      "font": {
+        "color": "rgba(0,0,0,1)",
+        "family": "",
+        "size": 11.689497716895
+      },
+      "title": {
+        "text": "RC5-Equality",
+        "font": {
+          "color": "rgba(0,0,0,1)",
+          "family": "",
+          "size": 14.6118721461187
+        }
+      }
+    },
+    "hovermode": "closest",
+    "width": 450,
+    "height": 450,
+    "barmode": "relative"
+  },
+  "config": {
+    "doubleClick": "reset",
+    "modeBarButtonsToAdd": ["hoverclosest", "hovercompare"],
+    "showSendToCloud": false
+  },
+  "source": "A",
+  "attrs": {
+    "181a46a88716": {
+      "x": {},
+      "y": {},
+      "label": {},
+      "text": {},
+      "size": {},
+      "type": "scatter"
+    },
+    "181a452c350df": {
+      "yintercept": {}
+    },
+    "181a45e3f398d": {
+      "xintercept": {}
+    }
+  },
+  "cur_data": "181a46a88716",
+  "visdat": {
+    "181a46a88716": ["function (y) ", "x"],
+    "181a452c350df": ["function (y) ", "x"],
+    "181a45e3f398d": ["function (y) ", "x"]
+  },
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "shinyEvents": ["plotly_hover", "plotly_click", "plotly_selected", "plotly_relayout", "plotly_brushed", "plotly_brushing", "plotly_clickannotation", "plotly_doubleclick", "plotly_deselect", "plotly_afterplot", "plotly_sunburstclick"],
+  "base_url": "https://plot.ly"
+}

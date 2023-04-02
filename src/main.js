@@ -1,8 +1,10 @@
 import { createApp } from 'vue'
-import './style.css'
 import App from './App.vue'
-import router from './router'
-
-const app = createApp(App); 
-// app.config.globalProperties.$hppp = {};
-app.use(router).mount('#app');
+import router from './router';
+import "@/assets/css/reset.css";
+import "@/assets/css/common.css";
+import "@/assets/css/font.css";
+import "@/assets/css/mobile.css";
+const app = createApp(App);
+app.use(router)
+app.mount('#app')

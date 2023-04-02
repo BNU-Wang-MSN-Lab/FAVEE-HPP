@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "x": [-0.00500484823573793, 0.000908699926903149, 0.00268341610682511, -0.00198397824930004, 0.00103825687352326, 0.00456053440627979, 0.00281754736955146, 0.00185867042756577, 0.00436017287974158, 0.00133177257418378, 0.000945243636428248, -0.00471004970086468, -0.00291676461399939, 0.00201047896274438, -0.00117321738026323, 0.00305262519851036, -0.00388383847319577, 0.000631186290425978, 0.00233208645293367, -0.004214756779911, -0.00196028665925268, -0.0053359413430455, 0.00318727176397469, 0.00348855492571982, 0.00119150234939087, 7.01639421454729e-05, 0.00127285281947239, -0.000355148772721841, 0.00219075804573552, 0.00505410776591235, -0.00316799461668199, 0.00265008934788916, 0.00227773111776057, 0.00148301867409299, -0.00331791367064942, -0.00189818217415137, 0.00449869948615879, -0.00529521407862116, 0.00334192336548773, -0.00469972259756015, 0.00286735450054436, -0.00343703979434316, 0.000679367210997428, 0.00284350160157273, -0.00108861953914325, -0.00426559926207771, -0.00415325174454795, -0.000106787192840403, -0.00317409610524225, -0.00421180966374715, -0.00306095677663152, 0.00429355912717492, -0.00449102070861735, 0.00366809437361694, -0.00453054534397221, 0.00261103990796663, -0.00537399044517051, 0.000873337577538726, -0.00486538216542465, 0.00459842188016102, 0.00219023904399036, 0.00240630642637122, 0.00428939067653636, -0.00192912219885031, -0.00211359366732615, -0.00409557945695265, 0.00305526921340274, -0.00440504816697263, 0.00218500285077286, -0.00467462191083892, 0.00134899808285899, 0.00133465030574311, 0.000782888341472935, -0.0028666583046822, -0.00291763311745778, -0.00388750382725895, 0.00214731576318489, 0.00232202257931593, -0.00297039306002905, 0.00455414262255748, -0.00387908592173973, 0.0017704825339524, 0.00231196339190511, -0.00514750249791709, -0.000753407503665552, -0.000419686588149824, 0.00234160482359471, 0.000275932778212687, 0.00393511729414228, -0.00507407312801373, -0.0039365394490383, 0.00533140113111221, 0.00219196002589713, -0.0031223229000454, 0.000712242051267916, -0.00185775673798704, 0.00301408498489591, 0.00163381455630256, 0.00361777726474184, -0.00382627125891718, 0.00288574488383189, 0.00277279963481626, 0.00273156845781891, 0.00223080411498376, 0.00162236838075199, -0.00268299639185643, 0.00146021194987695, 0.00267822222212775, -0.00497514853961408, 0.00359746246401755, -0.00420270993088554, 0.000730589295955696, -0.00158786433644069, 0.00162182999230319, 0.000347425587643415, -0.00115395055967102, -0.00109927125564834, 0.00178082355870925, 0.00305112261534181, 0.00354401405527497, 0.00303689898564236, 0.00158189316366872, 0.000620369387744541, 0.0017254105662028, -0.00414539689184488, -0.00260081345392862, -5.78228144562091e-05, 0.00353016512132515, -0.00280631433341827, 0.00243310400881153, 0.00319542725707847, -0.0048477850285756, -0.00135736201628026, 0.00252172274713667, 0.00365206845145759, -0.0045612703651971, -0.00494684643611635, 0.00277412948063177, 0.00209055080999285, 0.00244490717653615, 0.00301130612262745, 0.0027990444192916, -0.00396520965850098, 0.00127854176798098, -0.00411410684395077, -0.00465927056960024, 0.00258542114242264, 0.00329459933007386, -0.00492858659944924, -0.0035846313051957, -0.00201618058344404, 0.00206959399627495, 0.00287021078214803, -0.00361887710747242, -0.00358658375823889, 0.0025889203751688, 0.00310231016885671, 0.00234901953802759, 1.75049196265617e-05],
+      "y": [-0.000155463789076715, 0.0026514548830366, 0.00122612293062632, -0.00127099052289466, 0.00252664730114706, -0.00253558400725316, 0.00227590807424339, 0.00270622949214994, -0.00316123759403084, 0.0018816141987728, 0.000992882224949755, 0.000138743564174951, 0.000416754325061767, 0.000708426547688784, -0.00035896272881877, 0.00161842069429872, -0.000644978076623024, -0.000253540078605358, 0.00134528071807016, 0.000188991001133385, -0.000456846565399755, 8.14180201920442e-05, -0.00373293506356068, 0.00226702769473066, 0.00235313836366763, 0.00169297811154311, -0.00385425915304285, -0.000574392029076927, 0.0020984017019914, -0.00246372952543011, 0.000402910602985146, 0.00165213731452456, 0.00165928950926854, 0.00192941888979077, -0.000734545451864902, -0.000536889837423158, -0.000911496522380528, 0.000246652669608527, 0.000993080931953395, -9.8109557925856e-05, 0.00151702618307525, -0.000282386937582446, 0.00309235286778504, 0.00190104670311489, -0.000616058773496366, 0.000238183370130363, -0.000424989674090902, -0.00405569415880938, -0.000643935652127242, -0.00035195296055144, 0.000166141183147185, -0.00133664048378581, 0.00110692775709037, 0.000187757734704437, -0.000550148501130645, 0.00130284615619446, 0.000430920031758072, 0.00272510668536193, 0.000961849827523076, -0.00157528774418209, 0.000747154418649575, 0.00169374956264452, -0.00362743486439959, -0.000570521708819396, -0.00136592759026804, 0.000238351616184382, -0.00384428231897634, 0.000608443605351349, 0.00107923050144123, -0.00020705607539479, -0.00444170421010308, -0.00277480849714749, 0.000526427836932235, -0.00147979422054907, -0.00064571632748774, -0.000282698732457019, 0.00141321673331544, 0.00135660708033764, -0.000886526870020396, -0.00283003433133797, -0.000331053537969195, 0.00113957273361541, 0.000774059212886077, -7.06608727582958e-05, -5.38719396207394e-05, 2.56899054788786e-05, 0.00187431641655247, -0.000895874875724127, -0.00379225729186152, 2.25180507632581e-05, 0.000803702995075036, -0.00263022174561051, -0.00474327888360071, -0.000587567044069301, 0.00222341055516149, -0.00123495630072696, 0.00105282954185226, 0.00164893167872097, 0.00113795457761884, 0.000786780854709061, 0.00202276439158005, 0.00082065858250519, 0.00159104437260881, -0.00441527797917158, 0.00228982121893358, -0.000848682621121631, 0.000523847300008506, -0.000357074013663039, -0.000171858257529076, -0.00460149517880595, -0.000388685406463999, 0.00182989318432784, -0.00104005672638105, 0.00148803894995782, 0.00261179962518179, 0.00111278513303934, -0.000815042424690017, -0.00399544247736334, 0.00216522091167386, 0.00100487842764614, 0.000784374284616953, 0.0014762624539368, -0.00386906092947999, 0.00112174104098866, -0.00122775324666831, -0.00084216128567418, -0.00387833384604478, -0.00319758392765368, -0.000952630711192908, 0.00238938997089666, 0.00171122194855467, 0.000115161902411087, -0.00114708242009893, -0.000842894839944594, -3.11033147460013e-05, -0.00055527072427382, 0.00103544527595479, 0.00101110147863841, 0.00271527696121275, -0.000680885846275848, 0.00199663742996285, 0.00186876485945303, -4.57405237128935e-05, 0.00265706522498204, -5.83371948694302e-05, 0.000981245456506477, 0.00202295362094068, 0.00201976617408401, 2.98065878931802e-05, -0.000602690128842238, -0.00124829008876987, 0.00207106946924773, -0.00383476266453304, -0.00043024634149018, 0.000652366390116442, -0.00416077490350687, 0.00234484499617618, -0.00134804506618762, 0.00116228295039969],
+      "text": ["<b><\/br> Wife-Husband <\/b>", "<b><\/br> Nurse-Patient <\/b>", "<b><\/br> Officer-Soldier <\/b>", "<b><\/br> Neighbors <\/b>", "<b><\/br> Athletic trainer-Trainee <\/b>", "<b><\/br> Police officer-Offender <\/b>", "<b><\/br> Principal-Teacher <\/b>", "<b><\/br> Doctor-Nurse <\/b>", "<b><\/br> Victim-Criminal <\/b>", "<b><\/br> Coach-athlete <\/b>", "<b><\/br> Man-God <\/b>", "<b><\/br> Half siblings <\/b>", "<b><\/br> Parent-Teenager <\/b>", "<b><\/br> Prostitute-Customer <\/b>", "<b><\/br> Church members <\/b>", "<b><\/br> Foreman-Laborer <\/b>", "<b><\/br> A person and their family friends <\/b>", "<b><\/br> A person and their social media follower <\/b>", "<b><\/br> Guide-Tourist <\/b>", "<b><\/br> Bride-Bridesmaid <\/b>", "<b><\/br> Teammates in sports <\/b>", "<b><\/br> Twins <\/b>", "<b><\/br> Celebrity-Haters <\/b>", "<b><\/br> Employer-Employee <\/b>", "<b><\/br> Teacher-Student <\/b>", "<b><\/br> Guest-Host <\/b>", "<b><\/br> Man Wife-Man Mistress <\/b>", "<b><\/br> Religious followers <\/b>", "<b><\/br> Intern-Employee <\/b>", "<b><\/br> Criminal-Police officer <\/b>", "<b><\/br> Step-grandparent-Step-grandchild <\/b>", "<b><\/br> Chef-Customer <\/b>", "<b><\/br> Union leader-union member <\/b>", "<b><\/br> Professor-Graduate student <\/b>", "<b><\/br> Second cousins <\/b>", "<b><\/br> Fans of the same sports team <\/b>", "<b><\/br> Master-Servant <\/b>", "<b><\/br> Siblings <\/b>", "<b><\/br> Landlord-Housekeeper <\/b>", "<b><\/br> Close friends <\/b>", "<b><\/br> Entrepreneur-Investor <\/b>", "<b><\/br> Fraternity brothers <\/b>", "<b><\/br> Psychologist-Client <\/b>", "<b><\/br> Chief-Deputy <\/b>", "<b><\/br> Sugar daddy-Sugar baby <\/b>", "<b><\/br> Uncle-Niece/Nephew <\/b>", "<b><\/br> Childhood friends <\/b>", "<b><\/br> Ex-lovers <\/b>", "<b><\/br> Man-His Mistress <\/b>", "<b><\/br> Step siblings <\/b>", "<b><\/br> Confidants <\/b>", "<b><\/br> Parole officer-Parolee <\/b>", "<b><\/br> Grandparent-Grandchild <\/b>", "<b><\/br> Judge-Contestant <\/b>", "<b><\/br> Romantic lovers <\/b>", "<b><\/br> Researcher-Research Subject <\/b>", "<b><\/br> Brother-Sister <\/b>", "<b><\/br> Therapist-Patient <\/b>", "<b><\/br> Parent-Infant <\/b>", "<b><\/br> Slave-Master <\/b>", "<b><\/br> Reader-Writer <\/b>", "<b><\/br> Representative-Citizen <\/b>", "<b><\/br> Criminal-Hostage <\/b>", "<b><\/br> Ancestor-Descendant <\/b>", "<b><\/br> Peers <\/b>", "<b><\/br> Groom-Groomsman <\/b>", "<b><\/br> Opposing negotiators <\/b>", "<b><\/br> Adoptive parents-Adopted kids <\/b>", "<b><\/br> Driver-Passenger <\/b>", "<b><\/br> A person and their significant other <\/b>", "<b><\/br> Romantic rivals <\/b>", "<b><\/br> Strangers <\/b>", "<b><\/br> Predecessor-Successor <\/b>", "<b><\/br> A person and their crush <\/b>", "<b><\/br> Brothers in-arms <\/b>", "<b><\/br> Playmates <\/b>", "<b><\/br> Volunteer-Organizer <\/b>", "<b><\/br> A monarch and their minister <\/b>", "<b><\/br> Roommates <\/b>", "<b><\/br> Criminal-Prosecutor <\/b>", "<b><\/br> Friends <\/b>", "<b><\/br> Television host-Guest <\/b>", "<b><\/br> University student-Administrator <\/b>", "<b><\/br> Life partners <\/b>", "<b><\/br> Political allies <\/b>", "<b><\/br> Criminal and their accomplice <\/b>", "<b><\/br> Consultant-Client <\/b>", "<b><\/br> Diplomats <\/b>", "<b><\/br> Bully-Victim <\/b>", "<b><\/br> Close relatives <\/b>", "<b><\/br> Godparent-Godchild <\/b>", "<b><\/br> Guard-Prisoner <\/b>", "<b><\/br> Fans of opposing sports teams <\/b>", "<b><\/br> Pen-friends <\/b>", "<b><\/br> Mentor-Mentee <\/b>", "<b><\/br> Casual acquaintances <\/b>", "<b><\/br> Judge-Lawyer <\/b>", "<b><\/br> Student-Dorm Resident assistant <\/b>", "<b><\/br> Superior-Subordinate <\/b>", "<b><\/br> Step-parent-Step-child <\/b>", "<b><\/br> Boss-Secretary <\/b>", "<b><\/br> Dealer-Buyer <\/b>", "<b><\/br> Salesperson-Customer <\/b>", "<b><\/br> Sports rivals <\/b>", "<b><\/br> Professor-Teaching Assistant <\/b>", "<b><\/br> Cohabitants <\/b>", "<b><\/br> Celebrity-Fans <\/b>", "<b><\/br> Athlete-Referee <\/b>", "<b><\/br> Soul mates <\/b>", "<b><\/br> Enemies <\/b>", "<b><\/br> Long-distance lovers <\/b>", "<b><\/br> Team captain-Team members <\/b>", "<b><\/br> Alumni <\/b>", "<b><\/br> Politician-Supporter <\/b>", "<b><\/br> Patient-Caretaker <\/b>", "<b><\/br> Babysitter-Infant <\/b>", "<b><\/br> Co-workers <\/b>", "<b><\/br> Competitors in sports <\/b>", "<b><\/br> Manager-Staff <\/b>", "<b><\/br> Interviewer-Job applicant <\/b>", "<b><\/br> Reviewer-Writer <\/b>", "<b><\/br> Performer-Audience <\/b>", "<b><\/br> Frenemies <\/b>", "<b><\/br> Religious leader-Congregant <\/b>", "<b><\/br> A person and their deceased spouse <\/b>", "<b><\/br> Distant relatives <\/b>", "<b><\/br> Divorced spouses <\/b>", "<b><\/br> Defendant-Plaintiff <\/b>", "<b><\/br> A person and their in laws <\/b>", "<b><\/br> Lawyer-Client <\/b>", "<b><\/br> Customer-Businessman <\/b>", "<b><\/br> Fiance-Fiancee <\/b>", "<b><\/br> Facebook friends <\/b>", "<b><\/br> Drug dealer-Addict <\/b>", "<b><\/br> Police officer-Civilian <\/b>", "<b><\/br> Cousins <\/b>", "<b><\/br> Mother-Infant <\/b>", "<b><\/br> Landlord-Tenant <\/b>", "<b><\/br> Director-Performer <\/b>", "<b><\/br> Native-Tourist <\/b>", "<b><\/br> Owner-Manager <\/b>", "<b><\/br> Customer-Server <\/b>", "<b><\/br> Companions <\/b>", "<b><\/br> Doctor-Patient <\/b>", "<b><\/br> Aunt-Niece/Nephew <\/b>", "<b><\/br> Parent-Child <\/b>", "<b><\/br> Leader-Follower <\/b>", "<b><\/br> Supervisor-Subordinate <\/b>", "<b><\/br> Bride-Groom <\/b>", "<b><\/br> Sorority sisters <\/b>", "<b><\/br> Classmates <\/b>", "<b><\/br> Club Member-Club President <\/b>", "<b><\/br> Political opponents <\/b>", "<b><\/br> Friends with benefits <\/b>", "<b><\/br> Foster-parent-Foster-child <\/b>", "<b><\/br> Business rivals <\/b>", "<b><\/br> Manager-Assistant <\/b>", "<b><\/br> Victim-Witness <\/b>", "<b><\/br> Business partners <\/b>"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,0,0,1)",
+        "opacity": 1,
+        "size": 3.77952755905512,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,0,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "showlegend": false,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [0.00359746246401755, 0.00127854176798098, -0.00500484823573793, -0.00465927056960024, 0.00436017287974158],
+      "y": [-0.00460149517880595, 0.00265706522498204, -0.000155463789076715, 0.000981245456506477, -0.00316123759403084],
+      "text": ["<b><\/br> Enemies <\/b>", "<b><\/br> Doctor-Patient <\/b>", "<b><\/br> Wife-Husband <\/b>", "<b><\/br> Parent-Child <\/b>", "<b><\/br> Victim-Criminal <\/b>"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(255,0,0,1)",
+        "opacity": 1,
+        "size": 3.77952755905512,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(255,0,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "showlegend": false,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    }
+  ],
+  "layout": {
+    "margin": {
+      "t": 23.3059360730594,
+      "r": 7.30593607305936,
+      "b": 10.958904109589,
+      "l": 10.958904109589
+    },
+    "plot_bgcolor": "rgba(255,255,255,1)",
+    "paper_bgcolor": "rgba(255,255,255,1)",
+    "font": {
+      "color": "rgba(0,0,0,1)",
+      "family": "",
+      "size": 40
+    },
+    "xaxis": {
+      "domain": [0, 1],
+      "automargin": true,
+      "type": "linear",
+      "autorange": false,
+      "range": [-0.00765, 0.00665],
+      "tickmode": "array",
+      "ticktext": ["-0.004", "0.000", "0.004"],
+      "tickvals": [-0.004, 0, 0.004],
+      "categoryorder": "array",
+      "categoryarray": ["-0.004", "0.000", "0.004"],
+      "nticks": null,
+      "ticks": "",
+      "tickcolor": null,
+      "ticklen": 3.65296803652968,
+      "tickwidth": 0,
+      "showticklabels": false,
+      "tickfont": {
+        "color": null,
+        "family": null,
+        "size": 0
+      },
+      "tickangle": -0,
+      "showline": true,
+      "linecolor": "rgba(0,0,0,1)",
+      "linewidth": 0,
+      "showgrid": false,
+      "gridcolor": null,
+      "gridwidth": 0,
+      "zeroline": false,
+      "anchor": "y",
+      "title": {
+        "text": "",
+        "font": {
+          "color": null,
+          "family": null,
+          "size": 0
+        }
+      },
+      "hoverformat": ".2f"
+    },
+    "yaxis": {
+      "domain": [0, 1],
+      "automargin": true,
+      "type": "linear",
+      "autorange": false,
+      "range": [-0.00513506047117, 0.00348413445535433],
+      "tickmode": "array",
+      "ticktext": ["-0.004", "-0.002", "0.000", "0.002"],
+      "tickvals": [-0.004, -0.002, 0, 0.002],
+      "categoryorder": "array",
+      "categoryarray": ["-0.004", "-0.002", "0.000", "0.002"],
+      "nticks": null,
+      "ticks": "",
+      "tickcolor": null,
+      "ticklen": 3.65296803652968,
+      "tickwidth": 0,
+      "showticklabels": false,
+      "tickfont": {
+        "color": null,
+        "family": null,
+        "size": 0
+      },
+      "tickangle": -0,
+      "showline": true,
+      "linecolor": "rgba(0,0,0,1)",
+      "linewidth": 0,
+      "showgrid": false,
+      "gridcolor": null,
+      "gridwidth": 0,
+      "zeroline": false,
+      "anchor": "x",
+      "title": {
+        "text": "",
+        "font": {
+          "color": null,
+          "family": null,
+          "size": 0
+        }
+      },
+      "hoverformat": ".2f"
+    },
+    "shapes": [
+      {
+        "type": "rect",
+        "fillcolor": null,
+        "line": {
+          "color": null,
+          "width": 0,
+          "linetype": []
+        },
+        "yref": "paper",
+        "xref": "paper",
+        "x0": 0,
+        "x1": 1,
+        "y0": 0,
+        "y1": 1
+      }
+    ],
+    "showlegend": false,
+    "legend": {
+      "bgcolor": "rgba(255,255,255,1)",
+      "bordercolor": "transparent",
+      "borderwidth": 0,
+      "font": {
+        "color": "rgba(0,0,0,1)",
+        "family": "",
+        "size": 40
+      }
+    },
+    "hovermode": "closest",
+    "width": 250,
+    "height": 250,
+    "barmode": "relative"
+  },
+  "config": {
+    "doubleClick": "reset",
+    "modeBarButtonsToAdd": ["hoverclosest", "hovercompare"],
+    "showSendToCloud": false
+  },
+  "source": "A",
+  "attrs": {
+    "de605cc35fe1": {
+      "x": {},
+      "y": {},
+      "label": {},
+      "text": {},
+      "type": "scatter"
+    },
+    "de601c47524e": {
+      "x": {},
+      "y": {},
+      "label": {},
+      "text": {}
+    }
+  },
+  "cur_data": "de605cc35fe1",
+  "visdat": {
+    "de605cc35fe1": ["function (y) ", "x"],
+    "de601c47524e": ["function (y) ", "x"]
+  },
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "shinyEvents": ["plotly_hover", "plotly_click", "plotly_selected", "plotly_relayout", "plotly_brushed", "plotly_brushing", "plotly_clickannotation", "plotly_doubleclick", "plotly_deselect", "plotly_afterplot", "plotly_sunburstclick"],
+  "base_url": "https://plot.ly"
+}

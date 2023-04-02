@@ -23,5 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 
-*.docx
-*.pptx
+package-lock.json
+.DS_Store
