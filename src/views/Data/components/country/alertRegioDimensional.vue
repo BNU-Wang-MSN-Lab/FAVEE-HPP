@@ -53,7 +53,7 @@ import(`../../../../assets/data/Study3/${useCountry.value}/dimensional/${useCoun
         <div class="img-box">
             <div class="plot-a"><img :src="imgSrc.a" alt=""></div>
             <div class="plot-b">
-                <div class="legend"><img src="@/assets/data/Study3/图例/dimensional_b.png" alt=""></div>
+                <div class="legend"><img src="@/assets/data/Study3/legend/dimensional_b.png" alt=""></div>
                 <div id="aR-plot1"></div>
                 <div id="aR-plot2"></div>
             </div>
@@ -61,7 +61,7 @@ import(`../../../../assets/data/Study3/${useCountry.value}/dimensional/${useCoun
                 <div class="tit">
                     <div style="width: 155px;">Adjusted R-Square</div>
                     <div style="width: 126px;">
-                        <img style="width: 100%;" src="@/assets/data/Study3/图例/dimensional_c1.png" alt="">
+                        <img style="width: 100%;" src="@/assets/data/Study3/legend/dimensional_c1.png" alt="">
                     </div>
                     <div style="width: 300px;">Bayesian Information Criterion(BIC)</div>
                 </div>

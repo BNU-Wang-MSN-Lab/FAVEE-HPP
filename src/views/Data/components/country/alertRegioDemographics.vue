@@ -44,13 +44,13 @@ import(`../../../../assets/data/Study3/${useCountry.value}/demographics/${useCou
 import(`../../../../assets/data/Study3/${useCountry.value}/demographics/${useCountry.value}_gender.png`)
     .then(r => r.default)
     .then(r => imgSrc.Gender = r);
-import('../../../../assets/data/Study3/图例/study3_details_demographics_age.png')
+import('../../../../assets/data/Study3/legend/study3_details_demographics_age.png')
     .then(r => r.default)
     .then(r => imgSrc.LAge = r);
-import('../../../../assets/data/Study3/图例/study3_details_demographics_gender.png')
+import('../../../../assets/data/Study3/legend/study3_details_demographics_gender.png')
     .then(r => r.default)
     .then(r => imgSrc.LGender = r);
-import('../../../../assets/data/Study3/图例/study3_details_demographics_education.png')
+import('../../../../assets/data/Study3/legend/study3_details_demographics_education.png')
     .then(r => r.default)
     .then(r => imgSrc.LEducation = r);
 import(`../../../../assets/data/Study3/${useCountry.value}/demographics/${useCountry.value}_ethnicity.png`)
