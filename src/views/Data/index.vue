@@ -307,7 +307,7 @@ const countryChos = (e) => {
     top: calc(50% - 16px);
     right: 0px;
     background-color: transparent;
-    background-image: url(@/assets/data/study3/图例/study3_3_1.png);
+    background-image: url(@/assets/data/study3/legend/study3_3_1.png);
     background-size: contain;
     background-repeat: no-repeat;
     z-index: 1;
