@@ -2,7 +2,7 @@ name: pageBuild
 
 on:
   push:
-    branches: [gh-page]
+    branches: [gh-page-v2]
   workflow_dispatch:
   
 jobs:
