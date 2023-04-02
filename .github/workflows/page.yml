@@ -21,9 +21,13 @@ jobs:
           
       - name: install
         run: npm i
+        env:
+          NODE_OPTIONS: "--max-old-space-size=4096"
         
       - name: build
         run: npm run build
+        env:
+          NODE_OPTIONS: "--max-old-space-size=4096"
         
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2
