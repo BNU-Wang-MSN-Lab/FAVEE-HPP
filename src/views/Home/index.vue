@@ -154,21 +154,21 @@
           <my-title title="Theoretical and Empirical Implications"></my-title>
           <div class="img-row">
             <div style="
-                      background: url('src/assets/img/home/block6_1.png') center/cover
+                      background: url('./assets/img/home/block6_1.png') center/cover
                         no-repeat;
                     " class="block6-img"></div>
             <div style="
-                      background: url('src/assets/img/home/block6_2.png') center/cover
+                      background: url('./assets/img/home/block6_2.png') center/cover
                         no-repeat;
                         background-position: center center;
                         background-size: 509px 296px;
                     " class="block6-img"></div>
             <div style="
-                      background: url('src/assets/img/home/block6_3.png') center/cover
+                      background: url('./assets/img/home/block6_3.png') center/cover
                         no-repeat;
                     " class="block6-img"></div>
             <div style="
-                      background: url('src/assets/img/home/block6_4.png') center/cover
+                      background: url('./assets/img/home/block6_4.png') center/cover
                         no-repeat;
                     " class="block6-img"></div>
           </div>
