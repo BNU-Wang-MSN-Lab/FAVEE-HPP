@@ -30,6 +30,7 @@ const onClose = () => {
   padding: 2rem 2rem 1rem;
   background: rgba(255, 255, 255, 1);
   box-shadow: 0px 0px 15px 4px rgba(0, 0, 0, 0.25);
+  z-index: 2;
 
   .close-btn {
     position: absolute;

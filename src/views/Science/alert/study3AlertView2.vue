@@ -16,7 +16,7 @@
 
 <style scoped>
 .study3-2 .content {
-    text-align: justify;
+    text-align: left;
 }
 .study3-2 .content>span {
     font-size: 1.5rem;

@@ -40,7 +40,7 @@ const clickEvent = (e) => {
                     changes (e.g., urbanization, globalization).
                 </div>
                 <div class="link" style="text-align: right; color: var(--font-color-link); cursor: pointer;" @click="clickEvent" data-alert-view="study3_2">
-                    More details
+                    Read more
                 </div>
             </div>
             <div class="t">
@@ -73,7 +73,7 @@ const clickEvent = (e) => {
     flex-wrap: wrap;
     flex-direction: column;
     justify-content: space-between;
-    text-align: justify;
+    text-align: left;
 }
 
 .study3-end .container .txt {
@@ -110,7 +110,7 @@ const clickEvent = (e) => {
     background-position: 0px 0px;
     background-repeat: no-repeat;
     font-weight: 600;
-    line-height: 3rem;
+    line-height: 2rem;
 }
 
 @media screen and (max-width: 1200px) {

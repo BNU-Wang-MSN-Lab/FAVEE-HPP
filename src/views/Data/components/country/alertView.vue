@@ -83,7 +83,8 @@ const hrefClick = (e) => {
     content: "";
     width: 32px;
     height: 0px;
-    border: 3px solid #000;
+    border: 3px solid var(--font-color-body);
+    background-color: var(--font-color-body);
     border-radius: 3px;
     transform: translate(-11px, 1px) rotate(-45deg);
     transform-origin: top right;
@@ -95,7 +96,8 @@ const hrefClick = (e) => {
     content: "";
     width: 32px;
     height: 0px;
-    border: 3px solid #000;
+    border: 3px solid var(--font-color-body);
+    background-color: var(--font-color-body);
     border-radius: 3px;
     transform: translate(27px, 32px) rotate(-135deg);
     transform-origin: top left;

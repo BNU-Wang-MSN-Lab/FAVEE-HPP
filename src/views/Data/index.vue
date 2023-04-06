@@ -4,7 +4,7 @@
         <div class="title">World-averaged model</div>
         <!-- 第一页面的选项 -->
         <div>
-            <banner-choose title="Interactive plot" name="select your relationship of interest"
+            <banner-choose title="Interactive maps" name="select your relationship of interest"
                 choinput="bannerChooseWordInputData" @chos-event="wordChos">
                 <div>
                     Combined with the data in 19 regions, we get the world-averaged FAVEE-HPP model. We also find a subset
@@ -13,8 +13,7 @@
                     comparably consistent across regions. Our analysis shows that religion and modernization are two
                     important factors that contribute to cultural variation. You can explore the details of your interesting
                     relationship. <span @click="showAlertView"
-                        style="display: inline-block; margin: 0 0 0 20px; color: var(--orange); cursor: pointer;">More
-                        details</span>
+                        style="display: inline-block; margin: 0 0 0 20px; color: var(--orange); cursor: pointer;">Read more</span>
                 </div>
             </banner-choose>
             <div class="nav-button-show">
@@ -36,7 +35,7 @@
                         <favee-radar-image :img="wordChosImgSrc"></favee-radar-image>
                     </div>
                 </div>
-                <div style="max-width: 620px;">
+                <div style="max-width: 600px;">
                     <div style="opacity: 0.6;">Hover the mouse over the circle, you can see what relationship it is and its
                         position in FAVEE
                         space.</div>
@@ -51,7 +50,7 @@
             </div>
         </div>
         <!-- 第二页面 -->
-        <div>
+        <div style="margin: 0 0 150px 0;">
             <banner-choose title="Explore your region" name="select your reltionship of interest" choinput="countriesOpts"
                 @chos-event="countryChos" :update-input-val="chooseCountry">
                 <div>Select your region of interest for more details and data download.</div>
@@ -204,7 +203,26 @@ const changePlot = (r, i = null) => {
         fwa_data.data[i].marker.color = "#ff0000";
         fwa_data.data[i].opacity = 1;
     }
-    plot("fig-world-average", fwa_data.data, fwa_data.style, fwa_data.args);
+    // const dom = document.querySelector("#fig-world-average");
+    const dom = document.createElement("div");
+    dom.style.display = "flex";
+    dom.style.justifyContent = "center";
+    dom.style.alignItems = "center";
+    dom.style.height = "300px";
+    dom.innerText = "Loading";
+    document.querySelector("#fig-world-average").appendChild(dom);
+    let start = 0;
+    const p = setInterval(() => {
+        start++;
+        dom.innerHTML = `Loading${"".padStart(start % 9, ".")}`;
+    }, 500);
+    setTimeout(() => {
+        plot("fig-world-average", fwa_data.data, fwa_data.style, fwa_data.args)
+            .then(() => {
+                clearInterval(p);
+                dom.parentElement.removeChild(dom);
+            });
+    }, 2000);
 };
 
 // 国家的坑开始啦
@@ -216,7 +234,7 @@ const showAlertcView = (e) => {
     }
     e.target.innerText = "Check selected region";
     alertViewcVisible.value = true;
-    alertViewTopPos.value = e.target.offsetTop + e.target.clientHeight * 1.3;
+    alertViewTopPos.value = e.target.offsetTop + e.target.clientHeight * 1.3 - 100;
     alertPageSelected.value = e.target.innerText.toLowerCase().split(" ").join("-");
 };
 // 相应弹窗内容
@@ -242,9 +260,8 @@ const countryChos = (e) => {
 .box {
     width: 100%;
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 50px auto 0 auto;
 }
-
 .box>.title {
     background-image: linear-gradient(var(--lightorange), var(--lightorange)),
         linear-gradient(var(--lightorange), var(--lightorange)),
@@ -256,10 +273,10 @@ const countryChos = (e) => {
     background-repeat: no-repeat;
     box-sizing: content-box;
     padding: 20px 20px;
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: 600;
     letter-spacing: 0;
-    line-height: 58px;
+    line-height: 3rem;
     color: var(--font-color-body);
 }
 

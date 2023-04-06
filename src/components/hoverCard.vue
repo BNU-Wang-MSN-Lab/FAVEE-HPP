@@ -36,9 +36,6 @@ let sumOrigin = computed(() => {
           {{ msg }}
         </p>
       </div>
-      <div class="see">
-        <img class="see-icon" src="@/assets/img/home/see.png" alt="" />
-      </div>
     </div>
   </div>
 </template>
@@ -124,7 +121,7 @@ let sumOrigin = computed(() => {
 
 .answer-text {
   position: absolute;
-  font-size: 12px;
+  font-size: 0.75rem;
   transform: scale(.5,.5);
   white-space: nowrap;
   transform-origin: center center;
@@ -153,11 +150,11 @@ let sumOrigin = computed(() => {
   .hover-card {
     position: relative;
     box-sizing: border-box;
-    width: 100%;
-    margin-right: 0px;
+    width: 31%;
+    margin-right: 2%;
     margin-bottom: 20px;
     padding: 20px;
-    height: 160px;
+    height: 70px;
     transition: all 0.2s;
     transform-origin: center center;
   }
@@ -167,30 +164,30 @@ let sumOrigin = computed(() => {
     border: 4px solid #fff;
   }
   .answer-text {
-    font-size: 16px;
+    font-size: 0.75rem;
   }
   .hover-bottom {
-    height: 40px;
+    height: 20px;
   }
 
   .see {
-    width: 60px;
+    width: 20px;
   }
 
   .see-icon {
-    width: 40px;
-    height: 26px;
+    width: 16px;
+    height: 10px;
   }
 }
 @media (min-width:600px) and (max-width: 900px) {
   .hover-card {
     position: relative;
     box-sizing: border-box;
-    width: 70%;
-    margin-right: 0px;
+    width: 30%;
+    margin-right: 3%;
     margin-bottom: 20px;
     padding: 20px;
-    height: 220px;
+    height: 120px;
     transition: all 0.2s;
     transform-origin: center center;
   }
@@ -200,20 +197,20 @@ let sumOrigin = computed(() => {
     border: 4px solid #fff;
   }
   .hover-bottom {
-    height: 60px;
-    font-size: 30px;
+    height: 30px;
+    font-size: 1rem;
   }
   .answer-text {
-    font-size: 30px;
+    font-size: 1.2rem;
   }
 
   .see {
-    width: 80px;
+    width: 30px;
   }
 
   .see-icon {
-    width: 40px;
-    height: 26px;
+    width: 26px;
+    height: 16px;
   }
 }
 </style>

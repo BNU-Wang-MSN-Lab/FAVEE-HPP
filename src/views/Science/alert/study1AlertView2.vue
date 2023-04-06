@@ -14,8 +14,8 @@
 
 <style scoped>
 .study1-2>div {
-    font-size: 1.5rem;
-    line-height: 2.25rem;
+    font-size: 1rem;
+    line-height: 1.5rem;
 }
 .study1-2>img {
     width: 100%;

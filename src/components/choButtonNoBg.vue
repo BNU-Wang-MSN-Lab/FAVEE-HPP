@@ -7,7 +7,7 @@
 <style scoped>
 .cho-button-no-bg {
     display: inline-block;
-    padding: 20px 57px 20px 32px;
+    padding: 10px 57px 10px 16px;
     background-repeat: no-repeat;
     border: 1px solid var(--font-color-blue);
     color: var(--font-color-blue);

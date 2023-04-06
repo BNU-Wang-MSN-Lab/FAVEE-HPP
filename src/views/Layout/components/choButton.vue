@@ -7,7 +7,7 @@
 <style scoped>
 .cho-button {
     display: inline-block;
-    padding: 20px 57px 20px 32px;
+    padding: 10px 57px 10px 32px;
     background-color: var(--font-color-link);
     background-image: linear-gradient(var(--lightorange), var(--lightorange)),
         linear-gradient(var(--orange), var(--orange)),
@@ -18,8 +18,8 @@
     background-repeat: no-repeat;
     color: var(--font-color-white);
     position: relative;
-    font-size: 1.3rem;
-    line-height: 2.25rem;
+    font-size: 1rem;
+    line-height: 1.5rem;
     cursor: pointer;
 }
 

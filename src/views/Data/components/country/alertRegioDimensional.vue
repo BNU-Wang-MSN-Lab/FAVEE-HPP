@@ -77,6 +77,9 @@ import(`../../../../assets/data/Study3/${useCountry.value}/dimensional/${useCoun
 </template>
 
 <style scoped>
+.content {
+    margin: 0 0 50px 0;
+}
 .img-box {
     display: flex;
     height: 600px;
@@ -99,8 +102,8 @@ import(`../../../../assets/data/Study3/${useCountry.value}/dimensional/${useCoun
 .plot-a::before {
     content: "a";
     position: absolute;
-    top: 14px;
-    left: 14px;
+    top: -3px;
+    left: 95px;
     font-weight: 700;
     font-size: 1.5rem;
 }
@@ -117,7 +120,7 @@ import(`../../../../assets/data/Study3/${useCountry.value}/dimensional/${useCoun
 .plot-b::before {
     content: "b";
     position: absolute;
-    top: 14px;
+    top: 0px;
     left: 14px;
     font-weight: 700;
     font-size: 2.5rem;
@@ -140,7 +143,7 @@ import(`../../../../assets/data/Study3/${useCountry.value}/dimensional/${useCoun
 .plot-c::before {
     content: "c";
     position: absolute;
-    top: 0px;
+    top: -44px;
     left: 14px;
     font-weight: 700;
     font-size: 2.4rem;
@@ -190,6 +193,10 @@ import(`../../../../assets/data/Study3/${useCountry.value}/dimensional/${useCoun
     .plot-c {
         margin: 20px 0 0 0;
         order: 4;
+    }
+    .plot-c::before {
+        top: 0px;
+        left: 14px;
     }
     .explain {
         order: 3;

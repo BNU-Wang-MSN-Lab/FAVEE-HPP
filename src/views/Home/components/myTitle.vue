@@ -1,10 +1,10 @@
 <template>
-  <div>
+  <div style="width: 100%;">
     <div class="title-row">
       <div class="title-tip" :style="`background-color:${tipColor}`"></div>
-      <h2 class="title">
+      <div class="title">
         {{ title }}
-      </h2>
+      </div>
       <div v-if="tipVisible" class="tip-box" :class="type == 2 ? 'tip2' : ''">
         <tip :type="type"></tip>
       </div>
@@ -33,10 +33,12 @@ const prop = defineProps({
 .title-row {
   position: relative;
   display: flex;
+  max-height: 50px;
   justify-content: space-between;
 
   .title {
-    font-size: 48px;
+    font-size: 2rem;
+    line-height: 3rem;
     font-weight: bold;
     color: rgba(35, 37, 54, 1);
   }
@@ -57,9 +59,9 @@ const prop = defineProps({
 
 @media screen and (max-width: 600px) {
   .title-row {
-
+    
     .title {
-      font-size: 1.5rem;
+      font-size: 1.6rem;
     }
 
     .title-tip {
@@ -72,9 +74,6 @@ const prop = defineProps({
 
 @media (min-width: 600px) and (max-width: 900px) {
   .title-row {
-    .title {
-      font-size: 28px;
-    }
 
     .title-tip {
       width: 26px;
@@ -85,9 +84,6 @@ const prop = defineProps({
 
 @media (min-width: 900px) and (max-width: 1200px) {
   .title-row {
-    .title {
-      font-size: 38px;
-    }
 
     .title-tip {
       width: 30px;

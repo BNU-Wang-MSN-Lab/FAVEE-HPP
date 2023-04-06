@@ -39,8 +39,8 @@ const list = [
 </script>
 <style lang="scss" scoped>
 .card-list {
-  width: 100%;
-    display: flex;
-    flex-wrap: wrap;
+  width: 100% !important;
+  display: flex;
+  flex-wrap: wrap;
 }
 </style>

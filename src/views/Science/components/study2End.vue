@@ -17,7 +17,7 @@ const clickEvent = (e) => {
             implicit categories or six explicit categories). In other words, HPP categories emerge from FAVEE dimensions,
             and relationship taxonomies can be understood as discrete sets of categories living in a continuous dimensional
             space .
-            <div @click="clickEvent" data-alert-view="study2_1">More Details</div>
+            <div @click="clickEvent" data-alert-view="study2_1">Read more</div>
         </div>
         <div class="img">
             <img src="@/assets/img/science/Extended_Data_Fig._5.png" alt="">
@@ -46,7 +46,7 @@ const clickEvent = (e) => {
 .study2-end .txt {
     display: inline-block;
     width: 45%;
-    text-align: justify;
+    text-align: left;
     opacity: 0.6;
     color: var(--font-color-body);
 }

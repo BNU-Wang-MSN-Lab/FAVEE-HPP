@@ -5,7 +5,7 @@ import study2 from './components/study2.vue';
 import study3 from './components/study3.vue';
 import study2Middle from './components/study2Middle.vue';
 import study2End from './components/study2End.vue';
-import study3End from './components/study3End.vue'
+import study3End from './components/study3End.vue';
 
 const alertView = defineAsyncComponent(() => import("../../components/alertView.vue"));
 
@@ -50,7 +50,7 @@ const showAlertView = (e, p) => {
 .box {
     width: 100%;
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 50px auto 0 auto;
     overflow: hidden;
 }
 </style>

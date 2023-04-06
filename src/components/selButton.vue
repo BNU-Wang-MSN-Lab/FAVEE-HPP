@@ -39,7 +39,7 @@ const selButtonEvent = (e) => {
     justify-content: space-between;
     align-items: center;
     box-sizing: border-box;
-    padding: 30px 50px;
+    padding: 15px 25px;
     border: 1px solid var(--grey);
 }
 
@@ -65,7 +65,7 @@ const selButtonEvent = (e) => {
     background-color: var(--font-color-link);
     color: var(--font-color-white);
     border: none;
-    padding: 31px 51px;
+    padding: 16px 26px;
 }
 
 .sel-button>div::after {
@@ -87,10 +87,10 @@ const selButtonEvent = (e) => {
         flex-direction: column;
     }
     .sel-button>div {
-        padding: 15px 25px;
+        padding: 10px 20px;
     }
     .sel-button>div.selected {
-        padding: 16px 26px;
+        padding: 11px 21px;
     }
 }
 

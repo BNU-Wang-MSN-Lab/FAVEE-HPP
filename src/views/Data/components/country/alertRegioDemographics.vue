@@ -123,4 +123,10 @@ import(`../../../../assets/data/Study3/${useCountry.value}/demographics/${useCou
     background-size: 220px 220px;
     background-position: 0px 0px;
 }
+
+@media screen and (max-width: 600px) {
+    .img-box {
+        justify-content: center;
+    }
+}
 </style>

@@ -32,11 +32,10 @@
       </div>
     </header>
     <!-- banner -->
-    <div class="banner">
+    <div class="banner" v-if="route.path == '/layout/home'">
       <div class="mainbox">
         <h2 class="main-title">Human Relationships</h2>
-        <p class="main-content" v-for="(item, index) in mainList" :key="index">
-          {{ item }}
+        <p class="main-content" v-for="(item, index) in mainList" :key="index" v-html="item">
         </p>
       </div>
       <div class="main-bottom">
@@ -53,7 +52,7 @@
       </div>
     </div>
     <!-- datarow -->
-    <div class="data-row">
+    <div class="data-row" v-if="route.path == '/layout/home'">
       <div v-for="i in icon">
         <div
           class="bg"
@@ -75,7 +74,7 @@
 <script setup>
 import { ref } from "vue";
 import { useRouter, useRoute } from "vue-router";
-import choButton from "./components/choButton.vue";
+import choButton from "../../components/choButton.vue";
 const router = useRouter();
 const route = useRoute();
 const mobileMenuState = ref(false);
@@ -100,7 +99,7 @@ const menuList = [
   { title: "Maps and Data", path: "/layout/data" },
 ];
 const mainList = [
-  "A defining characteristic of Homo sapiens is the richness and complexity of our social relationships. Social relationships provide us with a sense of connection, purpose, support and, ultimately, overall better health and longevity. How does the human mind organize and operate such complex system of social relationships?",
+  "A defining characteristic of <span style='font-style: italic;'>Homo sapiens</span> is the richness and complexity of our social relationships. Social relationships provide us with a sense of connection, purpose, support and, ultimately, overall better health and longevity. How does the human mind organize and operate such complex system of social relationships?",
   `In the last 50 years, both social and biological scientists have sought to understand the nature of social relationships. Different theoretical models and taxonomies have been developed by psychologists, sociologists, anthropologists, linguists, economists, biologists, and communication researchers, but little consensus has been reached.`,
   `To address this long-standing question, we collected large-scale behavioral data across diverse populations in the world (n = 19,532). Our project aimed to examine universality and cultural variability in the ways that people understand social relationships and elucidated the cognitive structures and cultural principles underlying social relationship knowledge. 
   In support of open science, all data in the project are available to download (see Maps and Data Section). `,
@@ -130,7 +129,6 @@ const onGo = (path) => {
     height: 100%;
 
     .logo {
-      font-family: "思源黑体";
       font-size: 26px;
       color: #fff;
       font-weight: bold;
@@ -190,6 +188,7 @@ const onGo = (path) => {
   }
   .img-box {
     display: flex;
+    align-items: center;
     img {
       margin-right: 20px;
     }
@@ -214,6 +213,7 @@ const onGo = (path) => {
   .main-bottom {
     display: flex;
     justify-content: space-between;
+        align-items: center;
     width: 624px;
     margin: 0 auto;
     img {

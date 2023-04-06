@@ -163,9 +163,9 @@ const formatWord = (w) => {
     #plot-b {
         width: 280px;
         height: 245px;
+        margin: 0 0 50px 0;
         transform: scale(0.7);
         transform-origin: top left;
-        overflow: hidden;
     }
     .explain {
         padding: 29px 18px;

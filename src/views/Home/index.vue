@@ -5,10 +5,7 @@
       <!-- card -->
       <div class="block1">
         <div class="card-container">
-          <my-title
-            class="my-title"
-            title="Richness and Diversity of Human Relationships"
-          ></my-title>
+          <my-title class="my-title" title="Diversity of Human Relationships"></my-title>
           <div class="con-desc">
             We build connections with a wide range of people in our families,
             schools, workplaces, neighborhoods, and online communities. How do
@@ -19,117 +16,98 @@
         </div>
         <card-list></card-list>
       </div>
-      <!-- 模块二 -->
-      <div class="block2">
-        <my-title
-          class="my-title"
-          tipColor="rgba(68, 76, 252, 1)"
-          title="Scientific Questions To Address"
-          type="2"
-        ></my-title>
-        <div class="container">
+    </div>
+    <div class="big-block" style="margin: 50px auto 0 auto;">
+      <div class="main">
+        <!-- 模块二 -->
+        <div class="block2">
+          <my-title class="my-title" tipColor="rgba(68, 76, 252, 1)" title="Scientific Questions To Address"
+            type="2"></my-title>
+          <div class="container">
+            <div class="left">
+              <div class="con-title">
+                What are the basic building blocks of human relationships?
+              </div>
+              <div class="con-desc">
+                What is the elemental forms of social relationships? Do our mind
+                construct social relationship concepts in terms of discrete
+                categories (e.g., family, friends, colleagues) or continuous
+                dimensions (e.g., intimacy, equality, uniqueness)?
+              </div>
+            </div>
+            <div class="right">
+              <img class="right1" src="@/assets/img/home/right1.png" alt="" />
+              <img class="right2" src="@/assets/img/home/right2.png" alt="" />
+            </div>
+          </div>
+        </div>
+        <!-- 模块三 -->
+        <div class="block3">
           <div class="left">
-            <div class="con-title">
-              What are the basic building blocks of human relationships?
-            </div>
-            <div class="con-desc">
-              What is the elemental forms of social relationships? Do our mind
-              construct social relationship concepts in terms of discrete
-              categories (e.g., family, friends, colleagues) or continuous
-              dimensions (e.g., intimacy, equality, uniqueness)?
-            </div>
+            <img class="left1" src="@/assets/img/home/b_left1.png" alt="" />
+            <img class="left2" src="@/assets/img/home/b_left.png" alt="" />
           </div>
           <div class="right">
-            <img class="right1" src="@/assets/img/home/right1.png" alt="" />
-            <img class="right2" src="@/assets/img/home/right2.png" alt="" />
+            <div class="con-title">
+              How do we construct complex knowledge about relationships?
+            </div>
+            <div class="con-desc">
+              Social structure in non-human primates is dominated by hierarchy
+              and kinship affiliation. Human society, in contrast, is governed
+              by far more diverse and complex types of relationships exist
+              (e.g., a cousin can also be an enemy). How do we make sense of one
+              another and form the general knowledge about interpersonal
+              relatedness?
+            </div>
           </div>
         </div>
-      </div>
-      <!-- 模块三 -->
-      <div class="block3">
-        <div class="left">
-          <img class="left1" src="@/assets/img/home/b_left1.png" alt="" />
-          <img class="left2" src="@/assets/img/home/b_left.png" alt="" />
-        </div>
-        <div class="right">
-          <div class="con-title">
-            How do we construct complex knowledge about relationships?
+        <!-- 模块四 -->
+        <div class="block4">
+          <div class="main">
+            <div class="left">
+              <div class="con-title">
+                Do all people in the world understand social relationships in the
+                same way?
+              </div>
+              <div class="con-desc">
+                All human cultures have rich vocabularies devoted to describing
+                social relationships. Translation dictionaries, for example, suggest
+                that the English word ‘couples’ can be equated with the Chinese word
+                ‘夫妻’ and the Hebrew word ‘זוּג’ . But does this mean that the
+                conceptual meaning of ‘couple’ is the same in the UK, China, and
+                Israel?
+              </div>
+              <div class="tip-box">
+                <tip :type="3"></tip>
+              </div>
+            </div>
+            <div class="right">
+              <img class="right1" src="@/assets/img/home/banner2.png" alt="" />
+              <img class="right1" src="@/assets/img/home/banner1.png" alt="" />
+            </div>
           </div>
-          <div class="con-desc">
-            Social structure in non-human primates is dominated by hierarchy and
-            kinship affiliation. Human society, in contrast, is governed by far
-            more diverse and complex types of relationships exist (e.g., a
-            cousin can also be an enemy). How do we make sense of one another
-            and form the general knowledge about interpersonal relatedness?
-          </div>
-        </div>
-        <div class="line">
-          <div class="line1"></div>
-          <div class="line2"></div>
-          <div class="line3"></div>
-        </div>
-      </div>
-    </div>
-    <!-- 模块四 -->
-    <div class="block4">
-      <div class="main">
-        <div class="left">
-          <div class="con-title">
-            Do all people in the world understand social relationships in the
-            same way?
-          </div>
-          <div class="con-desc">
-            All human cultures have rich vocabularies devoted to describing
-            social relationships. Translation dictionaries, for example, suggest
-            that the English word ‘couples’ can be equated with the Chinese word
-            ‘夫妻’ and the Hebrew word ‘夫妻’ . But does this mean that the
-            conceptual meaning of ‘couple’ is the same in the UK, China, and
-            Israel?
-          </div>
-          <div class="link" @click="visible = true">More details</div>
-          <div class="tip-box">
-            <tip :type="3"></tip>
-          </div>
-        </div>
-        <div class="dialog-box">
-          <my-dialog v-model:visible="visible">
-            In different cultures, people interact with each other following
-            different traditions. For example, the wedding is an important
-            occasion to witness two people tying the knot, and the ceremony
-            varies from culture to culture. There is a custom in China where the
-            bride and groom, dressed in red gowns, bow three times to honor the
-            heaven, parents, and spouse. The parents are important witnesses,
-            and the couple is required to offer tea to them, while in the West,
-            the priest is an important witness to the two people.
-          </my-dialog>
-        </div>
-        <div class="right">
-          <img class="right1" src="@/assets/img/home/banner2.png" alt="" />
-          <img class="right1" src="@/assets/img/home/banner1.png" alt="" />
         </div>
       </div>
     </div>
     <!-- 模块5 -->
     <div class="block5">
       <div class="main">
-        <my-title
-          title="What is the FAVEE-HPP model?"
-          :tipVisible="false"
-        ></my-title>
+        <my-title title="What is the FAVEE-HPP model?" :tipVisible="false"></my-title>
         <p class="sub-title">
           The FAVEE-HPP model is a framework that outlines how our mind mentally
           represent and organize social relationship knowledge.
         </p>
         <div class="content">
           <div class="video-box">
-            <video
-              class="video"
-              src="@/assets/video/infovideo.mp4"
-              controls
-            ></video>
+            <video class="video" src="@/assets/video/infovideo.mp4" controls></video>
           </div>
           <div class="right-box">
             <div class="item">
+              <div class="item-content-bottom">
+                “To travel across the universe, we use longitude and latitude
+                for spatial navigation. To appropriately interact with others,
+                we use the FAVEE-HPP model for social navigation. “
+              </div>
               <p class="item-title">
                 FAVEE refers to the five basic dimensions of social
                 relationships:
@@ -164,11 +142,6 @@
                 <p class="item-content-row">2）Public relationships,</p>
                 <p class="item-content-row">3）Private relationships.</p>
               </div>
-              <div class="item-content-bottom">
-                “To travel across the universe, we use longitude and latitude
-                for spatial navigation. To appropriately interact with others,
-                we use the FAVEE-HPP model for social navigation. “
-              </div>
             </div>
           </div>
         </div>
@@ -179,10 +152,24 @@
       <div class="main">
         <my-title title="Theoretical and Empirical Implications"></my-title>
         <div class="img-row">
-          <img src="@/assets/img/home/block6_1.png" alt="" class="block6-img" />
-          <img src="@/assets/img/home/block6_2.png" alt="" class="block6-img" />
-          <img src="@/assets/img/home/block6_3.png" alt="" class="block6-img" />
-          <img src="@/assets/img/home/block6_4.png" alt="" class="block6-img" />
+          <div style="
+                  background: url('src/assets/img/home/block6_1.png') center/cover
+                    no-repeat;
+                " class="block6-img"></div>
+          <div style="
+                  background: url('src/assets/img/home/block6_2.png') center/cover
+                    no-repeat;
+                    background-position: center center;
+                    background-size: 509px 296px;
+                " class="block6-img"></div>
+          <div style="
+                  background: url('src/assets/img/home/block6_3.png') center/cover
+                    no-repeat;
+                " class="block6-img"></div>
+          <div style="
+                  background: url('src/assets/img/home/block6_4.png') center/cover
+                    no-repeat;
+                " class="block6-img"></div>
         </div>
         <div class="main-content">
           <div class="m-title">Human Sociality and Cognition</div>
@@ -210,15 +197,11 @@
     <div class="block7">
       <div class="main">
         <div class="left">
-          <img
-            src="@/assets/img/home/block7_left.png"
-            alt=""
-            class="left-banner"
-          />
+          <img src="@/assets/img/home/block7_left.png" alt="" class="left-banner" />
           <div class="left-bottom">
             <p class="title">Predictive Power</p>
             <img src="@/assets/img/home/arrow.png" alt="" class="right-arrow" />
-            <div class="link" @click="visible1 = true">More details</div>
+            <div class="link" @click="visible1 = true">Read more</div>
             <p class="left-main-text">
               No man is an island. Human life is a process of seeking,
               sustaining, repairing, judging, adjusting, and sometimes
@@ -277,7 +260,7 @@
           <div class="pc-hidden left-bottom">
             <p class="title">Predictive Power</p>
             <img src="@/assets/img/home/arrow.png" alt="" class="right-arrow" />
-            <div class="link" @click="visible1 = true">More details</div>
+            <div class="link" @click="visible1 = true">Read more</div>
             <p class="left-main-text">
               No man is an island. Human life is a process of seeking,
               sustaining, repairing, judging, adjusting, and sometimes
@@ -313,11 +296,15 @@
             cooperation based on public relationships).
           </div>
           <img src="@/assets/img/home/arrow.png" alt="" class="right-arrow" />
-          <img
-            src="@/assets/img/home/block7_right.png"
-            alt=""
-            class="right-banner"
-          />
+          <div>
+            <img src="@/assets/img/home/block7_right.png" alt="" class="right-banner" />
+            <div style="font-size: 0.75rem; color: var(--font-color-body); opacity: 0.6;">
+              Scatter plots showed all significant results between cross-region RDM of representational geometry (FAVEE in
+              blue, HPP in red) and cross-region RDM in each human factor. For example, we found that global regions with
+              more similar FAVEE representational geometry are more likely to have similar marriage and divorce rate.
+              Mantel test was used to assess the statistical significance.
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -342,47 +329,44 @@ const visible1 = ref(false);
 .card-container {
   padding-top: 90px;
   padding-bottom: 80px;
+}
 
-  .my-title {
-    margin-bottom: 60px;
-  }
+.big-block {
+  background-color: rgba(249, 249, 255, 1);
 }
 
 .con-title {
-  font-size: 24px;
+  font-size: 1.5rem;
   color: #000;
   font-weight: bold;
-  line-height: 30px;
+  line-height: 2.25rem;
   margin-bottom: 10px;
 }
 
 .con-desc {
-  font-size: 16px;
   color: rgba(35, 37, 54, 0.6);
-  text-align: justify;
-  line-height: 24px;
+  text-align: left;
 }
 
 .block2 {
-  padding: 90px 0;
+  padding: 70px 0;
 
   .container {
-    margin-top: 50px;
     display: flex;
     align-items: center;
 
     .left {
       flex: 1;
-      margin-right: 200px;
+      margin-right: 100px;
     }
 
     .right {
       .right1 {
-        width: 216px;
+        width: 270px;
       }
 
       .right2 {
-        width: 218px;
+        width: 268px;
       }
     }
   }
@@ -392,8 +376,6 @@ const visible1 = ref(false);
   position: relative;
   display: flex;
   align-items: center;
-  padding-bottom: 160px;
-  padding-top: 170px;
 
   .left {
     .left1 {
@@ -413,11 +395,13 @@ const visible1 = ref(false);
 
   .line {
     position: absolute;
-    bottom: 90px;
+    bottom: 0;
     right: 0;
     height: 8px;
     width: 400px;
     display: flex;
+    transform-origin: top left;
+    transform: translate(0px, 10px);
   }
 
   .line1 {
@@ -467,6 +451,7 @@ const visible1 = ref(false);
     .con-title {
       margin-bottom: 30px;
     }
+
     .con-desc {
       margin-bottom: 20px;
     }
@@ -495,10 +480,10 @@ const visible1 = ref(false);
   background-color: #fff;
 
   .sub-title {
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: bold;
     color: rgba(35, 37, 54, 1);
-    line-height: 34px;
+    line-height: 2.25rem;
     margin: 30px 0;
   }
 
@@ -508,10 +493,11 @@ const visible1 = ref(false);
 
     .video-box {
       width: 45%;
+      display: flex;
+      align-items: center;
 
       .video {
         width: 100%;
-        height: 100%;
       }
     }
 
@@ -524,26 +510,24 @@ const visible1 = ref(false);
 
       .item {
         flex: 1;
+        margin-top: 23px;
+        margin-bottom: 20px;
 
         .item-title {
-          font-size: 16px;
           font-weight: bold;
           margin-bottom: 4px;
         }
 
         .item-content-row {
-          font-size: 16px;
           color: rgba(35, 37, 54, 1);
           opacity: 0.6;
           line-height: 26px;
         }
 
         .item-content-bottom {
-          margin-top: 90px;
-          font-size: 16px;
+          margin-bottom: 30px;
           color: rgba(35, 37, 54, 1);
           opacity: 0.6;
-          line-height: 26px;
         }
       }
     }
@@ -551,29 +535,30 @@ const visible1 = ref(false);
 }
 
 .block6 {
-  padding: 80px 0;
+  padding: 80px 0 0 0;
   background-color: rgba(249, 249, 255, 1);
 
   .img-row {
-    margin: 34px auto 62px;
-    margin-left: -140px;
     display: flex;
+    justify-content: space-around;
+    margin: 20px;
 
+    // white-space: nowrap;
     .block6-img {
-      width: 350px;
-      margin-right: 50px;
+      width: 280px;
+      height: 200px;
     }
   }
 
   .main-content {
     .m-title {
-      font-size: 24px;
+      font-size: 1.5rem;
       font-weight: bold;
+      line-height: 2.25rem;
     }
 
     .m-content {
       opacity: 0.6;
-      font-size: 16px;
       margin-top: 12px;
     }
   }
@@ -582,12 +567,13 @@ const visible1 = ref(false);
 .block7 {
   padding-top: 50px;
   padding-bottom: 80px;
-  background-color: #fff;
+  background-color: rgba(249, 249, 255, 1);
   position: relative;
   padding-bottom: 330px;
 
   .main {
     display: flex;
+
     .line {
       position: absolute;
       bottom: 0;
@@ -615,6 +601,7 @@ const visible1 = ref(false);
         background-color: var(--theme-color-blue);
       }
     }
+
     .left {
       flex: 1;
       margin-right: 50px;
@@ -632,7 +619,6 @@ const visible1 = ref(false);
 
         .title {
           text-align: left;
-          font-size: 24px;
           font-weight: bold;
         }
 
@@ -645,11 +631,8 @@ const visible1 = ref(false);
 
         .left-main-text {
           color: rgba(35, 37, 54, 0.6);
-          font-size: 16px;
-          line-height: 26px;
           margin-bottom: 30px;
           text-align: left;
-          text-align: justify;
         }
 
         .link {
@@ -665,11 +648,8 @@ const visible1 = ref(false);
 
       .right-main-text {
         color: rgba(35, 37, 54, 0.6);
-        font-size: 16px;
-        line-height: 26px;
         margin-bottom: 30px;
         text-align: left;
-        text-align: justify;
       }
 
       .right-arrow {
@@ -694,7 +674,9 @@ const visible1 = ref(false);
   cursor: pointer;
   display: inline-block;
   position: relative;
-  color: var(--theme-color-blue);
+  font-weight: 500;
+  opacity: 0.52;
+  color: var(--font-color-link);
 }
 
 .link::after {
@@ -709,6 +691,7 @@ const visible1 = ref(false);
   background-color: #000;
   margin-left: 10px;
 }
+
 .pc-hidden {
   color: rgba(35, 37, 54, 0.6);
   display: none;
@@ -722,10 +705,6 @@ const visible1 = ref(false);
       align-items: center;
       justify-content: center;
 
-      .my-title {
-        margin-bottom: 30px;
-      }
-
       .card-list {
         display: flex;
         flex-direction: column;
@@ -738,18 +717,19 @@ const visible1 = ref(false);
   }
 
   .con-title {
+    max-width: 300px;
     font-size: 1.5rem;
     color: #000;
     font-weight: bold;
-    line-height: 1.7rem;
+    line-height: 2.25rem;
     margin-bottom: 20px;
   }
 
   .con-desc {
     font-size: 1rem;
     color: rgba(35, 37, 54, 0.6);
-    text-align: justify;
-    line-height: 18px;
+    text-align: left;
+    line-height: 1.5rem;
   }
 
   .block1 {
@@ -790,8 +770,6 @@ const visible1 = ref(false);
   .block3 {
     width: 90%;
     margin: 0 auto;
-    padding-top: 10px;
-    padding-bottom: 60px;
     justify-content: flex-start;
     align-items: flex-end;
     flex-direction: column-reverse;
@@ -860,7 +838,7 @@ const visible1 = ref(false);
 
     .sub-title {
       font-size: 1.4rem;
-      line-height: 1.6rem;
+      line-height: 2.1rem;
       margin: 30px 0;
     }
 
@@ -871,6 +849,7 @@ const visible1 = ref(false);
       .video-box {
         width: 100%;
         margin-bottom: 30px;
+
         .video {
           width: 100%;
           height: 100%;
@@ -882,20 +861,22 @@ const visible1 = ref(false);
         margin-left: 0;
 
         .item {
+          margin-top: 23px;
           margin-bottom: 20px;
 
           .item-title {
             font-size: 1.4rem;
+            line-height: 2.1rem;
           }
 
           .item-content-row {
             font-size: 1.3rem;
-            line-height: 1.5rem;
+            line-height: 2.1rem;
           }
 
           .item-content-bottom {
             font-size: 1.3rem;
-            line-height: 1.5rem;
+            line-height: 2.1rem;
             margin-top: 20px;
           }
         }
@@ -908,13 +889,13 @@ const visible1 = ref(false);
     margin: 0 auto;
 
     .img-row {
-      margin: 34px auto 62px;
-      display: flex;
       flex-wrap: wrap;
 
       .block6-img {
-        width: 90%;
-        margin: 0 auto 20px;
+        width: 45%;
+        height: 90px;
+        margin: 10px 0;
+        box-sizing: border-box;
       }
     }
 
@@ -922,12 +903,14 @@ const visible1 = ref(false);
       .m-title {
         font-size: 1.5rem;
         font-weight: bold;
+        line-height: 2.25rem;
       }
 
       .m-content {
         opacity: 0.6;
         font-size: 1.3rem;
         margin-top: 20px;
+        line-height: 2.1rem;
       }
     }
   }
@@ -947,14 +930,16 @@ const visible1 = ref(false);
 
         .left-bottom {
           display: none;
+
           .title {
-            font-size: 1.5rem;
             margin-bottom: 10px;
           }
+
           .left-main-text {
             font-size: 1.3rem;
-            line-height: 1.5rem;
+            line-height: 2.1rem;
           }
+
           .line {
             max-width: 300%;
             height: 8px;
@@ -967,29 +952,33 @@ const visible1 = ref(false);
             bottom: 30px;
           }
         }
+
         .pc-hidden {
           display: block;
           font-size: 1.3rem;
-          line-height: 1.5rem;
+          line-height: 2.1rem;
           margin-top: 10px;
         }
       }
+
       .right {
         .left-bottom {
           position: relative;
           display: block;
           padding-bottom: 60px;
           padding-top: 30px;
+
           .title {
             color: #000;
             font-weight: bold;
-            font-size: 1.5rem;
             margin-bottom: 10px;
           }
+
           .left-main-text {
             font-size: 1.3rem;
-            line-height: 1.5rem;
+            line-height: 2.1rem;
           }
+
           .line {
             max-width: 300%;
             height: 8px;
@@ -1003,12 +992,14 @@ const visible1 = ref(false);
             bottom: 30px;
           }
         }
+
         .right-main-text {
           display: none;
           font-size: 1.3rem;
-          line-height: 1.5rem;
+          line-height: 2.1rem;
         }
       }
+
       .right-arrow {
         display: none;
       }
@@ -1032,10 +1023,6 @@ const visible1 = ref(false);
       align-items: center;
       justify-content: center;
 
-      .my-title {
-        margin-bottom: 30px;
-      }
-
       .card-list {
         display: flex;
         flex-direction: column;
@@ -1051,15 +1038,15 @@ const visible1 = ref(false);
     font-size: 1.5rem;
     color: #000;
     font-weight: bold;
-    line-height: 30px;
+    line-height: 2.25rem;
     margin-bottom: 30px;
   }
 
   .con-desc {
-    font-size: 22px;
+    font-size: 1.5rem;
     color: rgba(35, 37, 54, 0.6);
-    text-align: justify;
-    line-height: 26px;
+    text-align: left;
+    line-height: 2.25rem;
   }
 
   .block1 {
@@ -1100,8 +1087,6 @@ const visible1 = ref(false);
   .block3 {
     width: 90%;
     margin: 0 auto;
-    padding-top: 10px;
-    padding-bottom: 60px;
     justify-content: flex-start;
     align-items: flex-end;
     flex-direction: column-reverse;
@@ -1154,7 +1139,8 @@ const visible1 = ref(false);
         margin-right: 0;
 
         .link {
-          font-size: 20px;
+          font-size: 0.84rem;
+          line-height: 1.26rem;
         }
 
         .con-title {
@@ -1186,37 +1172,41 @@ const visible1 = ref(false);
     padding: 70px 0 20px;
 
     .sub-title {
-      font-size: 20px;
-      line-height: 24px;
+      font-size: 1.25rem;
+      line-height: 1.9rem;
       margin: 30px 0;
     }
 
     .content {
       flex-direction: column;
       height: auto;
+
       .video-box {
         width: 100%;
         margin-bottom: 40px;
       }
+
       .right-box {
         width: 100%;
         margin-left: 0;
 
         .item {
+          margin-top: 23px;
           margin-bottom: 20px;
 
           .item-title {
-            font-size: 16px;
+            font-size: 1rem;
+            line-height: 1.5rem;
           }
 
           .item-content-row {
-            font-size: 16px;
-            line-height: 19px;
+            font-size: 1rem;
+            line-height: 1.5rem;
           }
 
           .item-content-bottom {
-            font-size: 16px;
-            line-height: 19px;
+            font-size: 1rem;
+            line-height: 1.5rem;
             margin-top: 40px;
           }
         }
@@ -1229,26 +1219,28 @@ const visible1 = ref(false);
     margin: 0 auto;
 
     .img-row {
-      margin: 34px auto 62px;
-      display: flex;
       flex-wrap: wrap;
 
       .block6-img {
-        width: 90%;
-        margin: 0 auto 20px;
+        width: 45%;
+        height: 180px;
+        margin: 10px 0;
+        box-sizing: border-box;
       }
     }
 
     .main-content {
       .m-title {
-        font-size: 20px;
+        font-size: 1.25rem;
         font-weight: bold;
+        line-height: 1.9rem;
       }
 
       .m-content {
         opacity: 0.6;
-        font-size: 16px;
+        font-size: 1rem;
         margin-top: 20px;
+        line-height: 1.5rem;
       }
     }
   }
@@ -1268,6 +1260,7 @@ const visible1 = ref(false);
 
         .left-bottom {
           display: none;
+
           .line {
             max-width: 300%;
             height: 8px;
@@ -1280,24 +1273,28 @@ const visible1 = ref(false);
             bottom: 40px;
           }
         }
+
         .pc-hidden {
           display: block;
           margin-top: 10px;
         }
       }
+
       .right {
         .left-bottom {
           position: relative;
           display: block;
           padding-bottom: 60px;
           padding-top: 30px;
+
           .title {
             color: #000;
             font-weight: bold;
             margin-bottom: 10px;
           }
-          .left-main-text {
-          }
+
+          .left-main-text {}
+
           .line {
             max-width: 300%;
             height: 8px;
@@ -1311,6 +1308,7 @@ const visible1 = ref(false);
             bottom: 30px;
           }
         }
+
         .right-main-text {
           display: none;
         }
@@ -1366,7 +1364,8 @@ const visible1 = ref(false);
 
   .block4 {
     .link {
-      font-size: 22px;
+      font-size: 1.25rem;
+      line-height: 1.9rem;
     }
   }
 
@@ -1375,14 +1374,18 @@ const visible1 = ref(false);
       height: auto;
       display: flex;
       flex-direction: column;
+
       .video-box {
         width: 100%;
         margin-bottom: 40px;
       }
+
       .right-box {
         width: 100%;
         margin-left: 0;
+
         .item {
+          margin-top: 23px;
           margin-bottom: 20px;
         }
       }
@@ -1391,14 +1394,13 @@ const visible1 = ref(false);
 
   .block6 {
     .img-row {
-      width: 100%;
-      display: flex;
-      margin: 30px auto;
+      flex-wrap: wrap;
 
       .block6-img {
-        flex: 1;
-        width: 23%;
-        margin-right: 2%;
+        width: 400px;
+        height: 180px;
+        margin: 10px 0;
+        box-sizing: border-box;
       }
     }
   }
@@ -1408,13 +1410,13 @@ const visible1 = ref(false);
       .left {
         .left-bottom {
           .link {
-            font-size: 20px;
+            font-size: 1.25rem;
             bottom: 10px;
             right: 40px;
+            line-height: 1.9rem;
           }
         }
       }
     }
   }
-}
-</style>
+}</style>

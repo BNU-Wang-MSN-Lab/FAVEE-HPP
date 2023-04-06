@@ -121,7 +121,7 @@ const leftClickEvent = (e) => {
 }
 
 .content {
-    text-align: justify;
+    text-align: left;
 }
 
 .name {

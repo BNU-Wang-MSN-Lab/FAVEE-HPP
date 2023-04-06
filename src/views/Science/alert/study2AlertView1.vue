@@ -1,6 +1,6 @@
 <template>
     <div class="study2-1">
-        <img src="@/assets/img/science/89.png" alt="">
+        <img src="@/assets/img/science/89.png" alt="" style="display: block; width: 80%; margin: 0 auto;" />
         <!-- 华丽丽的分隔符 -->
         <div style="display: block; width: 25px; height: 25px; background-color: var(--orange );"></div>
         <div class="flex">
@@ -23,7 +23,7 @@
 
 <style scoped>
 .study2-1 {
-    text-align: justify;
+    text-align: left;
 }
 .study2-1 .tit {
     margin: 0 0 20px 0;

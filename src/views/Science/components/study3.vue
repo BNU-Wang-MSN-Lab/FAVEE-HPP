@@ -42,27 +42,27 @@ const clickEvent = (e) => {
                 <div class="mutil">
                     <div>
                         <img src="@/assets/img/science/Australia.png" alt="">
-                        Australia
+                        <div>Australia</div>
                     </div>
                     <div>
                         <img src="@/assets/img/science/china.png" alt="">
-                        China
+                        <div>China</div>
                     </div>
                     <div>
                         <img src="@/assets/img/science/France.png" alt="">
-                        France
+                        <div>France</div>
                     </div>
                     <div>
                         <img src="@/assets/img/science/Lsrael.png" alt="">
-                        Lsrael
+                        <div>Lsrael</div>
                     </div>
                     <div>
                         <img src="@/assets/img/science/Mexico.png" alt="">
-                        Mexico
+                        <div>Mexico</div>
                     </div>
                     <div>
                         <img src="@/assets/img/science/Portugal.png" alt="">
-                        Portugal
+                        <div>Portugal</div>
                     </div>
                 </div>
             </div>
@@ -99,20 +99,28 @@ const clickEvent = (e) => {
 
 .study3 .bottom-img .mutil {
     display: flex;
+    align-items: center;
     flex-wrap: wrap;
 }
 
 .study3 .bottom-img .mutil>div {
     width: 200px;
     text-align: center;
+    position: relative;
 }
-
+.study3 .bottom-img .mutil>div>div {
+    width: 100%;
+    position: absolute;
+    text-anchor: middle;
+    bottom: 20px;
+    left: 0px;
+}
 .study3 .bottom-img img {
     width: 100%;
 }
 
 .study3 .title {
-    font-size: 2.4rem;
+    font-size: 2rem;
     padding: 25px 0 10px 0;
     background-image: linear-gradient(var(--orange), var(--orange));
     background-size: 25px 25px;
@@ -132,7 +140,7 @@ const clickEvent = (e) => {
 }
 
 .study3 .content {
-    text-align: justify;
+    text-align: left;
     opacity: 0.6;
     color: var(--font-color-body);
 }

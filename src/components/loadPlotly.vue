@@ -44,4 +44,5 @@ const loadClick = () => {
     position: absolute;
     top: calc(50% - 12px);
     left: calc(50% - 68px);
+    color: var(--font-color-white);
 }</style>

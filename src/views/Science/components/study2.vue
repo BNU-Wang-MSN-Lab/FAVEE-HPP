@@ -5,7 +5,7 @@
         </div>
         <div class="bg">
             <div class="w1">
-                <div class="sub-title" style="text-align: left;">What is the elemental forms of social relationships? </div>
+                <div class="sub-title" style="text-align: left;">What are the elemental forms of social relationships? </div>
                 <div class="content">
                     <p>
                         There is ongoing scholarly debate about whether social relationships are best understood as discrete
@@ -87,7 +87,9 @@
                         </div>
                     </div>
                     <div class="fd">
-                        <div class="sub-title">Functional Dimensions</div>
+                        <div class="sub-title">Feature <span style="font-size: 1.5rem;
+                            font-weight: 600;
+                            line-height: 2.25rem;">Dimensions</span></div>
                         <div>
                             <div class="thin"><span>Spatial distance</span>（neighbors, distant relatives）</div>
                             <div class="thin"><span>Temporal label</span>（ex-husband, fiances）</div>
@@ -116,11 +118,11 @@
 
 <style scoped>
 .fd>div:nth-child(2)>div {
-    margin: 10px 0;
+    margin: 20px 0;
 }
 
 .title {
-    font-size: 3rem;
+    font-size: 2rem;
     padding: 25px 0 10px 0;
     background-image: linear-gradient(var(--blue), var(--blue)),
         linear-gradient(var(--lightorange), var(--lightorange)),
@@ -131,7 +133,7 @@
     background-position: 0px 0px, 100% 8px, 100% 0px, calc(100% - 18px) 0px, 100% 0px;
     background-repeat: no-repeat;
     font-weight: 600;
-    line-height: 3.6rem;
+    line-height: 3rem;
 }
 
 .thin {
@@ -199,7 +201,7 @@
 
 .content>p {
     opacity: 0.6;
-    text-align: justify;
+    text-align: left;
     margin: 20px 0 0 0;
     color: var(--font-color-body);
 }

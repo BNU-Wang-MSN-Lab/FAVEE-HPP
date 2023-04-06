@@ -76,7 +76,7 @@ const clickEvent = (e) => {
                 theories and taxonomies were developed by psychologists, anthropologists, sociologists, linguists,
                 economists, and communication researchers, but no consensus has been reached.
                 <div @click="clickEvent" data-alert-view="study1_1">
-                    More Details
+                    Read more
                 </div>
             </div>
             <div class="content">
@@ -85,7 +85,7 @@ const clickEvent = (e) => {
                 dimensions (i.e., FAVEE) that scaffold conceptual space of social relationships: Formality, Activeness,
                 Valence, Exchange, Equality.
                 <div @click="clickEvent" data-alert-view="study1_2">
-                    More Details
+                    Read more
                 </div>
             </div>
         </div>
@@ -109,7 +109,7 @@ const clickEvent = (e) => {
 
 <style scoped>
 .title {
-    font-size: 3rem;
+    font-size: 2rem;
     padding: 25px 0 10px 0;
     background-image: linear-gradient(var(--lightorange), var(--lightorange)),
         linear-gradient(var(--lightorange), var(--lightorange)),
@@ -120,7 +120,7 @@ const clickEvent = (e) => {
     background-position: 0px 0px, 100% 8px, 100% 0px, calc(100% - 18px) 0px, 100% 0px;
     background-repeat: no-repeat;
     font-weight: 600;
-    line-height: 3.6rem;
+    line-height: 3rem;
 }
 
 .plot {
@@ -140,7 +140,7 @@ const clickEvent = (e) => {
     width: 560px;
     opacity: 0.6;
     color: var(--font-color-body);
-    text-align: justify;
+    text-align: left;
     vertical-align: top;
 }
 
