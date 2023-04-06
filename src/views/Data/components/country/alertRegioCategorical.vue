@@ -38,7 +38,7 @@ import faveeRadarImage from '../../../../components/faveeRadarImage.vue';
 
 const country = inject("chooseCountry");
 const counList = {
-    "China": "CHN",
+    "China mainland": "CHN",
     "United States": "USA",
     "United Kingdom": "UK",
     "Australia": "Australia",
