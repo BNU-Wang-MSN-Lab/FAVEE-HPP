@@ -1,7 +1,7 @@
 <template>
   <div class="layout-container">
     <!-- header -->
-    <header class="header" style="position: fixed; z-index: 200;">
+    <header class="header" style="width: 100%; position: fixed; z-index: 200;">
       <div class="main">
         <router-link to="/" class="logo"> Mapping Relationships </router-link>
         <nav class="nav">
