@@ -1,7 +1,7 @@
 <template>
   <div class="layout-container">
     <!-- header -->
-    <header class="header">
+    <header class="header" style="position: fixed; z-index: 200;">
       <div class="main">
         <router-link to="/" class="logo"> Mapping Relationships </router-link>
         <nav class="nav">
@@ -31,6 +31,7 @@
         </div>
       </div>
     </header>
+    <div class="header"></div>
     <!-- banner -->
     <div class="banner" v-if="route.path == '/layout/home'">
       <div class="mainbox">
@@ -99,7 +100,7 @@ const menuList = [
   { title: "Maps and Data", path: "/layout/data" },
 ];
 const mainList = [
-  "A defining characteristic of <span style='font-style: italic;'>Homo sapiens</span> is the richness and complexity of our social relationships. Social relationships provide us with a sense of connection, purpose, support and, ultimately, overall better health and longevity. How does the human mind organize and operate such complex system of social relationships?",
+  "A defining characteristic of " + (document.body.clientWidth < 600 ? "<span style='font-size: 1.6rem; line-height: 2rem; font-style: italic;'>Homo sapiens</span>" : "<span style='font-style: italic;'>Homo sapiens</span>") + " is the richness and complexity of our social relationships. Social relationships provide us with a sense of connection, purpose, support and, ultimately, overall better health and longevity. How does the human mind organize and operate such complex system of social relationships?",
   `In the last 50 years, both social and biological scientists have sought to understand the nature of social relationships. Different theoretical models and taxonomies have been developed by psychologists, sociologists, anthropologists, linguists, economists, biologists, and communication researchers, but little consensus has been reached.`,
   `To address this long-standing question, we collected large-scale behavioral data across diverse populations in the world (n = 19,532). Our project aimed to examine universality and cultural variability in the ways that people understand social relationships and elucidated the cognitive structures and cultural principles underlying social relationship knowledge. 
   In support of open science, all data in the project are available to download (see Maps and Data Section). `,
