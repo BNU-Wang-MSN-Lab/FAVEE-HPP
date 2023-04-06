@@ -18,7 +18,7 @@ watch(chooseCountry, (n, o) => {
         .attr("fill", d => countries.indexOf(d.properties.COUNTRY) >= 0 ? (d.properties.COUNTRY == n ? "#ff00ff" : "#000000") : "#e3e3e3")
 });
 const countries = [
-    "China mainland",
+    "China(mainland)",
     'Hong Kong SAR',
     "United States",
     "United Kingdom",

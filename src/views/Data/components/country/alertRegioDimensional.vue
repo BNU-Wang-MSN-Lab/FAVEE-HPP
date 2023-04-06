@@ -4,7 +4,7 @@ import { newPlot } from 'plotly.js-dist';
 
 const country = inject("chooseCountry");
 const counList = {
-    "China mainland": "CHN",
+    "China(mainland)": "CHN",
     "United States": "USA",
     "United Kingdom": "UK",
     "Australia": "Australia",
