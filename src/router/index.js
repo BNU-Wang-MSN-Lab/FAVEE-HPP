@@ -1,4 +1,7 @@
 import { createRouter, createWebHashHistory } from 'vue-router';
+
+import data_index from "../views/Data/index.vue";
+
 const routes = [
     {
         path: '/',
@@ -22,7 +25,7 @@ const routes = [
             {
                 path: 'data',
                 name: 'Data',
-                component: () => import('../views/Data/index.vue')
+                component: data_index
             }
         ]
     }

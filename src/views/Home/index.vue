@@ -29,8 +29,8 @@
                 What are the basic building blocks of human relationships?
               </div>
               <div class="con-desc">
-                What is the elemental forms of social relationships? Do our mind
-                construct social relationship concepts in terms of discrete
+                What are the elemental forms of social relationships? Do our mind
+                construct social relationships in terms of discrete
                 categories (e.g., family, friends, colleagues) or continuous
                 dimensions (e.g., intimacy, equality, uniqueness)?
               </div>
@@ -148,161 +148,165 @@
       </div>
     </div>
     <!-- 模块6 -->
-    <div class="block6">
-      <div class="main">
-        <my-title title="Theoretical and Empirical Implications"></my-title>
-        <div class="img-row">
-          <div style="
-                  background: url('src/assets/img/home/block6_1.png') center/cover
-                    no-repeat;
-                " class="block6-img"></div>
-          <div style="
-                  background: url('src/assets/img/home/block6_2.png') center/cover
-                    no-repeat;
-                    background-position: center center;
-                    background-size: 509px 296px;
-                " class="block6-img"></div>
-          <div style="
-                  background: url('src/assets/img/home/block6_3.png') center/cover
-                    no-repeat;
-                " class="block6-img"></div>
-          <div style="
-                  background: url('src/assets/img/home/block6_4.png') center/cover
-                    no-repeat;
-                " class="block6-img"></div>
-        </div>
-        <div class="main-content">
-          <div class="m-title">Human Sociality and Cognition</div>
-          <div class="m-content">
-            Socialization is hypothesized to be one of the major drivers behind
-            the evolution of human cognition. In primitive society, we were
-            primarily dependent on our family, friends, and spouses, as they
-            provide us with protection, unique connection, and love. Our
-            understanding of these private relationships is deeply shaped by
-            traditional inheritance (e.g., religious beliefs and rituals).
+    <div style="background-color: rgb(249, 249, 255);">
+      <div class="block6">
+        <div class="main">
+          <my-title title="Theoretical and Empirical Implications"></my-title>
+          <div class="img-row">
+            <div style="
+                      background: url('src/assets/img/home/block6_1.png') center/cover
+                        no-repeat;
+                    " class="block6-img"></div>
+            <div style="
+                      background: url('src/assets/img/home/block6_2.png') center/cover
+                        no-repeat;
+                        background-position: center center;
+                        background-size: 509px 296px;
+                    " class="block6-img"></div>
+            <div style="
+                      background: url('src/assets/img/home/block6_3.png') center/cover
+                        no-repeat;
+                    " class="block6-img"></div>
+            <div style="
+                      background: url('src/assets/img/home/block6_4.png') center/cover
+                        no-repeat;
+                    " class="block6-img"></div>
           </div>
-          <div class="m-content">
-            Development of modernization leads to a large scale of human
-            community and evolves into new ways of social interaction. We begin
-            to leave our core social network and cooperate with strangers. We
-            adapt to exchange with others equally or proportionally to satisfy
-            our various needs. Today's pluralistic world is composed of various
-            stories that are used to build consensus, which maintain the
-            stability of public life.
+          <div class="main-content">
+            <div class="m-title">Human Sociality and Cognition</div>
+            <div class="m-content">
+              Socialization is hypothesized to be one of the major drivers behind
+              the evolution of human cognition. In primitive society, we were
+              primarily dependent on our family, friends, and spouses, as they
+              provide us with protection, unique connection, and love. Our
+              understanding of these private relationships is deeply shaped by
+              traditional inheritance (e.g., religious beliefs and rituals).
+            </div>
+            <div class="m-content">
+              Development of modernization leads to a large scale of human
+              community and evolves into new ways of social interaction. We begin
+              to leave our core social network and cooperate with strangers. We
+              adapt to exchange with others equally or proportionally to satisfy
+              our various needs. Today's pluralistic world is composed of various
+              stories that are used to build consensus, which maintain the
+              stability of public life.
+            </div>
           </div>
         </div>
       </div>
     </div>
     <!-- 模块7 -->
-    <div class="block7">
-      <div class="main">
-        <div class="left">
-          <img src="@/assets/img/home/block7_left.png" alt="" class="left-banner" />
-          <div class="left-bottom">
-            <p class="title">Predictive Power</p>
-            <img src="@/assets/img/home/arrow.png" alt="" class="right-arrow" />
-            <div class="link" @click="visible1 = true">Read more</div>
-            <p class="left-main-text">
-              No man is an island. Human life is a process of seeking,
-              sustaining, repairing, judging, adjusting, and sometimes
-              dissolving relationships. The quality and quantity of social
-              relationships are integral not only to our survival but our
-              capacity to thrive. Social isolation and poor relationships affect
-              individual’s cognition, behavior, development, and well-being.
-            </p>
-            <p class="left-main-text">
-              The FAVEE-HPP framework establishes an objective and quantitative
-              measure of social relationships that can be used to describe and
-              explain interpersonal behaviors under each relationship and make
-              predictions about their future interaction. For example, we found
-              that the FAVEE-HPP model is useful to predict important human
-              factors such as well-being, corruption, interpersonal trust, and
-              marriage
-            </p>
-            <div class="line">
-              <div class="line1"></div>
-              <div class="line2"></div>
-              <div class="line3"></div>
+    <div style="background-color: rgb(249, 249, 255);">
+      <div class="block7">
+        <div class="main">
+          <div class="left">
+            <img src="@/assets/img/home/block7_left.png" alt="" class="left-banner" />
+            <div class="left-bottom">
+              <p class="title">Predictive Power</p>
+              <img src="@/assets/img/home/Arrowrightnext.svg" style="width: 32px; height: 32px;" alt="" class="right-arrow" />
+              <div class="link" @click="visible1 = true">Read more</div>
+              <p class="left-main-text">
+                No man is an island. Human life is a process of seeking,
+                sustaining, repairing, judging, adjusting, and sometimes
+                dissolving relationships. The quality and quantity of social
+                relationships are integral not only to our survival but our
+                capacity to thrive. Social isolation and poor relationships affect
+                individual’s cognition, behavior, development, and well-being.
+              </p>
+              <p class="left-main-text">
+                The FAVEE-HPP framework establishes an objective and quantitative
+                measure of social relationships that can be used to describe and
+                explain interpersonal behaviors under each relationship and make
+                predictions about their future interaction. For example, we found
+                that the FAVEE-HPP model is useful to predict important human
+                factors such as well-being, corruption, interpersonal trust, and
+                marriage
+              </p>
+              <div class="line">
+                <div class="line1"></div>
+                <div class="line2"></div>
+                <div class="line3"></div>
+              </div>
+            </div>
+            <div class="pc-hidden">
+              The FAVEE-HPP framework set up the link between human sociality and
+              cognition and provides implications on how human cognitive processes
+              are systematically configured and adaptively operated for different
+              interpersonal contexts. It can help us understand why humans can
+              form and maintain relationships that extend beyond immediate family
+              members and how humans evolved from ‘animal’ (i.e., no cooperation)
+              to ‘social animal’ (i.e., small-scale cooperation based on personal
+              relationships) and to ‘cultural animal’ (i.e., large-scale
+              cooperation based on public relationships).
             </div>
           </div>
-          <div class="pc-hidden">
-            The FAVEE-HPP framework set up the link between human sociality and
-            cognition and provides implications on how human cognitive processes
-            are systematically configured and adaptively operated for different
-            interpersonal contexts. It can help us understand why humans can
-            form and maintain relationships that extend beyond immediate family
-            members and how humans evolved from ‘animal’ (i.e., no cooperation)
-            to ‘social animal’ (i.e., small-scale cooperation based on personal
-            relationships) and to ‘cultural animal’ (i.e., large-scale
-            cooperation based on public relationships).
+          <div class="dialog-box">
+            <my-dialog v-model:visible="visible1">
+              In addition, from a developmental perspective, humans begin to
+              accrue cognitive heuristics and stereotypes about social
+              relationships at birth (e.g., stranger danger, respect for elders).
+              Our interpersonal experiences will shape our world view. For
+              example, people who grow up in a broken family or had chronic peer
+              rejection might form negative impressions about familial and
+              affiliative relationships. Likewise, people who experienced
+              harmonious relationships with current employers, clients or
+              coworkers might adopt more positive views on work relationships. The
+              FAVEE-HPP framework can be used to develop psychometric tests to
+              measure where an individual lies on the spectrum of each of the five
+              dimensions (like the ‘big-five’ personality test), and
+              quantitatively examine how individual differences in relationship
+              representations is linked to interpersonal difficulties in daily
+              life.
+            </my-dialog>
           </div>
-        </div>
-        <div class="dialog-box">
-          <my-dialog v-model:visible="visible1">
-            In addition, from a developmental perspective, humans begin to
-            accrue cognitive heuristics and stereotypes about social
-            relationships at birth (e.g., stranger danger, respect for elders).
-            Our interpersonal experiences will shape our world view. For
-            example, people who grow up in a broken family or had chronic peer
-            rejection might form negative impressions about familial and
-            affiliative relationships. Likewise, people who experienced
-            harmonious relationships with current employers, clients or
-            coworkers might adopt more positive views on work relationships. The
-            FAVEE-HPP framework can be used to develop psychometric tests to
-            measure where an individual lies on the spectrum of each of the five
-            dimensions (like the ‘big-five’ personality test), and
-            quantitatively examine how individual differences in relationship
-            representations is linked to interpersonal difficulties in daily
-            life.
-          </my-dialog>
-        </div>
-        <div class="right">
-          <div class="pc-hidden left-bottom">
-            <p class="title">Predictive Power</p>
-            <img src="@/assets/img/home/arrow.png" alt="" class="right-arrow" />
-            <div class="link" @click="visible1 = true">Read more</div>
-            <p class="left-main-text">
-              No man is an island. Human life is a process of seeking,
-              sustaining, repairing, judging, adjusting, and sometimes
-              dissolving relationships. The quality and quantity of social
-              relationships are integral not only to our survival but our
-              capacity to thrive. Social isolation and poor relationships affect
-              individual’s cognition, behavior, development, and well-being.
-            </p>
-            <p class="left-main-text">
-              The FAVEE-HPP framework establishes an objective and quantitative
-              measure of social relationships that can be used to describe and
-              explain interpersonal behaviors under each relationship and make
-              predictions about their future interaction. For example, we found
-              that the FAVEE-HPP model is useful to predict important human
-              factors such as well-being, corruption, interpersonal trust, and
-              marriage
-            </p>
-            <div class="line">
-              <div class="line1"></div>
-              <div class="line2"></div>
-              <div class="line3"></div>
+          <div class="right">
+            <div class="pc-hidden left-bottom">
+              <p class="title">Predictive Power</p>
+              <img src="@/assets/img/home/Arrowrightnext.svg" style="width: 32px; height: 32px;" alt="" class="right-arrow" />
+              <div class="link" @click="visible1 = true">Read more</div>
+              <p class="left-main-text">
+                No man is an island. Human life is a process of seeking,
+                sustaining, repairing, judging, adjusting, and sometimes
+                dissolving relationships. The quality and quantity of social
+                relationships are integral not only to our survival but our
+                capacity to thrive. Social isolation and poor relationships affect
+                individual’s cognition, behavior, development, and well-being.
+              </p>
+              <p class="left-main-text">
+                The FAVEE-HPP framework establishes an objective and quantitative
+                measure of social relationships that can be used to describe and
+                explain interpersonal behaviors under each relationship and make
+                predictions about their future interaction. For example, we found
+                that the FAVEE-HPP model is useful to predict important human
+                factors such as well-being, corruption, interpersonal trust, and
+                marriage
+              </p>
+              <div class="line">
+                <div class="line1"></div>
+                <div class="line2"></div>
+                <div class="line3"></div>
+              </div>
             </div>
-          </div>
-          <div class="right-main-text">
-            The FAVEE-HPP framework set up the link between human sociality and
-            cognition and provides implications on how human cognitive processes
-            are systematically configured and adaptively operated for different
-            interpersonal contexts. It can help us understand why humans can
-            form and maintain relationships that extend beyond immediate family
-            members and how humans evolved from ‘animal’ (i.e., no cooperation)
-            to ‘social animal’ (i.e., small-scale cooperation based on personal
-            relationships) and to ‘cultural animal’ (i.e., large-scale
-            cooperation based on public relationships).
-          </div>
-          <img src="@/assets/img/home/arrow.png" alt="" class="right-arrow" />
-          <div>
-            <img src="@/assets/img/home/block7_right.png" alt="" class="right-banner" />
-            <div style="font-size: 0.75rem; color: var(--font-color-body); opacity: 0.6;">
-              Scatter plots showed all significant results between cross-region RDM of representational geometry (FAVEE in
-              blue, HPP in red) and cross-region RDM in each human factor. For example, we found that global regions with
-              more similar FAVEE representational geometry are more likely to have similar marriage and divorce rate.
-              Mantel test was used to assess the statistical significance.
+            <div class="right-main-text">
+              The FAVEE-HPP framework set up the link between human sociality and
+              cognition and provides implications on how human cognitive processes
+              are systematically configured and adaptively operated for different
+              interpersonal contexts. It can help us understand why humans can
+              form and maintain relationships that extend beyond immediate family
+              members and how humans evolved from ‘animal’ (i.e., no cooperation)
+              to ‘social animal’ (i.e., small-scale cooperation based on personal
+              relationships) and to ‘cultural animal’ (i.e., large-scale
+              cooperation based on public relationships).
+            </div>
+            <img src="@/assets/img/home/Arrowrightnext.svg" style="width: 32px; height: 82px; box-sizing: border-box;" alt="" class="right-arrow" />
+            <div>
+              <img src="@/assets/img/home/block7_right.png" alt="" class="right-banner" />
+              <div style="font-size: 0.75rem; color: var(--font-color-body); opacity: 0.6;">
+                Scatter plots showed all significant results between cross-region RDM of representational geometry (FAVEE in
+                blue, HPP in red) and cross-region RDM in each human factor. For example, we found that global regions with
+                more similar FAVEE representational geometry are more likely to have similar marriage and divorce rate.
+                Mantel test was used to assess the statistical significance.
+              </div>
             </div>
           </div>
         </div>
@@ -328,7 +332,7 @@ const visible1 = ref(false);
 
 .card-container {
   padding-top: 90px;
-  padding-bottom: 80px;
+  padding-bottom: 30px;
 }
 
 .big-block {
@@ -1005,9 +1009,9 @@ const visible1 = ref(false);
       }
 
       .dialog-box {
-        bottom: 1000px;
-        position: absolute;
-        width: 100%;
+        bottom: 200px;
+        width: auto;
+        position: fixed;
         max-width: 1200px;
         z-index: 100;
       }
@@ -1035,7 +1039,7 @@ const visible1 = ref(false);
   }
 
   .con-title {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     color: #000;
     font-weight: bold;
     line-height: 2.25rem;
@@ -1043,10 +1047,10 @@ const visible1 = ref(false);
   }
 
   .con-desc {
-    font-size: 1.5rem;
+    font-size: 1rem;
     color: rgba(35, 37, 54, 0.6);
     text-align: left;
-    line-height: 2.25rem;
+    line-height: 1.5rem;
   }
 
   .block1 {
@@ -1293,8 +1297,6 @@ const visible1 = ref(false);
             margin-bottom: 10px;
           }
 
-          .left-main-text {}
-
           .line {
             max-width: 300%;
             height: 8px;
@@ -1319,10 +1321,9 @@ const visible1 = ref(false);
       }
 
       .dialog-box {
-        bottom: 1200px;
-        position: absolute;
-        width: 100%;
-        max-width: 1200px;
+        bottom: 200px;
+        position: fixed;
+        width: auto;
       }
     }
   }
@@ -1363,6 +1364,18 @@ const visible1 = ref(false);
   }
 
   .block4 {
+    .main {
+      padding-top: 20px;
+      flex-direction: column;
+      .left {
+        margin: 0 0 0 0;
+      }
+      .right {
+        width: 100%;
+        justify-content: space-around;
+      }
+    }
+
     .link {
       font-size: 1.25rem;
       line-height: 1.9rem;
@@ -1419,4 +1432,5 @@ const visible1 = ref(false);
       }
     }
   }
-}</style>
+}
+</style>

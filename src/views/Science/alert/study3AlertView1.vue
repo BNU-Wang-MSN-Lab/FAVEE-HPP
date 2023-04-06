@@ -4,7 +4,7 @@
         <div class="content">
             In total, we collected 19,532 participants, across 19 global regions and 10 international languages, to examine the universality and cultural variability in the way people conceptualize social relationships.
         </div>
-        <img src="@/assets/img/science/232.png.png" alt="">
+        <img src="@/assets/img/science/232.jpg" alt="">
     </div>
 </template>
 
@@ -15,6 +15,9 @@
     line-height: 2.25rem;
 }
 .study3-1 img {
+    display: block;
     width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
 }
 </style>

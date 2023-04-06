@@ -1,6 +1,6 @@
 <template>
     <div class="study1-1">
-        <img src="@/assets/img/science/Supplementary_Fig._1.jpg.png" alt="">
+        <img src="@/assets/img/science/Supplementary_Fig._1.png" alt="">
     </div>
 </template>
 

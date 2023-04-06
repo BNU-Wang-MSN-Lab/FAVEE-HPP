@@ -79,6 +79,12 @@ const prop = defineProps({
       width: 26px;
       height: 26px;
     }
+    .title {
+      font-size: 1.5rem;
+      line-height: 2.25rem;
+      font-weight: bold;
+      color: rgba(35, 37, 54, 1);
+    }
   }
 }
 

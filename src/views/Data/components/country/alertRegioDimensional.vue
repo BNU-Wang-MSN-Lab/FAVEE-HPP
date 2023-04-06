@@ -67,6 +67,23 @@ import(`../../../../assets/data/Study3/${useCountry.value}/dimensional/${useCoun
                 </div>
                 <div class="merge-plot"
                     :style="`background-image: url(${imgSrc.b}), url(${imgSrc.c});`">
+                    <div class="ttle">
+                        <p>Bugental, 2000</p>
+                        <p>Burton, 1975</p>
+                        <p>Carpedale, 2004</p>
+                        <p>Clark, 1979</p>
+                        <p>Fiske, 1992</p>
+                        <p>Foa, 1980</p>
+                        <p>Goffman, 1959</p>
+                        <p>Hamilton, 1981</p>
+                        <p>Marwell, 1970</p>
+                        <p>Montgomery, 1988</p>
+                        <p>Osgood, 1957</p>
+                        <p>Rands, 1979</p>
+                        <p>Triandis, 1968</p>
+                        <p>Weiss, 1998</p>
+                        <p>Wish, 1976</p>
+                    </div>
                 </div>
             </div>
             <div class="explain">
@@ -77,6 +94,18 @@ import(`../../../../assets/data/Study3/${useCountry.value}/dimensional/${useCoun
 </template>
 
 <style scoped>
+.plot-c .merge-plot .ttle {
+    display: block;
+    top: 8px;
+    left: calc(46% - 46px);
+    position: absolute;
+    text-align: center;
+    background-color: #fff;
+}
+.plot-c .merge-plot .ttle>p {
+    font-size: 14px;
+    line-height: 17.5px;
+}
 .content {
     margin: 0 0 50px 0;
 }
@@ -156,6 +185,7 @@ import(`../../../../assets/data/Study3/${useCountry.value}/dimensional/${useCoun
     background-position: -131px 0px, 299px 0px;
     background-size: 450px 300px, 450px 300px;
     margin: 0 auto;
+    position: relative;
 }
 .plot-c .tit {
     display: block;

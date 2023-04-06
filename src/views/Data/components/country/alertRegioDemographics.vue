@@ -76,9 +76,11 @@ import(`../../../../assets/data/Study3/${useCountry.value}/demographics/${useCou
                 <div>Education</div>
                 <div class="im im-3" :style="`background-image: url(${imgSrc.Education}), url(${imgSrc.LEducation});`"></div>
             </div>
-            <div style="height: 230px;">
+            <div style="width: 300px;">
                 <div>Ethnicity</div>
-                <div class="im im-4" :style="`background-image: url(${imgSrc.Ethnicity});`"></div>
+                <div class="im im-4" :style="`height: 15px; margin: 0 auto; background-image: url(${imgSrc.Ethnicity});background-size: 200px 200px;background-position: 50px 0px;`"></div>
+                <div class="im im-4" :style="`height: 50px; margin: 0 auto; background-image: url(${imgSrc.Ethnicity});background-size: 400px 400px;background-position: -50px -25px;`"></div>
+                <div class="im im-4" :style="`height: 225px; margin: 0 auto; background-image: url(${imgSrc.Ethnicity});background-size: 300px 300px;background-position: 0px -67px;`"></div>
             </div>
         </div>
     </div>
@@ -97,12 +99,12 @@ import(`../../../../assets/data/Study3/${useCountry.value}/demographics/${useCou
 .img-box>div {
     width: 220px;
     height: 328px;
+    margin: 20px 0 0 0;
 }
 .img-box>div>div:nth-child(1) {
     font-weight: 600;
 }
 .img-box>div>div.im {
-    display: inline-block;
     width: 100%;
     height: calc(100% - 24px);
     background-repeat: no-repeat;
@@ -127,6 +129,10 @@ import(`../../../../assets/data/Study3/${useCountry.value}/demographics/${useCou
 @media screen and (max-width: 600px) {
     .img-box {
         justify-content: center;
+    }
+    .img-box>div>div {
+        font-size: 1.5rem;
+        line-height: 2.25rem;
     }
 }
 </style>

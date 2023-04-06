@@ -13,7 +13,8 @@
                     comparably consistent across regions. Our analysis shows that religion and modernization are two
                     important factors that contribute to cultural variation. You can explore the details of your interesting
                     relationship. <span @click="showAlertView"
-                        style="display: inline-block; margin: 0 0 0 20px; color: var(--orange); cursor: pointer;">Read more</span>
+                        style="display: inline-block; margin: 0 0 0 20px; color: var(--orange); cursor: pointer;">Read
+                        more</span>
                 </div>
             </banner-choose>
             <div class="nav-button-show">
@@ -24,7 +25,8 @@
             <div class="nav-container">
                 <div>
                     <div>
-                        <p><strong style="font-weight: 700;">{{ wordChosImgSrc == 'null' ? 'None' : wordChosImgSrc }}</strong> = </p>
+                        <p><strong style="font-weight: 700;">{{ wordChosImgSrc == 'null' ? 'None' : wordChosImgSrc
+                        }}</strong> = </p>
                         <p style="text-indent: 1em;">Formality x ({{ wordValue.F }})</p>
                         <p style="text-indent: 1em;">+ Activeness x ({{ wordValue.A }})</p>
                         <p style="text-indent: 1em;">+ Valence x ({{ wordValue.V }})</p>
@@ -91,7 +93,7 @@ const alertRelationshipVariability = defineAsyncComponent(() => import("./compon
 const alertCulturalMechanism = defineAsyncComponent(() => import("./components/alertCulturalMechanism.vue"));
 // 弹窗的总页面，以及当前页所选的内容
 const comp = {
-    "more-details": alertMoreDetails,
+    "read-more": alertMoreDetails,
     "subset-analysis": alertSubsetAnalysis,
     "relationship-variability": alertRelationshipVariability,
     "cultural-mechanism": alertCulturalMechanism
@@ -210,6 +212,7 @@ const changePlot = (r, i = null) => {
     dom.style.alignItems = "center";
     dom.style.height = "300px";
     dom.innerText = "Loading";
+    document.querySelector("#fig-world-average").innerText = "";
     document.querySelector("#fig-world-average").appendChild(dom);
     let start = 0;
     const p = setInterval(() => {
@@ -218,10 +221,7 @@ const changePlot = (r, i = null) => {
     }, 500);
     setTimeout(() => {
         plot("fig-world-average", fwa_data.data, fwa_data.style, fwa_data.args)
-            .then(() => {
-                clearInterval(p);
-                dom.parentElement.removeChild(dom);
-            });
+        clearInterval(p);
     }, 2000);
 };
 
@@ -262,6 +262,7 @@ const countryChos = (e) => {
     max-width: 1200px;
     margin: 50px auto 0 auto;
 }
+
 .box>.title {
     background-image: linear-gradient(var(--lightorange), var(--lightorange)),
         linear-gradient(var(--lightorange), var(--lightorange)),
@@ -358,9 +359,9 @@ const countryChos = (e) => {
         width: 80vw;
         margin: 5px;
     }
+
     .load-plotly::before {
         width: 40px;
         height: 50px;
     }
-}
-</style>
+}</style>

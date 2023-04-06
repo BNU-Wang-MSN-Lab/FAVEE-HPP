@@ -87,7 +87,7 @@
                         </div>
                     </div>
                     <div class="fd">
-                        <div class="sub-title">Feature <span style="font-size: 1.5rem;
+                        <div class="sub-title">Featural <span style="font-size: 1.5rem;
                             font-weight: 600;
                             line-height: 2.25rem;">Dimensions</span></div>
                         <div>
