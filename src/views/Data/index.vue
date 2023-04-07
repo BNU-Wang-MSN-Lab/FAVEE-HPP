@@ -53,7 +53,7 @@
         </div>
         <!-- 第二页面 -->
         <div style="margin: 0 0 150px 0;">
-            <banner-choose title="Explore your region" name="select your reltionship of interest" choinput="countriesOpts"
+            <banner-choose title="Explore your region" name="select your region of interest" choinput="countriesOpts"
                 @chos-event="countryChos" :update-input-val="chooseCountry">
                 <div>Select your region of interest for more details and data download.</div>
             </banner-choose>

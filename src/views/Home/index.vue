@@ -99,7 +99,7 @@
         </p>
         <div class="content">
           <div class="video-box">
-            <video class="video" src="@/assets/video/infovideo.mp4" controls></video>
+            <video class="video" src="https://insula.oss-cn-chengdu.aliyuncs.com/favee/FAVEE-HPP.mp4" controls></video>
           </div>
           <div class="right-box">
             <div class="item">
