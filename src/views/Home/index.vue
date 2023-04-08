@@ -52,12 +52,7 @@
               How do we construct complex knowledge about relationships?
             </div>
             <div class="con-desc">
-              Social structure in non-human primates is dominated by hierarchy
-              and kinship affiliation. Human society, in contrast, is governed
-              by far more diverse and complex types of relationships exist
-              (e.g., a cousin can also be an enemy). How do we make sense of one
-              another and form the general knowledge about interpersonal
-              relatedness?
+              Social structure in non-human primates is dominated by two dimensions: hierarchy and kinship. Human society, in contrast, is governed by far more diverse and complex types of relationships. How do we make sense of our complex and multilayered relationships with each other?
             </div>
           </div>
         </div>
@@ -242,21 +237,7 @@
           </div>
           <div class="dialog-box">
             <my-dialog v-model:visible="visible1">
-              In addition, from a developmental perspective, humans begin to
-              accrue cognitive heuristics and stereotypes about social
-              relationships at birth (e.g., stranger danger, respect for elders).
-              Our interpersonal experiences will shape our world view. For
-              example, people who grow up in a broken family or had chronic peer
-              rejection might form negative impressions about familial and
-              affiliative relationships. Likewise, people who experienced
-              harmonious relationships with current employers, clients or
-              coworkers might adopt more positive views on work relationships. The
-              FAVEE-HPP framework can be used to develop psychometric tests to
-              measure where an individual lies on the spectrum of each of the five
-              dimensions (like the ‘big-five’ personality test), and
-              quantitatively examine how individual differences in relationship
-              representations is linked to interpersonal difficulties in daily
-              life.
+              From a developmental perspective, humans begin to accrue cognitive heuristics and stereotypes about social relationships from birth.  Over time and with experience, our particular interpersonal experiences will shape our world view. For example, people who grow up with parents who fight a lot or who were bullied by their peers in school might form negative impressions about familial and affiliative relationships. Likewise, people who experienced harmonious relationships with their boss or coworkers likely have more positive views on work relationships. The FAVEE-HPP framework can be used to develop psychometric tests to measure where an individual lies on the spectrum of each of the five dimensions (like the 'big-five' personality test), and quantitatively examine how individual differences in relationship representations are linked to interpersonal difficulties in daily life.
             </my-dialog>
           </div>
           <div class="right">

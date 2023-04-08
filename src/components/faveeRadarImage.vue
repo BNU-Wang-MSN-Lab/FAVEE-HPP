@@ -53,14 +53,14 @@ onMounted(() => {
     }
 });
 watch(prop, (n, o) => {
-    if (n.img.indexOf("r-") < 0) {
+    if (n.img.indexOf("r-") != 0) {
         import(`@/assets/data/Study3/averaged_world_model/FAVEE/${prop.img}.png`)
             .then(r => imgSrc.value = encodeURI(r.default));
     } else {
         import(`@/assets/data/Study3/${useCountry.value}/categorical/radar/${prop.img.replace("r-", "")}.png`)
             .then(r => imgSrc.value = encodeURI(r.default));
     }
-})
+});
 // 计算坐标
 const data = [
     { name: "Formality" },

@@ -1,6 +1,6 @@
 <template>
     <div class="load-plotly" :class="{ noclick: hasClick == 0 }"
-        :style="`width: ${cWid}px; height: ${cHei}px; ${hasClick ? '' : 'background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(' + imgSrc + '); background-size: contain;'}`"
+        :style="`width: ${cWid}px; height: ${cHei}px; ${hasClick ? '' : 'background-image: url(' + imgSrc + '); background-size: contain;'}`"
         @click.once="loadClick">
         <slot />
     </div>
@@ -37,12 +37,4 @@ const loadClick = () => {
     overflow: hidden;
     position: relative;
 }
-
-.load-plotly.noclick::after {
-    content: "click here to load";
-    display: block;
-    position: absolute;
-    top: calc(50% - 12px);
-    left: calc(50% - 68px);
-    color: var(--font-color-white);
-}</style>
+</style>

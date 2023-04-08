@@ -79,7 +79,6 @@ import choButton from "../../components/choButton.vue";
 const router = useRouter();
 const route = useRoute();
 const mobileMenuState = ref(false);
-console.log(route);
 
 const hrefClick = (e) => {
   let a = document.createElement("a");

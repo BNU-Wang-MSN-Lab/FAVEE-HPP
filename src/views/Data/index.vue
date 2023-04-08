@@ -22,7 +22,7 @@
                 <cho-button @click="showAlertView">Relationship variability</cho-button>
                 <cho-button @click="showAlertView">Cultural mechanism</cho-button>
             </div>
-            <div class="nav-container">
+            <div class="navContainer">
                 <div>
                     <div>
                         <p><strong style="font-weight: 700;">{{ wordChosImgSrc == 'null' ? 'None' : wordChosImgSrc
@@ -48,6 +48,11 @@
                         <img src="@/assets/data/study/study3_1.png" alt="">
                         <img src="@/assets/data/study/study3_2.png" alt="">
                     </div>
+                </div>
+                <div class="noClick" v-if="fwa_state == 0">
+                    <p>you have to type your relationship of interest above to activate interactive plots,</p>
+                    <p>&nbsp;</p>
+                    <p>Friendly reminder: data loading might take some time, please be patient</p>
                 </div>
             </div>
         </div>
@@ -288,19 +293,38 @@ const countryChos = (e) => {
     margin: 20px 0;
 }
 
-.nav-container {
+.navContainer {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+    position: relative;
 }
-
-.nav-container>div:nth-child(1) {
+.navContainer .noClick {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: white;
+}
+.navContainer .noClick>p {
+    padding: 0 5%;
+    text-align: left;
+    font-size: 1.5rem;
+    line-height: 2.25rem;
+}
+.navContainer>div:nth-child(1) {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
 }
 
-.nav-container>div:nth-child(1)>div:nth-child(1) {
+.navContainer>div:nth-child(1)>div:nth-child(1) {
     padding: 0 120px;
     box-sizing: border-box;
 }
@@ -332,12 +356,12 @@ const countryChos = (e) => {
 }
 
 @media screen and (max-width: 1100px) {
-    .nav-container>div:nth-child(1) {
+    .navContainer>div:nth-child(1) {
         flex-direction: row;
         align-items: center;
     }
 
-    .nav-container>div:nth-child(1)>div:nth-child(1) {
+    .navContainer>div:nth-child(1)>div:nth-child(1) {
         padding: 0;
     }
 }
@@ -347,11 +371,11 @@ const countryChos = (e) => {
         flex-direction: column;
     }
 
-    .nav-container {
+    .navContainer {
         margin: 0 20px;
     }
 
-    .nav-container>div:nth-child(2)>div:nth-child(1) {
+    .navContainer>div:nth-child(2)>div:nth-child(1) {
         margin: 0 0 20px 0;
     }
 
