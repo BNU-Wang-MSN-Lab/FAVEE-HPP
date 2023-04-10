@@ -53,8 +53,8 @@ const clickEvent = (e) => {
                         <div>France</div>
                     </div>
                     <div>
-                        <img src="@/assets/img/science/Lsrael.png" alt="">
-                        <div>Lsrael</div>
+                        <img src="@/assets/img/science/Israel.png" alt="">
+                        <div>Israel</div>
                     </div>
                     <div>
                         <img src="@/assets/img/science/Mexico.png" alt="">

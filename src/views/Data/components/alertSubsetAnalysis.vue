@@ -22,7 +22,6 @@
 </template>
   
 <script setup>
-import { createBlob } from "plotly.js-dist";
 import { ref } from "vue";
 
 import choButton from "../../../components/choButton.vue";
@@ -32,7 +31,7 @@ import("@/assets/img/data/45454541.png")
   .then(r => r.default)
   .then(r => imgSrc.value = r);
 
-let dataSrc = new URL("../../../assets/data/data.zip", import.meta.url).href;
+let dataSrc = new URL("../../../assets/data/subset.csv", import.meta.url).href;
 // download
 const hrefClick = (e) => {
   let a = document.createElement("a");
