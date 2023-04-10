@@ -31,7 +31,7 @@ import("@/assets/img/data/45454541.png")
   .then(r => r.default)
   .then(r => imgSrc.value = r);
 
-let dataSrc = new URL("../../../assets/data/subset.csv", import.meta.url).href;
+let dataSrc = "./assets/data/subset.xlsx";
 // download
 const hrefClick = (e) => {
   let a = document.createElement("a");
