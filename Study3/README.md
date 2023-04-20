@@ -66,11 +66,11 @@ CHN VS USA:
 The dimensional frameworks of the two countries are highly correlated.  
 - Difference  
 The different between the two countries in relationship knowledge.  
-![Study3_CHNvsUSA.png](../graph/Study3_CHNvsUSA.png)
+![Study3_CHNvsUSA.jpg](../graph/Study3_CHNvsUSA.jpg)
     - neighbors_of_neighbors
-    Beyond cultural difference between CHN and USA, we also explore other regions deeply. We focus on the concept of "Neighbors".  
-    We found the more modern a region is, the concept of “Neighbors” in this region is more formal and distant. **(Modern_correlation.ipynb)**  
-    As examples of cultural differences, we showed results of CHN, Israel, and the United States. **(Plot Neighbor.ipynb)**
+      Beyond cultural difference between CHN and USA, we also explore other regions deeply. We focus on the concept of "Neighbors".  
+      We found the more modern a region is, the concept of “Neighbors” in this region is more formal and distant. **(Modern_correlation.ipynb)**  
+      As examples of cultural differences, we showed results of CHN, Israel, and the United States. **(Plot Neighbor.ipynb)**
 
 # Model_comparison  
 Across 19 global regions, model comparison analysis was performed between the FAVEE and other 15 existing theories in terms of the explained variance. For most regions (16 out of 19), FAVEE had the highest adjust R squared (i.e., red dots were larger than green dots). For three exception regions, FAVEE was the second or third best model. Asterisks (in orange) indicate those exception models winning over the FAVEE: the ‘Bugental model’ in Mexico, Russia and Chile, and the ‘Wish model’ in Chile **(model_comparisons.ipynb)**.
