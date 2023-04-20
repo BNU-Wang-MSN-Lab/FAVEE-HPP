@@ -44,3 +44,8 @@ To verify the categorical models. We conducted a text analysis of labels assigne
 
 - The codes of clustering labels: Label analysis in explicit task.ipynb  
 - Visualization of clustering results: Plot results.ipynb
+
+# FAVEE-HPP correlation
+
+Correlation analysis suggested that the FAVEE and HPP models were relatively independent of each other (e.g., shared variance < 18%).
+
