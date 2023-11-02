@@ -1,0 +1,160 @@
+,Dim1,Dim2,cl_k3,cl_h3,cl_k4,cl_h4,cl_k5,cl_h5,cl_k6,cl_h6,cl_k7,cl_h7
+student and dorm resident assistant,12.5713625,9.341927,1,0,3,0,0,0,0,2,0,2
+long distance lovers,4.9576664,-6.7608123,2,1,2,3,3,3,3,3,3,3
+business rivals,16.526423,8.294039,1,0,3,0,0,0,5,1,5,0
+uncle and niece/nephew,-7.3342204,9.242559,0,2,1,2,2,2,2,5,2,5
+native and tourist,8.910611,13.543587,1,0,0,0,4,4,4,4,4,1
+driver and passenger,9.562742,13.5601015,1,0,0,0,4,4,4,4,4,1
+police officer and offender,15.481301,8.206713,1,0,3,0,0,0,5,1,5,0
+a person and their social media follower,4.296575,16.378246,0,0,0,1,1,1,1,0,1,4
+union leader and union member,13.5849,9.400013,1,0,3,0,0,0,0,2,0,2
+alumni,4.119367,16.533743,0,0,0,1,1,1,1,0,1,4
+childhood friends,2.783227,17.536236,0,0,0,1,1,1,1,0,6,6
+sugar daddy and sugar baby,4.786676,-6.825849,2,1,2,3,3,3,3,3,3,3
+a person and their deceased spouse,4.8974223,-6.5005794,2,1,2,3,3,3,3,3,3,3
+intern and employee,13.67084,8.887911,1,0,3,0,0,0,0,2,0,2
+peers,3.9702883,16.325182,0,0,0,1,1,1,1,0,1,4
+close relatives,-6.9980116,8.876445,0,2,1,2,2,2,2,5,2,5
+mentor and mentee,12.059325,9.132705,1,0,3,0,0,0,0,2,0,2
+groom and groomsman,2.993735,17.475248,0,0,0,1,1,1,1,0,6,6
+criminal and prosecutor,15.674178,8.13569,1,0,3,0,0,0,5,1,5,0
+religious leader and congregant,12.584828,8.866538,1,0,3,0,0,0,0,2,0,2
+friends,2.874851,17.474133,0,0,0,1,1,1,1,0,6,6
+nurse and patient,10.107913,12.514391,1,0,0,0,4,4,4,4,4,1
+teacher and student,12.154984,9.0948925,1,0,3,0,0,0,0,2,0,2
+representative and citizen,9.228428,13.526488,1,0,0,0,4,4,4,4,4,1
+parole officer and parolee,15.218214,8.33055,1,0,3,0,0,0,5,1,5,0
+employer and employee,13.497362,8.726531,1,0,3,0,0,0,0,2,0,2
+supervisor and subordinate,13.108485,9.312424,1,0,3,0,0,0,0,2,0,2
+reviewer and writer,10.122805,13.62039,1,0,0,0,4,4,4,4,4,1
+strangers,4.394714,16.170462,0,0,0,1,1,1,1,0,1,4
+teammates in sports,3.5728745,16.985783,0,0,0,1,1,1,1,0,1,4
+a person and their in laws,-6.995449,9.489434,0,2,1,2,2,2,2,5,2,5
+divorced spouses,16.868788,8.4400215,1,0,3,0,0,0,5,1,5,0
+bully and victim,15.840017,8.003114,1,0,3,0,0,0,5,1,5,0
+victim and criminal,15.618798,8.1238165,1,0,3,0,0,0,5,1,5,0
+guard and prisoner,15.406384,8.118546,1,0,3,0,0,0,5,1,5,0
+competitors in sports,16.743353,8.204443,1,0,3,0,0,0,5,1,5,0
+fans of opposing sports teams,16.74229,8.133641,1,0,3,0,0,0,5,1,5,0
+companions,2.9465895,17.666739,0,0,0,1,1,1,1,0,6,6
+distant relatives,-6.879204,9.508014,0,2,1,2,2,2,2,5,2,5
+entrepreneur and investor,10.329624,13.578161,1,0,0,0,4,4,4,4,4,1
+sorority sisters,3.1884048,17.27688,0,0,0,1,1,1,1,0,6,6
+diplomats,3.46721,16.352427,0,0,0,1,1,1,1,0,1,4
+dealer and buyer,9.992588,13.458324,1,0,0,0,4,4,4,4,4,1
+mother and infant,-7.6849656,9.249768,0,2,1,2,2,2,2,5,2,5
+cohabitants,4.0947638,16.557816,0,0,0,1,1,1,1,0,1,4
+casual acquaintances,4.10777,16.237492,0,0,0,1,1,1,1,0,1,4
+second cousins,-6.7954803,9.326315,0,2,1,2,2,2,2,5,2,5
+team captain and team members,12.598792,9.209509,1,0,3,0,0,0,0,2,0,2
+predecessor and successor,13.397816,9.361538,1,0,3,0,0,0,0,2,0,2
+life partners,5.0099864,-6.681342,2,1,2,3,3,3,3,3,3,3
+romantic lovers,4.885597,-6.8747087,2,1,2,3,3,3,3,3,3,3
+interviewer and job applicant,13.625559,8.987715,1,0,3,0,0,0,0,2,0,2
+officer and soldier,13.101853,8.566463,1,0,3,0,0,0,0,2,0,2
+ancestor and descendant,-7.0243707,9.421799,0,2,1,2,2,2,2,5,2,5
+reader and writer,9.430265,13.578098,1,0,0,0,4,4,4,4,4,1
+soul mates,4.9303975,-6.661573,2,1,2,3,3,3,3,3,3,3
+a monarch and their minister,12.888969,8.67041,1,0,3,0,0,0,0,2,0,2
+professor and graduate student,12.166676,9.145047,1,0,3,0,0,0,0,2,0,2
+director and performer,13.461791,9.259273,1,0,3,0,0,0,0,2,0,2
+athletic trainer and trainee,12.016648,9.185037,1,0,3,0,0,0,0,2,0,2
+godparent and godchild,-7.373807,9.629263,0,2,1,2,2,2,2,5,2,5
+defendant and plaintiff,16.03809,8.16209,1,0,3,0,0,0,5,1,5,0
+doctor and nurse,13.250819,8.677934,1,0,3,0,0,0,0,2,0,2
+twins,-6.7633824,9.069242,0,2,1,2,2,2,2,5,2,5
+patient and caretaker,10.084131,12.5584345,1,0,0,0,4,4,4,4,4,1
+psychologist and client,9.968962,12.722945,1,0,0,0,4,4,4,4,4,1
+therapist and patient,9.970472,12.688322,1,0,0,0,4,4,4,4,4,1
+parent and child,-7.5818996,9.026598,0,2,1,2,2,2,2,5,2,5
+criminal and their accomplice,3.4262908,16.411676,0,0,0,1,1,1,1,0,1,4
+business partners,3.5059931,16.276299,0,0,0,1,1,1,1,0,1,4
+man wife and man mistress,16.865608,8.4863825,1,0,3,0,0,0,5,1,5,0
+neighbors,4.105227,16.319069,0,0,0,1,1,1,1,0,1,4
+ex lovers,16.914265,8.3011675,1,0,3,0,0,0,5,1,5,0
+brother and sister,-6.9524164,8.930494,0,2,1,2,2,2,2,5,2,5
+landlord and housekeeper,13.241021,8.571148,1,0,3,0,0,0,0,2,0,2
+politician and supporter,9.355724,13.727529,1,0,0,0,4,4,4,4,4,1
+fraternity brothers,2.9915547,17.331953,0,0,0,1,1,1,1,0,6,6
+aunt and niece/nephew,-7.302034,9.388161,0,2,1,2,2,2,2,5,2,5
+fans of the same sports team,4.127594,16.700323,0,0,0,1,1,1,1,0,1,4
+roommates,3.711902,16.94484,0,0,0,1,1,1,1,0,1,4
+opposing negotiators,16.482677,8.309158,1,0,3,0,0,0,5,1,5,0
+landlord and tenant,10.173777,13.577549,1,0,0,0,4,4,4,4,4,1
+celebrity and haters,16.666637,8.0701475,1,0,3,0,0,0,5,1,5,0
+step siblings,-6.7746778,9.047395,0,2,1,2,2,2,2,5,2,5
+foreman and laborer,13.5266905,8.701999,1,0,3,0,0,0,0,2,0,2
+doctor and patient,10.052268,12.60965,1,0,0,0,4,4,4,4,4,1
+prostitute and customer,9.80016,13.620572,1,0,0,0,4,4,4,4,4,1
+political opponents,16.454824,8.177693,1,0,3,0,0,0,5,1,5,0
+step parent and step child,-7.675543,9.465911,0,2,1,2,2,2,2,5,2,5
+cousins,-6.880711,9.284504,0,2,1,2,2,2,2,5,2,5
+superior and subordinate,13.346379,9.040303,1,0,3,0,0,0,0,2,0,2
+enemies,16.626833,8.374121,1,0,3,0,0,0,5,1,5,0
+fiance and fiancee,5.026799,-6.6447673,2,1,2,3,3,3,3,3,3,3
+researcher and research subject,9.80284,13.118127,1,0,0,0,4,4,4,4,4,1
+club member and club president,12.740879,9.179251,1,0,3,0,0,0,0,2,0,2
+pen friends,2.8355079,17.44051,0,0,0,1,1,1,1,0,6,6
+a person and their crush,4.798151,-6.891363,2,1,2,3,3,3,3,3,3,3
+criminal and hostage,15.659665,8.085802,1,0,3,0,0,0,5,1,5,0
+slave and master,15.340837,8.165317,1,0,3,0,0,0,5,1,5,0
+lawyer and client,10.017317,13.167777,1,0,0,0,4,4,4,4,4,1
+church members,3.9315321,16.79488,0,0,0,1,1,1,1,0,1,4
+frenemies,16.638283,8.398225,1,0,3,0,0,0,5,1,5,0
+political allies,3.4624665,16.438131,0,0,0,1,1,1,1,0,1,4
+guide and tourist,9.639709,13.244206,1,0,0,0,4,4,4,4,4,1
+salesperson and customer,9.960616,13.323705,1,0,0,0,4,4,4,4,4,1
+sports rivals,16.666508,8.129035,1,0,3,0,0,0,5,1,5,0
+drug dealer and addict,10.012348,13.440417,1,0,0,0,4,4,4,4,4,1
+facebook friends,4.1629834,16.330303,0,0,0,1,1,1,1,0,1,4
+close friends,3.0737133,17.63038,0,0,0,1,1,1,1,0,6,6
+chief and deputy,13.217933,9.059553,1,0,3,0,0,0,0,2,0,2
+a person and their significant other,5.055247,-6.8012037,2,1,2,3,3,3,3,3,3,3
+friends with benefits,4.844221,-6.970759,2,1,2,3,3,3,3,3,3,3
+police officer and civilian,15.261086,8.261342,1,0,3,0,0,0,5,1,5,0
+consultant and client,9.786609,13.253315,1,0,0,0,4,4,4,4,4,1
+customer and businessman,9.878403,13.373737,1,0,0,0,4,4,4,4,4,1
+chef and customer,9.823567,13.478624,1,0,0,0,4,4,4,4,4,1
+athlete and referee,13.263514,9.094628,1,0,3,0,0,0,0,2,0,2
+performer and audience,9.466286,13.588392,1,0,0,0,4,4,4,4,4,1
+wife and husband,4.965806,-6.6052356,2,1,2,3,3,3,3,3,3,3
+half siblings,-6.980856,9.198099,0,2,1,2,2,2,2,5,2,5
+victim and witness,3.480816,16.326406,0,0,0,1,1,1,1,0,1,4
+principal and teacher,13.050476,8.816002,1,0,3,0,0,0,0,2,0,2
+parent and teenager,-7.6465836,9.156484,0,2,1,2,2,2,2,5,2,5
+classmates,4.1591387,16.430567,0,0,0,1,1,1,1,0,1,4
+guest and host,9.501173,13.299714,1,0,0,0,4,4,4,4,4,1
+judge and lawyer,13.351374,8.862453,1,0,3,0,0,0,0,2,0,2
+babysitter and infant,10.153809,12.537569,1,0,0,0,4,4,4,4,4,1
+bride and bridesmaid,2.9981363,17.532543,0,0,0,1,1,1,1,0,6,6
+a person and their family friends,2.832762,17.659855,0,0,0,1,1,1,1,0,6,6
+playmates,2.7718427,17.418207,0,0,0,1,1,1,1,0,6,6
+coach and athlete,12.071285,9.080616,1,0,3,0,0,0,0,2,0,2
+university student and administrator,12.473434,9.421908,1,0,3,0,0,0,0,2,0,2
+religious followers,3.9831007,16.784466,0,0,0,1,1,1,1,0,1,4
+criminal and police officer,15.665677,8.086776,1,0,3,0,0,0,5,1,5,0
+leader and follower,12.830542,9.192385,1,0,3,0,0,0,0,2,0,2
+man and his mistress,4.7921367,-6.911103,2,1,2,3,3,3,3,3,3,3
+man and god,12.715199,8.768723,1,0,3,0,0,0,0,2,0,2
+volunteer and organizer,12.878228,9.261344,1,0,3,0,0,0,0,2,0,2
+romantic rivals,16.70439,8.40804,1,0,3,0,0,0,5,1,5,0
+foster parent and foster child,-7.716421,9.359658,0,2,1,2,2,2,2,5,2,5
+television host and guest,9.30111,13.230718,1,0,0,0,4,4,4,4,4,1
+siblings,-6.899839,8.979468,0,2,1,2,2,2,2,5,2,5
+manager and staff,13.443717,9.201772,1,0,3,0,0,0,0,2,0,2
+owner and manager,13.575767,8.9874325,1,0,3,0,0,0,0,2,0,2
+adoptive parents and adopted kids,-7.521271,9.147212,0,2,1,2,2,2,2,5,2,5
+step grandparent and step grandchild,-7.648118,9.489768,0,2,1,2,2,2,2,5,2,5
+master and servant,15.279552,8.213512,1,0,3,0,0,0,5,1,5,0
+confidants,3.0172057,17.403597,0,0,0,1,1,1,1,0,6,6
+co workers,3.89481,16.409657,0,0,0,1,1,1,1,0,1,4
+bride and groom,5.044745,-6.5918283,2,1,2,3,3,3,3,3,3,3
+brothers in arms,3.2631483,17.33426,0,0,0,1,1,1,1,0,6,6
+parent and infant,-7.6114197,9.142456,0,2,1,2,2,2,2,5,2,5
+grandparent and grandchild,-7.6456804,9.131076,0,2,1,2,2,2,2,5,2,5
+manager and assistant,13.383374,9.035765,1,0,3,0,0,0,0,2,0,2
+boss and secretary,13.570883,8.979378,1,0,3,0,0,0,0,2,0,2
+professor and teaching assistant,12.577494,9.078265,1,0,3,0,0,0,0,2,0,2
+customer and server,9.775476,13.291342,1,0,0,0,4,4,4,4,4,1
+celebrity and fans,9.060077,13.595944,1,0,0,0,4,4,4,4,4,1
+judge and contestant,9.21105,13.059092,1,0,0,0,4,4,4,4,4,1

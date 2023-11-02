@@ -1,0 +1,293 @@
+,cl_h3,cl_h4,cl_h5,cl_h6,cl_h7,cl_h8
+famiy,0,0,1,1,1,1
+tansactional,1,1,0,5,2,0
+Peers ,0,3,3,3,3,3
+opposite relationships,2,2,2,2,0,5
+Animosity,2,2,2,2,0,5
+economic,1,1,0,5,2,0
+Enemies,2,2,2,2,0,5
+sexual/intimate relationships,0,0,4,4,4,4
+power ,1,1,0,0,5,2
+"Chosen non-familial, non-romantic relationships",0,3,3,3,3,3
+Boss/subordinate,1,1,0,0,6,6
+Law,2,2,2,2,0,7
+Superior/subordinate ,1,1,0,0,5,2
+Romantic_x,0,0,4,4,4,4
+Romantic_x,0,0,4,4,4,4
+Romantic_x,0,0,4,4,4,4
+Provider,1,1,0,5,2,0
+"e, p, CLOSE",0,0,4,4,4,4
+someone in charge,1,1,0,0,5,2
+lovers,0,0,4,4,4,4
+familial_y,0,0,1,1,1,1
+Provider-Receiver,1,1,0,5,2,0
+marrage ,0,0,4,4,4,4
+casual w/ common interests,0,3,3,3,3,3
+providing a service,1,1,0,5,2,0
+workplace,1,1,0,0,6,6
+"equal, personable",0,3,3,3,3,3
+negative relationships_y,2,2,2,2,0,5
+co workers,1,1,0,0,5,2
+Power Positions,2,2,2,2,0,7
+Partners,0,0,4,4,4,4
+Leaders/Directors,1,1,0,0,5,2
+randomized,0,3,3,3,3,3
+opposition ,2,2,2,2,0,5
+subordinate,1,1,0,0,5,2
+Rivalries,2,2,2,2,0,5
+equals,0,3,3,3,3,3
+Family_y,0,0,1,1,1,1
+Family_y,0,0,1,1,1,1
+Family_y,0,0,1,1,1,1
+Family_y,0,0,1,1,1,1
+Family_y,0,0,1,1,1,1
+Family_y,0,0,1,1,1,1
+Family_y,0,0,1,1,1,1
+Family_y,0,0,1,1,1,1
+Close family,0,0,1,1,1,1
+Romantic Relationships,0,0,4,4,4,4
+Exploitative,1,1,0,0,5,2
+law relationship,2,2,2,2,0,7
+Romantic_y,0,0,4,4,4,4
+Romantic_y,0,0,4,4,4,4
+Romantic_y,0,0,4,4,4,4
+b answers to a,1,1,0,0,5,2
+Negative relationship,2,2,2,2,0,5
+Buisness,1,1,0,5,2,0
+home,0,0,1,1,1,1
+Family,0,0,1,1,1,1
+intense power dynamics,2,2,2,2,0,7
+Equal (Negative),2,2,2,2,0,5
+work relations,1,1,0,5,2,0
+Romance,0,0,4,4,4,4
+Equal (Positive),0,3,3,3,3,3
+acquantances ,0,3,3,3,3,3
+large power discrepancy,2,2,2,2,0,7
+Business Partners,1,1,0,0,6,6
+Involved together,0,0,4,4,4,4
+Peers_y,0,3,3,3,3,3
+Romantic Partners,0,0,4,4,4,4
+love,0,0,1,1,1,1
+Hierarchy_y,1,1,0,0,5,2
+Family/Friends,0,0,1,1,1,1
+power equality,0,3,3,3,3,3
+romance,0,0,4,4,4,4
+mutual benefit,1,1,0,5,2,0
+Unequal (Negative),2,2,2,2,0,7
+Proximal relationships,0,3,3,3,3,3
+family by choice,0,3,3,3,3,3
+Loving,0,0,1,1,1,1
+political,1,1,0,0,5,2
+Business/client,1,1,0,5,2,0
+family_y,0,0,1,1,1,1
+family_y,0,0,1,1,1,1
+family_y,0,0,1,1,1,1
+family_y,0,0,1,1,1,1
+family_y,0,0,1,1,1,1
+family_y,0,0,1,1,1,1
+service provider_y,1,1,0,5,2,0
+opponents,2,2,2,2,0,5
+legal/political,2,2,2,2,0,7
+Friendship_x,0,3,3,3,3,3
+SERVICE,1,1,0,5,2,0
+Equals,0,3,3,3,3,3
+Sales,1,1,0,5,2,0
+worker vs boss,1,1,0,5,2,0
+job relationships,1,1,0,0,5,2
+Secondary,0,0,1,1,1,1
+superior and subordinate,1,1,0,0,6,6
+Professions,1,1,0,0,6,6
+step-family,0,0,1,1,1,1
+negative relationships_x,2,2,2,2,0,5
+Services,1,1,0,5,2,0
+FAMILY,0,0,1,1,1,1
+Non-Romantic Family,0,0,1,1,1,1
+Hostile,2,2,2,2,0,5
+Rivals,2,2,2,2,0,5
+Negative Relationships,2,2,2,2,0,5
+ROMANTIC RELATIONSHIPS,0,0,4,4,4,4
+Positions of Power (non Family),1,1,0,0,5,2
+familial relationship,0,0,1,1,1,1
+Together,0,0,4,4,4,4
+work relationships,1,1,0,0,5,2
+friendship_y,0,3,3,3,3,3
+Distant,0,0,1,1,1,1
+occupation,1,1,0,0,6,6
+Give and take (working) ,1,1,0,5,2,0
+Hierarchy_x,1,1,0,0,5,2
+Enemy,2,2,2,2,0,5
+companions,0,0,4,4,4,4
+family like,0,0,1,1,1,1
+Neutral Relationships,1,1,0,5,2,0
+FRIENDS,0,3,3,3,3,3
+Friendly/casual,0,3,3,3,3,3
+Equally Beneficial Transactional,1,1,0,5,2,0
+Superiority,1,1,0,0,5,2
+Police /soldier,2,2,2,2,0,7
+Friendship_y,0,3,3,3,3,3
+Negative compition,2,2,2,2,0,5
+Close Friends,0,3,3,3,3,3
+law workers,2,2,2,2,0,7
+Equal,0,3,3,3,3,3
+auhority,1,1,0,0,5,2
+Above Below,1,1,0,0,5,2
+Work against,2,2,2,2,0,7
+Spouses,0,0,4,4,4,4
+Romantic Relationships_x,0,0,4,4,4,4
+Professional Relationsips,1,1,0,0,6,6
+Service,1,1,0,5,2,0
+friendhsips,0,3,3,3,3,3
+Service_y,1,1,0,5,2,0
+violent,2,2,2,2,0,7
+family relationship,0,0,1,1,1,1
+friends/peers,0,3,3,3,3,3
+criminality ,2,2,2,2,0,7
+Support,0,3,3,3,3,3
+business_y,1,1,0,5,2,0
+enemies_x,2,2,2,2,0,5
+enemies_x,2,2,2,2,0,5
+Boss-employee,1,1,0,0,5,2
+service provider,1,1,0,5,2,0
+rivals,2,2,2,2,0,5
+Cordial,1,1,0,5,2,0
+service provider_x,1,1,0,5,2,0
+business_x,1,1,0,5,2,0
+Authoritive/ extreme imbalance of power,2,2,2,2,0,7
+Work_x,1,1,0,0,6,6
+Justice System,2,2,2,2,0,7
+Mentor - Mentee,1,1,0,0,5,2
+Family ,0,0,1,1,1,1
+Work,1,1,0,0,5,2
+Friends_x,0,3,3,3,3,3
+Friends_x,0,3,3,3,3,3
+Friends_x,0,3,3,3,3,3
+Friends_x,0,3,3,3,3,3
+simple transaction,1,1,0,5,2,0
+casual,0,3,3,3,3,3
+interpersonal conflict,2,2,2,2,0,5
+Close relationship,0,0,1,1,1,1
+Superior,1,1,0,0,5,2
+equal 2,0,3,3,3,3,3
+Adversaries,2,2,2,2,0,5
+based on hate,2,2,2,2,0,5
+romantic love,0,0,1,1,1,1
+Business_y,1,1,0,5,2,0
+friendly not family people,0,3,3,3,3,3
+Service_x,1,1,0,5,2,0
+Enemies_y,2,2,2,2,0,5
+Enemies_y,2,2,2,2,0,5
+Enemies_y,2,2,2,2,0,5
+Aquaintances,0,3,3,3,3,3
+Professional_y,1,1,0,0,6,6
+Superior/Inferior,1,1,0,0,5,2
+Workers,1,1,0,5,2,0
+conflict,2,2,2,2,0,5
+HIERARCHICAL RELATIONSHIPS,1,1,0,0,6,6
+a services b,1,1,0,5,2,0
+close non-family,0,3,3,3,3,3
+professional relationship,1,1,0,0,6,6
+professional_x,1,1,0,5,2,0
+rivalry,2,2,2,2,0,5
+opposition,2,2,2,2,0,5
+professional relationships,1,1,0,0,5,2
+Close Friends/Family,0,0,1,1,1,1
+disagree,2,2,2,2,0,5
+Business_x,1,1,0,5,2,0
+employer-employee,1,1,0,0,5,2
+Enemies_x,2,2,2,2,0,5
+Enemies_x,2,2,2,2,0,5
+Enemies_x,2,2,2,2,0,5
+work related,1,1,0,0,6,6
+Harmful,2,2,2,2,0,7
+familial_x,0,0,1,1,1,1
+Deeply Personal,0,0,4,4,4,4
+Romantic Partners_y,0,0,4,4,4,4
+Leader/Follower,1,1,0,0,5,2
+OPPOSITIONAL ,2,2,2,2,0,5
+law/Military,2,2,2,2,0,7
+Immediate Family,0,0,1,1,1,1
+Unwanted relationship,2,2,2,2,0,5
+Close Non-Romantic Personal Relationships,0,3,3,3,3,3
+Friends_y,0,3,3,3,3,3
+Friends_y,0,3,3,3,3,3
+Friends_y,0,3,3,3,3,3
+Friends_y,0,3,3,3,3,3
+romantic_x,0,0,4,4,4,4
+romantic_x,0,0,4,4,4,4
+Conflict,2,2,2,2,0,5
+Enemies/Opposing Forces,2,2,2,2,0,5
+Boss_y,1,1,0,0,5,2
+Romantic relationships,0,0,4,4,4,4
+law,2,2,2,2,0,7
+Friends ,0,3,3,3,3,3
+Careers,1,1,0,0,6,6
+Imediate (closest),0,0,1,1,1,1
+Co-workers,1,1,0,0,5,2
+Intimate,0,0,4,4,4,4
+Romantic Partners_x,0,0,4,4,4,4
+Close friends,0,3,3,3,3,3
+friends_x,0,3,3,3,3,3
+friends_x,0,3,3,3,3,3
+emotionally close,0,0,1,1,1,1
+client,1,1,0,5,2,0
+Opposition,2,2,2,2,0,5
+social,0,3,3,3,3,3
+friendship_x,0,3,3,3,3,3
+family_x,0,0,1,1,1,1
+family_x,0,0,1,1,1,1
+family_x,0,0,1,1,1,1
+family_x,0,0,1,1,1,1
+family_x,0,0,1,1,1,1
+family_x,0,0,1,1,1,1
+non-romantic partnership,0,3,3,3,3,3
+family,0,0,1,1,1,1
+romantic_y,0,0,4,4,4,4
+romantic_y,0,0,4,4,4,4
+clients,1,1,0,5,2,0
+enemies_y,2,2,2,2,0,5
+enemies_y,2,2,2,2,0,5
+Social,0,3,3,3,3,3
+Romantic Relationships_y,0,0,4,4,4,4
+Negative,2,2,2,2,0,5
+Opposites,2,2,2,2,0,5
+Higher and lower powers.,1,1,0,0,5,2
+competition,2,2,2,2,0,5
+"One sided relationship (One loses, one gains) ",2,2,2,2,0,7
+Provider-Customer,1,1,0,5,2,0
+professional_y,1,1,0,0,6,6
+Superiors/Inferiors,1,1,0,0,5,2
+Acquaintance,0,3,3,3,3,3
+Egalitarian (Familial) ,0,0,1,1,1,1
+Work hierarchy,1,1,0,0,5,2
+work,1,1,0,5,2,0
+Healthcare,1,1,0,5,2,0
+Service ,1,1,0,0,6,6
+friendly like,0,3,3,3,3,3
+Superior/ Subordinate,1,1,0,0,5,2
+Beneficial Relationship,1,1,0,5,2,0
+Professional_x,1,1,0,5,2,0
+Religion_x,0,0,1,1,1,1
+siblings,0,3,3,3,3,3
+Work_y,1,1,0,0,5,2
+friends_y,0,3,3,3,3,3
+friends_y,0,3,3,3,3,3
+Unequal (Neutral),1,1,0,0,6,6
+Adversarial,2,2,2,2,0,5
+resent,2,2,2,2,0,5
+Extremely Close,0,0,1,1,1,1
+Prominent Power Dynamic,1,1,0,0,5,2
+Opponents,2,2,2,2,0,5
+romatic relationship,0,0,4,4,4,4
+Intimate Relations,0,0,4,4,4,4
+superior/subordinate,1,1,0,0,5,2
+Distant Relative,0,0,1,1,1,1
+Professional Hierarchy,1,1,0,0,6,6
+in charge - obeys orders,1,1,0,0,5,2
+Intimate Relationships,0,0,1,1,1,1
+Friendship,0,3,3,3,3,3
+professional/client,1,1,0,5,2,0
+Romantic Relationship,0,0,4,4,4,4
+Peers_x,0,3,3,3,3,3
+Familial,0,0,1,1,1,1
+power inequality,1,1,0,0,6,6
+Community_x,0,3,3,3,3,3

@@ -1,0 +1,160 @@
+,Dim1,Dim2,cl_k3,cl_k6
+parent and child,0.17356136,9.016397,1,0
+parent and teenager,0.37601036,9.180407,1,0
+wife and husband,-0.6653191,7.6308293,1,0
+fiance and fiancee,-0.6736133,7.610505,1,0
+siblings,0.8225258,8.78009,1,0
+divorced spouses,7.7434335,8.497663,2,4
+a person and their in laws,1.9452902,9.53822,1,3
+employer and employee,7.6762185,9.455825,2,1
+interviewer and job applicant,7.519948,9.738896,2,1
+guard and prisoner,6.5506124,8.593397,0,1
+nurse and patient,7.6516786,11.704138,2,5
+therapist and patient,7.644728,11.711174,2,5
+salesperson and customer,7.938362,8.624879,2,4
+business partners,7.2921214,10.6884365,2,5
+opposing negotiators,6.1271763,8.082924,0,2
+political opponents,5.704277,8.274864,0,2
+business rivals,5.8994155,8.04172,0,2
+enemies,4.7162013,8.018481,0,2
+teacher and student,6.840953,11.526001,2,5
+professor and graduate student,7.160476,11.704713,2,5
+master and servant,5.8960247,8.324635,0,2
+close friends,0.34463674,8.725434,1,0
+casual acquaintances,2.9285483,8.8251505,1,3
+teammates in sports,0.4780168,8.282791,1,0
+second cousins,2.8861737,9.039005,1,3
+grandparent and grandchild,1.8363703,9.474909,1,3
+foster parent and foster child,0.3333211,9.146384,1,0
+godparent and godchild,1.650471,9.278386,1,3
+step grandparent and step grandchild,1.7385905,9.253649,1,3
+ancestor and descendant,2.7483613,8.870677,1,3
+man and his mistress,0.7373109,7.6313467,1,0
+step siblings,1.9540293,8.381215,1,3
+distant relatives,3.0361128,8.891614,1,3
+twins,1.5540676,8.611929,1,3
+a person and their family friends,0.44341213,8.766216,1,0
+manager and staff,7.203763,9.23404,2,1
+union leader and union member,7.5063634,9.587723,2,1
+manager and assistant,7.646218,9.408766,2,1
+entrepreneur and investor,7.504077,10.432576,2,5
+drug dealer and addict,7.2547455,10.480432,2,5
+victim and witness,5.336648,7.966517,0,2
+criminal and police officer,6.6664305,8.804598,2,1
+criminal and prosecutor,6.658705,9.4369135,2,1
+customer and businessman,7.1402307,10.153612,2,1
+representative and citizen,6.9356093,9.082727,2,1
+officer and soldier,6.852738,9.9764385,2,1
+religious followers,2.3425868,8.342177,1,3
+reader and writer,6.9562607,11.706749,2,5
+reviewer and writer,7.0813584,9.840141,2,1
+sugar daddy and sugar baby,0.76183856,7.582412,1,0
+director and performer,7.5384474,11.711741,2,5
+psychologist and client,7.567426,11.657116,2,5
+judge and contestant,6.23665,9.127439,0,1
+man and god,1.4372507,9.086734,1,3
+university student and administrator,7.256844,9.026655,2,1
+student and dorm resident assistant,6.541483,10.019422,2,1
+athletic trainer and trainee,7.976179,10.509178,2,5
+researcher and research subject,7.5318236,9.576566,2,1
+peers,0.44885203,8.485752,1,0
+classmates,2.3901844,8.927811,1,3
+bride and bridesmaid,1.123932,9.054872,1,0
+guest and host,6.2276354,9.229862,0,1
+television host and guest,6.3425307,9.234794,2,1
+volunteer and organizer,6.8452845,11.295565,2,5
+bully and victim,5.250199,7.9944916,0,2
+a person and their social media follower,6.562296,9.083645,2,1
+childhood friends,1.0457201,8.840689,1,0
+pen friends,3.0032055,8.89545,1,3
+friends with benefits,0.7334627,7.6227403,1,0
+life partners,-0.6573072,7.6307373,1,0
+soul mates,-0.486676,7.796718,1,0
+church members,2.1918519,8.289548,1,3
+fans of the same sports team,1.8981146,8.780201,1,3
+fans of opposing sports teams,6.5031166,8.961466,2,1
+superior and subordinate,7.4449434,9.121142,2,1
+a monarch and their minister,7.4270167,9.097968,2,1
+cousins,2.990424,8.994232,1,3
+parent and infant,0.24724859,9.237177,1,0
+step parent and step child,1.1654941,9.235328,1,0
+bride and groom,-0.39921477,7.818455,1,0
+man wife and man mistress,4.098976,8.243134,0,2
+brother and sister,0.7898536,8.630645,1,0
+close relatives,1.1410223,8.240528,1,0
+a person and their deceased spouse,1.2667907,8.167246,1,0
+foreman and laborer,7.9556656,9.023082,2,4
+owner and manager,7.9082904,10.703051,2,5
+chief and deputy,7.6216755,10.088099,2,1
+supervisor and subordinate,7.7858844,9.680378,2,1
+boss and secretary,7.743879,9.719998,2,1
+intern and employee,7.215242,9.754054,2,1
+lawyer and client,7.514446,10.732978,2,5
+judge and lawyer,6.8591485,9.638694,2,1
+victim and criminal,5.3627486,8.033552,0,2
+criminal and hostage,5.4387097,7.9548917,0,2
+defendant and plaintiff,5.8277307,8.079714,0,2
+police officer and offender,6.0577283,8.261259,0,2
+police officer and civilian,6.0590243,8.529467,0,2
+parole officer and parolee,5.9338975,8.317019,0,2
+consultant and client,8.31222,8.626096,2,4
+chef and customer,8.486331,8.39475,2,4
+customer and server,8.442826,8.411349,2,4
+doctor and patient,7.631096,10.722881,2,5
+doctor and nurse,7.3832645,11.46494,2,5
+patient and caretaker,7.692139,11.0549965,2,5
+driver and passenger,8.368783,8.52024,2,4
+coach and athlete,7.193007,11.30798,2,5
+team captain and team members,7.3093367,11.367965,2,5
+club member and club president,7.2051616,9.751435,2,1
+politician and supporter,7.0664506,8.691514,2,1
+leader and follower,8.27476,9.443207,2,4
+babysitter and infant,6.975768,11.392342,2,5
+religious leader and congregant,8.243386,9.519573,2,4
+prostitute and customer,8.166764,8.451342,2,4
+guide and tourist,7.7541122,8.791102,2,4
+athlete and referee,6.9046626,8.717171,2,1
+slave and master,5.869755,8.326425,0,2
+performer and audience,8.0574665,9.105526,2,4
+dealer and buyer,8.523281,8.442875,2,4
+co workers,7.5809946,10.812301,2,5
+sports rivals,5.8184776,8.002511,0,2
+romantic rivals,4.3979707,8.093607,0,2
+criminal and their accomplice,6.9597697,10.3848915,2,5
+diplomats,6.8498287,9.647487,2,1
+principal and teacher,7.91617,9.469986,2,4
+professor and teaching assistant,7.48775,11.583546,2,5
+mentor and mentee,0.6546053,8.586628,1,0
+roommates,0.32999325,8.15538,1,0
+sorority sisters,2.506449,8.547188,1,3
+fraternity brothers,2.2630212,8.471112,1,3
+groom and groomsman,1.2729815,8.903363,1,0
+predecessor and successor,3.5035741,8.995855,0,3
+landlord and tenant,8.384724,8.702065,2,4
+landlord and housekeeper,8.306511,8.755708,2,4
+celebrity and fans,8.1356125,9.076672,2,4
+celebrity and haters,4.168862,8.284182,0,2
+native and tourist,7.848635,8.692641,2,4
+friends,0.06515181,8.14407,1,0
+facebook friends,3.3499548,8.711199,0,3
+political allies,6.9440084,9.795659,2,1
+romantic lovers,-0.29439524,7.841107,1,0
+ex lovers,4.1785107,8.12735,0,2
+strangers,3.6315713,8.510906,0,3
+neighbors,2.816831,8.944129,1,3
+aunt and niece/nephew,2.529713,9.120897,1,3
+uncle and niece/nephew,1.4007744,9.216535,1,3
+frenemies,4.7061315,8.031453,0,2
+half siblings,1.0630857,8.760562,1,0
+adoptive parents and adopted kids,0.23803309,9.2121315,1,0
+mother and infant,0.25912297,9.201553,1,0
+alumni,3.2138379,8.906888,1,3
+confidants,0.18512076,8.433226,1,0
+a person and their significant other,-0.49026132,7.8173285,1,0
+companions,0.24987751,8.408709,1,0
+playmates,0.28993213,8.452862,1,0
+competitors in sports,6.0048714,7.9371443,0,2
+a person and their crush,4.177639,8.1308365,0,2
+cohabitants,8.120349,9.472646,2,4
+long distance lovers,1.2152038,8.205485,1,0
+brothers in arms,2.4182603,8.517779,1,3
