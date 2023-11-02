@@ -24,6 +24,8 @@ The BERT embeddings have been stored on OSF (file path: NLP/bert_embedding_data.
 
   Transform PLM embeddings (modern: 258×768; ancient: 120×768) into a cosine similarity matrix (modern: 258×258; ancient: 120×120).
 
+  The similarity matrix can be accessible via OSF (file path: NLP/sim_bert_embedding.zip).
+
 - 3.correlation_human_bert.ipynb
 
   To retrieve the most human-like relationship representations, we tested different query types and layers. Each query type could yield multiple query texts, resulting in seven texts for modern Chinese and ten texts for ancient Chinese.
