@@ -1,0 +1,259 @@
+Relationships,Translate,new,query
+助教-学生,Teach Assistant-Student,助教和学生,助教和学生之间
+学长学姐-学弟学妹,Senior student-Junior student,学长学姐和学弟学妹,学长学姐和学弟学妹之间
+学生会主席-学生会成员,President of student union-Member of student union,学生会主席和学生会成员,学生会主席和学生会成员之间
+社团社长-社团社员,Club president-Club member,社团社长和社团社员,社团社长和社团社员之间
+老师-家长,Teacher-Parent,老师和家长,老师和家长之间
+考官-考生,Examer-Examinee,考官和考生,考官和考生之间
+家长-班主任,Parent-Head teacher,家长和班主任,家长和班主任之间
+家教-学生,Private Teacher-Student,家教和学生,家教和学生之间
+辅导员-大学生,Graduate advisor-College student,辅导员和大学生,辅导员和大学生之间
+班主任-学生,Head teacher-Student,班主任和学生,班主任和学生之间
+班委-班级成员,Class leader-Class member,班委和班级成员,班委和班级成员之间
+债主-欠债人,Creditor-Debtor,债主和欠债人,债主和欠债人之间
+原配-第三者,Original partner-Mistress,原配和第三者,原配和第三者之间
+义父义母-义子义女,Adoptive father-Adoptive child,义父义母和义子义女,义父义母和义子义女之间
+网友之间,Between net friends,网友之间,网友之间之间
+外地人-本地人,Local-Visitor,外地人和本地人,外地人和本地人之间
+师父-徒弟,Master-Apprentice,师父和徒弟,师父和徒弟之间
+球友之间,Between sport mates,球友之间,球友之间
+青梅竹马之间,Between childhood sweetheart,青梅竹马之间,青梅竹马之间
+乞丐-路人,Beggar-Passerby,乞丐和路人,乞丐和路人之间
+旅伴之间,Between travel mates,旅伴之间,旅伴之间
+老乡之间,Between fellow townsman,老乡之间,老乡之间
+老朋友之间,Between old friends,老朋友之间,老朋友之间
+干爹干妈-干儿女,God Parent-God Child,干爹干妈和干儿女,干爹干妈和干儿女之间
+搭讪的人-被搭讪的人,Accosting people-Accosted people,搭讪的人和被搭讪的人,搭讪的人和被搭讪的人之间
+报案人-受害者,Reporter-Victim,报案人和受害者,报案人和受害者之间
+暧昧对象之间,Between people who are flirting,暧昧对象之间,暧昧对象之间
+子女-父母,Parent-Son/Daughter,子女和父母,子女和父母之间
+亲家之间,Between family in law,亲家之间,亲家之间
+婆婆-儿媳,Mother in law-Wife,婆婆和儿媳,婆婆和儿媳之间
+罪犯-旁观者,Criminal-Passerby,罪犯和旁观者,罪犯和旁观者之间
+罪犯-被害人亲属,Criminal-Victim's family,罪犯和被害人亲属,罪犯和被害人亲属之间
+主人-佣人,master-servant,主人和佣人,主人和佣人之间
+主力-替补,Leading player-Replacement,主力和替补,主力和替补之间
+主管-助理,Supervisor-Assistant,主管和助理,主管和助理之间
+主持人-观众,Television host-Audience,主持人和观众,主持人和观众之间
+主播-打赏者,Network anchor-Follwer,主播和打赏者,主播和打赏者之间
+忠臣-反贼,Loyal minister-Betrayer,忠臣和反贼,忠臣和反贼之间
+中介-客户,Agency-Client,中介和客户,中介和客户之间
+政府官员-老百姓,Government-Civilian,政府官员和老百姓,政府官员和老百姓之间
+明星-经纪人,Star-Agent,明星和经纪人,明星和经纪人之间
+演员-观众,Actor-Audience,演员和观众,演员和观众之间
+演员-编剧,Actor-Play Writer,演员和编剧,演员和编剧之间
+小偷-失主,Thief-Owner,小偷和失主,小偷和失主之间
+嫌疑人-警察,Suspect-Police officer,嫌疑人和警察,嫌疑人和警察之间
+物业-业主,Property-Proprietor,物业和业主,物业和业主之间
+外卖配送员-顾客,Delivery guy-Customer,外卖配送员和顾客,外卖配送员和顾客之间
+图书管理员-读者,Librarian-Reader,图书管理员和读者,图书管理员和读者之间
+同一球队的球员之间,Between players of the same sports team,同一球队的球员之间,同一球队的球员之间
+售票员-乘客,Conductor-Passenger,售票员和乘客,售票员和乘客之间
+受害者-旁观者,Victim-Passerby,受害者和旁观者,受害者和旁观者之间
+首领-反贼,Leader-Betrayer,首领和反贼,首领和反贼之间
+收银员-顾客,Cashier-Customer,收银员和顾客,收银员和顾客之间
+收件人-快递员,Receiver-Courier,收件人和快递员,收件人和快递员之间
+施害者-受害者,Persecutor-Victim,施害者和受害者,施害者和受害者之间
+胜者-败者,Winner-Loser,胜者和败者,胜者和败者之间
+赛事解说员-观众,Sports Events Commentator-Audience,赛事解说员和观众,赛事解说员和观众之间
+人事工作人员-员工,Human resource officer-Employee,人事工作人员和员工,人事工作人员和员工之间
+前同事之间,Between former colleagues,前同事之间,前同事之间
+评委-选手,Judge-Competitor,评委和选手,评委和选手之间
+评委-观众,Judge-Audience,评委和观众,评委和观众之间
+律师-检察官,Lawyer-Prosecutor,律师和检察官,律师和检察官之间
+老员工-新员工,Old empolyee-New empolyee,老员工和新员工,老员工和新员工之间
+老板-员工,Boss-Empolyee,老板和员工,老板和员工之间
+客服-顾客,Customer service-Customer,客服和顾客,客服和顾客之间
+捐款人-受惠者,Benefactor-Beneficiary,捐款人和受惠者,捐款人和受惠者之间
+居委会-居民,Neighborhood committee-Resident,居委会和居民,居委会和居民之间
+教练-学员,Coach-Trainee,教练和学员,教练和学员之间
+见义勇为者-受助者,Samaritan-Recipient,见义勇为者和受助者,见义勇为者和受助者之间
+寄件人-快递员,Sender-Courier,寄件人和快递员,寄件人和快递员之间
+记者-采访对象,Reporter-Interviewee,记者和采访对象,记者和采访对象之间
+黑帮老大-小弟,Gang leader-Gang boy,黑帮老大和小弟,黑帮老大和小弟之间
+管家-住户,Housekeeper-Resident,管家和住户,管家和住户之间
+冠军-亚军,Winner-Runner-up ,冠军和亚军,冠军和亚军之间
+官员-行贿者,Official-Briber,官员和行贿者,官员和行贿者之间
+公务人员-办事人,Civil servants-Person concerned,公务人员和办事人,公务人员和办事人之间
+高级员工-低级员工,Senior staff-Junior staff,高级员工和低级员工,高级员工和低级员工之间
+法官-检察官,Judge-Prosecutor,法官和检察官,法官和检察官之间
+恩人-受助者,Helper-Recipient,恩人和受助者,恩人和受助者之间
+对手之间,Between rivals,对手之间,对手之间
+对立球队的球员之间,Between players of opposing sports teams,对立球队的球员之间,对立球队的球员之间
+队长-队员,Team leader-Team member,队长和队员,队长和队员之间
+同一团队的成员之间,Between members of the same team,同一团队的成员之间,同一团队的成员之间
+赌徒之间,Between gamblers,赌徒之间,赌徒之间
+毒贩-警察,Drug dealers-Police officer,毒贩和警察,毒贩和警察之间
+电竞队友之间,Between Between teammates of E-sports,电竞队友之间,电竞队友之间
+导演-编剧,Director-Screenwriter,导演和编剧,导演和编剧之间
+厨师-顾客,Cook-Customer,厨师和顾客,厨师和顾客之间
+乘务员-乘客,Crew member-Passenger,乘务员和乘客,乘务员和乘客之间
+城管-摊贩,City management-Vendor,城管和摊贩,城管和摊贩之间
+编辑-作者,Editor-Writer,编辑和作者,编辑和作者之间
+报案人-罪犯,Informant / Reporter- Criminal,报案人和罪犯,报案人和罪犯之间
+保姆-雇主,Babysitter-Employer,保姆和雇主,保姆和雇主之间
+雇主-保镖,Employer-Bodyguard,雇主和保镖,雇主和保镖之间
+保安-住户,Security staff-Resident,保安和住户,保安和住户之间
+访客-前台,Vistor-Receptionist,访客和前台,访客和前台之间
+校长-老师,Principal-Teacher,校长和老师,校长和老师之间
+校友之间,Between alumni,校友之间,校友之间
+同学之间,Between classmates,同学之间,同学之间
+宿管员-学生,Student-Dorm Resident assistant,宿管员和学生,宿管员和学生之间
+教务老师-学生,University student-Administrator,教务老师和学生,教务老师和学生之间
+教授-助教,Professor-Teaching Assistant,教授和助教,教授和助教之间
+导师-研究生,Supervisor-Graduate student,导师和研究生,导师和研究生之间
+霸凌者-受害者,Bully-Victim,霸凌者和受害者,霸凌者和受害者之间
+主人-客人,Guest-Host,主人和客人,主人和客人之间
+知己之间,Between confidants,知己之间,知己之间
+战友之间,Between brothers-in-arms,战友之间,战友之间
+游客-本地人,Native-Tourist,游客和本地人,游客和本地人之间
+艺人-粉丝,Celebrity-Fans,艺人和粉丝,艺人和粉丝之间
+一个人和父母的朋友之间,Between a person and their family friends,一个人和父母的朋友之间,一个人和父母的朋友之间
+新郎-新娘,Bride-Groom,新郎和新娘,新郎和新娘之间
+玩伴之间,Between playmates,玩伴之间,玩伴之间
+童年玩伴之间,Between childhood friends,童年玩伴之间,童年玩伴之间
+同一球队的球迷之间,Between fans of the same sports team,同一球队的球迷之间,同一球队的球迷之间
+舍友之间,Between roommates,舍友之间,舍友之间
+情敌之间,Between romantic rivals,情敌之间,情敌之间
+前任恋人之间,Between ex-lovers,前任恋人之间,前任恋人之间
+朋友之间,Between friends,朋友之间,朋友之间
+炮友之间,Between friends with benefits,炮友之间,炮友之间
+陌生人之间,Between strangers,陌生人之间,陌生人之间
+邻居之间,Between neighbors,邻居之间,邻居之间
+恋人之间,Between lovers,恋人之间,恋人之间
+房东-租户,Landlord-Tenant,房东和租户,房东和租户之间
+对立球队的球迷之间,Between fans of opposing sports teams,对立球队的球迷之间,对立球队的球迷之间
+出轨者-小三,Man-His Mistress,出轨者和小三,出轨者和小三之间
+博主-粉丝,Between a person and their social media follower,博主和粉丝,博主和粉丝之间
+笔友之间,Between pen-friends,笔友之间,笔友之间
+暗恋对象-暗恋者,Between a person and their crush,暗恋对象和暗恋者,暗恋对象和暗恋者之间
+祖先-后代,Ancestor-Descendant,祖先和后代,祖先和后代之间
+远房亲戚之间,Between distant relatives,远房亲戚之间,远房亲戚之间
+姨父姨妈-侄子侄女,Uncle/Aunt-Niece/Nephew,姨父姨妈和侄子侄女,姨父姨妈和侄子侄女之间
+爷爷奶奶-孙子女,Grandparent(father)-Grandchild,爷爷奶奶和孙子女,爷爷奶奶和孙子女之间
+养父养母-养子养女,Between adoptive parents and adopted kids,养父养母和养子养女,养父养母和养子养女之间
+外公外婆-外孙/外孙女,Grandparent(mother)-Grandchild,外公外婆和外孙/外孙女,外公外婆和外孙/外孙女之间
+叔叔婶婶-侄子侄女,Uncle/Aunt-Niece/Nephew,叔叔婶婶和侄子侄女,叔叔婶婶和侄子侄女之间
+继父继母-儿女,Step-parent-Step-child,继父继母和儿女,继父继母和儿女之间
+父母-婴儿,Parent-Infant,父母和婴儿,父母和婴儿之间
+作家-评论家,Reviewer-Writer,作家和评论家,作家和评论家之间
+作家-读者,Reader-Writer,作家和读者,作家和读者之间
+罪犯-受害人,Victim-Criminal,罪犯和受害人,罪犯和受害人之间
+罪犯-警察,Criminal-Police officer,罪犯和警察,罪犯和警察之间
+组长-组员,Team Captain-Team Members,组长和组员,组长和组员之间
+主职-副职,Chief-Deputy,主职和副职,主职和副职之间
+主管-员工,Supervisor-Subordinate,主管和员工,主管和员工之间
+主持人-嘉宾,Television host-Guest,主持人和嘉宾,主持人和嘉宾之间
+肇事者-交警,Police officer-Offender,肇事者和交警,肇事者和交警之间
+原告-被告,Defendant-Plaintiff,原告和被告,原告和被告之间
+游客-导游,Guide-Tourist,游客和导游,游客和导游之间
+艺人-黑粉,Celebrity-Haters,艺人和黑粉,艺人和黑粉之间
+医生-患者,Doctor-Patient,医生和患者,医生和患者之间
+医生-护士,Doctor-Nurse,医生和护士,医生和护士之间
+演员-导演,Director-Performer,演员和导演,演员和导演之间
+研究人员-实验参与者,Researcher-Research Subject,研究人员和实验参与者,研究人员和实验参与者之间
+外交官之间,Between diplomats,外交官之间,外交官之间
+投资人-创业者,Entrepreneur-Investor,投资人和创业者,投资人和创业者之间
+同事之间,Between Co-workers,同事之间,同事之间
+司机-乘客,Driver-Passenger,司机和乘客,司机和乘客之间
+实习生-正式员工,Intern-Employee,实习生和正式员工,实习生和正式员工之间
+上级-下级,Superior-Subordinate,上级和下级,上级和下级之间
+商家-客户,Customer-Businessman,商家和客户,商家和客户之间
+前任官员-现任官员,Predecessor-Successor,前任官员和现任官员,前任官员和现任官员之间
+卖淫者-嫖客,Prostitute-Customer,卖淫者和嫖客,卖淫者和嫖客之间
+卖家-买家,Dealer-Buyer,卖家和买家,卖家和买家之间
+律师-委托人,Lawyer-Client,律师和委托人,律师和委托人之间
+律师-法官,Judge -Lawyer,律师和法官,律师和法官之间
+老板-秘书,Boss-Secretary,老板和秘书,老板和秘书之间
+军官-部下,Officer-Soldier,军官和部下,军官和部下之间
+警察-老百姓,Police officer-Civilian,警察和老百姓,警察和老百姓之间
+经理-员工,Manager-Staff,经理和员工,经理和员工之间
+经理-老板,Owner-Manager,经理和老板,经理和老板之间
+教练-运动员,Coach-athlete,教练和运动员,教练和运动员之间
+顾问-客户,Consultant-Client,顾问和客户,顾问和客户之间
+工人-包工头,Foreman- Laborer,工人和包工头,工人和包工头之间
+服务员-顾客,Customer-Server,服务员和顾客,服务员和顾客之间
+裁判-参赛者,Judge-Contestant,裁判和参赛者,裁判和参赛者之间
+病人-护工,Patient-Caretaker,病人和护工,病人和护工之间
+保姆-小孩,Babysitter-Infant,保姆和小孩,保姆和小孩之间
+罪犯 - 人质,Criminal-Hostage,罪犯和人质,罪犯和人质之间
+罪犯 - 检察官,Criminal-Prosecutor,罪犯和检察官,罪犯和检察官之间
+宗教信徒之间,Between religious followers,宗教信徒之间,宗教信徒之间
+宗教领袖 - 信徒,Religious leader-Congregant,宗教领袖和信徒,宗教领袖和信徒之间
+主治医生-病人,Therapist-Patient,主治医生和病人,主治医生和病人之间
+主厨 - 顾客,Chef-Customer,主厨和顾客,主厨和顾客之间
+终身伴侣之间,Between life-partners,终身伴侣之间,终身伴侣之间
+志愿者 - 志愿活动组织者,Volunteer-Organizer,志愿者和志愿活动组织者,志愿者和志愿活动组织者之间
+政治盟友之间,Between political allies,政治盟友之间,政治盟友之间
+政客 - 支持者,Politician-Supporter,政客和支持者,政客和支持者之间
+运动员 - 裁判,Athlete-Referee,运动员和裁判,运动员和裁判之间
+远房表兄弟姐妹之间,Between second cousins,远房表兄弟姐妹之间,远房表兄弟姐妹之间
+原配-小三,Man Wife-Man Mistress,原配和小三,原配和小三之间
+假朋友之间（表面朋友，实则讨厌对方）,Between frenemies,假朋友之间（表面朋友，实则讨厌对方）,假朋友之间（表面朋友，实则讨厌对方）
+异地恋人之间,Between long-distance lovers,异地恋人之间,异地恋人之间
+亲密关系中的双方 ,Between a person and their significant other,亲密关系中的双方 ,亲密关系中的双方之间
+一次/几次活动或事件中互相陪同的人,Between companions,一次/几次活动或事件中互相陪同的人,一次/几次活动或事件中互相陪同的人之间
+演奏家 - 听众,Performer-Audience,演奏家和听众,演奏家和听众之间
+兄妹之间/姐弟之间,Brother-Sister,兄妹之间/姐弟之间,兄妹之间/姐弟之间
+大学兄弟会成员之间,Between fraternity brothers,大学兄弟会成员之间,大学兄弟会成员之间
+新娘 - 伴娘,Bride-Bridesmaid,新娘和伴娘,新娘和伴娘之间
+新郎 - 伴郎,Groom- Groomsman,新郎和伴郎,新郎和伴郎之间
+微博朋友之间,Between Facebook Friends,微博朋友之间,微博朋友之间
+同一场体育比赛的对手之间（有正面交锋/比赛中的宿敌）,Between sports rivals,同一场体育比赛的对手之间（有正面交锋/比赛中的宿敌）,同一场体育比赛的对手之间（有正面交锋/比赛中的宿敌）
+同居者之间,Between cohabitants,同居者之间,同居者之间
+同父异母(或同母异父)的子女之间,Between half-siblings,同父异母(或同母异父)的子女之间,同父异母(或同母异父)的子女之间
+同辈之间,Between peers,同辈之间,同辈之间
+体育竞赛的对手之间（不一定有正面交锋，比如预赛中不同的球队之间）,Between competitors in sports,体育竞赛的对手之间（不一定有正面交锋，比如预赛中不同的球队之间）,体育竞赛的对手之间（不一定有正面交锋，比如预赛中不同的球队之间）
+体育教练 - 学员,Athletic trainer-Trainee,体育教练和学员,体育教练和学员之间
+双胞胎之间,Between twins,双胞胎之间,双胞胎之间
+受害者 - 目击者,Victim-Witness,受害者和目击者,受害者和目击者之间
+人民代表 - 市民,Representative-Citizen,人民代表和市民,人民代表和市民之间
+人 - 上帝,Man-God,人和上帝,人和上帝之间
+奴隶 - 奴隶主,Slave-Master,奴隶和奴隶主,奴隶和奴隶主之间
+母亲 - 婴儿,Mother-Infant,母亲和婴儿,母亲和婴儿之间
+领袖 - 追随者,Leader-Follower,领袖和追随者,领袖和追随者之间
+灵魂伴侣之间,Between soul-mates,灵魂伴侣之间,灵魂伴侣之间
+君臣之间,Between a monarch and their minister,君臣之间,君臣之间
+俱乐部成员 - 俱乐部主席,Club Member- Club President,俱乐部成员和俱乐部主席,俱乐部成员和俱乐部主席之间
+经理 - 经理助理,Manager-Assistant,经理和经理助理,经理和经理助理之间
+近亲之间,Between close relatives,近亲之间,近亲之间
+金主 - 援交男/女,Sugar-daddy-Sugar-baby,金主和援交男/女,金主和援交男/女之间
+大学姐妹会成员之间,Between sorority sisters,大学姐妹会成员之间,大学姐妹会成员之间
+教徒之间,Between church members,教徒之间,教徒之间
+教父教母 - 教子,Godparent- Godchild,教父教母和教子,教父教母和教子之间
+假释官 - 假释犯,Parole officer-Parolee,假释官和假释犯,假释官和假释犯之间
+寄养父母 - 寄养子女,Foster-parent-Foster-child,寄养父母和寄养子女,寄养父母和寄养子女之间
+继祖父母 - 继孙,Step-grandparent- Step-grandchild,继祖父母和继孙,继祖父母和继孙之间
+继子女之间,Between step-siblings,继子女之间,继子女之间
+和自己已故的配偶之间,Between a person and their deceased spouse,和自己已故的配偶之间,和自己已故的配偶之间
+工会领袖 - 工会成员,Union leader-union member,工会领袖和工会成员,工会领袖和工会成员之间
+房东 - 管家,Landlord-Housekeeper,房东和管家,房东和管家之间
+贩毒者 - 瘾君子,Drug dealer-Addict,贩毒者和瘾君子,贩毒者和瘾君子之间
+犯罪同伙之间,Between criminal and their accomplice,犯罪同伙之间,犯罪同伙之间
+老师-学生,Teacher-Student,老师和学生,老师和学生之间
+主人-仆人,Master-Servant,主人和仆人,主人和仆人之间
+挚友之间,Between Close Friends,挚友之间,挚友之间
+未婚夫-未婚妻,Fiance-Fiancee,未婚夫和未婚妻,未婚夫和未婚妻之间
+认识但不熟的人之间,Between casual acquaintances,认识但不熟的人之间,认识但不熟的人之间
+岳父岳母-女婿,Between man and in-laws,岳父岳母和女婿,岳父岳母和女婿之间
+堂兄弟姐妹之间,Between tang cousins,堂兄弟姐妹之间,堂兄弟姐妹之间
+亲兄弟姐妹之间,Between Siblings,亲兄弟姐妹之间,亲兄弟姐妹之间
+离婚夫妇之间,Between divorced spouses,离婚夫妇之间,离婚夫妇之间
+公公婆婆-媳妇,Between woman and in-laws,公公婆婆和媳妇,公公婆婆和媳妇之间
+父母-青少年,Parent-Teenager,父母和青少年,父母和青少年之间
+父母-儿童,Parent-Child,父母和儿童,父母和儿童之间
+夫妻之间,Wife-Husband,夫妻之间,夫妻之间
+表兄弟姐妹之间,Between biao cousins,表兄弟姐妹之间,表兄弟姐妹之间
+狱警-囚犯,Guard-Prisoner,狱警和囚犯,狱警和囚犯之间
+心理咨询师-客户,Psychologist-Client,心理咨询师和客户,心理咨询师和客户之间
+面试官-求职者,Interviewer-Job applicant,面试官和求职者,面试官和求职者之间
+客户-销售,Salesperson-Customer,客户和销售,客户和销售之间
+病人-护士,Nurse-Patient,病人和护士,病人和护士之间
+政治对手之间,Between political opponents,政治对手之间,政治对手之间
+比赛时的队友之间,Between teammates in sports,比赛时的队友之间,比赛时的队友之间
+谈判中对立的双方,Between opposing negotiators,谈判中对立的双方,谈判中对立的双方之间
+生意竞争对手之间,Between business rivals,生意竞争对手之间,生意竞争对手之间
+生意伙伴之间,Between Business Partners,生意伙伴之间,生意伙伴之间
+教授-研究生,Professor-Graduate student,教授和研究生,教授和研究生之间
+雇主-雇员,Employer-Employee,雇主和雇员,雇主和雇员之间
+敌人之间,Between enemies,敌人之间,敌人之间
