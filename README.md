@@ -17,6 +17,3 @@
 
 ## **Study 3: Relationship representations in history**
 <img src="graph/Study3.jpg" alt="Study3">
-
-## **Method validation and power analysis in the Pilot study**
-<img src="graph/Pilot_Study.png" alt="Pilot_study">
