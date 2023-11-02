@@ -20,3 +20,6 @@
 
 ## **Method validation and power analysis in the Pilot study**
 <img src="graph/Pilot_study.png" alt="Pilot_study" style="zoom:10%;" />
+
+
+
