@@ -1,0 +1,557 @@
+,Age,Gender,Race,Race_alternative,Highest education,First language,Gender_label,Highest education_label
+1,25,1,1,,9,Fran?ais,female,Master or equivalent
+2,27,1,1,,9,Fran?ais,female,Master or equivalent
+3,25,1,1,,9,francais,female,Master or equivalent
+4,25,2,1,,8,francais,male,Bachelor or equivalent
+5,59,2,1,,7,Fran?ais,male,Upper secondary education
+7,60,1,1,,9,Fran?ais ,female,Master or equivalent
+8,46,1,1,,9,anglais,female,Master or equivalent
+9,24,1,1,,9,Fran?ais,female,Master or equivalent
+10,47,1,1,,8,Fran?ais ,female,Bachelor or equivalent
+11,26,2,1,,9,Fran?ais,male,Master or equivalent
+12,24,2,1,,8,FRANCAIS,male,Bachelor or equivalent
+13,20,2,2,,8,fran?ais,male,Bachelor or equivalent
+14,27,1,1,,9,fran?ais,female,Master or equivalent
+15,30,2,1,,9,Fran?ais,male,Master or equivalent
+16,31,1,1,,9,francais,female,Master or equivalent
+17,24,2,1,,8,portugais,male,Bachelor or equivalent
+18,23,1,1,,9,Fran?ais,female,Master or equivalent
+19,35,1,1,,9,Francais,female,Master or equivalent
+20,36,1,1,,9,fran?ais,female,Master or equivalent
+21,25,1,5,,9,francais,female,Master or equivalent
+22,46,1,1,,9,fran?ais,female,Master or equivalent
+23,20,1,1,,8,fran?ais,female,Bachelor or equivalent
+24,28,1,1,,9,Fran?ais,female,Master or equivalent
+25,25,2,1,,9,fran?ais,male,Master or equivalent
+26,24,2,1,,9,Fran?ais,male,Master or equivalent
+27,23,1,1,,9,Fran?ais,female,Master or equivalent
+28,42,1,1,,9,Francais,female,Master or equivalent
+29,37,1,1,,8,Fran?ais,female,Bachelor or equivalent
+30,54,2,1,,9,francais,male,Master or equivalent
+31,34,1,1,,9,Fran?ais,female,Master or equivalent
+32,27,2,1,,9,fran?ais,male,Master or equivalent
+33,19,2,1,,7,Fran?ais et anglais ,male,Upper secondary education
+35,24,1,1,,8,Fran?ais,female,Bachelor or equivalent
+36,43,2,5,,9,francais,male,Master or equivalent
+37,21,1,3,,8,fran?ais,female,Bachelor or equivalent
+38,40,2,6,arabic,9,french,male,Master or equivalent
+39,28,2,1,,9,fran?ais,male,Master or equivalent
+40,31,2,1,,9,fran?ais,male,Master or equivalent
+41,26,1,4,,9,Francais,female,Master or equivalent
+42,28,1,1,,9,Fran?ais,female,Master or equivalent
+43,26,1,1,,9,Fran?ais,female,Master or equivalent
+44,43,2,1,,8,fran?ais,male,Bachelor or equivalent
+45,44,1,1,,9,francais,female,Master or equivalent
+46,27,2,1,,9,fran?ais,male,Master or equivalent
+47,25,2,1,,9,Fran?ais,male,Master or equivalent
+48,29,1,1,,9,fran?ais,female,Master or equivalent
+49,34,1,1,,9,Fran?aise,female,Master or equivalent
+50,23,1,1,,9,Fran?ais,female,Master or equivalent
+51,23,2,1,,9,fran?ais,male,Master or equivalent
+52,25,2,6,Hispanique,9,Fran?ais,male,Master or equivalent
+53,49,1,1,,7,Francais,female,Upper secondary education
+54,30,2,1,,9,francais,male,Master or equivalent
+55,25,2,1,,8,fran?ais,male,Bachelor or equivalent
+56,23,1,1,,9,Fran?ais,female,Master or equivalent
+57,32,1,2,,9,Fran?ais,female,Master or equivalent
+58,24,2,1,,9,Fran?ais,male,Master or equivalent
+59,39,1,1,,9,Fran?ais,female,Master or equivalent
+60,35,1,6,Préfère ne pas répondre,9,Fran?ais,female,Master or equivalent
+61,23,1,1,,9,Fran?ais,female,Master or equivalent
+62,23,2,1,,9,Fran?ais,male,Master or equivalent
+63,37,1,1,,9,Fran?ais,female,Master or equivalent
+64,22,2,2,,9,Fran?ais ,male,Master or equivalent
+65,22,2,1,,8,fran?ais,male,Bachelor or equivalent
+66,23,2,1,,9,fran?ais,male,Master or equivalent
+67,31,1,1,,9,Fran?ais,female,Master or equivalent
+68,32,1,1,,9,francais,female,Master or equivalent
+69,36,1,4,,9,fran?ais,female,Master or equivalent
+70,38,1,1,,9,Espagnol,female,Master or equivalent
+71,30,2,1,,9,Fran?ais,male,Master or equivalent
+72,40,1,1,,9,fran?ais,female,Master or equivalent
+73,22,2,1,,9,Fran?ais,male,Master or equivalent
+75,30,1,1,,9,Fran?ais,female,Master or equivalent
+76,67,1,1,,4,Fan?ais,female,Lower secondary education
+77,21,2,1,,9,Fran?ais ,male,Master or equivalent
+78,37,1,1,,9,Fran?ais,female,Master or equivalent
+79,40,1,1,,9,fran?ais,female,Master or equivalent
+82,27,2,1,,9,Fran?ais ,male,Master or equivalent
+83,28,1,4,,9,Francais,female,Master or equivalent
+84,37,1,1,,9,Fran?ais ,female,Master or equivalent
+85,Cinquante et un an,1,2,,8,Fran?ais,female,Bachelor or equivalent
+86,43,1,1,,8,fran?ais,female,Bachelor or equivalent
+87,21,2,2,,4,francais,male,Lower secondary education
+88,26,1,1,,7,Fran?ais,female,Upper secondary education
+89,22,2,1,,9,Fran?ais,male,Master or equivalent
+90,29,1,1,,8,Portugais,female,Bachelor or equivalent
+91,23,1,3,,9,Fran?ais,female,Master or equivalent
+92,25,1,4,,9,Fran?ais,female,Master or equivalent
+93,24,2,1,,9,Fran?ais,male,Master or equivalent
+94,27,2,6,Hispanique,9,Espagnol,male,Master or equivalent
+95,37,1,1,,8,fran?ais,female,Bachelor or equivalent
+96,34,1,1,,9,Fran?ais ,female,Master or equivalent
+97,37,1,1,,9,"russe, puis l'anglais et le fran?ais",female,Master or equivalent
+98,40,2,1,,9,Anglais,male,Master or equivalent
+99,22,2,1,,9,fran?ais,male,Master or equivalent
+100,45,1,4,,9,Fran?ais,female,Master or equivalent
+101,25,2,1,,9,fran?ais,male,Master or equivalent
+103,19,2,1,,8,fran?ais,male,Bachelor or equivalent
+105,24,1,1,,9,Fran?ais,female,Master or equivalent
+106,30,2,6,Latina (amerique du sud),9,Espagnol ,male,Master or equivalent
+107,35,1,1,,5,Fran?ais ,female,Lower secondary education
+108,23,2,1,,9,Fran?ais,male,Master or equivalent
+109,23,1,1,,9,Fran?ais ,female,Master or equivalent
+110,22,2,1,,9,fran?ais,male,Master or equivalent
+111,21,1,1,,9,fran?ais,female,Master or equivalent
+112,38,2,1,,9,francais,male,Master or equivalent
+113,23,1,5,,9,arabe,female,Master or equivalent
+114,41,1,6,Mixte,5,Fran?ais,female,Lower secondary education
+115,33,2,1,,9,fran?ais,male,Master or equivalent
+116,48,2,1,,9,fran?ais,male,Master or equivalent
+117,25,2,1,,9,FRANCAIS,male,Master or equivalent
+118,22,2,1,,9,Hongrois,male,Master or equivalent
+119,23,2,1,,4,fran?ais,male,Lower secondary education
+120,39,1,1,,9,french,female,Master or equivalent
+121,35,1,1,,7,Fran?ais et Espagnol ,female,Upper secondary education
+122,19,2,1,,9,fran?ais,male,Master or equivalent
+123,36,2,1,,5,Fran?ais,male,Lower secondary education
+124,29,1,5,,9,Francais,female,Master or equivalent
+125,25,2,1,,8,Fran?ais,male,Bachelor or equivalent
+126,32,2,1,,9,Russe,male,Master or equivalent
+127,34,2,1,,8,fran?ais,male,Bachelor or equivalent
+128,24,2,1,,9,Fran?ais,male,Master or equivalent
+129,27,2,6,Mixed black and white,9,Fran?ais,male,Master or equivalent
+130,41,1,2,,8,Fran?aise,female,Bachelor or equivalent
+131,31,1,1,,9,fran?ais,female,Master or equivalent
+133,31,1,1,,9,FRANCAIS,female,Master or equivalent
+134,25,2,6,Sud américaine ,9,Espagnol ,male,Master or equivalent
+135,25,2,1,,9,fran?ais,male,Master or equivalent
+136,44,1,1,,9,Fran?ais,female,Master or equivalent
+137,22,2,4,,7,fran?ais,male,Upper secondary education
+138,62,1,1,,9,Fran?ais,female,Master or equivalent
+139,24,2,1,,9,Fran?ais,male,Master or equivalent
+140,58,1,1,,8,Fran?ais,female,Bachelor or equivalent
+141,22,1,1,,9,Fran?ais,female,Master or equivalent
+143,21,2,1,,9,Fran?ais,male,Master or equivalent
+144,32,2,1,,8,Fran?ais,male,Bachelor or equivalent
+145,34,1,6,Hispanic,9,Francais,female,Master or equivalent
+146,32,1,4,,9,Fran?ais,female,Master or equivalent
+147,22,2,1,,9,FRANCAIS,male,Master or equivalent
+148,20,1,4,,8,Fran?ais,female,Bachelor or equivalent
+149,20,2,1,,7,Fran?ais ,male,Upper secondary education
+150,23,2,1,,9,French,male,Master or equivalent
+151,42,2,1,,9,Francais,male,Master or equivalent
+152,32,1,1,,9,fran?ais,female,Master or equivalent
+153,28,1,2,,9,Fran?ais,female,Master or equivalent
+154,52,1,1,,9,English,female,Master or equivalent
+155,26,2,1,,9,Fran?ais ,male,Master or equivalent
+156,22,2,1,,9,FRANCAIS,male,Master or equivalent
+157,21,2,1,,9,Fran?ais ,male,Master or equivalent
+158,36,2,1,,9,fran?ais,male,Master or equivalent
+159,25,2,1,,9,Fran?ais,male,Master or equivalent
+160,55,1,1,,9,fran?ais,female,Master or equivalent
+161,33,1,1,,9,fran?ais,female,Master or equivalent
+162,21,1,1,,9,Fran?ais ,female,Master or equivalent
+163,54,1,1,,8,fr,female,Bachelor or equivalent
+164,31,1,1,,8,Fran?ais,female,Bachelor or equivalent
+165,21,1,1,,8,Francais,female,Bachelor or equivalent
+166,24,1,5,,9,francais,female,Master or equivalent
+167,23,2,1,,9,Fran?ais,male,Master or equivalent
+168,25,1,1,,9,Fran?ais,female,Master or equivalent
+169,25,1,1,,9,Fran?ais,female,Master or equivalent
+170,24,1,1,,9,Fran?ais,female,Master or equivalent
+171,21,2,6,mixe,8,fran?ais,male,Bachelor or equivalent
+172,27,1,2,,9,francais,female,Master or equivalent
+173,32,1,1,,7,fran?aise,female,Upper secondary education
+174,44,1,1,,8,Fran?ais,female,Bachelor or equivalent
+175,34,1,5,,9,Fran?ais,female,Master or equivalent
+176,30,1,1,,9,fran?ais,female,Master or equivalent
+177,31,2,2,,9,fran?ais,male,Master or equivalent
+178,43,1,1,,9,Fran?ais,female,Master or equivalent
+179,26,1,4,,9,Fran?ais,female,Master or equivalent
+180,25,1,1,,9,Fr,female,Master or equivalent
+181,34,1,1,,9,Fran?ais,female,Master or equivalent
+182,30,2,1,,9,Fran?ais,male,Master or equivalent
+184,43,1,1,,9,fran?ais,female,Master or equivalent
+185,21,1,1,,8,Serbe,female,Bachelor or equivalent
+187,21,1,2,,9,Fran?ais,female,Master or equivalent
+188,48,1,1,,6,Fran?ais,female,Upper secondary education
+189,19,1,1,,7,Fran?ais,female,Upper secondary education
+190,33,1,1,,9,fran?ais,female,Master or equivalent
+191,22,1,1,,9,Fran?ais,female,Master or equivalent
+192,21,2,1,,9,Fran?ais,male,Master or equivalent
+194,28,2,1,,5,Fran?ais,male,Lower secondary education
+196,22,1,1,,9,Fran?ais,female,Master or equivalent
+197,27,2,1,,9,Fran?ais,male,Master or equivalent
+198,33,2,1,,8,Fran?ais,male,Bachelor or equivalent
+199,29,1,1,,5,anglais,female,Lower secondary education
+201,27,2,1,,9,Francais,male,Master or equivalent
+202,40,2,1,,9,fran?ais,male,Master or equivalent
+203,33,2,1,,9,fran?ais,male,Master or equivalent
+204,50,2,1,,9,Anglais,male,Master or equivalent
+205,25,2,1,,9,italian,male,Master or equivalent
+206,20,2,1,,8,fran?aise,male,Bachelor or equivalent
+207,22,1,2,,9,fran?ais,female,Master or equivalent
+209,45,1,1,,9,FRANCAIS,female,Master or equivalent
+210,41,1,1,,9,Fran?ais,female,Master or equivalent
+211,31,2,2,,9,francais,male,Master or equivalent
+212,33,1,1,,9,fran?ais,female,Master or equivalent
+213,20,2,1,,7,fran?ais,male,Upper secondary education
+214,46,1,1,,8,Fran?ais ,female,Bachelor or equivalent
+215,20,1,4,,8,Fran?ais,female,Bachelor or equivalent
+216,28,2,1,,9,Fran?ais,male,Master or equivalent
+217,23,2,1,,9,francais,male,Master or equivalent
+218,22,2,1,,9,Fran?ais,male,Master or equivalent
+219,29,1,1,,5,fran?ais,female,Lower secondary education
+220,30,1,1,,9,Fran?ais,female,Master or equivalent
+221,21,2,1,,8,Anglais,male,Bachelor or equivalent
+222,32,1,2,,9,Fran?ais,female,Master or equivalent
+223,21,1,2,,9,Fran?ais,female,Master or equivalent
+224,28,2,1,,9,francais,male,Master or equivalent
+225,24,2,1,,9,Fran?ais,male,Master or equivalent
+226,19,2,1,,8,Espagnol,male,Bachelor or equivalent
+227,21,2,1,,9,Fran?ais ,male,Master or equivalent
+229,20,2,1,,9,Greek,male,Master or equivalent
+230,24,2,1,,9,Fran?ais,male,Master or equivalent
+231,26,2,1,,9,Fr,male,Master or equivalent
+232,23,2,1,,8,fran?ais,male,Bachelor or equivalent
+233,23,2,6,Hispanique (mélange blanc et Amérindien),9,Espagnol,male,Master or equivalent
+234,28,1,1,,9,Fran?ais,female,Master or equivalent
+235,27,2,1,,9,Fran?ais,male,Master or equivalent
+236,25,2,1,,9,Fran?ais,male,Master or equivalent
+237,25,2,1,,8,portugais,male,Bachelor or equivalent
+238,31,2,1,,9,FRANCAIS,male,Master or equivalent
+240,21,2,1,,9,Fran?ais,male,Master or equivalent
+241,34,1,1,,9,fran?ais,female,Master or equivalent
+242,22,2,1,,9,Fran?ais,male,Master or equivalent
+243,42,1,1,,9,Francais,female,Master or equivalent
+244,25,1,1,,9,FRENCH,female,Master or equivalent
+245,25,2,1,,9,fran?ais,male,Master or equivalent
+246,40,2,1,,9,fran?ais,male,Master or equivalent
+247,20,1,1,,7,fran?ais,female,Upper secondary education
+248,25,1,5,,9,Arabe,female,Master or equivalent
+249,64,2,1,,9,Anglais,male,Master or equivalent
+250,28,2,1,,5,Fran?ais,male,Lower secondary education
+251,22,1,1,,9,francais,female,Master or equivalent
+252,28,1,1,,4,Fran?ais,female,Lower secondary education
+253,21,2,1,,9,Fran?ais,male,Master or equivalent
+254,45,1,1,,8,fran?ais,female,Bachelor or equivalent
+256,23,2,1,,9,Fran?ais,male,Master or equivalent
+257,43,1,1,,9,Fran?ais,female,Master or equivalent
+258,21,2,2,,4,francais,male,Lower secondary education
+259,42,1,1,,9,Italien,female,Master or equivalent
+260,24,1,5,,9,marocain,female,Master or equivalent
+261,28,2,1,,9,Fran?ais,male,Master or equivalent
+262,48,1,1,,7,Fran?ais,female,Upper secondary education
+263,24,2,6,Pakistanaise et algérienne ,5,Urdu ,male,Lower secondary education
+264,38,2,1,,9,francais,male,Master or equivalent
+265,32,2,1,,8,Fran?ais ,male,Bachelor or equivalent
+266,21,1,1,,8,Fran?ais,female,Bachelor or equivalent
+267,21,2,1,,9,Portugais,male,Master or equivalent
+268,21,2,1,,9,Fran?ais ,male,Master or equivalent
+269,22,1,1,,8,Fran?ais,female,Bachelor or equivalent
+270,32,2,1,,8,Fran?ais,male,Bachelor or equivalent
+271,32,1,1,,8,Fran?ais,female,Bachelor or equivalent
+272,21,1,1,,9,Fran?ais,female,Master or equivalent
+273,24,2,6,"hispanique, latino-américain",9,Espagnol,male,Master or equivalent
+275,19,2,2,,7,fran?ais,male,Upper secondary education
+276,23,1,5,,8,italian,female,Bachelor or equivalent
+277,24,2,1,,9,Fran?ais,male,Master or equivalent
+278,22,1,1,,9,Fran?ais,female,Master or equivalent
+279,26,1,4,,8,Fran?ais,female,Bachelor or equivalent
+280,27,2,6,Mix black and white,9,Fran?ais,male,Master or equivalent
+281,24,1,1,,9,francais,female,Master or equivalent
+282,38,1,1,,9,Espagnol,female,Master or equivalent
+283,27,2,1,,9,Francais,male,Master or equivalent
+284,25,1,1,,9,Polonaise,female,Master or equivalent
+285,20,2,1,,7,Francais,male,Upper secondary education
+287,28,1,1,,5,francais,female,Lower secondary education
+289,20,2,1,,9,Fran?ais,male,Master or equivalent
+290,25,2,6,Sud amérique,9,Espagnol,male,Master or equivalent
+291,24,1,1,,9,Fran?ais,female,Master or equivalent
+292,51,1,2,,8,Fran?ais,female,Bachelor or equivalent
+293,22,2,6,nord africaine,9,fran?ais,male,Master or equivalent
+294,47,2,1,,9,anglais,male,Master or equivalent
+295,27,2,1,,9,Fran?ais,male,Master or equivalent
+296,44,1,1,,9,fran?ais,female,Master or equivalent
+297,21,2,1,,9,Fran?ais,male,Master or equivalent
+298,19,2,1,,8,fran?ais,male,Bachelor or equivalent
+299,26,2,1,,9,Roumain,male,Master or equivalent
+300,23,2,1,,9,Fran?ais,male,Master or equivalent
+301,22,2,1,,9,fran?ais,male,Master or equivalent
+302,37,1,1,,8,Fran?ais,female,Bachelor or equivalent
+303,20,2,1,,8,Fran?ais,male,Bachelor or equivalent
+304,37,1,1,,9,Fran?ais,female,Master or equivalent
+305,22,2,2,,9,Fran?ais ,male,Master or equivalent
+306,28,2,2,,9,Somali ,male,Master or equivalent
+307,25,2,1,,8,Fran?ais,male,Bachelor or equivalent
+308,24,1,1,,9,Fran?ais,female,Master or equivalent
+309,21,1,5,,9,Fran?ais,female,Master or equivalent
+310,36,2,1,,9,Russe,male,Master or equivalent
+311,23,2,1,,9,Francais ,male,Master or equivalent
+312,27,1,1,,9,Fran?ais,female,Master or equivalent
+313,25,1,4,,9,Fran?ais,female,Master or equivalent
+314,32,1,4,,9,Chinois et Fran?ais,female,Master or equivalent
+315,22,2,1,,9,FRANCAIS,male,Master or equivalent
+316,47,1,1,,8,fran?ais,female,Bachelor or equivalent
+317,27,1,2,,9,Anglais,female,Master or equivalent
+318,49,2,1,,9,English ,male,Master or equivalent
+319,31,2,1,,9,fran?ais,male,Master or equivalent
+320,31,1,6,Latin,9,espagnol ,female,Master or equivalent
+321,31,2,1,,9,Fran?aise,male,Master or equivalent
+322,44,1,1,,8,Francais,female,Bachelor or equivalent
+323,29,2,1,,9,fran?ais,male,Master or equivalent
+324,25,2,1,,9,francais ,male,Master or equivalent
+325,39,1,1,,9,Fran?ais,female,Master or equivalent
+326,21,2,6,Métisse,9,Fran?ais,male,Master or equivalent
+327,31,1,6,Latino,9,Espagnol,female,Master or equivalent
+328,23,1,1,,9,Fran?ais,female,Master or equivalent
+329,36,1,1,,9,fran?ais,female,Master or equivalent
+330,23,2,1,,9,Fran?ais,male,Master or equivalent
+331,42,1,1,,9,fran?ais,female,Master or equivalent
+332,23,1,1,,9,Fran?ais,female,Master or equivalent
+333,21,1,4,,8,Vietnamien,female,Bachelor or equivalent
+334,38,1,1,,8,Fran?ais,female,Bachelor or equivalent
+335,23,2,1,,9,Fran?ais,male,Master or equivalent
+336,24,1,1,,9,Anglais,female,Master or equivalent
+337,24,2,1,,9,Fran?ais,male,Master or equivalent
+339,33,1,1,,9,fran?ais,female,Master or equivalent
+340,45,1,1,,9,Fran?ais,female,Master or equivalent
+341,50,2,1,,9,English,male,Master or equivalent
+343,20,2,1,,9,Fran?ais,male,Master or equivalent
+344,28,1,1,,9,fran?ais,female,Master or equivalent
+345,19,2,1,,7,Fran?ais et Anglais,male,Upper secondary education
+346,31,1,6,Caucasian-Caribbean,9,Fran?ais,female,Master or equivalent
+347,31,1,1,,9,Fran?ais ,female,Master or equivalent
+348,62,1,1,,9,Fran?ais,female,Master or equivalent
+349,29,1,1,,9,fran?ais,female,Master or equivalent
+350,22,2,1,,8,Fran?ais ,male,Bachelor or equivalent
+351,36,2,1,,9,fran?ais,male,Master or equivalent
+352,28,1,5,,9,francais,female,Master or equivalent
+353,29,1,5,,9,Francais,female,Master or equivalent
+354,27,1,3,,9,Hindi,female,Master or equivalent
+355,43,1,1,,9,fran?ais,female,Master or equivalent
+356,60,1,1,,9,fran?ais,female,Master or equivalent
+357,43,1,1,,8,fran?ais,female,Bachelor or equivalent
+358,34,1,1,,9,Fran?aise,female,Master or equivalent
+359,30,2,1,,9,Fran?ais,male,Master or equivalent
+360,31,1,1,,9,Fran?ais,female,Master or equivalent
+361,29,1,2,,9,Fran?ais,female,Master or equivalent
+362,25,2,1,,9,Fran?ais,male,Master or equivalent
+363,43,2,5,,9,arabe,male,Master or equivalent
+364,37,1,1,,8,fran?ais,female,Bachelor or equivalent
+365,30,2,1,,9,fran?ais,male,Master or equivalent
+366,50,2,1,,8,fran?ais,male,Bachelor or equivalent
+367,28,1,1,,9,Fran?ais,female,Master or equivalent
+368,22,1,1,,9,Fran?ais,female,Master or equivalent
+369,34,2,1,,8,fran?ais,male,Bachelor or equivalent
+370,25,2,1,,8,Fran?ais,male,Bachelor or equivalent
+371,32,1,1,,9,fran?ais,female,Master or equivalent
+372,21,2,1,,7,Norvégien,male,Upper secondary education
+373,34,1,4,,9,Fran?ais,female,Master or equivalent
+374,25,1,1,,9,Fran?ais,female,Master or equivalent
+375,31,1,1,,9,Fran?ais,female,Master or equivalent
+376,67,1,1,,4,Fran?aise,female,Lower secondary education
+377,27,2,1,,9,Fran?ais ,male,Master or equivalent
+378,40,1,1,,9,fran?ais,female,Master or equivalent
+379,34,1,1,,9,Fran?ais,female,Master or equivalent
+380,48,1,1,,6,Fran?ais ,female,Upper secondary education
+381,49,1,1,,9,fran?ais,female,Master or equivalent
+382,54,2,1,,9,russian,male,Master or equivalent
+383,54,1,1,,8,francais,female,Bachelor or equivalent
+384,22,2,4,,7,fran?ais,male,Upper secondary education
+385,22,1,1,,9,Fran?ais,female,Master or equivalent
+386,23,1,5,,9,arabe,female,Master or equivalent
+387,25,2,1,,9,Fran?ais,male,Master or equivalent
+388,19,2,1,,7,fran?ais,male,Upper secondary education
+389,23,2,1,,9,Fran?ais,male,Master or equivalent
+390,30,1,1,,9,Fran?ais,female,Master or equivalent
+391,25,2,1,,9,fran?ais,male,Master or equivalent
+392,27,2,6,Hispanique,9,Espagnol/Fran?ais,male,Master or equivalent
+393,37,1,1,,9,fran?ais,female,Master or equivalent
+395,28,1,1,,9,Fran?ais,female,Master or equivalent
+396,28,1,4,,9,Fran?ais,female,Master or equivalent
+397,26,1,1,,9,fran?ais,female,Master or equivalent
+398,30,1,1,,8,Fran?ais,female,Bachelor or equivalent
+399,33,2,1,,8,Fran?ais,male,Bachelor or equivalent
+400,32,2,2,,8,Fran?ais,male,Bachelor or equivalent
+401,31,1,1,,9,FRANCAIS,female,Master or equivalent
+402,28,2,6,Les races n'existent pas !,9,Fran?ais et italien,male,Master or equivalent
+404,29,1,1,,9,Fran?ais,female,Master or equivalent
+406,23,1,1,,9,Fran?ais,female,Master or equivalent
+407,40,2,1,,9,anglais,male,Master or equivalent
+408,63,1,1,,9,Fran?ais,female,Master or equivalent
+409,19,2,1,,8,Fran?ais ,male,Bachelor or equivalent
+410,49,1,1,,7,Francais,female,Upper secondary education
+411,21,2,1,,9,Anglais,male,Master or equivalent
+412,38,2,1,,9,francais,male,Master or equivalent
+414,45,1,1,,8,Fran?ais ,female,Bachelor or equivalent
+415,30,2,1,,9,Fran?ais,male,Master or equivalent
+416,30,1,1,,7,fran?ais,female,Upper secondary education
+417,32,2,1,,9,anglais,male,Master or equivalent
+418,19,2,1,,8,Fran?ais,male,Bachelor or equivalent
+419,34,1,1,,9,Fran?ais,female,Master or equivalent
+420,23,1,5,,9,Arabe,female,Master or equivalent
+421,23,2,1,,9,francais,male,Master or equivalent
+423,22,1,1,,9,Fran?ais,female,Master or equivalent
+424,43,2,5,,9,arabe,male,Master or equivalent
+425,36,2,1,,9,fran?ais,male,Master or equivalent
+426,21,2,1,,8,Francais,male,Bachelor or equivalent
+427,27,1,1,,9,Portugais,female,Master or equivalent
+428,27,1,3,,9,Fran?ais.,female,Master or equivalent
+429,55,1,1,,9,fran?ais,female,Master or equivalent
+431,26,2,1,,9,Fran?ais,male,Master or equivalent
+432,21,1,3,,9,fran?ais,female,Master or equivalent
+433,19,2,1,,7,Fran?ais,male,Upper secondary education
+434,45,1,1,,9,Fran?ais,female,Master or equivalent
+435,23,2,1,,9,Fran?ais,male,Master or equivalent
+436,23,1,1,,9,Fran?ais,female,Master or equivalent
+437,40,1,1,,9,fran?ais,female,Master or equivalent
+438,21,1,1,,9,Anglais,female,Master or equivalent
+439,31,1,6,métisse,9,fran?ais,female,Master or equivalent
+441,37,1,1,,9,Fran?ais,female,Master or equivalent
+442,31,1,1,,9,Fran?ais,female,Master or equivalent
+443,34,2,1,,9,Hongrois,male,Master or equivalent
+444,22,2,2,,9,Fran?ais ,male,Master or equivalent
+445,23,2,1,,9,Francais ,male,Master or equivalent
+446,23,2,1,,8,Francais,male,Bachelor or equivalent
+447,26,1,1,,7,Fran?ais.,female,Upper secondary education
+448,22,2,1,,9,fran?ais,male,Master or equivalent
+449,33,1,1,,9,fran?ais,female,Master or equivalent
+450,38,1,1,,9,Espagnol,female,Master or equivalent
+451,22,2,5,,9,fran?ais ,male,Master or equivalent
+452,34,2,1,,8,fran?ais,male,Bachelor or equivalent
+453,32,1,1,,8,fran?ais,female,Bachelor or equivalent
+454,22,1,1,,9,Fran?ais,female,Master or equivalent
+455,36,1,4,,9,fran?ai,female,Master or equivalent
+456,23,1,1,,9,Fran?ais,female,Master or equivalent
+457,46,1,1,,9,fran?ais,female,Master or equivalent
+458,37,1,1,,8,Fran?ais,female,Bachelor or equivalent
+460,29,1,5,,9,Francais,female,Master or equivalent
+461,31,2,1,,9,fran?ais,male,Master or equivalent
+462,25,2,1,,9,Fran?ais,male,Master or equivalent
+463,31,1,1,,9,Fran?ais,female,Master or equivalent
+464,37,1,1,,9,Fran?ais,female,Master or equivalent
+465,24,2,6,Pakistanaise et algeriene ,5,Urdu,male,Lower secondary education
+466,59,2,1,,5,Francais,male,Lower secondary education
+467,43,1,1,,9,fran?ais,female,Master or equivalent
+468,28,1,4,,9,Fran?ais,female,Master or equivalent
+469,19,2,1,,8,Fran?ais ,male,Bachelor or equivalent
+470,31,1,1,,8,Néerlandais ,female,Bachelor or equivalent
+471,31,2,1,,9,Fran?aise ,male,Master or equivalent
+472,32,1,2,,9,Fran?ais,female,Master or equivalent
+473,25,2,1,,5,Fran?ais ,male,Lower secondary education
+476,28,1,2,,9,Fran?ais,female,Master or equivalent
+477,21,2,2,,8,Fran?ais,male,Bachelor or equivalent
+478,30,2,1,,9,fran?ais,male,Master or equivalent
+479,37,1,1,,8,fran?ais,female,Bachelor or equivalent
+480,67,1,1,,4,Fran?ais,female,Lower secondary education
+481,31,1,1,,9,Fran?ais,female,Master or equivalent
+482,33,1,1,,9,Fran?ais,female,Master or equivalent
+483,51,1,2,,9,Fran?ais,female,Master or equivalent
+484,30,1,1,,9,Fran?ais,female,Master or equivalent
+486,33,2,2,,9,fran?ais ,male,Master or equivalent
+487,54,1,1,,8,fr,female,Bachelor or equivalent
+488,43,1,1,,8,fran?ais,female,Bachelor or equivalent
+489,43,1,1,,9,Fran?ais,female,Master or equivalent
+490,52,1,1,,9,Francais,female,Master or equivalent
+491,22,2,6,North african,9,fran?ais,male,Master or equivalent
+492,41,1,1,,9,fran?ais,female,Master or equivalent
+493,34,1,1,,9,fran?ais,female,Master or equivalent
+494,24,1,5,,9,marocain,female,Master or equivalent
+495,21,2,1,,8,Anglais,male,Bachelor or equivalent
+496,21,2,1,,7,fran?ais,male,Upper secondary education
+497,22,2,1,,9,Fran?ais ,male,Master or equivalent
+499,23,2,5,,9,Arabe ,male,Master or equivalent
+500,25,2,1,,5,Fran?ais ,male,Lower secondary education
+501,48,2,1,,8,Portugais,male,Bachelor or equivalent
+502,24,2,1,,9,Fran?aise ,male,Master or equivalent
+503,30,2,1,,9,hongrois,male,Master or equivalent
+504,26,1,1,,3,Francais,female,Lower secondary education
+505,30,2,1,,8,fran?ais,male,Bachelor or equivalent
+507,27,1,1,,8,Fran?ais,female,Bachelor or equivalent
+508,24,2,1,,9,fran?ais,male,Master or equivalent
+509,34,1,1,,8,Fran?ais,female,Bachelor or equivalent
+511,28,2,1,,9,Fran?ais,male,Master or equivalent
+512,29,1,1,,9,Fran?ais,female,Master or equivalent
+513,51,2,1,,9,Anglais,male,Master or equivalent
+514,25,1,1,,9,Fran?ais/grec ,female,Master or equivalent
+515,22,2,1,,9,Fran?ais ,male,Master or equivalent
+516,22,2,1,,8,Fran?ais,male,Bachelor or equivalent
+517,44,2,1,,8,fran?ais,male,Bachelor or equivalent
+518,51,1,1,,9,fran?ais,female,Master or equivalent
+519,31,1,1,,9,Fran?ais,female,Master or equivalent
+520,25,1,1,,9,fran?ais,female,Master or equivalent
+521,25,2,1,,9,Fran?ais,male,Master or equivalent
+522,27,2,1,,9,Fran?ais ,male,Master or equivalent
+523,33,2,1,,9,fran?ais,male,Master or equivalent
+524,25,2,2,,8,fran?ais ,male,Bachelor or equivalent
+525,25,1,1,,9,Fran?ais,female,Master or equivalent
+526,24,2,1,,9,Fran?ais,male,Master or equivalent
+527,24,1,1,,9,Fran?aise,female,Master or equivalent
+528,41,1,1,,9,Fran?ais,female,Master or equivalent
+529,32,2,3,,8,Hindi ,male,Bachelor or equivalent
+530,19,2,1,,9,Francais,male,Master or equivalent
+531,33,2,1,,9,Fran?ais,male,Master or equivalent
+532,21,2,1,,9,Fran?aise,male,Master or equivalent
+533,22,1,5,,9,Arabe,female,Master or equivalent
+534,34,2,1,,9,Francais,male,Master or equivalent
+535,27,2,1,,9,FRANCAIS,male,Master or equivalent
+537,29,2,1,,7,Fran?ais,male,Upper secondary education
+538,31,1,5,,9,Francais,female,Master or equivalent
+539,25,1,1,,9,Fran?aise,female,Master or equivalent
+540,48,1,1,,5,Fran?ais,female,Lower secondary education
+541,24,2,1,,9,fran?ais,male,Master or equivalent
+542,22,1,1,,8,Francais,female,Bachelor or equivalent
+543,29,2,1,,9,Fran?ais,male,Master or equivalent
+544,20,1,1,,8,Fran?ais,female,Bachelor or equivalent
+545,23,2,1,,9,FR,male,Master or equivalent
+546,25,1,1,,9,fran?ais,female,Master or equivalent
+547,58,2,1,,9,fran?ais,male,Master or equivalent
+548,24,2,1,,9,Fran?ais,male,Master or equivalent
+550,27,2,1,,9,anglais,male,Master or equivalent
+551,29,1,1,,9,Fran?ais,female,Master or equivalent
+554,24,2,1,,9,fran?ais,male,Master or equivalent
+555,19,2,1,,7,Fran?ais,male,Upper secondary education
+556,21,2,1,,8,fran?ais,male,Bachelor or equivalent
+557,32,1,1,,9,Fran?ais,female,Master or equivalent
+558,19,2,1,,8,Fran?ais,male,Bachelor or equivalent
+559,28,2,2,,9,Fran?ais ,male,Master or equivalent
+560,30,1,1,,7,fran?ais,female,Upper secondary education
+561,19,2,1,,8,Francais ,male,Bachelor or equivalent
+562,35,2,1,,9,fran?ais,male,Master or equivalent
+563,24,1,1,,9,fran?aise,female,Master or equivalent
+564,25,2,1,,9,Fran?ais,male,Master or equivalent
+565,27,2,4,,9,Francais,male,Master or equivalent
+566,31,1,1,,9,Anglais,female,Master or equivalent
+567,20,1,1,,7,Fran?ais,female,Upper secondary education
+568,40,2,1,,9,Francais,male,Master or equivalent
+570,19,2,1,,8,Fran?ais,male,Bachelor or equivalent
+571,20,2,4,,7,Fran?ais ,male,Upper secondary education
+572,21,2,1,,9,Fran?ais,male,Master or equivalent
+573,30,2,1,,9,Fran?ais,male,Master or equivalent
+574,19,2,1,,7,Fran?ais,male,Upper secondary education
+575,23,2,1,,8,Espagnol,male,Bachelor or equivalent
+576,44,1,1,,7,fran?ais,female,Upper secondary education
+577,33,1,3,,9,Bengali,female,Master or equivalent
+578,32,2,1,,9,Fran?ais,male,Master or equivalent
+580,21,2,1,,9,Néerlandais ,male,Master or equivalent
+581,22,1,1,,8,Fran?ais,female,Bachelor or equivalent
+582,19,2,1,,8,Fran?ais ,male,Bachelor or equivalent
+583,48,2,6,Sud américain,8,Espagnol,male,Bachelor or equivalent
+585,28,1,1,,9,Fran?ais,female,Master or equivalent
+586,21,2,1,,9,Fran?ais,male,Master or equivalent
+587,34,2,3,,9,Francais,male,Master or equivalent
+588,38,1,1,,9,Fran?ais,female,Master or equivalent
+589,28,2,1,,9,Fran?ais,male,Master or equivalent
+590,20,2,1,,7,Fran?ais ,male,Upper secondary education
+591,27,1,1,,9,Fran?ais,female,Master or equivalent
+592,26,1,1,,8,Fran?ais,female,Bachelor or equivalent
+594,23,2,1,,9,Francais,male,Master or equivalent
+595,31,1,1,,9,Fran?ais,female,Master or equivalent
+596,40,1,1,,9,Fran?ais,female,Master or equivalent
+597,32,1,1,,9,Hebrew,female,Master or equivalent
+598,23,2,4,,9,Fran?ais ,male,Master or equivalent
+599,32,1,1,,9,Fran?ais,female,Master or equivalent
+600,24,2,1,,9,Hindi,male,Master or equivalent
+601,25,1,1,,9,Fran?ais,female,Master or equivalent

@@ -1,0 +1,595 @@
+,Age,Gender,Race,Race_alternative,Highest education,First language,Gender_label,Race_label,Highest education_label
+0,3,1,1,,8,English,female,White,Master or equivalent
+2,4,2,1,,7,English,male,White,Bachelor or equivalent
+4,3,2,1,,7,English,male,White,Bachelor or equivalent
+5,6,2,1,,7,English,male,White,Bachelor or equivalent
+8,6,2,1,,7,ENGLISH,male,White,Bachelor or equivalent
+9,3,2,1,,7,English,male,White,Bachelor or equivalent
+10,4,2,1,,7,English,male,White,Bachelor or equivalent
+13,4,1,1,,7,English,female,White,Bachelor or equivalent
+18,4,2,1,,7,English,male,White,Bachelor or equivalent
+19,3,2,1,,7,ENGLISH,male,White,Bachelor or equivalent
+21,3,2,1,,4,ENGLISH,male,White,Upper secondary education
+24,4,2,1,,2,ENGLISH,male,White,Primary education
+25,3,1,1,,7,ENGLISH,female,White,Bachelor or equivalent
+26,5,2,1,,7,English,male,White,Bachelor or equivalent
+27,5,1,1,,8,English,female,White,Master or equivalent
+29,3,2,1,,4,ENGLISH,male,White,Upper secondary education
+30,3,2,1,,7,English,male,White,Bachelor or equivalent
+32,5,1,1,,8,english,female,White,Master or equivalent
+33,4,2,1,,4,ENGLISH,male,White,Upper secondary education
+34,6,1,1,,7,english,female,White,Bachelor or equivalent
+35,3,1,1,,7,EN,female,White,Bachelor or equivalent
+36,4,2,1,,7,english,male,White,Bachelor or equivalent
+37,5,1,1,,8,english,female,White,Master or equivalent
+38,4,1,2,,7,English,female,Black,Bachelor or equivalent
+39,3,2,1,,4,ENGLISH,male,White,Upper secondary education
+40,3,1,1,,8,English,female,White,Master or equivalent
+41,2,1,1,,7,English,female,White,Bachelor or equivalent
+42,4,2,1,,4,ENGLISH,male,White,Upper secondary education
+43,4,2,1,,2,ENGLISH,male,White,Primary education
+46,4,2,1,,7,ENGLISH,male,White,Bachelor or equivalent
+47,4,2,2,,7,English,male,Black,Bachelor or equivalent
+48,4,1,2,,7,English,female,Black,Bachelor or equivalent
+49,3,2,1,,4,ENGLISH,male,White,Upper secondary education
+51,4,2,1,,4,ENGLISH,male,White,Upper secondary education
+53,4,2,2,,8,English,male,Black,Master or equivalent
+56,4,2,2,,7,English,male,Black,Bachelor or equivalent
+58,3,1,1,,7,english,female,White,Bachelor or equivalent
+59,3,2,1,,8,English,male,White,Master or equivalent
+60,4,2,1,,4,English,male,White,Upper secondary education
+61,4,2,2,,7,ENGLISH,male,Black,Bachelor or equivalent
+62,3,2,1,,4,ENGLISH,male,White,Upper secondary education
+63,4,1,1,,7,English,female,White,Bachelor or equivalent
+64,5,1,1,,8,english,female,White,Master or equivalent
+66,4,1,2,,7,English,female,Black,Bachelor or equivalent
+69,3,2,1,,8,English,male,White,Master or equivalent
+70,4,2,1,,7,English,male,White,Bachelor or equivalent
+71,5,2,1,,7,englsh,male,White,Bachelor or equivalent
+72,5,2,1,,8,ENGLISH,male,White,Master or equivalent
+76,3,1,1,,7,ENGLISH,female,White,Bachelor or equivalent
+77,3,2,1,,4,ENGLISH,male,White,Upper secondary education
+78,4,2,1,,4,English,male,White,Upper secondary education
+79,4,2,1,,2,ENGLISH,male,White,Primary education
+80,4,1,2,,7,English,female,Black,Bachelor or equivalent
+81,5,1,1,,8,english,female,White,Master or equivalent
+82,3,2,1,,7,ENGLISH,male,White,Bachelor or equivalent
+84,2,2,1,,7,english,male,White,Bachelor or equivalent
+86,4,1,2,,8,English,female,Black,Master or equivalent
+87,4,1,2,,7,English,female,Black,Bachelor or equivalent
+88,4,2,2,,7,English,male,Black,Bachelor or equivalent
+89,3,2,1,,8,ENGLISH,male,White,Master or equivalent
+92,4,2,2,,7,English,male,Black,Bachelor or equivalent
+93,3,1,1,,7,ENGLISH,female,White,Bachelor or equivalent
+94,3,2,1,,7,English,male,White,Bachelor or equivalent
+95,4,1,1,,7,English,female,White,Bachelor or equivalent
+96,5,2,1,,7,English,male,White,Bachelor or equivalent
+97,3,2,1,,4,English,male,White,Upper secondary education
+98,4,2,1,,5,english,male,White,Post-secondary non-tertiary education
+99,3,2,1,,7,English,male,White,Bachelor or equivalent
+100,3,2,1,,7,English,male,White,Bachelor or equivalent
+101,3,1,3,,9,English,female,"South Asian Indian, Pakistani, etc.",Doctoral or equivalent
+102,3,2,1,,5,English,male,White,Post-secondary non-tertiary education
+103,4,2,2,,8,English,male,Black,Master or equivalent
+104,3,2,1,,7,English,male,White,Bachelor or equivalent
+106,4,1,1,,7,English,female,White,Bachelor or equivalent
+107,3,1,6,Mixed White and Black African,8,English,female,Other (write in),Master or equivalent
+108,4,2,1,,7,English,male,White,Bachelor or equivalent
+109,3,2,1,,8,English,male,White,Master or equivalent
+110,3,2,1,,7,English,male,White,Bachelor or equivalent
+111,3,2,3,,7,English,male,"South Asian Indian, Pakistani, etc.",Bachelor or equivalent
+112,2,2,1,,7,English,male,White,Bachelor or equivalent
+113,3,2,1,,8,English,male,White,Master or equivalent
+114,2,2,1,,5,English,male,White,Post-secondary non-tertiary education
+115,3,2,1,,7,English,male,White,Bachelor or equivalent
+116,3,2,3,,7,English,male,"South Asian Indian, Pakistani, etc.",Bachelor or equivalent
+117,3,1,3,,6,English,female,"South Asian Indian, Pakistani, etc.",Short-cycle tertiary education
+118,4,1,1,,7,English,female,White,Bachelor or equivalent
+119,3,2,1,,8,English,male,White,Master or equivalent
+120,3,1,1,,6,English,female,White,Short-cycle tertiary education
+121,4,2,1,,8,English,male,White,Master or equivalent
+122,6,2,1,,6,English,male,White,Short-cycle tertiary education
+123,4,2,1,,6,English,male,White,Short-cycle tertiary education
+124,2,2,1,,6,English,male,White,Short-cycle tertiary education
+125,5,1,1,,7,English,female,White,Bachelor or equivalent
+126,7,1,1,,8,English,female,White,Master or equivalent
+127,4,2,2,,8,English,male,Black,Master or equivalent
+128,3,2,3,,8,English,male,"South Asian Indian, Pakistani, etc.",Master or equivalent
+129,4,2,1,,7,English,male,White,Bachelor or equivalent
+130,4,1,2,,7,English,female,Black,Bachelor or equivalent
+131,2,1,1,,5,English,female,White,Post-secondary non-tertiary education
+132,2,2,1,,4,English,male,White,Upper secondary education
+133,4,2,1,,5,English ,male,White,Post-secondary non-tertiary education
+134,4,2,1,,6,English,male,White,Short-cycle tertiary education
+135,4,2,1,,7,English,male,White,Bachelor or equivalent
+136,4,2,1,,4,English,male,White,Upper secondary education
+137,3,1,3,,8,English ,female,"South Asian Indian, Pakistani, etc.",Master or equivalent
+138,3,1,4,,9,English,female,"East Asian Chinese, Japanese, etc.",Doctoral or equivalent
+139,2,2,1,,7,English,male,White,Bachelor or equivalent
+140,4,2,1,,7,English,male,White,Bachelor or equivalent
+141,4,2,1,,7,English,male,White,Bachelor or equivalent
+142,6,1,1,,4,English,female,White,Upper secondary education
+143,4,1,1,,7,english,female,White,Bachelor or equivalent
+144,4,1,1,,8,English,female,White,Master or equivalent
+145,3,1,1,,5,English,female,White,Post-secondary non-tertiary education
+146,3,2,1,,5,English,male,White,Post-secondary non-tertiary education
+147,4,2,1,,7,English,male,White,Bachelor or equivalent
+148,3,1,1,,8,English,female,White,Master or equivalent
+149,3,1,1,,8,English,female,White,Master or equivalent
+150,4,2,1,,7,English,male,White,Bachelor or equivalent
+151,3,1,6,mixed,7,english,female,Other (write in),Bachelor or equivalent
+152,5,1,1,,8,English,female,White,Master or equivalent
+153,4,2,1,,6,english,male,White,Short-cycle tertiary education
+154,3,2,1,,4,English,male,White,Upper secondary education
+155,4,1,1,,6,English,female,White,Short-cycle tertiary education
+156,3,1,1,,7,English,female,White,Bachelor or equivalent
+157,3,1,1,,7,English,female,White,Bachelor or equivalent
+158,5,2,1,,8,English,male,White,Master or equivalent
+159,5,1,1,,7,English,female,White,Bachelor or equivalent
+160,4,2,2,,7,English,male,Black,Bachelor or equivalent
+161,4,1,1,,7,English,female,White,Bachelor or equivalent
+162,3,2,1,,8,English,male,White,Master or equivalent
+163,3,2,1,,7,English ,male,White,Bachelor or equivalent
+164,2,1,1,,5,English,female,White,Post-secondary non-tertiary education
+165,3,1,1,,7,english,female,White,Bachelor or equivalent
+166,2,2,1,,8,English,male,White,Master or equivalent
+167,2,2,1,,5,English,male,White,Post-secondary non-tertiary education
+168,3,2,1,,8,English,male,White,Master or equivalent
+169,5,1,2,,8,English,female,Black,Master or equivalent
+170,3,2,1,,4,English,male,White,Upper secondary education
+171,3,1,1,,7,English,female,White,Bachelor or equivalent
+172,3,1,1,,7,English,female,White,Bachelor or equivalent
+173,3,2,4,,7,English,male,"East Asian Chinese, Japanese, etc.",Bachelor or equivalent
+174,3,2,1,,7,British English,male,White,Bachelor or equivalent
+175,5,2,1,,8,English,male,White,Master or equivalent
+176,3,1,1,,7,English,female,White,Bachelor or equivalent
+177,3,2,1,,7,English,male,White,Bachelor or equivalent
+178,5,2,1,,8,English,male,White,Master or equivalent
+179,4,1,1,,8,English,female,White,Master or equivalent
+180,4,1,1,,7,English,female,White,Bachelor or equivalent
+181,2,2,1,,7,English,male,White,Bachelor or equivalent
+182,3,1,3,,6,English,female,"South Asian Indian, Pakistani, etc.",Short-cycle tertiary education
+183,2,1,2,,7,English,female,Black,Bachelor or equivalent
+184,2,2,1,,7,English,male,White,Bachelor or equivalent
+185,3,2,6,"mixed race, if you study your own ancestry you will find out most of UK is actually mixed, just like american.",5,english and portuguese,male,Other (write in),Post-secondary non-tertiary education
+186,5,2,1,,5,English,male,White,Post-secondary non-tertiary education
+187,3,1,2,,8,English,female,Black,Master or equivalent
+188,3,2,1,,7,English,male,White,Bachelor or equivalent
+189,4,1,1,,4,english,female,White,Upper secondary education
+190,4,1,1,,7,English,female,White,Bachelor or equivalent
+191,3,2,1,,5,English,male,White,Post-secondary non-tertiary education
+192,2,2,1,,5,English ,male,White,Post-secondary non-tertiary education
+193,4,2,3,,8,English,male,"South Asian Indian, Pakistani, etc.",Master or equivalent
+194,4,1,1,,4,English,female,White,Upper secondary education
+195,4,2,1,,7,ENGLISH,male,White,Bachelor or equivalent
+196,6,2,1,,6,English,male,White,Short-cycle tertiary education
+197,4,2,1,,8,English ,male,White,Master or equivalent
+199,3,1,1,,5,English,female,White,Post-secondary non-tertiary education
+200,3,1,5,,5,English,female,"Arabic, Central Asian",Post-secondary non-tertiary education
+201,4,2,1,,7,English,male,White,Bachelor or equivalent
+202,4,2,2,,7,English,male,Black,Bachelor or equivalent
+204,4,1,1,,7,English,female,White,Bachelor or equivalent
+205,4,1,3,,7,Bengali/English,female,"South Asian Indian, Pakistani, etc.",Bachelor or equivalent
+206,4,1,3,,7,English/Bengali,female,"South Asian Indian, Pakistani, etc.",Bachelor or equivalent
+207,6,1,1,,8,English,female,White,Master or equivalent
+208,3,1,1,,5,English,female,White,Post-secondary non-tertiary education
+209,7,2,1,,6,english,male,White,Short-cycle tertiary education
+210,4,1,1,,8,English,female,White,Master or equivalent
+212,6,2,1,,4,english,male,White,Upper secondary education
+213,2,1,1,,5,English,female,White,Post-secondary non-tertiary education
+214,6,1,1,,7,English,female,White,Bachelor or equivalent
+215,4,1,1,,7,English,female,White,Bachelor or equivalent
+216,7,1,1,,4,English,female,White,Upper secondary education
+217,5,2,1,,4,English,male,White,Upper secondary education
+218,3,1,1,,7,ENGLISH,female,White,Bachelor or equivalent
+219,3,1,1,,7,English ,female,White,Bachelor or equivalent
+220,3,1,1,,5,english,female,White,Post-secondary non-tertiary education
+221,5,1,1,,7,english,female,White,Bachelor or equivalent
+222,4,1,1,,4,English,female,White,Upper secondary education
+223,5,1,1,,9,English,female,White,Doctoral or equivalent
+224,5,1,1,,9,english,female,White,Doctoral or equivalent
+225,6,1,1,,7,English ,female,White,Bachelor or equivalent
+226,5,2,1,,7,ENGLISH,male,White,Bachelor or equivalent
+228,2,1,1,,7,English,female,White,Bachelor or equivalent
+229,5,1,1,,4,English,female,White,Upper secondary education
+230,5,1,1,,7,English,female,White,Bachelor or equivalent
+231,3,2,1,,4,English,male,White,Upper secondary education
+232,3,1,1,,7,English,female,White,Bachelor or equivalent
+233,5,1,1,,4,english,female,White,Upper secondary education
+234,3,1,1,,7,English,female,White,Bachelor or equivalent
+235,6,1,1,,4,English,female,White,Upper secondary education
+236,5,1,1,,5,English,female,White,Post-secondary non-tertiary education
+237,6,1,1,,7,English,female,White,Bachelor or equivalent
+238,5,1,1,,4,English,female,White,Upper secondary education
+239,7,1,1,,7,English,female,White,Bachelor or equivalent
+240,4,2,2,,7,English,male,Black,Bachelor or equivalent
+241,3,2,1,,5,english,male,White,Post-secondary non-tertiary education
+242,4,1,1,,5,English,female,White,Post-secondary non-tertiary education
+243,3,1,1,,7,english,female,White,Bachelor or equivalent
+244,6,1,1,,9,English,female,White,Doctoral or equivalent
+245,4,1,1,,5,English ,female,White,Post-secondary non-tertiary education
+246,4,2,1,,5,English,male,White,Post-secondary non-tertiary education
+247,5,1,1,,7,English,female,White,Bachelor or equivalent
+248,3,1,1,,7,English,female,White,Bachelor or equivalent
+249,4,1,4,,8,English,female,"East Asian Chinese, Japanese, etc.",Master or equivalent
+250,4,2,1,,7,English,male,White,Bachelor or equivalent
+251,4,2,1,,7,ENGLISH,male,White,Bachelor or equivalent
+253,3,1,1,,8,English,female,White,Master or equivalent
+254,4,1,2,,7,English,female,Black,Bachelor or equivalent
+255,5,1,1,,7,English,female,White,Bachelor or equivalent
+256,3,1,1,,4,English,female,White,Upper secondary education
+257,3,1,1,,8,English,female,White,Master or equivalent
+258,4,1,1,,7,English,female,White,Bachelor or equivalent
+259,3,1,1,,3,English,female,White,Lower secondary education
+260,5,1,1,,8,English,female,White,Master or equivalent
+261,3,1,1,,6,English,female,White,Short-cycle tertiary education
+262,3,2,1,,7,English,male,White,Bachelor or equivalent
+263,6,1,1,,7,english,female,White,Bachelor or equivalent
+264,4,2,1,,7,English,male,White,Bachelor or equivalent
+265,6,1,1,,5,English,female,White,Post-secondary non-tertiary education
+266,4,1,1,,4,English,female,White,Upper secondary education
+267,4,1,1,,5,English ,female,White,Post-secondary non-tertiary education
+268,2,1,1,,4,English,female,White,Upper secondary education
+269,2,1,1,,7,English,female,White,Bachelor or equivalent
+270,5,2,1,,3,English,male,White,Lower secondary education
+271,3,1,1,,7,English ,female,White,Bachelor or equivalent
+272,4,1,1,,8,English,female,White,Master or equivalent
+273,3,1,1,,4,English,female,White,Upper secondary education
+274,7,2,1,,7,English,male,White,Bachelor or equivalent
+275,5,1,1,,5,English ,female,White,Post-secondary non-tertiary education
+276,4,2,6,Mixed White and Mauritian,7,English,male,Other (write in),Bachelor or equivalent
+277,3,1,1,,7,English,female,White,Bachelor or equivalent
+278,4,1,1,,7,English,female,White,Bachelor or equivalent
+279,6,2,1,,8,English,male,White,Master or equivalent
+280,4,1,1,,8,English,female,White,Master or equivalent
+281,6,2,1,,7,English ,male,White,Bachelor or equivalent
+282,2,1,1,,7,english,female,White,Bachelor or equivalent
+283,2,1,1,,5,English,female,White,Post-secondary non-tertiary education
+284,3,1,1,,4,English ,female,White,Upper secondary education
+285,3,1,1,,7,English,female,White,Bachelor or equivalent
+286,4,1,1,,7,English,female,White,Bachelor or equivalent
+287,7,1,1,,4,English,female,White,Upper secondary education
+288,3,1,1,,4,English,female,White,Upper secondary education
+289,2,1,1,,5,English,female,White,Post-secondary non-tertiary education
+290,2,1,1,,7,English,female,White,Bachelor or equivalent
+291,3,1,1,,5,English ,female,White,Post-secondary non-tertiary education
+292,4,1,1,,4,English,female,White,Upper secondary education
+293,3,1,1,,5,English,female,White,Post-secondary non-tertiary education
+294,2,1,1,,7,English ,female,White,Bachelor or equivalent
+295,3,1,1,,7,english,female,White,Bachelor or equivalent
+296,5,2,1,,5,English ,male,White,Post-secondary non-tertiary education
+297,4,1,1,,7,English ,female,White,Bachelor or equivalent
+298,3,1,1,,7,English,female,White,Bachelor or equivalent
+299,3,1,1,,8,English,female,White,Master or equivalent
+300,5,1,1,,7,English,female,White,Bachelor or equivalent
+301,3,2,1,,6,English,male,White,Short-cycle tertiary education
+302,4,1,1,,5,English,female,White,Post-secondary non-tertiary education
+303,3,1,1,,8,English,female,White,Master or equivalent
+304,2,1,1,,7,English,female,White,Bachelor or equivalent
+305,4,1,3,,5,English,female,"South Asian Indian, Pakistani, etc.",Post-secondary non-tertiary education
+306,4,1,1,,7,English,female,White,Bachelor or equivalent
+307,4,1,1,,7,english ,female,White,Bachelor or equivalent
+308,4,1,1,,7,English,female,White,Bachelor or equivalent
+309,4,1,1,,8,English,female,White,Master or equivalent
+310,3,1,1,,7,English,female,White,Bachelor or equivalent
+311,3,1,1,,5,English ,female,White,Post-secondary non-tertiary education
+312,3,1,1,,7,English ,female,White,Bachelor or equivalent
+313,4,1,1,,7,English ,female,White,Bachelor or equivalent
+314,3,1,3,,8,English,female,"South Asian Indian, Pakistani, etc.",Master or equivalent
+315,5,1,1,,7,English,female,White,Bachelor or equivalent
+316,4,1,1,,4,English,female,White,Upper secondary education
+317,3,1,1,,7,English ,female,White,Bachelor or equivalent
+318,4,1,1,,7,English,female,White,Bachelor or equivalent
+319,7,1,1,,8,English,female,White,Master or equivalent
+320,4,1,1,,8,English,female,White,Master or equivalent
+321,2,1,1,,7,English,female,White,Bachelor or equivalent
+322,4,1,1,,8,English,female,White,Master or equivalent
+323,2,2,1,,5,English,male,White,Post-secondary non-tertiary education
+324,4,1,1,,3,English,female,White,Lower secondary education
+326,3,1,1,,5,English,female,White,Post-secondary non-tertiary education
+327,3,1,1,,8,English,female,White,Master or equivalent
+328,4,1,1,,5,English ,female,White,Post-secondary non-tertiary education
+329,3,1,1,,6,English,female,White,Short-cycle tertiary education
+330,3,1,1,,4,English,female,White,Upper secondary education
+331,4,1,1,,8,English ,female,White,Master or equivalent
+332,3,1,3,,7,English,female,"South Asian Indian, Pakistani, etc.",Bachelor or equivalent
+333,3,1,1,,4,English,female,White,Upper secondary education
+335,4,1,1,,8,English,female,White,Master or equivalent
+336,4,1,1,,5,English,female,White,Post-secondary non-tertiary education
+337,5,1,1,,7,English,female,White,Bachelor or equivalent
+338,2,2,1,,5,English ,male,White,Post-secondary non-tertiary education
+339,3,1,1,,7,English,female,White,Bachelor or equivalent
+340,3,2,1,,5,English,male,White,Post-secondary non-tertiary education
+341,3,2,1,,7,English,male,White,Bachelor or equivalent
+342,3,1,1,,7,English,female,White,Bachelor or equivalent
+343,2,2,1,,7,English,male,White,Bachelor or equivalent
+344,4,1,1,,7,English,female,White,Bachelor or equivalent
+345,4,1,1,,7,English,female,White,Bachelor or equivalent
+346,4,1,1,,7,English ,female,White,Bachelor or equivalent
+347,4,1,1,,6,English,female,White,Short-cycle tertiary education
+348,3,1,1,,8,English,female,White,Master or equivalent
+349,3,1,1,,6,English,female,White,Short-cycle tertiary education
+350,5,1,1,,4,English,female,White,Upper secondary education
+351,5,1,1,,5,English ,female,White,Post-secondary non-tertiary education
+352,3,1,1,,7,English,female,White,Bachelor or equivalent
+353,3,1,1,,7,English,female,White,Bachelor or equivalent
+354,5,1,1,,8,English,female,White,Master or equivalent
+355,3,1,1,,7,English,female,White,Bachelor or equivalent
+356,6,1,1,,7,English,female,White,Bachelor or equivalent
+357,5,1,1,,7,English,female,White,Bachelor or equivalent
+358,2,2,1,,4,English ,male,White,Upper secondary education
+359,4,1,1,,4,english,female,White,Upper secondary education
+360,5,1,1,,8,English,female,White,Master or equivalent
+361,2,1,1,,8,English ,female,White,Master or equivalent
+362,3,2,1,,6,English,male,White,Short-cycle tertiary education
+363,4,1,1,,7,English,female,White,Bachelor or equivalent
+364,5,2,1,,7,ENGLISH,male,White,Bachelor or equivalent
+365,5,1,1,,4,English,female,White,Upper secondary education
+366,2,1,4,,6,English,female,"East Asian Chinese, Japanese, etc.",Short-cycle tertiary education
+367,3,1,1,,7,English,female,White,Bachelor or equivalent
+368,4,1,4,,8,English,female,"East Asian Chinese, Japanese, etc.",Master or equivalent
+369,5,1,1,,4,English,female,White,Upper secondary education
+370,3,1,1,,7,English,female,White,Bachelor or equivalent
+371,2,2,1,,5,English,male,White,Post-secondary non-tertiary education
+372,4,1,1,,5,English,female,White,Post-secondary non-tertiary education
+373,3,1,3,,8,english,female,"South Asian Indian, Pakistani, etc.",Master or equivalent
+374,4,1,1,,5,English,female,White,Post-secondary non-tertiary education
+375,3,1,1,,4,English,female,White,Upper secondary education
+376,5,1,1,,4,English,female,White,Upper secondary education
+377,4,1,1,,7,English,female,White,Bachelor or equivalent
+378,2,1,1,,7,English,female,White,Bachelor or equivalent
+379,6,1,1,,5,English,female,White,Post-secondary non-tertiary education
+380,4,1,1,,8,english,female,White,Master or equivalent
+381,3,1,2,,8,English,female,Black,Master or equivalent
+382,2,1,1,,7,English,female,White,Bachelor or equivalent
+383,3,1,1,,9,english,female,White,Doctoral or equivalent
+384,3,1,1,,8,English,female,White,Master or equivalent
+385,3,1,1,,9,English,female,White,Doctoral or equivalent
+386,7,1,1,,7,English,female,White,Bachelor or equivalent
+387,3,1,1,,7,English,female,White,Bachelor or equivalent
+388,3,1,1,,7,English,female,White,Bachelor or equivalent
+389,5,2,2,,7,English ,male,Black,Bachelor or equivalent
+390,4,1,1,,7,English ,female,White,Bachelor or equivalent
+391,3,1,1,,9,English ,female,White,Doctoral or equivalent
+392,2,1,1,,7,english,female,White,Bachelor or equivalent
+393,4,2,1,,7,English,male,White,Bachelor or equivalent
+394,3,1,1,,4,English,female,White,Upper secondary education
+395,5,1,1,,6,English ,female,White,Short-cycle tertiary education
+396,4,1,1,,7,English,female,White,Bachelor or equivalent
+397,4,1,1,,4,English ,female,White,Upper secondary education
+398,3,1,1,,7,English,female,White,Bachelor or equivalent
+399,4,2,1,,6,english,male,White,Short-cycle tertiary education
+400,4,2,1,,7,English,male,White,Bachelor or equivalent
+401,4,2,1,,5,English,male,White,Post-secondary non-tertiary education
+402,5,1,1,,5,English,female,White,Post-secondary non-tertiary education
+403,3,2,1,,7,English,male,White,Bachelor or equivalent
+404,3,1,1,,7,English,female,White,Bachelor or equivalent
+405,5,2,1,,6,English,male,White,Short-cycle tertiary education
+406,3,2,1,,5,English,male,White,Post-secondary non-tertiary education
+407,4,2,1,,6,english,male,White,Short-cycle tertiary education
+408,4,1,1,,8,English,female,White,Master or equivalent
+409,2,1,1,,7,english,female,White,Bachelor or equivalent
+410,2,2,1,,5,English,male,White,Post-secondary non-tertiary education
+411,5,1,1,,6,English,female,White,Short-cycle tertiary education
+412,4,1,5,,8,English,female,"Arabic, Central Asian",Master or equivalent
+413,4,2,1,,7,English,male,White,Bachelor or equivalent
+414,4,2,1,,5,English,male,White,Post-secondary non-tertiary education
+416,4,2,1,,5,english,male,White,Post-secondary non-tertiary education
+417,3,1,1,,7,English,female,White,Bachelor or equivalent
+418,3,2,1,,8,English,male,White,Master or equivalent
+419,4,2,1,,5,English,male,White,Post-secondary non-tertiary education
+420,2,2,3,,7,English,male,"South Asian Indian, Pakistani, etc.",Bachelor or equivalent
+421,5,1,3,,8,english,female,"South Asian Indian, Pakistani, etc.",Master or equivalent
+422,3,2,1,,5,English ,male,White,Post-secondary non-tertiary education
+423,4,2,1,,6,English,male,White,Short-cycle tertiary education
+424,6,2,1,,3,English,male,White,Lower secondary education
+425,3,2,1,,8,English,male,White,Master or equivalent
+426,5,2,3,,7,english,male,"South Asian Indian, Pakistani, etc.",Bachelor or equivalent
+427,4,2,1,,7,English,male,White,Bachelor or equivalent
+428,2,1,1,,7,English,female,White,Bachelor or equivalent
+429,6,1,1,,7,English,female,White,Bachelor or equivalent
+430,4,1,2,,7,english,female,Black,Bachelor or equivalent
+431,2,1,4,,4,Englsih,female,"East Asian Chinese, Japanese, etc.",Upper secondary education
+432,3,1,1,,8,English ,female,White,Master or equivalent
+433,5,1,1,,5,English ,female,White,Post-secondary non-tertiary education
+434,3,1,1,,7,English,female,White,Bachelor or equivalent
+435,5,1,1,,7,English,female,White,Bachelor or equivalent
+436,4,1,1,,7,english,female,White,Bachelor or equivalent
+437,3,1,1,,7,English,female,White,Bachelor or equivalent
+438,6,1,1,,4,English,female,White,Upper secondary education
+439,7,1,1,,5,english,female,White,Post-secondary non-tertiary education
+440,7,1,1,,7,English,female,White,Bachelor or equivalent
+441,3,1,1,,7,English ,female,White,Bachelor or equivalent
+442,3,2,1,,7,English,male,White,Bachelor or equivalent
+443,6,1,1,,7,English ,female,White,Bachelor or equivalent
+444,6,1,1,,7,English,female,White,Bachelor or equivalent
+445,5,1,2,,8,english,female,Black,Master or equivalent
+446,5,2,1,,5,English,male,White,Post-secondary non-tertiary education
+447,5,1,1,,4,English ,female,White,Upper secondary education
+448,6,2,2,,4,english,male,Black,Upper secondary education
+449,3,1,1,,3,English,female,White,Lower secondary education
+450,4,1,6,Latina ,4,English ,female,Other (write in),Upper secondary education
+451,4,1,1,,7,English ,female,White,Bachelor or equivalent
+452,3,1,1,,7,English ,female,White,Bachelor or equivalent
+453,4,1,1,,7,English,female,White,Bachelor or equivalent
+454,6,1,1,,5,English ,female,White,Post-secondary non-tertiary education
+455,5,1,1,,3,english,female,White,Lower secondary education
+457,3,1,1,,4,English ,female,White,Upper secondary education
+458,4,1,1,,7,English,female,White,Bachelor or equivalent
+459,5,1,1,,6,English,female,White,Short-cycle tertiary education
+460,3,1,1,,7,English,female,White,Bachelor or equivalent
+461,2,1,1,,6,English,female,White,Short-cycle tertiary education
+462,5,1,1,,5,english,female,White,Post-secondary non-tertiary education
+463,6,2,1,,5,English,male,White,Post-secondary non-tertiary education
+464,6,1,1,,4,English,female,White,Upper secondary education
+465,3,1,1,,5,English,female,White,Post-secondary non-tertiary education
+466,3,1,1,,7,English,female,White,Bachelor or equivalent
+467,5,1,1,,5,English,female,White,Post-secondary non-tertiary education
+468,4,1,1,,7,English,female,White,Bachelor or equivalent
+469,4,1,1,,7,ENGLISH,female,White,Bachelor or equivalent
+470,8,1,1,,7,English,female,White,Bachelor or equivalent
+471,4,1,1,,4,English,female,White,Upper secondary education
+472,5,1,1,,7,English,female,White,Bachelor or equivalent
+473,3,1,1,,7,English,female,White,Bachelor or equivalent
+474,3,1,1,,7,English,female,White,Bachelor or equivalent
+475,5,1,1,,7,english,female,White,Bachelor or equivalent
+476,3,1,6,White and black Caribbean ,4,English,female,Other (write in),Upper secondary education
+477,7,1,1,,9,English,female,White,Doctoral or equivalent
+478,7,2,1,,7,English ,male,White,Bachelor or equivalent
+479,5,1,1,,7,English,female,White,Bachelor or equivalent
+480,7,1,1,,4,English,female,White,Upper secondary education
+481,6,1,1,,4,English ,female,White,Upper secondary education
+482,4,1,1,,5,english,female,White,Post-secondary non-tertiary education
+483,5,1,1,,7,english,female,White,Bachelor or equivalent
+484,3,2,1,,5,English,male,White,Post-secondary non-tertiary education
+485,4,1,1,,7,english,female,White,Bachelor or equivalent
+486,4,1,1,,8,English,female,White,Master or equivalent
+487,6,2,1,,7,English,male,White,Bachelor or equivalent
+488,2,1,1,,8,English,female,White,Master or equivalent
+489,3,1,1,,5,english,female,White,Post-secondary non-tertiary education
+490,5,1,1,,7,English,female,White,Bachelor or equivalent
+491,4,1,1,,5,English,female,White,Post-secondary non-tertiary education
+492,4,2,1,,7,English,male,White,Bachelor or equivalent
+493,5,1,1,,7,English ,female,White,Bachelor or equivalent
+494,4,1,1,,7,English,female,White,Bachelor or equivalent
+495,4,1,1,,6,English ,female,White,Short-cycle tertiary education
+496,4,1,1,,4,English ,female,White,Upper secondary education
+497,5,1,1,,7,English,female,White,Bachelor or equivalent
+498,5,1,3,,5,english,female,"South Asian Indian, Pakistani, etc.",Post-secondary non-tertiary education
+499,2,1,3,,7,English ,female,"South Asian Indian, Pakistani, etc.",Bachelor or equivalent
+500,6,2,1,,7,english,male,White,Bachelor or equivalent
+501,5,1,2,,7,english,female,Black,Bachelor or equivalent
+503,4,1,1,,7,English,female,White,Bachelor or equivalent
+504,5,1,1,,7,English ,female,White,Bachelor or equivalent
+505,6,1,1,,7,English,female,White,Bachelor or equivalent
+506,4,1,1,,7,English,female,White,Bachelor or equivalent
+507,5,1,1,,8,English,female,White,Master or equivalent
+508,6,1,1,,5,English,female,White,Post-secondary non-tertiary education
+509,3,1,1,,7,English,female,White,Bachelor or equivalent
+510,3,1,1,,5,english,female,White,Post-secondary non-tertiary education
+511,4,2,1,,7,English ,male,White,Bachelor or equivalent
+512,4,1,1,,8,English ,female,White,Master or equivalent
+513,3,2,2,,8,English,male,Black,Master or equivalent
+514,5,1,4,,7,English,female,"East Asian Chinese, Japanese, etc.",Bachelor or equivalent
+515,2,1,1,,8,English,female,White,Master or equivalent
+516,2,1,1,,7,English,female,White,Bachelor or equivalent
+517,4,1,3,,4,English,female,"South Asian Indian, Pakistani, etc.",Upper secondary education
+518,2,1,1,,7,English,female,White,Bachelor or equivalent
+519,4,1,1,,7,English ,female,White,Bachelor or equivalent
+520,3,1,1,,7,english,female,White,Bachelor or equivalent
+521,5,1,1,,6,English,female,White,Short-cycle tertiary education
+522,4,1,1,,5,english,female,White,Post-secondary non-tertiary education
+523,3,2,3,,8,english,male,"South Asian Indian, Pakistani, etc.",Master or equivalent
+524,3,1,4,,9,english,female,"East Asian Chinese, Japanese, etc.",Doctoral or equivalent
+525,3,1,1,,7,English,female,White,Bachelor or equivalent
+526,2,1,1,,6,English,female,White,Short-cycle tertiary education
+527,4,1,1,,7,English,female,White,Bachelor or equivalent
+528,4,1,1,,7,English,female,White,Bachelor or equivalent
+529,6,1,1,,7,English,female,White,Bachelor or equivalent
+530,4,1,1,,8,English,female,White,Master or equivalent
+531,4,2,1,,7,English,male,White,Bachelor or equivalent
+532,2,1,1,,7,english,female,White,Bachelor or equivalent
+533,2,2,1,,7,english,male,White,Bachelor or equivalent
+534,3,1,1,,5,English ,female,White,Post-secondary non-tertiary education
+535,3,1,1,,7,english,female,White,Bachelor or equivalent
+536,3,1,1,,7,English ,female,White,Bachelor or equivalent
+537,4,1,1,,4,English,female,White,Upper secondary education
+538,2,1,1,,8,english,female,White,Master or equivalent
+539,3,1,1,,5,English ,female,White,Post-secondary non-tertiary education
+540,6,1,1,,7,English,female,White,Bachelor or equivalent
+541,4,1,1,,6,English,female,White,Short-cycle tertiary education
+542,3,1,1,,4,English,female,White,Upper secondary education
+543,5,2,1,,4,English,male,White,Upper secondary education
+544,3,2,1,,7,English,male,White,Bachelor or equivalent
+545,5,1,4,,4,English ,female,"East Asian Chinese, Japanese, etc.",Upper secondary education
+546,4,2,1,,7,English,male,White,Bachelor or equivalent
+547,2,1,1,,7,English,female,White,Bachelor or equivalent
+548,2,1,1,,5,english,female,White,Post-secondary non-tertiary education
+549,3,1,1,,4,English,female,White,Upper secondary education
+550,4,1,1,,7,English ,female,White,Bachelor or equivalent
+552,4,2,1,,4,English,male,White,Upper secondary education
+553,2,1,1,,7,English,female,White,Bachelor or equivalent
+554,6,2,1,,6,English,male,White,Short-cycle tertiary education
+555,3,1,1,,5,English,female,White,Post-secondary non-tertiary education
+556,4,1,2,,8,English,female,Black,Master or equivalent
+557,4,1,1,,7,English,female,White,Bachelor or equivalent
+558,4,1,1,,9,English,female,White,Doctoral or equivalent
+559,3,1,1,,7,English,female,White,Bachelor or equivalent
+560,7,2,1,,4,English,male,White,Upper secondary education
+561,5,1,1,,7,English ,female,White,Bachelor or equivalent
+562,3,1,1,,7,English,female,White,Bachelor or equivalent
+563,4,1,1,,7,English ,female,White,Bachelor or equivalent
+564,2,1,1,,4,English,female,White,Upper secondary education
+565,2,2,1,,5,English,male,White,Post-secondary non-tertiary education
+566,4,2,1,,7,English,male,White,Bachelor or equivalent
+567,4,1,4,,7,English,female,"East Asian Chinese, Japanese, etc.",Bachelor or equivalent
+569,2,1,1,,5,English,female,White,Post-secondary non-tertiary education
+570,3,1,1,,7,English ,female,White,Bachelor or equivalent
+571,4,1,1,,8,English ,female,White,Master or equivalent
+572,3,2,1,,6,english,male,White,Short-cycle tertiary education
+573,6,1,1,,8,English,female,White,Master or equivalent
+574,5,1,1,,8,english,female,White,Master or equivalent
+575,3,2,1,,7,English,male,White,Bachelor or equivalent
+576,2,1,1,,4,English,female,White,Upper secondary education
+577,4,1,1,,7,English,female,White,Bachelor or equivalent
+578,2,1,1,,7,English,female,White,Bachelor or equivalent
+579,3,2,1,,7,English ,male,White,Bachelor or equivalent
+580,5,1,1,,3,English ,female,White,Lower secondary education
+581,3,1,3,,8,English,female,"South Asian Indian, Pakistani, etc.",Master or equivalent
+582,3,1,1,,7,English,female,White,Bachelor or equivalent
+583,6,1,1,,6,English,female,White,Short-cycle tertiary education
+584,5,1,1,,6,English,female,White,Short-cycle tertiary education
+585,6,1,1,,8,English ,female,White,Master or equivalent
+586,3,1,4,,8,english,female,"East Asian Chinese, Japanese, etc.",Master or equivalent
+587,4,1,1,,7,English,female,White,Bachelor or equivalent
+588,3,1,1,,5,English ,female,White,Post-secondary non-tertiary education
+589,6,2,1,,4,English ,male,White,Upper secondary education
+590,5,1,1,,8,English,female,White,Master or equivalent
+591,2,1,1,,4,English ,female,White,Upper secondary education
+592,2,1,1,,7,english,female,White,Bachelor or equivalent
+594,2,1,1,,6,English,female,White,Short-cycle tertiary education
+595,5,1,1,,8,english,female,White,Master or equivalent
+596,6,1,1,,7,English ,female,White,Bachelor or equivalent
+597,2,1,3,,7,English ,female,"South Asian Indian, Pakistani, etc.",Bachelor or equivalent
+598,3,1,1,,5,english,female,White,Post-secondary non-tertiary education
+599,2,1,2,,5,English,female,Black,Post-secondary non-tertiary education
+600,5,1,4,,8,english,female,"East Asian Chinese, Japanese, etc.",Master or equivalent
+601,7,1,1,,8,English,female,White,Master or equivalent
+602,3,2,1,,4,English ,male,White,Upper secondary education
+603,2,1,3,,4,english,female,"South Asian Indian, Pakistani, etc.",Upper secondary education
+604,3,2,1,,5,English ,male,White,Post-secondary non-tertiary education
+605,4,1,1,,7,English,female,White,Bachelor or equivalent
+606,4,1,1,,4,ENglish,female,White,Upper secondary education
+607,4,1,1,,7,English,female,White,Bachelor or equivalent
+609,3,1,1,,4,English,female,White,Upper secondary education
+610,3,1,1,,7,English,female,White,Bachelor or equivalent
+611,4,1,1,,7,English,female,White,Bachelor or equivalent
+612,4,1,1,,6,English ,female,White,Short-cycle tertiary education
+613,3,1,1,,5,English ,female,White,Post-secondary non-tertiary education
+614,5,1,1,,4,English ,female,White,Upper secondary education
+615,3,1,1,,7,English,female,White,Bachelor or equivalent
+616,4,1,1,,6,English,female,White,Short-cycle tertiary education
+617,5,1,1,,8,English,female,White,Master or equivalent
+618,3,1,2,,7,English ,female,Black,Bachelor or equivalent
+619,3,1,3,,7,English,female,"South Asian Indian, Pakistani, etc.",Bachelor or equivalent
+620,5,2,1,,7,English ,male,White,Bachelor or equivalent
+621,3,2,1,,5,English,male,White,Post-secondary non-tertiary education
+622,5,1,1,,5,English ,female,White,Post-secondary non-tertiary education
+623,4,1,1,,7,English ,female,White,Bachelor or equivalent
+624,3,1,3,,4,English ,female,"South Asian Indian, Pakistani, etc.",Upper secondary education
+625,4,1,1,,7,English,female,White,Bachelor or equivalent
+626,6,2,1,,3,English,male,White,Lower secondary education
+627,4,1,1,,5,English ,female,White,Post-secondary non-tertiary education
+628,4,1,1,,4,English,female,White,Upper secondary education
+629,3,1,1,,3,English,female,White,Lower secondary education
+630,3,1,1,,8,English ,female,White,Master or equivalent
+631,2,1,1,,8,english,female,White,Master or equivalent
+632,3,1,4,,8,English,female,"East Asian Chinese, Japanese, etc.",Master or equivalent
+633,2,1,1,,7,English ,female,White,Bachelor or equivalent
+634,6,1,1,,4,English ,female,White,Upper secondary education
+635,3,2,1,,4,English,male,White,Upper secondary education
+636,3,1,4,,8,ENglish,female,"East Asian Chinese, Japanese, etc.",Master or equivalent
+637,6,1,1,,7,English,female,White,Bachelor or equivalent
+638,3,1,6,Mixed,4,English,female,Other (write in),Upper secondary education
+639,5,2,1,,7,English,male,White,Bachelor or equivalent
+640,3,1,1,,8,English,female,White,Master or equivalent

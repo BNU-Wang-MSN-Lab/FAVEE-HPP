@@ -1,0 +1,568 @@
+,Age,Gender,Race,Race_alternative,Highest education,First language,Gender_label
+0,49,Female,White,,Short-cycle tertiary education,english,Female
+1,41,Male,White,,Bachelor or equivalent,English,Male
+2,68,Male,"East Asian Chinese, Japanese, etc.",,Master or equivalent,Chinese,Male
+3,38,Female,White,,Primary education,English ,Female
+4,41,Male,"East Asian Chinese, Japanese, etc.",,Bachelor or equivalent,English,Male
+5,68,Female,White,,Bachelor or equivalent,English,Female
+6,21,Female,White,,Bachelor or equivalent,English,Female
+7,53,Female,White,,Bachelor or equivalent,English,Female
+8,59,Female,White,,Short-cycle tertiary education,English,Female
+9,38,Male,White,,Bachelor or equivalent,English,Male
+11,69,Female,White,,Master or equivalent,english,Female
+12,28,Female,White,,Master or equivalent,English,Female
+13,37,Male,White,,Bachelor or equivalent,English,Male
+14,50,Female,White,,Upper secondary education,English,Female
+15,49,Female,Black,,Bachelor or equivalent,English,Female
+16,31,Female,White,,Bachelor or equivalent,english,Female
+17,52,Male,Black,,Short-cycle tertiary education,English,Male
+19,26,Female,White,,Upper secondary education,english,Female
+20,44,Female,White,,Short-cycle tertiary education,english,Female
+21,46,Female,White,,Upper secondary education,English,Female
+22,41,Male,White,,Short-cycle tertiary education,english,Male
+24,31,Male,"South Asian Indian, Pakistani, etc.",,Doctoral or equivalent,English,Male
+26,46,Male,White,,Bachelor or equivalent,English,Male
+27,36,Female,White,,Bachelor or equivalent,English,Female
+28,63,Female,White,,Bachelor or equivalent,English,Female
+29,35,Female,White,,Bachelor or equivalent,English,Female
+30,63,Female,White,,Short-cycle tertiary education,english,Female
+31,66,Female,White,,Doctoral or equivalent,English,Female
+32,59,Female,White,,Short-cycle tertiary education,English,Female
+33,37,Female,"Arabic, Central Asian",,Bachelor or equivalent,english,Female
+34,59,Female,White,,Short-cycle tertiary education,English,Female
+36,4,Male,White,,Lower secondary education,American English,Male
+37,36,Male,White,,Upper secondary education,English,Male
+38,44,Female,White,,Post-secondary non-tertiary education,English,Female
+40,21,Female,Black,,Upper secondary education,english,Female
+41,35,Male,White,,Short-cycle tertiary education,Portuguese ,Male
+42,43,Female,White,,Bachelor or equivalent,English,Female
+43,26,Female,White,,Bachelor or equivalent,Bilingual: American Sign Language (ASL) & English,Female
+44,41,Male,White,,Short-cycle tertiary education,English ,Male
+45,49,Female,White,,Master or equivalent,English,Female
+46,35,Male,Black,,Master or equivalent,English,Male
+47,22,Female,White,,Bachelor or equivalent,English,Female
+48,40,Female,White,,Bachelor or equivalent,English,Female
+49,35,Male,White,,Bachelor or equivalent,English,Male
+50,50,Female,White,,Post-secondary non-tertiary education,English,Female
+51,56,Female,White,,Upper secondary education,english,Female
+52,40,Female,"East Asian Chinese, Japanese, etc.",,Short-cycle tertiary education,korean,Female
+53,33,Female,White,,Short-cycle tertiary education,English,Female
+54,26,Female,White,,Upper secondary education,English,Female
+55,56,Male,Black,,Short-cycle tertiary education,English,Male
+56,22,Female,White,,Bachelor or equivalent,English,Female
+57,28,Female,White,,Bachelor or equivalent,english,Female
+58,27,Female,"East Asian Chinese, Japanese, etc.",,Bachelor or equivalent,English,Female
+59,34,Female,White,,Bachelor or equivalent,English,Female
+61,56,Female,White,,Upper secondary education,English,Female
+62,34,Male,Other (write in),Other,Don't know/No answer,American English,Male
+63,48,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,bengali,Female
+64,28,Female,White,,Don't know/No answer,English,Female
+65,21,Male,Other (write in),White and Black,Upper secondary education,English,Male
+66,53,Female,White,,Bachelor or equivalent,English,Female
+67,62,Male,White,,Don't know/No answer,english,Male
+68,60,Male,White,,Master or equivalent,English,Male
+70,32,Male,"East Asian Chinese, Japanese, etc.",,Bachelor or equivalent,English ,Male
+72,52,Female,White,,Short-cycle tertiary education,English,Female
+73,64,Female,White,,Short-cycle tertiary education,English,Female
+74,38,Female,White,,Short-cycle tertiary education,English,Female
+75,26,Female,White,,Upper secondary education,English,Female
+76,64,Female,Black,,Short-cycle tertiary education,English,Female
+77,32,Female,White,,Bachelor or equivalent,ENGLISH,Female
+78,67,Female,White,,Bachelor or equivalent,English,Female
+79,48,Female,White,,Bachelor or equivalent,English,Female
+80,33,Male,White,,Master or equivalent,English,Male
+81,24,Female,Black,,Master or equivalent,English,Female
+82,33,Male,White,,Doctoral or equivalent,English,Male
+83,49,Female,White,,Lower secondary education,English,Female
+84,27,Female,White,,Short-cycle tertiary education,English,Female
+85,42,Female,White,,Upper secondary education,English,Female
+86,34,Male,White,,Primary education,English,Male
+87,61,Female,White,,Lower secondary education,English,Female
+88,27,Female,White,,Bachelor or equivalent,english,Female
+89,36,Female,White,,Short-cycle tertiary education,English,Female
+90,64,Female,White,,Bachelor or equivalent,English,Female
+91,25,Male,Other (write in),Latino,Bachelor or equivalent,Spanish,Male
+92,38,Male,White,,Short-cycle tertiary education,English,Male
+93,39,Female,White,,Master or equivalent,English,Female
+94,54,Female,White,,Bachelor or equivalent,English,Female
+95,47,Female,White,,Master or equivalent,English,Female
+96,36,Female,White,,Post-secondary non-tertiary education,English ,Female
+97,38,Female,White,,Post-secondary non-tertiary education,english,Female
+98,56,Female,White,,Post-secondary non-tertiary education,English,Female
+99,67,Male,White,,Master or equivalent,English,Male
+100,41,Female,White,,Post-secondary non-tertiary education,English ,Female
+101,40,Female,White,,Bachelor or equivalent,English ,Female
+102,252,Female,White,,Primary education,English,Female
+103,23,Male,"East Asian Chinese, Japanese, etc.",,Master or equivalent,Englsih,Male
+104,47,Female,White,,Master or equivalent,English,Female
+105,30,Male,Black,,Primary education,ENGLISH,Male
+108,36,Female,White,,Upper secondary education,English,Female
+109,63,Female,Other (write in),Asian,Bachelor or equivalent,Tagalog,Female
+110,22,Female,White,,Bachelor or equivalent,English,Female
+111,63,Female,White,,Short-cycle tertiary education,english,Female
+112,36,Male,Black,,Bachelor or equivalent,English,Male
+113,26,Male,White,,Bachelor or equivalent,English ,Male
+114,46,Male,Black,,Upper secondary education,English,Male
+115,45,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,English,Male
+116,50,Male,White,,Lower secondary education,english,Male
+117,25,Female,White,,Bachelor or equivalent,English,Female
+118,21,Female,White,,Short-cycle tertiary education,English,Female
+119,37,Male,White,,Doctoral or equivalent,english,Male
+120,25,Male,White,,Primary education,English,Male
+121,27,Female,White,,Don't know/No answer,English ,Female
+122,34,Female,White,,Master or equivalent,ENGLISH,Female
+123,33,Female,White,,Bachelor or equivalent,English,Female
+124,27,Female,White,,Bachelor or equivalent,English,Female
+125,51,Female,White,,Primary education,English ,Female
+126,53,Male,White,,Bachelor or equivalent,English,Male
+127,57,Female,White,,Master or equivalent,English,Female
+128,61,Female,White,,Post-secondary non-tertiary education,English,Female
+129,69,Female,White,,Master or equivalent,English,Female
+130,34,Female,Other (write in),White Spanish American,Bachelor or equivalent,English,Female
+131,35,Female,White,,Bachelor or equivalent,English ,Female
+132,62,Male,White,,Bachelor or equivalent,English,Male
+133,44,Female,White,,Bachelor or equivalent,english,Female
+134,55,Female,White,,Bachelor or equivalent,English,Female
+135,42,Female,White,,Bachelor or equivalent,english,Female
+136,48,Female,White,,Bachelor or equivalent,English,Female
+137,26,Female,White,,Short-cycle tertiary education,English,Female
+139,68,Female,White,,Bachelor or equivalent,English,Female
+140,31,Male,White,,Bachelor or equivalent,Spanish,Male
+141,29,Female,Black,,Lower secondary education,english,Female
+142,50,Female,Other (write in),American Indian,Upper secondary education,English,Female
+143,31,Female,White,,Bachelor or equivalent,English,Female
+144,39,Male,White,,Doctoral or equivalent,English,Male
+145,72,Female,White,,Short-cycle tertiary education,ENGLISH,Female
+146,24,Female,Other (write in),MEXICAN AMERICAN,Short-cycle tertiary education,ENGLISH,Female
+147,55,Female,White,,Bachelor or equivalent,English,Female
+148,44,Female,Black,,Don't know/No answer,English,Female
+149,58,Female,White,,Bachelor or equivalent,English,Female
+150,70,Female,White,,Bachelor or equivalent,English,Female
+151,37,Female,White,,Master or equivalent,English,Female
+152,22,Female,Black,,Bachelor or equivalent,English,Female
+153,56,Female,White,,Short-cycle tertiary education,English,Female
+154,58,Male,Black,,Bachelor or equivalent,English,Male
+155,72,Female,White,,Bachelor or equivalent,English,Female
+156,38,Male,White,,Bachelor or equivalent,English,Male
+158,28,Female,White,,Bachelor or equivalent,English,Female
+159,40,Male,Other (write in),Hispanic ,Post-secondary non-tertiary education,English ,Male
+161,23,Female,Black,,Bachelor or equivalent,English,Female
+162,47,Female,White,,Post-secondary non-tertiary education,English,Female
+163,52,Female,White,,Bachelor or equivalent,English,Female
+164,59,Male,"East Asian Chinese, Japanese, etc.",,Bachelor or equivalent,English,Male
+165,33,Female,White,,Master or equivalent,English ,Female
+166,57,Male,White,,Bachelor or equivalent,english,Male
+167,60,Female,Black,,Upper secondary education,English,Female
+168,65,Female,White,,Master or equivalent,English,Female
+169,61,Male,White,,Bachelor or equivalent,English,Male
+170,41,Female,White,,Bachelor or equivalent,German,Female
+171,49,Female,Other (write in),American,Upper secondary education,English,Female
+172,43,Female,White,,Master or equivalent,english,Female
+173,40,Female,White,,Short-cycle tertiary education,English,Female
+174,49,Female,White,,Master or equivalent,english,Female
+176,26,Female,White,,Upper secondary education,english,Female
+177,24,Female,White,,Bachelor or equivalent,English,Female
+178,39,Female,White,,Post-secondary non-tertiary education,english,Female
+179,66,Female,White,,Master or equivalent,English ,Female
+180,65,Female,White,,Bachelor or equivalent,English,Female
+181,65,Female,White,,Post-secondary non-tertiary education,English,Female
+182,78,Female,White,,Upper secondary education,English,Female
+183,22,Female,White,,Upper secondary education,English,Female
+184,31,Male,White,,Bachelor or equivalent,English ,Male
+185,44,Female,White,,Post-secondary non-tertiary education,English,Female
+186,60,Male,"East Asian Chinese, Japanese, etc.",,Bachelor or equivalent,English,Male
+187,24,Female,White,,Upper secondary education,English,Female
+188,65,Female,White,,Upper secondary education,english,Female
+189,63,Female,White,,Bachelor or equivalent,english,Female
+192,31,Female,White,,Bachelor or equivalent,English,Female
+193,36,Female,White,,Upper secondary education,English,Female
+194,57,Male,White,,Bachelor or equivalent,English,Male
+195,35,Male,White,,Bachelor or equivalent,English,Male
+196,30,Female,White,,Bachelor or equivalent,English,Female
+197,29,Male,White,,Master or equivalent,English,Male
+198,51,Female,White,,Post-secondary non-tertiary education,English,Female
+199,21,Male,"East Asian Chinese, Japanese, etc.",,Bachelor or equivalent,English,Male
+200,31,Male,White,,Doctoral or equivalent,English,Male
+201,48,Female,White,,Lower secondary education,English                                                               ,Female
+202,21,Female,White,,Lower secondary education,English,Female
+203,51,Male,White,,Primary education,English,Male
+204,42,Female,White,,Post-secondary non-tertiary education,English,Female
+205,22,Male,White,,Upper secondary education,Spanish,Male
+206,31,Male,White,,Bachelor or equivalent,English,Male
+207,26,Female,White,,Master or equivalent,English ,Female
+208,40,Female,Other (write in),Hispanic,Bachelor or equivalent,English,Female
+209,68,Female,White,,Doctoral or equivalent,English,Female
+210,30,Male,White,,Master or equivalent,English,Male
+212,25,Female,Other (write in),biracial,Bachelor or equivalent,english,Female
+213,43,Male,White,,Master or equivalent,English,Male
+214,32,Male,White,,Bachelor or equivalent,English,Male
+215,44,Female,White,,Post-secondary non-tertiary education,english,Female
+217,25,Female,White,,Bachelor or equivalent,english,Female
+218,23,Male,White,,Lower secondary education,English,Male
+219,36,Male,Other (write in),mixed,Primary education,english,Male
+220,32,Female,White,,Bachelor or equivalent,English,Female
+221,71,Female,White,,Short-cycle tertiary education,English,Female
+222,28,Female,White,,Bachelor or equivalent,english,Female
+223,33,Male,White,,Bachelor or equivalent,English,Male
+225,70,Female,White,,Bachelor or equivalent,English,Female
+226,52,Female,White,,Short-cycle tertiary education,English,Female
+227,49,Female,White,,Bachelor or equivalent,English,Female
+228,56,Male,White,,Post-secondary non-tertiary education,english,Male
+229,38,Female,Other (write in),native american,Post-secondary non-tertiary education,enlgish,Female
+230,42,Female,White,,Bachelor or equivalent,English,Female
+231,26,Male,White,,Bachelor or equivalent,English,Male
+232,45,Male,Black,,Bachelor or equivalent,ENGLISH,Male
+233,46,Male,White,,Master or equivalent,English,Male
+234,53,Female,White,,Bachelor or equivalent,English,Female
+235,54,Female,White,,Bachelor or equivalent,English,Female
+236,29,Male,White,,Master or equivalent,English,Male
+237,61,Female,White,,Bachelor or equivalent,English,Female
+238,41,Female,White,,Bachelor or equivalent,German,Female
+239,37,Female,"Arabic, Central Asian",,Bachelor or equivalent,english,Female
+240,69,Female,White,,Master or equivalent,English,Female
+241,25,Female,White,,Bachelor or equivalent,english,Female
+242,65,Female,White,,Upper secondary education,ENGLISH,Female
+243,28,Female,"Arabic, Central Asian",,Bachelor or equivalent,English,Female
+244,28,Female,White,,Bachelor or equivalent,English,Female
+246,30,Male,White,,Master or equivalent,English,Male
+247,39,Female,White,,Bachelor or equivalent,English,Female
+248,48,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Bengali,Female
+249,33,Male,White,,Doctoral or equivalent,English,Male
+251,38,Female,White,,Post-secondary non-tertiary education,English,Female
+252,40,Female,White,,Bachelor or equivalent,English,Female
+253,59,Male,"East Asian Chinese, Japanese, etc.",,Bachelor or equivalent,English,Male
+254,80,Male,White,,Master or equivalent,English,Male
+255,43,Female,White,,Short-cycle tertiary education,english,Female
+256,40,Female,"East Asian Chinese, Japanese, etc.",,Bachelor or equivalent,English,Female
+257,35,Female,Other (write in),Mexican American Indian,Short-cycle tertiary education,English,Female
+258,60,Female,Black,,Upper secondary education,English,Female
+259,24,Female,White,,Post-secondary non-tertiary education,English,Female
+261,64,Female,White,,Bachelor or equivalent,english,Female
+262,24,Female,Other (write in),hispanic,Upper secondary education,spanish,Female
+263,29,Female,Black,,Upper secondary education,english,Female
+264,35,Female,White,,Bachelor or equivalent,English,Female
+265,32,Female,Black,,Bachelor or equivalent,english,Female
+268,32,Male,Other (write in),hispanic,Primary education,english,Male
+269,39,Male,White,,Bachelor or equivalent,english,Male
+270,25,Female,White,,Bachelor or equivalent,English,Female
+272,21,Male,White,,Bachelor or equivalent,English,Male
+273,36,Male,Black,,Bachelor or equivalent,English ,Male
+274,30,Female,White,,Bachelor or equivalent,English,Female
+275,25,Male,Other (write in),Latino,Bachelor or equivalent,Spanish,Male
+276,44,Female,White,,Upper secondary education,English,Female
+277,45,Male,Black,,Bachelor or equivalent,English,Male
+278,63,Female,Other (write in),Southeast Asian - Filipino,Bachelor or equivalent,Tagalog,Female
+279,26,Female,White,,Bachelor or equivalent,English,Female
+280,47,Female,White,,Master or equivalent,English,Female
+281,24,Female,White,,Short-cycle tertiary education,English,Female
+282,66,Female,White,,Master or equivalent,English ,Female
+283,40,Female,White,,Primary education,English ,Female
+284,63,Female,White,,Short-cycle tertiary education,English,Female
+285,30,Female,Other (write in),Hispanic,Upper secondary education,English,Female
+286,39,Female,Other (write in),Asian,Bachelor or equivalent,Tagalog,Female
+287,32,Female,White,,Post-secondary non-tertiary education,English,Female
+288,26,Female,White,,Bachelor or equivalent,Bilingual: American Sign Language & English,Female
+289,45,Female,White,,Bachelor or equivalent,english,Female
+290,37,Female,White,,Bachelor or equivalent,English,Female
+291,55,Female,White,,Bachelor or equivalent,English,Female
+292,25,Female,White,,Master or equivalent,English,Female
+293,25,Female,Black,,Master or equivalent,English,Female
+294,38,Female,White,,Master or equivalent,English ,Female
+295,44,Female,Other (write in),Spanish,Post-secondary non-tertiary education,English,Female
+296,32,Female,White,,Bachelor or equivalent,English,Female
+297,42,Female,White,,Short-cycle tertiary education,English ,Female
+298,40,Female,"East Asian Chinese, Japanese, etc.",,Bachelor or equivalent,korean,Female
+299,21,Female,Black,,Upper secondary education,english,Female
+300,33,Female,White,,Bachelor or equivalent,english,Female
+301,27,Female,White,,Bachelor or equivalent,English,Female
+302,26,Female,White,,Bachelor or equivalent,English ,Female
+303,49,Male,White,,Upper secondary education,english,Male
+304,38,Male,White,,Upper secondary education,English ,Male
+305,31,Male,White,,Lower secondary education,English,Male
+306,25,Male,White,,Upper secondary education,english,Male
+307,63,Female,White,,Bachelor or equivalent,English,Female
+308,42,Female,White,,Short-cycle tertiary education,English,Female
+309,52,Female,White,,Bachelor or equivalent,english,Female
+310,43,Female,White,,Post-secondary non-tertiary education,English,Female
+311,30,Female,Black,,Bachelor or equivalent,English,Female
+313,39,Male,White,,Master or equivalent,English,Male
+314,45,Male,White,,Bachelor or equivalent,english,Male
+315,34,Female,Other (write in),American,Bachelor or equivalent,English,Female
+316,33,Female,White,,Master or equivalent,English ,Female
+317,32,Female,White,,Upper secondary education,english,Female
+318,49,Female,White,,Master or equivalent,English,Female
+319,64,Female,White,,Don't know/No answer,English,Female
+320,47,Female,White,,Master or equivalent,English ,Female
+321,23,Male,White,,Bachelor or equivalent,english,Male
+322,41,Male,Black,,Bachelor or equivalent,English,Male
+323,61,Female,White,,Post-secondary non-tertiary education,English,Female
+324,40,Male,Other (write in),Hispanic ,Upper secondary education,English ,Male
+325,38,Male,White,,Post-secondary non-tertiary education,english,Male
+326,25,Female,White,,Bachelor or equivalent,English,Female
+327,63,Female,White,,Bachelor or equivalent,english,Female
+328,21,Female,Black,,Bachelor or equivalent,English,Female
+329,41,Female,White,,Master or equivalent,English,Female
+330,21,Female,Other (write in),Mixed,Short-cycle tertiary education,English ,Female
+331,49,Female,White,,Master or equivalent,English,Female
+332,36,Female,White,,Post-secondary non-tertiary education,English ,Female
+333,28,Female,Black,,Short-cycle tertiary education,English ,Female
+334,41,Male,Black,,Bachelor or equivalent,English,Male
+335,53,Female,White,,Post-secondary non-tertiary education,English,Female
+336,38,Female,Other (write in),Western European,Bachelor or equivalent,English,Female
+337,21,Female,Other (write in),biracial,Post-secondary non-tertiary education,English,Female
+338,52,Female,White,,Short-cycle tertiary education,english,Female
+339,30,Male,White,,Short-cycle tertiary education,English,Male
+340,49,Female,White,,Master or equivalent,English,Female
+341,44,Female,Black,,Don't know/No answer,English,Female
+342,24,Female,White,,Bachelor or equivalent,English,Female
+344,50,Female,Black,,Bachelor or equivalent,English,Female
+345,30,Female,Other (write in),Hispanic,Bachelor or equivalent,English,Female
+346,57,Female,White,,Master or equivalent,English,Female
+348,36,Female,White,,Upper secondary education,English ,Female
+349,54,Female,White,,Upper secondary education,english,Female
+350,36,Male,Other (write in),Hispanic ,Post-secondary non-tertiary education,English ,Male
+351,65,Female,White,,Master or equivalent,English,Female
+352,25,Female,White,,Primary education,English,Female
+353,58,Female,White,,Upper secondary education,English,Female
+354,23,Female,White,,Post-secondary non-tertiary education,english,Female
+355,45,Female,White,,Short-cycle tertiary education,English,Female
+356,33,Female,White,,Lower secondary education,English,Female
+357,41,Female,White,,Upper secondary education,english,Female
+358,46,Female,Other (write in),HISPANIC,Upper secondary education,ENGLISH,Female
+359,27,Female,Other (write in),Native American,Bachelor or equivalent,English,Female
+360,45,Male,White,,Master or equivalent,English,Male
+361,35,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,English,Female
+362,31,Male,White,,Master or equivalent,english,Male
+365,66,Female,White,,Short-cycle tertiary education,english,Female
+366,29,Female,White,,Master or equivalent,English,Female
+367,28,Female,"East Asian Chinese, Japanese, etc.",,Post-secondary non-tertiary education,English,Female
+368,36,Female,White,,Short-cycle tertiary education,English,Female
+369,49,Female,Other (write in),Native American ,Upper secondary education,English ,Female
+370,49,Female,Other (write in),Prefer not to answer,Doctoral or equivalent,English,Female
+371,27,Female,White,,Lower secondary education,English,Female
+372,29,Male,"East Asian Chinese, Japanese, etc.",,Bachelor or equivalent,English and Vietnamese,Male
+373,33,Female,White,,Bachelor or equivalent,English ,Female
+374,22,Female,"Arabic, Central Asian",,Bachelor or equivalent,English,Female
+375,43,Female,Other (write in),HISPANIC,Upper secondary education,ENGLISH,Female
+376,38,Female,White,,Bachelor or equivalent,English ,Female
+377,20,Female,White,,Upper secondary education,English,Female
+378,36,Male,White,,Master or equivalent,English,Male
+379,30,Female,White,,Bachelor or equivalent,English,Female
+380,25,Female,Other (write in),biracial,Bachelor or equivalent,english,Female
+382,27,Female,White,,Upper secondary education,English,Female
+384,41,Female,White,,Bachelor or equivalent,English,Female
+385,35,Female,White,,Short-cycle tertiary education,English,Female
+386,24,Female,White,,Bachelor or equivalent,English,Female
+387,56,Female,White,,Master or equivalent,English,Female
+388,30,Female,White,,Bachelor or equivalent,English,Female
+389,54,Female,White,,Bachelor or equivalent,English,Female
+390,22,Female,White,,Short-cycle tertiary education,English,Female
+391,29,Female,White,,Primary education,English,Female
+393,48,Female,White,,Upper secondary education,English ,Female
+394,23,Male,White,,Bachelor or equivalent,English,Male
+395,54,Female,White,,Upper secondary education,Spanish,Female
+396,21,Male,"South Asian Indian, Pakistani, etc.",,Upper secondary education,english,Male
+397,28,Female,White,,Post-secondary non-tertiary education,English,Female
+399,24,Female,"East Asian Chinese, Japanese, etc.",,Bachelor or equivalent,English,Female
+400,41,Female,White,,Bachelor or equivalent,English,Female
+402,74,Female,White,,Don't know/No answer,English,Female
+403,34,Female,White,,Bachelor or equivalent,English,Female
+404,30,Female,White,,Doctoral or equivalent,English,Female
+405,36,Female,Black,,Bachelor or equivalent,english,Female
+406,51,Female,White,,Bachelor or equivalent,English,Female
+407,55,Female,Black,,Post-secondary non-tertiary education,English ,Female
+408,27,Female,White,,Primary education,English,Female
+409,23,Female,White,,Post-secondary non-tertiary education,english,Female
+410,44,Female,White,,Bachelor or equivalent,english,Female
+411,50,Female,Black,,Upper secondary education,english,Female
+412,32,Male,White,,Bachelor or equivalent,english,Male
+413,29,Male,White,,Master or equivalent,English,Male
+415,31,Female,White,,Bachelor or equivalent,English,Female
+416,40,Female,White,,Master or equivalent,English,Female
+418,35,Male,Other (write in),Multi,Don't know/No answer,English,Male
+419,39,Female,White,,Upper secondary education,english,Female
+420,33,Female,Black,,Bachelor or equivalent,English ,Female
+421,44,Female,White,,Upper secondary education,English,Female
+423,30,Female,Black,,Bachelor or equivalent,English,Female
+424,33,Male,White,,Upper secondary education,English,Male
+425,33,Female,White,,Bachelor or equivalent,English,Female
+426,43,Female,White,,Short-cycle tertiary education,english,Female
+427,23,Male,White,,Bachelor or equivalent,english,Male
+428,70,Female,White,,Upper secondary education,english,Female
+429,58,Female,White,,Short-cycle tertiary education,ENGLISH,Female
+430,71,Female,White,,Post-secondary non-tertiary education,English,Female
+431,68,Female,White,,Upper secondary education,English,Female
+432,28,Female,"East Asian Chinese, Japanese, etc.",,Post-secondary non-tertiary education,English,Female
+433,30,Male,White,,Primary education,English,Male
+434,39,Female,White,,Bachelor or equivalent,English,Female
+435,48,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Bengali,Female
+436,34,Male,Other (write in),Black,Don't know/No answer,American English,Male
+437,26,Female,Black,,Master or equivalent,English,Female
+438,26,Female,Black,,Master or equivalent,English,Female
+439,68,Female,White,,Short-cycle tertiary education,English,Female
+440,63,Female,White,,Bachelor or equivalent,english,Female
+441,69,Female,White,,Master or equivalent,English,Female
+442,52,Female,White,,Post-secondary non-tertiary education,English,Female
+443,53,Female,White,,Post-secondary non-tertiary education,English,Female
+444,52,Female,White,,Post-secondary non-tertiary education,English,Female
+447,39,Female,White,,Bachelor or equivalent,English,Female
+448,34,Female,White,,Lower secondary education,English,Female
+449,33,Male,White,,Doctoral or equivalent,English,Male
+450,28,Female,"Arabic, Central Asian",,Bachelor or equivalent,English,Female
+451,33,Female,White,,Bachelor or equivalent,english,Female
+452,50,Female,White,,Short-cycle tertiary education,English,Female
+453,41,Male,Black,,Bachelor or equivalent,English,Male
+455,56,Female,White,,Post-secondary non-tertiary education,English,Female
+456,34,Female,Other (write in),American,Bachelor or equivalent,English,Female
+457,39,Female,Black,,Bachelor or equivalent,English,Female
+458,26,Female,White,,Bachelor or equivalent,American Sign Language (ASL),Female
+460,38,Male,White,,Bachelor or equivalent,English,Male
+461,47,Female,White,,Master or equivalent,English,Female
+462,24,Female,White,,Post-secondary non-tertiary education,English,Female
+463,31,Female,White,,Bachelor or equivalent,english,Female
+464,27,Female,White,,Upper secondary education,English,Female
+465,66,Female,White,,Bachelor or equivalent,english,Female
+466,36,Male,Black,,Bachelor or equivalent,English,Male
+467,34,Female,White,,Bachelor or equivalent,English,Female
+468,30,Male,White,,Bachelor or equivalent,english,Male
+470,25,Female,White,,Upper secondary education,English,Female
+472,23,Female,White,,Post-secondary non-tertiary education,english,Female
+474,36,Female,White,,Short-cycle tertiary education,English,Female
+475,34,Male,White,,Short-cycle tertiary education,English,Male
+476,59,Male,"East Asian Chinese, Japanese, etc.",,Bachelor or equivalent,English,Male
+478,46,Female,Other (write in),HISPANIC,Upper secondary education,ENGLISH,Female
+479,49,Female,White,,Master or equivalent,English,Female
+480,22,Female,White,,Upper secondary education,English,Female
+481,31,Male,White,,Master or equivalent,english,Male
+482,52,Female,White,,Post-secondary non-tertiary education,English,Female
+483,65,Female,White,,Master or equivalent,English,Female
+484,44,Female,Black,,Don't know/No answer,English,Female
+486,24,Female,White,,Upper secondary education,English,Female
+488,52,Female,White,,Bachelor or equivalent,english,Female
+489,49,Female,White,,Master or equivalent,english,Female
+490,20,Female,White,,Upper secondary education,English,Female
+491,29,Female,White,,Primary education,English,Female
+493,67,Female,White,,Bachelor or equivalent,English,Female
+494,26,Female,Black,,Bachelor or equivalent,English ,Female
+495,63,Female,Other (write in),Southeast Asian,Bachelor or equivalent,Tagalog,Female
+496,42,Female,White,,Bachelor or equivalent,english,Female
+497,21,Male,"South Asian Indian, Pakistani, etc.",,Upper secondary education,english,Male
+498,42,Female,White,,Short-cycle tertiary education,English ,Female
+499,70,Female,White,,Bachelor or equivalent,English,Female
+501,27,Female,White,,Upper secondary education,English,Female
+503,45,Female,White,,Bachelor or equivalent,english,Female
+504,32,Female,Black,,Bachelor or equivalent,english,Female
+506,56,Female,White,,Post-secondary non-tertiary education,English,Female
+507,33,Male,White,,Lower secondary education,English,Male
+508,57,Male,White,,Upper secondary education,ENGLISH,Male
+509,24,Female,White,,Bachelor or equivalent,English,Female
+510,54,Female,White,,Bachelor or equivalent,English,Female
+511,51,Female,White,,Bachelor or equivalent,English,Female
+512,31,Male,White,,Lower secondary education,English,Male
+514,61,Female,White,,Post-secondary non-tertiary education,German,Female
+515,24,Female,White,,Master or equivalent,english,Female
+516,24,Female,White,,Bachelor or equivalent,English ,Female
+517,60,Female,White,,Bachelor or equivalent,English,Female
+518,40,Male,White,,Master or equivalent,English,Male
+519,72,Female,White,,Bachelor or equivalent,English,Female
+520,25,Female,White,,Short-cycle tertiary education,english,Female
+521,39,Female,Other (write in),Filipino,Bachelor or equivalent,Tagalog,Female
+522,29,Female,White,,Post-secondary non-tertiary education,English,Female
+523,44,Female,White,,Upper secondary education,English,Female
+524,45,Male,White,,Bachelor or equivalent,English,Male
+526,26,Female,White,,Bachelor or equivalent,english,Female
+527,39,Female,White,,Bachelor or equivalent,English,Female
+528,65,Female,White,,Upper secondary education,ENGLISH,Female
+529,58,Female,White,,Short-cycle tertiary education,English,Female
+530,35,Female,White,,Short-cycle tertiary education,English,Female
+531,27,Male,Black,,Primary education,English,Male
+532,32,Female,White,,Bachelor or equivalent,english,Female
+533,66,Female,White,,Short-cycle tertiary education,English,Female
+534,50,Female,Black,,Upper secondary education,english,Female
+535,29,Female,White,,Post-secondary non-tertiary education,english,Female
+536,32,Female,White,,Bachelor or equivalent,English,Female
+537,28,Male,White,,Post-secondary non-tertiary education,English,Male
+538,40,Female,"East Asian Chinese, Japanese, etc.",,Bachelor or equivalent,Cantonese,Female
+539,36,Female,White,,Bachelor or equivalent,English,Female
+540,69,Male,White,,Bachelor or equivalent,English,Male
+541,27,Female,Other (write in),Native American,Bachelor or equivalent,English,Female
+542,31,Female,White,,Upper secondary education,english,Female
+543,45,Female,White,,Short-cycle tertiary education,English,Female
+544,46,Female,White,,Post-secondary non-tertiary education,english,Female
+545,40,Female,White,,Master or equivalent,English,Female
+546,27,Female,Black,,Bachelor or equivalent,English,Female
+549,33,Female,White,,Short-cycle tertiary education,English,Female
+550,27,Female,White,,Primary education,english,Female
+551,34,Male,White,,Doctoral or equivalent,English,Male
+552,69,Male,White,,Bachelor or equivalent,English,Male
+553,27,Female,White,,Don't know/No answer,English,Female
+554,40,Female,White,,Short-cycle tertiary education,English,Female
+556,58,Female,White,,Upper secondary education,english,Female
+557,44,Female,White,,Upper secondary education,english,Female
+558,30,Female,White,,Master or equivalent,English,Female
+559,65,Female,White,,Bachelor or equivalent,English,Female
+560,60,Female,White,,Upper secondary education,english,Female
+561,35,Female,"South Asian Indian, Pakistani, etc.",,Upper secondary education,English,Female
+562,26,Female,White,,Upper secondary education,english,Female
+563,23,Male,White,,Bachelor or equivalent,english,Male
+564,50,Female,White,,Master or equivalent,english,Female
+565,26,Female,White,,Post-secondary non-tertiary education,English ,Female
+566,23,Female,White,,Primary education,Spanish/English,Female
+567,35,Female,"Arabic, Central Asian",,Bachelor or equivalent,English,Female
+568,31,Female,White,,Bachelor or equivalent,English,Female
+569,35,Female,Other (write in),White/Hispanic,Primary education,English,Female
+570,31,Female,White,,Bachelor or equivalent,English,Female
+571,24,Female,White,,Upper secondary education,English,Female
+572,40,Female,White,,Post-secondary non-tertiary education,English,Female
+573,22,Female,Black,,Post-secondary non-tertiary education,English,Female
+574,21,Male,Black,,Post-secondary non-tertiary education,English,Male
+575,33,Male,White,,Bachelor or equivalent,English,Male
+576,27,Female,White,,Bachelor or equivalent,English,Female
+577,23,Female,White,,Post-secondary non-tertiary education,English,Female
+578,41,Female,Other (write in),human,Bachelor or equivalent,spanish,Female
+579,56,Female,White,,Master or equivalent,English ,Female
+580,31,Female,White,,Master or equivalent,English,Female
+581,38,Female,White,,Lower secondary education,English ,Female
+582,52,Female,White,,Short-cycle tertiary education,english,Female
+583,55,Female,White,,Don't know/No answer,English,Female
+584,67,Male,White,,Bachelor or equivalent,English,Male
+585,34,Female,White,,Post-secondary non-tertiary education,English,Female
+586,26,Female,Black,,Upper secondary education,English,Female
+587,64,Male,White,,Master or equivalent,English,Male
+588,35,Male,White,,Bachelor or equivalent,English,Male
+589,35,Female,White,,Don't know/No answer,english,Female
+591,28,Female,White,,Bachelor or equivalent,English,Female
+592,53,Female,White,,Master or equivalent,English,Female
+593,25,Female,White,,Master or equivalent,English,Female
+594,53,Female,Black,,Bachelor or equivalent,English,Female
+595,45,Female,White,,Post-secondary non-tertiary education,English,Female
+596,55,Female,White,,Post-secondary non-tertiary education,English,Female
+597,59,Male,White,,Upper secondary education,English ,Male
+598,33,Female,White,,Short-cycle tertiary education,English ,Female
+599,38,Female,White,,Master or equivalent,English ,Female
+600,35,Female,White,,Post-secondary non-tertiary education,english,Female
+601,36,Female,Black,,Bachelor or equivalent,English,Female
+602,30,Female,White,,Bachelor or equivalent,English,Female
+603,27,Female,White,,Post-secondary non-tertiary education,English,Female
+604,21,Female,White,,Bachelor or equivalent,English,Female
+605,28,Male,White,,Post-secondary non-tertiary education,english,Male
+606,35,Female,White,,Lower secondary education,English,Female
+607,21,Male,White,,Short-cycle tertiary education,English,Male
+608,30,Female,White,,Upper secondary education,English,Female
+609,42,Male,White,,Bachelor or equivalent,English,Male
+610,42,Female,Black,,Primary education,english,Female
+611,76,Male,Black,,Bachelor or equivalent,English,Male
+612,65,Female,White,,Upper secondary education,english,Female
+614,41,Female,White,,Master or equivalent,English (US),Female
+615,54,Female,Black,,Master or equivalent,English ,Female
+616,30,Female,White,,Bachelor or equivalent,english,Female
+617,44,Female,White,,Bachelor or equivalent,English,Female
+618,70,Female,White,,Upper secondary education,English,Female
+619,34,Female,White,,Upper secondary education,Spanish,Female
+620,22,Female,Black,,Bachelor or equivalent,english,Female
+622,29,Male,Other (write in),Hispanic,Don't know/No answer,Entglish,Male
+624,30,Male,White,,Post-secondary non-tertiary education,English,Male
+625,73,Female,White,,Doctoral or equivalent,English,Female
+626,31,Female,White,,Upper secondary education,English,Female
+627,50,Female,White,,Bachelor or equivalent,english,Female
+628,22,Male,White,,Bachelor or equivalent,English,Male

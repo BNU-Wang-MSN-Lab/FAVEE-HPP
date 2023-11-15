@@ -1,0 +1,556 @@
+,Age,Gender,Race,Race_alternative,Highest education,First language,Gender_label,Race_label,Highest education_label
+0,33,2,7,Mestizo,8,Espa?ol,male,Other (write in),Master or equivalent
+1,25,1,7,Mexicana,8,Espa?ol,female,Other (write in),Master or equivalent
+2,24,1,7,Mestizo,8,Espa?ol,female,Other (write in),Master or equivalent
+3,28,2,2,,8,Espa?ol,male,White,Master or equivalent
+5,22,2,7,latino,7,espa?ol,male,Other (write in),Bachelor or equivalent
+6,47,2,7,Hispanic,8,Spanish,male,Other (write in),Master or equivalent
+7,21,2,7,Hispano,6,Espa?ol,male,Other (write in),Short-cycle tertiary education
+8,38,2,2,,8,Espa?ol,male,White,Master or equivalent
+9,21,2,2,,7,Espa?ol,male,White,Bachelor or equivalent
+10,20,1,7,latíno,7,espa?ol,female,Other (write in),Bachelor or equivalent
+11,26,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+12,31,1,7,latino,8,espa?ol,female,Other (write in),Master or equivalent
+13,35,1,2,,8,Espa?ol,female,White,Master or equivalent
+14,26,2,7,Hispano ,8,Espanol,male,Other (write in),Master or equivalent
+15,20,1,2,,7,Espa?ol,female,White,Bachelor or equivalent
+16,30,2,7,Chontal,8,Espa?ol ,male,Other (write in),Master or equivalent
+17,26,2,2,,8,espa?ol,male,White,Master or equivalent
+18,22,2,7,Mexicano,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+20,22,1,7,Latina/Hispano,8,Espa?ol,female,Other (write in),Master or equivalent
+21,25,2,7,Latino ,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+22,25,1,7,Hispano/Latino,4,Espa?ol,female,Other (write in),Upper secondary education
+23,26,1,2,,8,Espa?ol,female,White,Master or equivalent
+24,21,1,2,,7,Espa?ol,female,White,Bachelor or equivalent
+25,45,1,7,Latino/hispano,6,Espa?ol,female,Other (write in),Short-cycle tertiary education
+26,37,1,7,hispano,8,espa?ol,female,Other (write in),Master or equivalent
+27,20,2,2,,7,Espa?ol ,male,White,Bachelor or equivalent
+28,23,2,2,,5,espa?ol,male,White,Post-secondary non-tertiary education
+29,26,2,7,Mestizo,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+30,22,1,7,Latina,7,espa?ol,female,Other (write in),Bachelor or equivalent
+31,25,2,2,,8,Espa?ol,male,White,Master or equivalent
+32,33,1,7,Latino blanco,8,Espa?ol,female,Other (write in),Master or equivalent
+33,23,2,7,latino,7,espa?ol,male,Other (write in),Bachelor or equivalent
+34,33,2,2,,8,Spanish,male,White,Master or equivalent
+35,21,2,7,Latinoamericano,8,Espa?ol,male,Other (write in),Master or equivalent
+36,24,2,7,latino,7,espanol,male,Other (write in),Bachelor or equivalent
+37,22,1,7,LATINO,7,ESPA?OL,female,Other (write in),Bachelor or equivalent
+38,26,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+39,20,2,7,Mestizo,5,Espa?ol,male,Other (write in),Post-secondary non-tertiary education
+40,32,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+42,21,1,7,Latino,6,Espa?ol,female,Other (write in),Short-cycle tertiary education
+43,35,2,2,,7,espa?ol,male,White,Bachelor or equivalent
+44,19,1,7,Latina,4,Espa?ol,female,Other (write in),Upper secondary education
+45,32,2,2,,8,Espa?ol,male,White,Master or equivalent
+46,40,2,7,Latin,8,spanish,male,Other (write in),Master or equivalent
+47,23,1,7,Latina,8,Espa?ol,female,Other (write in),Master or equivalent
+48,41,1,2,,6,Espa?ol,female,White,Short-cycle tertiary education
+49,29,2,2,,8,Espa?ol,male,White,Master or equivalent
+50,31,2,2,,8,Espa?ol,male,White,Master or equivalent
+51,22,2,7,LATINO,7,ESPA?OL,male,Other (write in),Bachelor or equivalent
+52,22,1,7,Latino,8,Espa?ol castellano,female,Other (write in),Master or equivalent
+53,28,2,2,,6,espa?ol,male,White,Short-cycle tertiary education
+54,33,2,7,Mexicana,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+55,21,1,7,hispanp/latino,5,espa?ol,female,Other (write in),Post-secondary non-tertiary education
+57,20,1,7,Hispano/Latino,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+59,44,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+60,27,2,7,mestizo,4,espa?ol,male,Other (write in),Upper secondary education
+61,25,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+62,23,1,7,hispana,6,espa?ol,female,Other (write in),Short-cycle tertiary education
+63,36,1,7,latina,6,espa?ol,female,Other (write in),Short-cycle tertiary education
+64,19,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+65,30,2,2,,8,Espa?ol,male,White,Master or equivalent
+66,30,2,2,,8,espa?ol,male,White,Master or equivalent
+67,20,2,2,,5,Espa?ol,male,White,Post-secondary non-tertiary education
+68,19,1,2,,7,espa?ol,female,White,Bachelor or equivalent
+69,24,2,2,,8,espa?ol,male,White,Master or equivalent
+70,25,2,7,Latin,8,Spanish,male,Other (write in),Master or equivalent
+71,25,2,2,,7,Espa?ol,male,White,Bachelor or equivalent
+72,26,1,2,,8,espa?ol,female,White,Master or equivalent
+73,30,2,2,,5,Espa?ol,male,White,Post-secondary non-tertiary education
+74,25,2,2,,8,Espa?ol,male,White,Master or equivalent
+75,28,2,2,,7,Espa?ol,male,White,Bachelor or equivalent
+77,25,1,7,Latina,8,Espa?ol,female,Other (write in),Master or equivalent
+79,27,1,2,,7,Espa?ol ,female,White,Bachelor or equivalent
+80,25,2,2,,5,Espa?ol,male,White,Post-secondary non-tertiary education
+81,24,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+82,22,2,2,,7,Espa?ol,male,White,Bachelor or equivalent
+83,26,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+84,25,1,7,Mexicano/Latino,8,espa?ol,female,Other (write in),Master or equivalent
+85,31,2,7,latino,7,espa?ol,male,Other (write in),Bachelor or equivalent
+86,24,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+88,31,1,2,,7,espa?ol,female,White,Bachelor or equivalent
+89,21,1,2,,7,Espa?ol,female,White,Bachelor or equivalent
+90,29,2,7,hispano,8,Espa?ol,male,Other (write in),Master or equivalent
+91,28,2,3,,7,Espa?ol,male,Black,Bachelor or equivalent
+92,25,1,2,,8,Espa?ol,female,White,Master or equivalent
+93,26,1,7,Latina,6,Espa?ol,female,Other (write in),Short-cycle tertiary education
+94,22,2,2,,7,Espa?ol,male,White,Bachelor or equivalent
+95,33,1,7,Latina,8,espa?ol,female,Other (write in),Master or equivalent
+97,30,1,7,hispana,8,espa?ol,female,Other (write in),Master or equivalent
+98,25,1,2,,8,espa?ol,female,White,Master or equivalent
+99,24,2,2,,8,Espa?ol,male,White,Master or equivalent
+100,24,1,7,Latino,8,Espa?ol,female,Other (write in),Master or equivalent
+102,40,2,7,Latino,7,espa?ol,male,Other (write in),Bachelor or equivalent
+103,36,2,2,,8,espa?ol,male,White,Master or equivalent
+105,22,1,7,Latin,6,Spanish ,female,Other (write in),Short-cycle tertiary education
+106,23,1,7,Latino,8,Espa?ol,female,Other (write in),Master or equivalent
+107,25,1,7,Mestizo,8,Espa?ol,female,Other (write in),Master or equivalent
+108,24,1,7,latino,8,Espa?ol,female,Other (write in),Master or equivalent
+109,22,2,7,HISPANO,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+110,23,1,7,Latina,8,Espa?ol,female,Other (write in),Master or equivalent
+111,21,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+112,27,1,7,latina,8,espa?ol,female,Other (write in),Master or equivalent
+113,24,1,2,,8,Spanish,female,White,Master or equivalent
+115,30,2,2,,7,Espa?ol,male,White,Bachelor or equivalent
+116,22,1,2,,4,Espa?ol,female,White,Upper secondary education
+117,28,1,7,Hispano,8,Espa?ol,female,Other (write in),Master or equivalent
+118,21,2,2,,7,Espa?ol,male,White,Bachelor or equivalent
+119,26,2,7,Hispana,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+120,25,1,7,Latino/Hispano,8,Espa?ol,female,Other (write in),Master or equivalent
+121,46,1,7,Latina,8,Espa?ol,female,Other (write in),Master or equivalent
+122,34,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+123,32,1,7,latino,8,spanish,female,Other (write in),Master or equivalent
+124,24,1,7,Hispana,5,Espa?ol,female,Other (write in),Post-secondary non-tertiary education
+125,27,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+126,36,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+127,30,2,7,Mexicano,8,Espa?ol ,male,Other (write in),Master or equivalent
+128,28,1,7,Mexicana,8,Espa?ol,female,Other (write in),Master or equivalent
+129,24,2,7,Mestizo Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+130,25,2,7,amerindio ,7,espa?ol,male,Other (write in),Bachelor or equivalent
+131,27,1,7,Hispana,5,Espa?ol,female,Other (write in),Post-secondary non-tertiary education
+132,26,2,7,latino,7,espa?ol,male,Other (write in),Bachelor or equivalent
+133,20,1,2,,7,Espa?ol,female,White,Bachelor or equivalent
+134,32,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+135,23,2,7,Mexicano,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+136,29,2,7,Hispano,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+137,27,1,7,Mexicana mestiza,8,Espa?ol,female,Other (write in),Master or equivalent
+138,23,2,2,,8,Espa?ol,male,White,Master or equivalent
+139,21,2,7,Latino,6,Espa?ol,male,Other (write in),Short-cycle tertiary education
+140,28,2,7,Hispana,8,Espa?ol,male,Other (write in),Master or equivalent
+141,21,2,7,latino,4,Espa?ol,male,Other (write in),Upper secondary education
+142,19,2,7,Latina,4,Espa?ol,male,Other (write in),Upper secondary education
+143,20,2,2,,4,Espa?ol,male,White,Upper secondary education
+144,29,1,2,,8,Espa?ol,female,White,Master or equivalent
+145,23,2,2,,8,espa;ol,male,White,Master or equivalent
+147,25,2,2,,8,Espa?ol,male,White,Master or equivalent
+148,51,1,2,,8,Espa?ol,female,White,Master or equivalent
+149,26,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+150,20,1,7,Latina,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+151,31,1,7,latinoamericano ,6,espanol ,female,Other (write in),Short-cycle tertiary education
+152,35,2,2,,7,Espa?ol,male,White,Bachelor or equivalent
+153,19,2,2,,6,Espa?ol,male,White,Short-cycle tertiary education
+154,23,1,7,Latina,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+155,20,2,2,,7,Spanish,male,White,Bachelor or equivalent
+156,47,1,2,,7,Espa?ol,female,White,Bachelor or equivalent
+157,39,2,7,Hispano,8,Espa?ol,male,Other (write in),Master or equivalent
+158,23,1,2,,8,Espa?ol,female,White,Master or equivalent
+159,20,2,7,latino,4,Espa?ol,male,Other (write in),Upper secondary education
+160,26,1,2,,8,Espa?ol,female,White,Master or equivalent
+161,26,1,2,,4,espa?ol,female,White,Upper secondary education
+162,28,2,7,Latino,5,Espa?ol,male,Other (write in),Post-secondary non-tertiary education
+163,24,1,7,Hispano,6,Espa?ol,female,Other (write in),Short-cycle tertiary education
+164,38,2,7,Latino,8,espa?ol,male,Other (write in),Master or equivalent
+165,26,2,7,Latino con ascendencia filipina,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+166,40,2,1,,8,Spanish,male,Asian,Master or equivalent
+167,27,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+168,36,2,7,Latino,6,Espa?ol,male,Other (write in),Short-cycle tertiary education
+169,24,1,7,Latino,8,Espa?ol,female,Other (write in),Master or equivalent
+170,27,1,7,Hispano,8,Espa?ol,female,Other (write in),Master or equivalent
+171,26,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+172,23,1,2,,7,Espa?ol,female,White,Bachelor or equivalent
+173,23,1,2,,8,Espa?ol,female,White,Master or equivalent
+174,23,1,2,,8,Espa?ol,female,White,Master or equivalent
+175,22,1,7,Hispano,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+176,35,2,7,mestizo,8,Espa?ol,male,Other (write in),Master or equivalent
+177,32,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+178,23,1,2,,8,espa?ol,female,White,Master or equivalent
+179,23,2,2,,8,Espa?ol,male,White,Master or equivalent
+180,24,2,7,latino,7,espa?ol,male,Other (write in),Bachelor or equivalent
+181,26,2,2,,8,Espa?ol,male,White,Master or equivalent
+182,28,1,7,Latino,8,Espa?ol,female,Other (write in),Master or equivalent
+183,26,2,2,,8,Espa?ol,male,White,Master or equivalent
+184,21,1,7,Mexicana,4,Espanol,female,Other (write in),Upper secondary education
+185,54,1,2,,6,espa?ol,female,White,Short-cycle tertiary education
+186,26,1,7,Hispanic,8,Espa?ol,female,Other (write in),Master or equivalent
+188,23,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+189,25,1,7,Latinoamericano ,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+190,20,1,2,,7,espa?ol,female,White,Bachelor or equivalent
+191,22,1,7,Latina,8,Espa?ol,female,Other (write in),Master or equivalent
+192,21,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+193,25,1,2,,8,espa?ol,female,White,Master or equivalent
+194,28,1,7,Latina,8,espa?ol,female,Other (write in),Master or equivalent
+195,51,1,2,,8,espa;ol,female,White,Master or equivalent
+196,24,2,2,,8,Espa?ol,male,White,Master or equivalent
+197,30,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+199,20,1,7,Mixed,7,Spanish,female,Other (write in),Bachelor or equivalent
+200,21,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+201,27,2,2,,8,Espa?ol,male,White,Master or equivalent
+202,46,1,7,Latino,8,Espa?ol,female,Other (write in),Master or equivalent
+203,27,2,2,,7,Espa?ol,male,White,Bachelor or equivalent
+204,28,2,7,Hispano,5,Espa?ol,male,Other (write in),Post-secondary non-tertiary education
+206,22,2,7,latino,8,spanish,male,Other (write in),Master or equivalent
+207,22,1,7,Latino,7,Espa?ol ,female,Other (write in),Bachelor or equivalent
+208,23,1,7,latina,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+209,23,1,7,Hispano,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+210,25,1,7,Latina,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+211,24,1,7,Latino,8,espa?ol,female,Other (write in),Master or equivalent
+212,22,1,2,,7,Espa?ol,female,White,Bachelor or equivalent
+213,26,2,7,Latino/Mexicano,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+214,25,1,7,Hispana,4,Espa?ol,female,Other (write in),Upper secondary education
+215,22,1,7,latin,8,espa?ol,female,Other (write in),Master or equivalent
+216,19,1,7,Hispánica,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+217,25,2,2,,7,Espa?ol,male,White,Bachelor or equivalent
+218,34,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+219,23,1,2,,4,ESPA?OL,female,White,Upper secondary education
+220,29,2,7,latino,4,espa?ol,male,Other (write in),Upper secondary education
+221,23,2,2,,8,espa?ol,male,White,Master or equivalent
+222,20,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+223,24,1,7,Mezcla,8,Espa?ol,female,Other (write in),Master or equivalent
+224,25,2,7,Latino,6,Espa?ol,male,Other (write in),Short-cycle tertiary education
+225,24,2,2,,7,Espa?ol,male,White,Bachelor or equivalent
+226,22,1,2,,7,Espa?ol,female,White,Bachelor or equivalent
+228,45,1,2,,6,Espa?ol,female,White,Short-cycle tertiary education
+229,30,1,7,Latina,8,Espa?ol,female,Other (write in),Master or equivalent
+230,20,2,7,latino,4,espa?ol,male,Other (write in),Upper secondary education
+231,24,1,7,latino,8,espa?ol,female,Other (write in),Master or equivalent
+232,23,1,7,latinoamericana,8,espa?ol,female,Other (write in),Master or equivalent
+233,23,1,7,Latin,6,Espa?ol,female,Other (write in),Short-cycle tertiary education
+234,32,2,2,,8,Castellano,male,White,Master or equivalent
+235,25,1,2,,8,Espa?ol,female,White,Master or equivalent
+236,26,2,7,LATINO,6,spanish,male,Other (write in),Short-cycle tertiary education
+237,25,2,7,Latino,8,Espa?ol ,male,Other (write in),Master or equivalent
+238,25,2,7,Mestizo,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+239,22,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+240,21,1,7,Latino,4,Espa?ol,female,Other (write in),Upper secondary education
+241,25,2,7,latino,8,espa?ol ,male,Other (write in),Master or equivalent
+242,32,2,7,Latino / Hispano,8,Espa?ol,male,Other (write in),Master or equivalent
+243,27,1,7,latina,8,espa?ol,female,Other (write in),Master or equivalent
+244,24,1,2,,8,espa?ol,female,White,Master or equivalent
+245,21,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+246,25,2,7,latinoamericano,6,Espa?ol,male,Other (write in),Short-cycle tertiary education
+247,24,1,2,,8,espa?ol,female,White,Master or equivalent
+248,30,2,2,,8,Espa?ol,male,White,Master or equivalent
+249,32,2,7,Latinoamericano,8,Espa?ol,male,Other (write in),Master or equivalent
+251,26,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+252,25,1,7,Latino,8,Espa?ol,female,Other (write in),Master or equivalent
+253,26,1,7,Latina,5,Espa?ol // Inglés,female,Other (write in),Post-secondary non-tertiary education
+254,23,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+255,28,2,7,Hispano,5,Espa?ol,male,Other (write in),Post-secondary non-tertiary education
+256,27,2,2,,8,Espa?ol,male,White,Master or equivalent
+257,27,1,7,Hispano,5,Espa?ol,female,Other (write in),Post-secondary non-tertiary education
+258,21,2,2,,4,Espa?ol,male,White,Upper secondary education
+259,21,2,7,Hispano,5,Espa?ol,male,Other (write in),Post-secondary non-tertiary education
+260,26,1,7,latina,7,spanish,female,Other (write in),Bachelor or equivalent
+261,24,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+262,33,2,7,Mestizo,6,Espa?ol,male,Other (write in),Short-cycle tertiary education
+263,20,1,2,,6,Espa?ol,female,White,Short-cycle tertiary education
+264,25,1,2,,8,Espa?ol,female,White,Master or equivalent
+265,24,2,7,Latinx,8,espa?ol,male,Other (write in),Master or equivalent
+266,27,2,7,latino ,6,espa?ol ,male,Other (write in),Short-cycle tertiary education
+267,19,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+268,23,1,7,hispana,8,Espa?ol,female,Other (write in),Master or equivalent
+269,24,2,7,latino,8,espa?ol,male,Other (write in),Master or equivalent
+270,23,1,2,,8,Espa?ol,female,White,Master or equivalent
+271,25,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+272,49,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+273,37,1,2,,7,espa?ol,female,White,Bachelor or equivalent
+274,29,1,7,latin,7,espa?ol,female,Other (write in),Bachelor or equivalent
+276,24,1,2,,7,Espa?ol,female,White,Bachelor or equivalent
+277,24,2,2,,7,Espa?ol,male,White,Bachelor or equivalent
+278,32,2,7,Latino,8,Spanish,male,Other (write in),Master or equivalent
+279,24,1,7,Latinoamericano,8,Espa?ol,female,Other (write in),Master or equivalent
+280,39,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+282,55,1,2,,8,Espa?ol,female,White,Master or equivalent
+283,21,1,7,Latinoamericano,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+284,29,2,7,Hispanic ,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+285,37,2,2,,8,Espa?ol ,male,White,Master or equivalent
+286,19,2,3,,5,Espa?ol,male,Black,Post-secondary non-tertiary education
+287,26,2,2,,8,Espa?ol,male,White,Master or equivalent
+288,24,1,7,Latinoamericana ,8,Espa?ol ,female,Other (write in),Master or equivalent
+289,19,2,2,,7,Espa?ol,male,White,Bachelor or equivalent
+290,21,1,7,Latina,7,Espa?ol ,female,Other (write in),Bachelor or equivalent
+291,27,1,2,,8,espa?ol,female,White,Master or equivalent
+292,36,2,2,,8,Espa?ol,male,White,Master or equivalent
+294,27,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+296,21,1,7,Hispánica,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+297,33,2,7,hispano,8,espanol,male,Other (write in),Master or equivalent
+298,23,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+299,21,1,7,Latino,5,Espa?ol ,female,Other (write in),Post-secondary non-tertiary education
+300,22,2,7,Latina,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+301,28,2,7,Nativo mexicano,8,Espa?ol,male,Other (write in),Master or equivalent
+302,20,1,2,,7,Espa?ol,female,White,Bachelor or equivalent
+303,34,1,7,Latino,8,Espa?ol,female,Other (write in),Master or equivalent
+304,25,2,7,Latino,6,Espa?ol,male,Other (write in),Short-cycle tertiary education
+305,21,2,2,,7,Espa?ol ,male,White,Bachelor or equivalent
+307,30,1,7,Hispano,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+308,33,2,7,latino,7,espa?ol,male,Other (write in),Bachelor or equivalent
+309,29,1,7,Latina/Hispana,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+310,23,1,7,mestizo,7,Espa?ol ,female,Other (write in),Bachelor or equivalent
+311,23,2,7,Mexicano,8,Espa?ol,male,Other (write in),Master or equivalent
+312,30,1,7,Latino,6,Espa?ol ,female,Other (write in),Short-cycle tertiary education
+313,28,1,7,Latina ,8,Espa?ol ,female,Other (write in),Master or equivalent
+314,23,2,7,latino/ hispano,7,espa?ol,male,Other (write in),Bachelor or equivalent
+315,21,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+316,34,2,7,latino,8,espa?ol,male,Other (write in),Master or equivalent
+317,25,1,7,Latino,8,Spanish,female,Other (write in),Master or equivalent
+318,23,2,7,Hispano,6,Spanish,male,Other (write in),Short-cycle tertiary education
+319,25,1,2,,8,Espa?ol ,female,White,Master or equivalent
+320,24,2,2,,6,Espa?ol,male,White,Short-cycle tertiary education
+321,31,1,7,Mestiza,8,Espa?ol ,female,Other (write in),Master or equivalent
+322,38,1,2,,8,espa?ol,female,White,Master or equivalent
+323,33,2,2,,8,Espa?ol ,male,White,Master or equivalent
+324,22,1,7,Latina,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+325,21,1,7,Latino,4,Espa?ol,female,Other (write in),Upper secondary education
+326,26,2,7,Latino,8,spanish,male,Other (write in),Master or equivalent
+327,23,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+328,23,1,7,Latino,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+329,56,2,2,,8,Ingles,male,White,Master or equivalent
+330,25,2,2,,5,espa?ol,male,White,Post-secondary non-tertiary education
+331,27,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+333,28,1,2,,8,Espa?ol,female,White,Master or equivalent
+334,25,2,2,,8,Espanol,male,White,Master or equivalent
+335,25,1,7,Latino,8,Espa?ol,female,Other (write in),Master or equivalent
+336,22,2,2,,7,Espa?ol,male,White,Bachelor or equivalent
+337,20,2,7,Hispano,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+338,20,2,2,,4,espa?ol,male,White,Upper secondary education
+340,21,2,2,,7,Espa?ol,male,White,Bachelor or equivalent
+341,27,2,2,,7,Espa?ol,male,White,Bachelor or equivalent
+342,36,2,1,,8,Espa?ol,male,Asian,Master or equivalent
+343,26,1,7,Hispano,8,Espa?ol,female,Other (write in),Master or equivalent
+344,29,2,7,Mestizo,8,Espa?ol ,male,Other (write in),Master or equivalent
+345,28,2,2,,5,Espa?ol,male,White,Post-secondary non-tertiary education
+346,22,1,2,,7,Espa?ol,female,White,Bachelor or equivalent
+347,25,2,7,hispano,7,espa?ol,male,Other (write in),Bachelor or equivalent
+348,46,1,7,Latino,8,Espa?ol,female,Other (write in),Master or equivalent
+349,27,2,2,,7,Espa?ol,male,White,Bachelor or equivalent
+350,24,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+351,48,1,7,Hidpano,8,Espa?ol,female,Other (write in),Master or equivalent
+352,29,2,2,,8,Espa?ol,male,White,Master or equivalent
+353,26,2,2,,8,Espa?ol,male,White,Master or equivalent
+354,35,1,7,Latino,8,Espa?ol,female,Other (write in),Master or equivalent
+355,20,1,7,Latino,5,Espa?ol,female,Other (write in),Post-secondary non-tertiary education
+356,26,1,7,Latina ,8,Espa?ol ,female,Other (write in),Master or equivalent
+357,22,2,7,Latino,5,Espa?ol,male,Other (write in),Post-secondary non-tertiary education
+358,31,2,4,,8,Hindi ,male,"South Asian Indian, Pakistani, etc.",Master or equivalent
+359,32,1,2,,8,Espa?ol,female,White,Master or equivalent
+360,25,1,7,Latina,8,Espa?ol,female,Other (write in),Master or equivalent
+361,23,1,7,Latino,8,Espa?ol,female,Other (write in),Master or equivalent
+362,22,2,7,latino,7,espa?ol,male,Other (write in),Bachelor or equivalent
+363,20,1,7,Latina ,5,Espa?ol ,female,Other (write in),Post-secondary non-tertiary education
+364,21,1,7,Latina,7,Mexicano,female,Other (write in),Bachelor or equivalent
+365,28,1,2,,8,German,female,White,Master or equivalent
+366,25,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+367,24,2,7,Mestizo,7,Ingles,male,Other (write in),Bachelor or equivalent
+368,27,2,7,"Hispano, Latino",8,Espa?ol,male,Other (write in),Master or equivalent
+369,21,1,2,,7,Espanol,female,White,Bachelor or equivalent
+371,26,2,2,,5,espanol,male,White,Post-secondary non-tertiary education
+372,23,2,7,LATINO,8,ESPA?OL,male,Other (write in),Master or equivalent
+373,51,2,2,,8,Espa?ol,male,White,Master or equivalent
+374,22,2,7,Hispano,5,Espa?ol,male,Other (write in),Post-secondary non-tertiary education
+375,21,2,3,,7,Espa?ol,male,Black,Bachelor or equivalent
+376,25,2,7,Hispano ,8,Espa?ol ,male,Other (write in),Master or equivalent
+377,27,1,7,Latino ,8,Espa?ol,female,Other (write in),Master or equivalent
+378,27,2,7,Hispano,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+379,21,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+381,28,2,2,,8,Espa?ol ,male,White,Master or equivalent
+382,28,2,7,Hispano,8,Espa?ol,male,Other (write in),Master or equivalent
+383,32,2,7,Hispano,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+384,24,2,7,Hispano,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+385,29,2,7,Hispano ,8,Espa?ol ,male,Other (write in),Master or equivalent
+386,23,2,7,Hispanoamericano,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+387,34,2,7,Latino,8,Espa?ol ,male,Other (write in),Master or equivalent
+388,23,2,2,,8,Espa?ol ,male,White,Master or equivalent
+389,27,2,2,,8,Espa?ol,male,White,Master or equivalent
+390,30,1,7,Latina,8,Espa?ol,female,Other (write in),Master or equivalent
+391,30,2,7,Latino,8,Spanish,male,Other (write in),Master or equivalent
+393,23,2,2,,8,Espa?ol,male,White,Master or equivalent
+394,31,2,7,Hispano,8,Espa?ol,male,Other (write in),Master or equivalent
+395,20,1,7,Latino,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+396,27,1,7,Latino,7,Spanish ,female,Other (write in),Bachelor or equivalent
+397,21,1,7,Latino,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+398,21,1,2,,6,Espa?ol,female,White,Short-cycle tertiary education
+399,39,1,7,Hispano,8,Espa?ol,female,Other (write in),Master or equivalent
+400,36,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+401,32,2,7,Latino / Hispano,8,Espa?ol,male,Other (write in),Master or equivalent
+402,20,2,7,latino,4,espa?ol,male,Other (write in),Upper secondary education
+403,44,2,7,Latino,5,Espa?ol,male,Other (write in),Post-secondary non-tertiary education
+404,24,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+405,26,1,7,Hispano,8,Espa?ol,female,Other (write in),Master or equivalent
+407,21,1,7,Mexican,7,Spanish,female,Other (write in),Bachelor or equivalent
+408,30,2,2,,8,Espa?ol,male,White,Master or equivalent
+409,19,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+410,24,1,2,,7,Espa?ol,female,White,Bachelor or equivalent
+412,21,1,7,Latina,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+413,25,2,7,Latino ,6,Espa?ol ,male,Other (write in),Short-cycle tertiary education
+414,22,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+415,30,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+416,33,1,2,,8,espa?ol,female,White,Master or equivalent
+417,23,2,7,latino/ hispano,7,espa?ol,male,Other (write in),Bachelor or equivalent
+418,34,2,7,latino,8,espa?ol,male,Other (write in),Master or equivalent
+419,23,1,7,Latino,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+420,33,2,2,,6,Espa?ol ,male,White,Short-cycle tertiary education
+421,25,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+422,28,1,2,,8,Espa?ol,female,White,Master or equivalent
+423,24,2,2,,7,Espa?ol,male,White,Bachelor or equivalent
+424,21,2,2,,7,Espa?ol,male,White,Bachelor or equivalent
+426,26,1,7,Latina ,8,Espa?ol ,female,Other (write in),Master or equivalent
+427,23,2,2,,7,Espa?ol,male,White,Bachelor or equivalent
+428,23,1,7,Latino,8,Espa?ol,female,Other (write in),Master or equivalent
+429,22,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+430,26,2,2,,8,espa?ol,male,White,Master or equivalent
+431,32,2,2,,8,Castellano,male,White,Master or equivalent
+432,22,1,7,hispano,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+433,29,2,2,,8,Spanish,male,White,Master or equivalent
+434,26,1,2,,8,Inglés ,female,White,Master or equivalent
+435,30,1,7,Latina,8,Espa?ol,female,Other (write in),Master or equivalent
+436,22,1,7,Latino,7,espa?ol,female,Other (write in),Bachelor or equivalent
+437,24,1,2,,8,Espa?ol,female,White,Master or equivalent
+438,22,2,7,Latino,7,Espa?ol ,male,Other (write in),Bachelor or equivalent
+439,32,2,7,Hispano,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+440,23,1,2,,7,Espa?ol,female,White,Bachelor or equivalent
+441,21,1,7,Latino,4,Espa?ol,female,Other (write in),Upper secondary education
+442,24,1,2,,5,espa?ol,female,White,Post-secondary non-tertiary education
+443,24,2,7,hispano,7,espa?ol,male,Other (write in),Bachelor or equivalent
+445,33,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+446,21,2,7,Latino,5,Espa?ol,male,Other (write in),Post-secondary non-tertiary education
+447,20,2,2,,7,espa?ol,male,White,Bachelor or equivalent
+449,23,1,7,Latin/Mixed,6,Espa?ol,female,Other (write in),Short-cycle tertiary education
+450,24,1,2,,8,espa?ol,female,White,Master or equivalent
+451,26,1,7,Latina,5,Espa?ol // Inglés,female,Other (write in),Post-secondary non-tertiary education
+452,26,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+453,27,1,7,Hispano,5,Espa?ol ,female,Other (write in),Post-secondary non-tertiary education
+454,36,1,7,Latina,8,Espa?ol,female,Other (write in),Master or equivalent
+455,22,2,2,,8,Espa?ol ,male,White,Master or equivalent
+456,20,1,2,,6,Espa?ol,female,White,Short-cycle tertiary education
+457,36,2,7,Hispano,8,Espa?ol,male,Other (write in),Master or equivalent
+458,43,2,2,,4,Espa?ol e inglés por igual,male,White,Upper secondary education
+459,27,2,2,,8,Espa?ol,male,White,Master or equivalent
+461,30,1,2,,8,Espa?ol ,female,White,Master or equivalent
+462,45,1,2,,6,Espa?ol,female,White,Short-cycle tertiary education
+463,27,2,7,latino,6,espa?ol,male,Other (write in),Short-cycle tertiary education
+464,25,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+465,25,2,2,,8,espa?ol,male,White,Master or equivalent
+466,24,2,7,latino,8,espa?ol,male,Other (write in),Master or equivalent
+467,24,1,7,Latinoamericano ,6,espa?ol,female,Other (write in),Short-cycle tertiary education
+468,25,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+470,23,1,2,,8,Espa?ol,female,White,Master or equivalent
+471,26,2,2,,8,Espa?ol,male,White,Master or equivalent
+472,55,1,2,,8,Espa?ol,female,White,Master or equivalent
+473,24,1,7,Latino,8,Espa?ol,female,Other (write in),Master or equivalent
+474,29,1,7,latino,7,espa?ol,female,Other (write in),Bachelor or equivalent
+476,19,1,2,,7,Espa?ol,female,White,Bachelor or equivalent
+477,22,1,7,Latina,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+478,19,1,7,latina ,4,espa?ol,female,Other (write in),Upper secondary education
+479,25,1,7,Latino,8,Espa?ol,female,Other (write in),Master or equivalent
+480,24,2,2,,7,Espa?ol,male,White,Bachelor or equivalent
+481,26,1,7,Latina/Hispana,8,Espa?ol,female,Other (write in),Master or equivalent
+482,24,1,7,Latinoamericana,8,Espa?ol,female,Other (write in),Master or equivalent
+483,25,1,2,,8,Espa?ol,female,White,Master or equivalent
+484,50,1,7,hispano,8,espa?ol,female,Other (write in),Master or equivalent
+485,26,1,7,latina,7,spanish,female,Other (write in),Bachelor or equivalent
+486,25,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+487,42,1,7,Latino,8,Espa?ol,female,Other (write in),Master or equivalent
+488,27,1,2,,8,Espa?ol,female,White,Master or equivalent
+489,23,2,7,Latino,8,Espa?ol ,male,Other (write in),Master or equivalent
+490,43,2,7,Latino,8,Espa?ol ,male,Other (write in),Master or equivalent
+491,23,1,7,hispana,8,Espa?ol,female,Other (write in),Master or equivalent
+492,32,1,7,Latina,8,Espa?ol,female,Other (write in),Master or equivalent
+493,24,1,7,Latino,8,Espa?ol,female,Other (write in),Master or equivalent
+494,25,2,2,,6,Espa?ol,male,White,Short-cycle tertiary education
+496,21,1,7,Latina,4,Espa?ol,female,Other (write in),Upper secondary education
+497,37,1,2,,7,espa?ol,female,White,Bachelor or equivalent
+499,30,1,7,Latino,8,Espa?ol,female,Other (write in),Master or equivalent
+500,33,2,7,latino,8,espanol,male,Other (write in),Master or equivalent
+501,39,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+502,35,1,2,,8,espa?ol,female,White,Master or equivalent
+503,24,1,7,Latinoamericano,8,Espa?ol,female,Other (write in),Master or equivalent
+504,21,2,2,,7,Espa?ol ,male,White,Bachelor or equivalent
+505,23,2,7,Hispanoamericano,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+507,33,2,7,latino,7,espa?ol,male,Other (write in),Bachelor or equivalent
+508,31,2,7,mexicano,8,espa?ol,male,Other (write in),Master or equivalent
+509,23,2,7,Mexicano / Latino / Hispano,8,Espa?ol,male,Other (write in),Master or equivalent
+510,30,1,7,Latino,8,Espa?ol,female,Other (write in),Master or equivalent
+511,26,1,7,LATINO,8,ESPA?OL,female,Other (write in),Master or equivalent
+512,23,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+513,25,1,2,,8,Espa?ol,female,White,Master or equivalent
+514,22,2,2,,7,espa?ol,male,White,Bachelor or equivalent
+515,30,2,7,latino,8,espa?ol,male,Other (write in),Master or equivalent
+516,56,2,2,,8,Ingles,male,White,Master or equivalent
+517,28,1,7,Latina,8,Espa?ol,female,Other (write in),Master or equivalent
+518,23,2,2,,8,Espa?ol,male,White,Master or equivalent
+519,34,1,7,Latino,8,Espa?ol,female,Other (write in),Master or equivalent
+521,18,2,2,,5,Spanish,male,White,Post-secondary non-tertiary education
+522,25,1,7,Latino,8,Spanish,female,Other (write in),Master or equivalent
+524,27,2,7,Latinoamericano,8,Espa?ol,male,Other (write in),Master or equivalent
+525,27,2,7,latina,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+526,22,1,7,Latina,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+527,31,2,7,Hispano,8,Espa?ol,male,Other (write in),Master or equivalent
+528,24,1,7,Latino,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+529,25,1,7,Latino,8,Espa?ol,female,Other (write in),Master or equivalent
+530,38,1,2,,8,espa?ol,female,White,Master or equivalent
+532,25,2,2,,8,Espanol,male,White,Master or equivalent
+533,20,2,2,,4,espa?ol,male,White,Upper secondary education
+534,26,1,7,Latino,8,spanish,female,Other (write in),Master or equivalent
+535,30,1,7,Hispano,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+536,26,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+538,39,2,7,Hispano,8,Espa?ol ,male,Other (write in),Master or equivalent
+539,23,2,7,Latino ,7,Espa?ol ,male,Other (write in),Bachelor or equivalent
+540,63,1,2,,8,Espa?ol,female,White,Master or equivalent
+541,20,1,7,Latino,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+542,20,2,2,,7,Espa?ol ,male,White,Bachelor or equivalent
+543,29,2,7,Mestizo,8,Espa?ol,male,Other (write in),Master or equivalent
+544,28,2,2,,5,Espa?ol,male,White,Post-secondary non-tertiary education
+545,26,1,7,hispano,8,Espa?ol,female,Other (write in),Master or equivalent
+546,25,2,7,hispano,7,espa?ol,male,Other (write in),Bachelor or equivalent
+547,38,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+548,19,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+549,21,1,2,,7,Espa?ol,female,White,Bachelor or equivalent
+551,24,1,7,Latina,7,espa?ol,female,Other (write in),Bachelor or equivalent
+552,37,2,7,Mestizo,8,Espanol,male,Other (write in),Master or equivalent
+553,49,2,7,HISPANO,8,ESPA?OL,male,Other (write in),Master or equivalent
+554,24,1,2,,6,Espa?ol,female,White,Short-cycle tertiary education
+555,25,1,7,Latina,8,Espa?ol,female,Other (write in),Master or equivalent
+556,63,2,7,Mestiza,8,Espa?ol,male,Other (write in),Master or equivalent
+557,35,1,2,,4,english,female,White,Upper secondary education
+558,22,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+559,36,2,7,Latino ,8,Espa?ol ,male,Other (write in),Master or equivalent
+560,26,2,2,,8,Espa?ol,male,White,Master or equivalent
+561,22,1,2,,7,Espa?ol ,female,White,Bachelor or equivalent
+562,35,1,7,Latino,8,Espa?ol,female,Other (write in),Master or equivalent
+563,26,1,2,,6,Espa?ol,female,White,Short-cycle tertiary education
+564,29,2,2,,8,Espa?ol,male,White,Master or equivalent
+565,30,1,2,,8,Espa?ol ,female,White,Master or equivalent
+566,20,1,7,Latino,5,Espa?ol,female,Other (write in),Post-secondary non-tertiary education
+567,48,1,7,Hispano,8,Espa?ol,female,Other (write in),Master or equivalent
+568,26,1,7,hispano,8,espa?ol,female,Other (write in),Master or equivalent
+569,32,1,2,,8,Espa?ol,female,White,Master or equivalent
+570,22,2,7,Latinoamericano,5,Espa?ol,male,Other (write in),Post-secondary non-tertiary education
+571,22,2,7,latino,6,espa?ol,male,Other (write in),Short-cycle tertiary education
+572,33,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+573,28,1,2,,8,German ,female,White,Master or equivalent
+574,25,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+575,27,2,7,"Hispano, Latino",8,Espa?ol,male,Other (write in),Master or equivalent
+576,22,1,7,Latino,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+577,26,2,2,,5,espanol,male,White,Post-secondary non-tertiary education
+578,20,1,7,Latina/hispana ,5,Espa?ol,female,Other (write in),Post-secondary non-tertiary education
+579,51,2,2,,8,Espa?ol,male,White,Master or equivalent
+580,21,1,2,,7,Espa?ol,female,White,Bachelor or equivalent
+581,22,2,7,Hispano,5,Espa?ol,male,Other (write in),Post-secondary non-tertiary education
+582,21,2,3,,7,Espa?ol,male,Black,Bachelor or equivalent
+583,25,2,7,Hispano ,8,Espa?ol ,male,Other (write in),Master or equivalent
+585,27,2,7,Hispano,7,espa?ol,male,Other (write in),Bachelor or equivalent
+586,29,2,7,Hispano ,8,Espa?ol ,male,Other (write in),Master or equivalent
+587,21,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+588,28,1,7,Latino/Hispano,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+589,19,2,3,,5,Espa?ol,male,Black,Post-secondary non-tertiary education
+591,19,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+592,25,2,7,latinoamericano,6,Espa?ol,male,Other (write in),Short-cycle tertiary education
+593,25,1,7,Latino,8,spanish,female,Other (write in),Master or equivalent
+594,29,1,7,Latina/Hispana,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+595,21,1,7,Latino,7,Espa?ol,female,Other (write in),Bachelor or equivalent
+596,49,2,7,Latino,7,Espa?ol,male,Other (write in),Bachelor or equivalent
+597,27,2,2,,7,Espá?ol,male,White,Bachelor or equivalent
+598,24,2,7,Latino,8,Espa?ol,male,Other (write in),Master or equivalent
+599,26,1,7,Hispano,8,Spanish,female,Other (write in),Master or equivalent
+600,33,1,2,,8,Spanish,female,White,Master or equivalent

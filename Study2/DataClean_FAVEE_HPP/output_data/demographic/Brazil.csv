@@ -1,0 +1,587 @@
+,Age,Gender,Race,Race_alternative,Highest education,First language,Gender_label,Highest education_label
+0,25,2,1,,5,Portugues,male,Bachelor or equivalent
+2,28,1,1,,6,portugues,female,Master or equivalent
+3,25,1,2,,5,Portugues,female,Bachelor or equivalent
+4,47,1,2,,5,Português,female,Bachelor or equivalent
+5,30,1,1,,5,portugues,female,Bachelor or equivalent
+6,31,1,1,,5,Português,female,Bachelor or equivalent
+7,28,1,3,,5,Português,female,Bachelor or equivalent
+8,22,2,1,,5,portugues,male,Bachelor or equivalent
+9,21,2,3,,5,portugues,male,Bachelor or equivalent
+10,27,1,1,,5,portugues,female,Bachelor or equivalent
+11,24,2,3,,5,portuguese,male,Bachelor or equivalent
+12,46,1,1,,6,Português,female,Master or equivalent
+13,23,2,2,,5,portugues,male,Bachelor or equivalent
+14,37,2,1,,5,Português,male,Bachelor or equivalent
+15,22,2,1,,4,Portugues,male,Upper secondary education
+17,40,2,1,,5,Português,male,Bachelor or equivalent
+18,27,2,3,,4,Português ,male,Upper secondary education
+19,25,2,2,,5,Português,male,Bachelor or equivalent
+20,27,2,1,,4,Português,male,Upper secondary education
+21,34,1,1,,5,Português,female,Bachelor or equivalent
+22,34,2,1,,5,Português,male,Bachelor or equivalent
+23,31,2,1,,5,portugues,male,Bachelor or equivalent
+24,31,2,1,,4,Portugues,male,Upper secondary education
+25,26,2,1,,5,Português ,male,Bachelor or equivalent
+26,38,2,1,,5,português ,male,Bachelor or equivalent
+27,35,2,2,,5,Português,male,Bachelor or equivalent
+28,27,1,1,,5,portugues,female,Bachelor or equivalent
+29,46,1,1,,7,Português,female,Doctoral or equivalent
+32,31,2,1,,5,Portuguese ,male,Bachelor or equivalent
+33,30,2,1,,4,português ,male,Upper secondary education
+34,33,1,3,,5,Português,female,Bachelor or equivalent
+35,29,2,2,,5,portugues,male,Bachelor or equivalent
+36,28,1,1,,4,portugues,female,Upper secondary education
+37,40,2,1,,5,Português,male,Bachelor or equivalent
+38,32,1,1,,4,portugues,female,Upper secondary education
+39,58,2,2,,4,português,male,Upper secondary education
+40,33,2,3,,7,Português,male,Doctoral or equivalent
+41,27,2,3,,4,Português ,male,Upper secondary education
+42,33,2,1,,5,Português,male,Bachelor or equivalent
+43,31,2,1,,4,Portugues,male,Upper secondary education
+44,27,1,3,,5,Português ,female,Bachelor or equivalent
+46,22,2,1,,5,Portugues,male,Bachelor or equivalent
+47,31,2,1,,5,portugues,male,Bachelor or equivalent
+49,31,2,1,,5,Português Brasil,male,Bachelor or equivalent
+50,40,1,1,,5,Portuguesa,female,Bachelor or equivalent
+51,30,2,3,,5,Português,male,Bachelor or equivalent
+52,47,1,3,,4,Português,female,Upper secondary education
+53,36,1,1,,5,portugues ,female,Bachelor or equivalent
+54,39,2,1,,5,portuguesa,male,Bachelor or equivalent
+55,26,2,1,,5,Português ,male,Bachelor or equivalent
+56,25,1,1,,5,Português,female,Bachelor or equivalent
+57,22,2,1,,4,Português,male,Upper secondary education
+58,67,2,1,,5,portugues,male,Bachelor or equivalent
+59,18,2,1,,4,Português,male,Upper secondary education
+60,26,2,3,,5,Português ,male,Bachelor or equivalent
+61,27,2,3,,4,Português ,male,Upper secondary education
+62,42,2,1,,5,Portuguese ,male,Bachelor or equivalent
+63,41,2,1,,4,Brazilian Portuguese,male,Upper secondary education
+64,44,1,1,,4,Portugues,female,Upper secondary education
+66,28,1,5,,5,português,female,Bachelor or equivalent
+68,27,2,3,,5,portuguese,male,Bachelor or equivalent
+69,50,1,1,,4,portugues,female,Upper secondary education
+70,32,2,1,,6,portuguese,male,Master or equivalent
+71,24,2,3,,4,Português ,male,Upper secondary education
+73,23,2,3,,5,POrtugues,male,Bachelor or equivalent
+74,34,2,4,,5,Português,male,Bachelor or equivalent
+75,47,1,2,,5,Português,female,Bachelor or equivalent
+76,30,2,3,,4,Português ,male,Upper secondary education
+77,38,2,4,,4,Portugues,male,Upper secondary education
+78,28,1,1,,5,português,female,Bachelor or equivalent
+79,27,2,1,,4,Português,male,Upper secondary education
+80,30,2,3,,5,Português,male,Bachelor or equivalent
+81,25,2,1,,6,Português ,male,Master or equivalent
+82,24,1,1,,5,Portugues,female,Bachelor or equivalent
+83,28,2,1,,5,Português,male,Bachelor or equivalent
+84,32,1,1,,4,portuguese,female,Upper secondary education
+85,54,1,1,,6,Portuguese,female,Master or equivalent
+86,28,1,1,,4,portuguese,female,Upper secondary education
+87,29,2,2,,4,portuguese,male,Upper secondary education
+88,38,2,1,,5,português ,male,Bachelor or equivalent
+89,23,2,1,,4,Português,male,Upper secondary education
+90,27,1,1,,5,portugues,female,Bachelor or equivalent
+91,33,1,3,,5,Português,female,Bachelor or equivalent
+92,29,2,3,,5,Portugues,male,Bachelor or equivalent
+93,34,1,1,,5,português,female,Bachelor or equivalent
+94,33,1,1,,4,Português,female,Upper secondary education
+95,57,2,2,,4,português,male,Upper secondary education
+96,46,1,1,,7,Português,female,Doctoral or equivalent
+97,25,2,1,,5,Português,male,Bachelor or equivalent
+98,41,2,2,,6,Portuguese,male,Master or equivalent
+99,27,2,3,,4,Português ,male,Upper secondary education
+100,38,2,1,,5,portugues brasil,male,Bachelor or equivalent
+101,31,2,1,,5,português,male,Bachelor or equivalent
+102,40,2,1,,5,Português,male,Bachelor or equivalent
+103,24,2,1,,5,portuguese,male,Bachelor or equivalent
+104,39,1,1,,5,Português,female,Bachelor or equivalent
+105,32,2,2,,4,Português,male,Upper secondary education
+106,42,1,3,,5,português do Brasil ,female,Bachelor or equivalent
+107,27,2,1,,5,português,male,Bachelor or equivalent
+108,28,2,1,,4,Português,male,Upper secondary education
+109,25,2,1,,5,Portugues,male,Bachelor or equivalent
+110,32,1,2,,5,Brasileiro,female,Bachelor or equivalent
+112,40,1,1,,5,portugues,female,Bachelor or equivalent
+113,27,2,2,,4,Português - BR,male,Upper secondary education
+114,50,2,1,,5,Português,male,Bachelor or equivalent
+115,23,2,1,,5,Português,male,Bachelor or equivalent
+116,26,2,1,,6,Português,male,Master or equivalent
+117,23,2,1,,5,Português,male,Bachelor or equivalent
+118,47,1,3,,5,Português ,female,Bachelor or equivalent
+120,29,2,1,,5,Português,male,Bachelor or equivalent
+121,24,2,1,,4,português,male,Upper secondary education
+122,40,1,2,,5,portugues,female,Bachelor or equivalent
+125,32,2,1,,6,Português,male,Master or equivalent
+127,47,1,2,,5,Português,female,Bachelor or equivalent
+128,26,1,2,,5,português,female,Bachelor or equivalent
+129,31,1,1,,5,Português,female,Bachelor or equivalent
+130,24,1,1,,5,Portuguese,female,Bachelor or equivalent
+131,27,1,1,,4,portugues,female,Upper secondary education
+132,38,2,1,,5,portuguesa,male,Bachelor or equivalent
+133,33,2,1,,5,Portugues,male,Bachelor or equivalent
+134,22,1,3,,5,Brasileira,female,Bachelor or equivalent
+135,35,2,2,,5,Português,male,Bachelor or equivalent
+136,23,2,3,,5,Português,male,Bachelor or equivalent
+137,24,1,1,,5,Portugues,female,Bachelor or equivalent
+138,43,2,1,,5,Portuguese,male,Bachelor or equivalent
+139,36,1,1,,5,português,female,Bachelor or equivalent
+140,25,1,2,,5,Português,female,Bachelor or equivalent
+141,35,1,1,,5,Portugues,female,Bachelor or equivalent
+142,40,2,3,,4,Portuguese,male,Upper secondary education
+143,21,2,3,,4,Portuguese,male,Upper secondary education
+145,22,1,1,,4,Português,female,Upper secondary education
+146,35,2,1,,5,Português ,male,Bachelor or equivalent
+147,21,2,1,,5,Português,male,Bachelor or equivalent
+148,28,2,3,,5,Português ,male,Bachelor or equivalent
+149,27,2,3,,5,Português ,male,Bachelor or equivalent
+150,24,2,3,,5,Português ,male,Bachelor or equivalent
+151,29,2,1,,5,portugues,male,Bachelor or equivalent
+152,33,1,1,,5,Português,female,Bachelor or equivalent
+154,30,1,1,,5,portugues,female,Bachelor or equivalent
+155,27,2,3,,5,Português,male,Bachelor or equivalent
+156,28,1,1,,6,portugues,female,Master or equivalent
+157,26,2,1,,5,Português,male,Bachelor or equivalent
+158,33,1,3,,5,Português,female,Bachelor or equivalent
+159,31,2,1,,5,portugues,male,Bachelor or equivalent
+160,29,2,1,,5,portugues,male,Bachelor or equivalent
+161,59,2,1,,6,portugues,male,Master or equivalent
+163,28,2,3,,4,português,male,Upper secondary education
+164,27,2,3,,4,português,male,Upper secondary education
+165,39,2,1,,6,Portuguese,male,Master or equivalent
+166,42,2,1,,5,Português ,male,Bachelor or equivalent
+167,21,1,1,,5,Portugues,female,Bachelor or equivalent
+168,54,1,1,,6,Portugues,female,Master or equivalent
+169,40,1,1,,5,Portuguesa,female,Bachelor or equivalent
+170,49,1,3,,6,PORTUGUESE,female,Master or equivalent
+171,37,2,1,,5,Português,male,Bachelor or equivalent
+172,37,2,1,,4,portugues,male,Upper secondary education
+173,33,1,3,,5,Português,female,Bachelor or equivalent
+174,26,1,1,,5,Portugues,female,Bachelor or equivalent
+175,34,1,1,,5,português,female,Bachelor or equivalent
+176,32,1,1,,5,Português,female,Bachelor or equivalent
+177,28,1,3,,5,Portuguese,female,Bachelor or equivalent
+178,25,2,1,,5,Português,male,Bachelor or equivalent
+179,27,1,1,,4,portugues,female,Upper secondary education
+180,31,2,1,,5,Portuguese,male,Bachelor or equivalent
+181,30,2,3,,5,Português,male,Bachelor or equivalent
+182,23,2,2,,5,português,male,Bachelor or equivalent
+183,21,2,1,,4,portugues,male,Upper secondary education
+184,43,2,1,,6,Português,male,Master or equivalent
+185,47,1,1,,7,Português,female,Doctoral or equivalent
+186,22,2,1,,5,Portugues,male,Bachelor or equivalent
+187,24,1,3,,5,Português,female,Bachelor or equivalent
+189,21,1,1,,5,português,female,Bachelor or equivalent
+190,40,2,1,,6,Português ,male,Master or equivalent
+191,33,1,1,,4,portugues,female,Upper secondary education
+193,47,1,1,,5,Portugues,female,Bachelor or equivalent
+194,23,2,1,,4,portugues,male,Upper secondary education
+195,30,2,1,,4,português ,male,Upper secondary education
+196,23,1,1,,5,português,female,Bachelor or equivalent
+197,22,2,1,,4,Portugues,male,Upper secondary education
+198,41,2,2,,6,Portugues,male,Master or equivalent
+199,35,2,1,,4,PORTUGUES,male,Upper secondary education
+200,31,2,1,,4,Português,male,Upper secondary education
+201,47,1,3,,4,Portugues,female,Upper secondary education
+202,27,2,3,,4,Português ,male,Upper secondary education
+203,35,2,1,,4,PORTUGUêS,male,Upper secondary education
+204,29,1,1,,6,Português,female,Master or equivalent
+205,42,2,1,,5,Portuguese ,male,Bachelor or equivalent
+206,24,2,1,,5,portugues,male,Bachelor or equivalent
+207,38,2,1,,5,Portuguese,male,Bachelor or equivalent
+208,28,2,3,,5,Portugues,male,Bachelor or equivalent
+209,25,2,1,,4,Português,male,Upper secondary education
+211,29,2,1,,5,Português,male,Bachelor or equivalent
+212,47,1,3,,7,Português,female,Doctoral or equivalent
+213,25,2,1,,4,portuguese,male,Upper secondary education
+214,40,2,1,,5,Português,male,Bachelor or equivalent
+215,40,2,3,,4,portuguese,male,Upper secondary education
+216,33,1,3,,5,Português,female,Bachelor or equivalent
+217,36,1,1,,4,portugues,female,Upper secondary education
+218,38,2,4,,4,Portugues,male,Upper secondary education
+219,40,2,1,,5,portuguesa,male,Bachelor or equivalent
+220,22,2,1,,5,portugues,male,Bachelor or equivalent
+221,31,2,1,,5,PORTUGUESE,male,Bachelor or equivalent
+222,50,2,3,,7,PORTUGUESE,male,Doctoral or equivalent
+223,27,1,1,,5,português ,female,Bachelor or equivalent
+224,27,2,3,,4,Português ,male,Upper secondary education
+225,29,1,1,,4,português ,female,Upper secondary education
+226,42,2,1,,5,Portugues,male,Bachelor or equivalent
+227,34,2,1,,5,Português,male,Bachelor or equivalent
+228,35,1,1,,5,Portugues,female,Bachelor or equivalent
+229,25,2,1,,6,portugues,male,Master or equivalent
+230,28,2,3,,5,Português,male,Bachelor or equivalent
+231,23,2,2,,5,portugues,male,Bachelor or equivalent
+232,41,2,2,,6,Portuguese,male,Master or equivalent
+233,22,2,1,,4,portugues,male,Upper secondary education
+234,50,1,1,,4,portugues,female,Upper secondary education
+235,50,1,1,,4,portugues,female,Upper secondary education
+236,27,2,3,,5,Português,male,Bachelor or equivalent
+237,25,2,1,,7,Português ,male,Doctoral or equivalent
+238,39,2,1,,5,portuguesa,male,Bachelor or equivalent
+239,25,2,1,,5,Portugues,male,Bachelor or equivalent
+240,38,2,1,,5,português ,male,Bachelor or equivalent
+241,32,2,1,,5,português,male,Bachelor or equivalent
+242,51,1,1,,4,portugues,female,Upper secondary education
+243,23,2,2,,5,Português ,male,Bachelor or equivalent
+244,31,2,1,,4,Portugues,male,Upper secondary education
+245,30,2,3,,5,Português,male,Bachelor or equivalent
+246,28,2,3,,4,Português ,male,Upper secondary education
+247,26,2,3,,5,Português ,male,Bachelor or equivalent
+248,26,2,1,,5,Portugues,male,Bachelor or equivalent
+249,47,1,2,,5,Português ,female,Bachelor or equivalent
+250,42,2,1,,5,Português,male,Bachelor or equivalent
+251,22,2,1,,5,Portugues,male,Bachelor or equivalent
+252,25,2,1,,5,PORTUGUES,male,Bachelor or equivalent
+253,38,2,4,,4,Portugues,male,Upper secondary education
+254,40,2,3,,4,Portuguese,male,Upper secondary education
+255,36,1,1,,5,Português,female,Bachelor or equivalent
+256,32,2,1,,6,português,male,Master or equivalent
+257,25,2,1,,4,Português,male,Upper secondary education
+258,36,1,1,,5,portugues,female,Bachelor or equivalent
+259,21,2,1,,5,Português,male,Bachelor or equivalent
+260,35,1,1,,5,Portugues,female,Bachelor or equivalent
+261,50,2,1,,5,Português,male,Bachelor or equivalent
+262,22,1,2,,5,Portuguese,female,Bachelor or equivalent
+263,26,2,3,,5,Português ,male,Bachelor or equivalent
+264,29,2,1,,5,Português,male,Bachelor or equivalent
+265,28,1,3,,5,Portuguese,female,Bachelor or equivalent
+267,28,2,1,,5,Portugues ,male,Bachelor or equivalent
+268,21,2,3,,4,Português Brasileiro,male,Upper secondary education
+269,27,1,1,,5,portugues,female,Bachelor or equivalent
+270,22,2,1,,5,portugues,male,Bachelor or equivalent
+271,23,2,2,,5,PORTUGUES,male,Bachelor or equivalent
+272,22,2,1,,4,PORTUGUES,male,Upper secondary education
+273,31,2,1,,5,Portuguese,male,Bachelor or equivalent
+274,23,2,1,,4,Português,male,Upper secondary education
+275,22,2,1,,4,PORTUGUES,male,Upper secondary education
+276,27,2,3,,4,Português ,male,Upper secondary education
+277,31,2,1,,4,Portugues,male,Upper secondary education
+278,51,1,1,,4,portugues,female,Upper secondary education
+279,40,2,1,,5,Português ,male,Bachelor or equivalent
+280,33,1,3,,5,Português,female,Bachelor or equivalent
+281,50,1,1,,4,portugues,female,Upper secondary education
+282,46,1,1,,7,Português ,female,Doctoral or equivalent
+283,25,2,1,,7,Português ,male,Doctoral or equivalent
+284,41,2,2,,6,PORTUGUESE,male,Master or equivalent
+285,30,2,3,,5,Português,male,Bachelor or equivalent
+286,33,1,1,,5,PORTUGUES ,female,Bachelor or equivalent
+288,24,1,3,,5,Portuguese,female,Bachelor or equivalent
+289,27,2,3,,5,Português,male,Bachelor or equivalent
+290,19,1,1,,5,Português,female,Bachelor or equivalent
+292,39,2,1,,5,portuguesa,male,Bachelor or equivalent
+293,38,2,1,,5,português ,male,Bachelor or equivalent
+294,21,2,3,,4,português,male,Upper secondary education
+295,24,1,1,,6,Português,female,Master or equivalent
+296,38,2,1,,5,Portugues,male,Bachelor or equivalent
+297,46,1,1,,7,Português,female,Doctoral or equivalent
+298,51,1,1,,4,portugues,female,Upper secondary education
+300,22,1,3,,5,Português,female,Bachelor or equivalent
+301,36,1,1,,6,Portuguese,female,Master or equivalent
+302,33,2,6,Branco/Asiático,5,Português,male,Bachelor or equivalent
+303,24,1,3,,5,Português,female,Bachelor or equivalent
+304,32,2,1,,5,português,male,Bachelor or equivalent
+305,25,2,2,,5,Português,male,Bachelor or equivalent
+306,25,2,1,,7,Português ,male,Doctoral or equivalent
+307,29,2,1,,5,Português,male,Bachelor or equivalent
+309,31,2,1,,5,portuguese,male,Bachelor or equivalent
+310,40,2,1,,5,Português ,male,Bachelor or equivalent
+311,32,1,1,,5,português,female,Bachelor or equivalent
+312,33,1,1,,5,Português,female,Bachelor or equivalent
+313,41,2,2,,6,PORTUGUESE,male,Master or equivalent
+314,32,1,2,,5,Português,female,Bachelor or equivalent
+315,28,1,2,,5,portuguese,female,Bachelor or equivalent
+318,33,1,3,,5,Português,female,Bachelor or equivalent
+319,28,2,1,,4,Português,male,Upper secondary education
+320,25,2,1,,5,Portugues,male,Bachelor or equivalent
+321,38,2,4,,4,Portugues,male,Upper secondary education
+322,40,2,3,,4,Português,male,Upper secondary education
+323,33,1,3,,5,Português,female,Bachelor or equivalent
+324,25,2,1,,5,Portuguese,male,Bachelor or equivalent
+325,29,2,1,,5,Português,male,Bachelor or equivalent
+327,29,2,1,,5,portugues,male,Bachelor or equivalent
+328,30,2,3,,5,Portugues,male,Bachelor or equivalent
+329,34,2,1,,5,Português,male,Bachelor or equivalent
+330,27,1,1,,5,portugues,female,Bachelor or equivalent
+331,27,2,3,,5,portuguese,male,Bachelor or equivalent
+332,35,1,3,,4,português,female,Upper secondary education
+333,29,1,1,,5,português,female,Bachelor or equivalent
+334,28,1,1,,4,PORTUGUES,female,Upper secondary education
+335,29,2,2,,4,português,male,Upper secondary education
+336,39,2,1,,5,PORTUGUESA,male,Bachelor or equivalent
+337,27,2,3,,5,Português,male,Bachelor or equivalent
+338,31,2,1,,4,Português,male,Upper secondary education
+339,24,2,1,,5,português,male,Bachelor or equivalent
+340,29,2,1,,5,Português,male,Bachelor or equivalent
+341,33,2,2,,4,Português,male,Upper secondary education
+342,38,2,4,,4,Portugues,male,Upper secondary education
+343,33,2,1,,5,português,male,Bachelor or equivalent
+344,51,1,2,,5,Portugues,female,Bachelor or equivalent
+345,31,2,3,,5,português ,male,Bachelor or equivalent
+346,29,2,3,,5,Português,male,Bachelor or equivalent
+347,40,2,3,,4,Português,male,Upper secondary education
+348,27,1,1,,5,portugues,female,Bachelor or equivalent
+350,25,2,1,,5,Português,male,Bachelor or equivalent
+351,25,2,1,,7,Português,male,Doctoral or equivalent
+352,29,2,1,,5,Português,male,Bachelor or equivalent
+353,33,1,3,,5,Português,female,Bachelor or equivalent
+354,46,1,1,,7,Português ,female,Doctoral or equivalent
+355,26,1,1,,6,Portuguese,female,Master or equivalent
+356,40,2,1,,5,Português,male,Bachelor or equivalent
+357,25,1,1,,5,Português,female,Bachelor or equivalent
+358,22,1,1,,5,Português,female,Bachelor or equivalent
+359,27,2,3,,4,Português ,male,Upper secondary education
+360,38,1,4,,5,Portugues,female,Bachelor or equivalent
+361,28,1,1,,5,Português,female,Bachelor or equivalent
+362,34,2,1,,5,Português,male,Bachelor or equivalent
+363,30,2,1,,5,Portuguese,male,Bachelor or equivalent
+365,29,2,3,,5,Portugues,male,Bachelor or equivalent
+366,27,2,3,,5,portuguese,male,Bachelor or equivalent
+367,29,1,1,,5,portugues,female,Bachelor or equivalent
+368,26,2,3,,5,português,male,Bachelor or equivalent
+369,31,2,1,,5,portuguese,male,Bachelor or equivalent
+370,34,2,1,,4,Português Brasileiro,male,Upper secondary education
+371,25,2,1,,4,Português,male,Upper secondary education
+372,26,1,2,,5,Português,female,Bachelor or equivalent
+373,21,2,1,,4,portugues,male,Upper secondary education
+374,41,2,3,,6,Portuguese,male,Master or equivalent
+375,30,2,1,,4,português,male,Upper secondary education
+376,25,2,3,,5,Português,male,Bachelor or equivalent
+377,25,2,1,,5,Portugues ,male,Bachelor or equivalent
+378,24,1,3,,5,Português brasileiro,female,Bachelor or equivalent
+379,34,2,3,,5,Portuguese,male,Bachelor or equivalent
+380,21,2,1,,5,Português ,male,Bachelor or equivalent
+381,25,2,1,,5,Portugues,male,Bachelor or equivalent
+382,31,2,1,,5,português,male,Bachelor or equivalent
+383,24,2,1,,5,portugues,male,Bachelor or equivalent
+384,37,2,1,,5,Português,male,Bachelor or equivalent
+385,24,2,1,,5,Português,male,Bachelor or equivalent
+386,27,2,3,,5,Português,male,Bachelor or equivalent
+388,47,1,3,,4,Português,female,Upper secondary education
+391,22,1,1,,5,Portugues,female,Bachelor or equivalent
+392,28,1,1,,5,portuguese,female,Bachelor or equivalent
+393,35,2,1,,4,Português,male,Upper secondary education
+394,57,2,2,,4,portugues,male,Upper secondary education
+395,33,1,3,,4,português,female,Upper secondary education
+396,32,1,1,,4,portugues,female,Upper secondary education
+397,33,1,1,,4,portugues,female,Upper secondary education
+398,28,1,1,,4,portugues,female,Upper secondary education
+400,29,2,2,,4,português,male,Upper secondary education
+401,35,1,1,,4,portugues,female,Upper secondary education
+402,37,2,1,,4,Portugues,male,Upper secondary education
+403,26,2,3,,5,Português ,male,Bachelor or equivalent
+404,31,2,1,,4,Português,male,Upper secondary education
+405,41,2,2,,6,Portuguese,male,Master or equivalent
+406,25,2,1,,7,Português ,male,Doctoral or equivalent
+407,34,2,1,,5,Português,male,Bachelor or equivalent
+408,39,2,1,,5,portuguesa,male,Bachelor or equivalent
+409,24,1,3,,5,Português,female,Bachelor or equivalent
+410,31,2,1,,5,portugues,male,Bachelor or equivalent
+411,46,2,3,,4,Português,male,Upper secondary education
+412,27,2,3,,5,Português,male,Bachelor or equivalent
+413,25,2,1,,5,Portugues,male,Bachelor or equivalent
+414,38,2,1,,5,português ,male,Bachelor or equivalent
+415,32,2,1,,5,português,male,Bachelor or equivalent
+416,25,2,1,,5,Portugues,male,Bachelor or equivalent
+417,50,1,1,,4,portugues,female,Upper secondary education
+418,25,2,1,,5,portugues,male,Bachelor or equivalent
+419,30,2,3,,5,Português,male,Bachelor or equivalent
+420,31,2,1,,4,Portugues,male,Upper secondary education
+421,23,2,2,,5,Português ,male,Bachelor or equivalent
+422,28,2,3,,4,Português ,male,Upper secondary education
+423,28,2,3,,4,Português ,male,Upper secondary education
+424,28,1,1,,5,Português ,female,Bachelor or equivalent
+425,31,2,1,,5,portuguese,male,Bachelor or equivalent
+426,31,2,1,,5,Portuguese,male,Bachelor or equivalent
+427,47,1,2,,5,Português,female,Bachelor or equivalent
+428,30,2,1,,4,Portuguese,male,Upper secondary education
+429,25,2,1,,5,Portugues,male,Bachelor or equivalent
+430,42,2,1,,5,Português,male,Bachelor or equivalent
+431,42,2,1,,5,Portugues,male,Bachelor or equivalent
+432,26,2,1,,5,Português ,male,Bachelor or equivalent
+433,25,1,1,,5,Portuguese,female,Bachelor or equivalent
+434,22,2,1,,5,Portugues,male,Bachelor or equivalent
+435,25,1,3,,4,Português ,female,Upper secondary education
+436,40,2,3,,4,Portuguese,male,Upper secondary education
+437,40,2,3,,4,Portuguese,male,Upper secondary education
+438,34,2,1,,5,Português,male,Bachelor or equivalent
+439,32,2,1,,6,português,male,Master or equivalent
+440,32,2,1,,6,português,male,Master or equivalent
+441,31,2,4,,4,Portuguese,male,Upper secondary education
+442,38,2,4,,4,Portugues,male,Upper secondary education
+443,38,2,1,,4,Português ,male,Upper secondary education
+444,23,2,3,,5,Portugues,male,Bachelor or equivalent
+445,25,2,1,,4,Português,male,Upper secondary education
+446,25,2,1,,4,Portugués,male,Upper secondary education
+447,27,2,1,,5,Português do Brasil,male,Bachelor or equivalent
+448,36,1,1,,5,português,female,Bachelor or equivalent
+449,36,1,1,,5,português,female,Bachelor or equivalent
+450,27,1,1,,5,portugues,female,Bachelor or equivalent
+451,50,1,1,,4,portugues,female,Upper secondary education
+452,51,1,1,,4,portugues,female,Upper secondary education
+453,28,2,1,,6,Portuguese,male,Master or equivalent
+454,30,2,1,,5,Portugues,male,Bachelor or equivalent
+455,22,2,1,,4,PORTUGUES,male,Upper secondary education
+456,35,1,1,,5,Portugues,female,Bachelor or equivalent
+457,38,2,4,,4,Portugues,male,Upper secondary education
+458,38,2,1,,5,português ,male,Bachelor or equivalent
+459,26,1,2,,5,Português,female,Bachelor or equivalent
+460,50,2,1,,5,Português,male,Bachelor or equivalent
+461,29,2,1,,4,portugues pt br,male,Upper secondary education
+462,33,1,3,,5,Português,female,Bachelor or equivalent
+463,33,1,1,,5,portugues,female,Bachelor or equivalent
+464,27,2,3,,5,Português,male,Bachelor or equivalent
+465,28,1,1,,5,Português,female,Bachelor or equivalent
+466,24,1,3,,5,Português,female,Bachelor or equivalent
+467,28,1,3,,5,Português,female,Bachelor or equivalent
+468,25,2,1,,7,Português ,male,Doctoral or equivalent
+469,41,2,2,,6,PORTUGUESE,male,Master or equivalent
+470,30,2,3,,5,Português,male,Bachelor or equivalent
+471,31,2,1,,4,Portugues,male,Upper secondary education
+472,23,2,1,,4,Português,male,Upper secondary education
+473,27,2,3,,4,Português ,male,Upper secondary education
+474,36,1,1,,5,portugues ,female,Bachelor or equivalent
+475,31,2,1,,5,Portuguese,male,Bachelor or equivalent
+476,22,2,1,,5,portugues,male,Bachelor or equivalent
+477,29,2,1,,5,Portugues,male,Bachelor or equivalent
+478,46,1,1,,7,Português ,female,Doctoral or equivalent
+479,29,2,1,,5,Português,male,Bachelor or equivalent
+480,40,2,1,,5,Português,male,Bachelor or equivalent
+481,39,2,1,,5,portuguesa,male,Bachelor or equivalent
+483,40,2,1,,5,Português,male,Bachelor or equivalent
+484,35,1,1,,5,Portugues,female,Bachelor or equivalent
+485,thirty,2,1,,4,Portuguese,male,Upper secondary education
+486,24,2,3,,4,Português ,male,Upper secondary education
+487,22,1,1,,4,Português,female,Upper secondary education
+488,37,2,1,,4,portugues,male,Upper secondary education
+489,36,1,1,,5,portuguese,female,Bachelor or equivalent
+490,23,2,3,,5,Português,male,Bachelor or equivalent
+491,41,2,1,,5,Portugues,male,Bachelor or equivalent
+492,22,2,1,,5,22,male,Bachelor or equivalent
+493,23,2,2,,5,PORTUGUES,male,Bachelor or equivalent
+494,27,1,1,,5,portugues,female,Bachelor or equivalent
+495,23,2,2,,5,Português ,male,Bachelor or equivalent
+496,22,2,1,,4,PORTUGUES,male,Upper secondary education
+497,27,2,3,,4,Português ,male,Upper secondary education
+498,22,2,1,,4,PORTUGUES,male,Upper secondary education
+499,31,2,1,,4,Portugues,male,Upper secondary education
+500,40,1,1,,6,português,female,Master or equivalent
+501,29,2,1,,5,Português,male,Bachelor or equivalent
+502,40,2,1,,5,Português,male,Bachelor or equivalent
+503,51,1,1,,4,portugues,female,Upper secondary education
+504,46,1,1,,7,Português ,female,Doctoral or equivalent
+505,33,1,3,,5,Português,female,Bachelor or equivalent
+507,41,2,2,,6,PORTUGUESE,male,Master or equivalent
+508,50,1,1,,4,portugues,female,Upper secondary education
+509,30,2,3,,5,Português,male,Bachelor or equivalent
+510,28,1,3,,5,Português,female,Bachelor or equivalent
+511,43,2,1,,6,Português,male,Master or equivalent
+512,27,2,3,,5,Português,male,Bachelor or equivalent
+513,41,2,1,,5,Português,male,Bachelor or equivalent
+514,39,2,1,,5,portuguesa,male,Bachelor or equivalent
+515,38,2,1,,5,português ,male,Bachelor or equivalent
+516,26,2,1,,5,Português,male,Bachelor or equivalent
+517,32,2,3,,5,portugues,male,Bachelor or equivalent
+518,31,2,1,,5,Português ,male,Bachelor or equivalent
+519,28,2,1,,5,Português,male,Bachelor or equivalent
+520,46,1,1,,7,Português,female,Doctoral or equivalent
+521,51,1,1,,4,portugues,female,Upper secondary education
+522,50,1,1,,4,portugues,female,Upper secondary education
+523,51,1,1,,4,portugues,female,Upper secondary education
+524,36,1,1,,6,Portuguese,female,Master or equivalent
+525,28,2,1,,5,Português,male,Bachelor or equivalent
+526,31,1,4,,5,Português,female,Bachelor or equivalent
+527,35,1,1,,5,Portugues,female,Bachelor or equivalent
+528,28,2,3,,5,Português,male,Bachelor or equivalent
+529,32,2,1,,5,português,male,Bachelor or equivalent
+530,24,2,3,,5,Português,male,Bachelor or equivalent
+531,24,2,2,,4,Portuguese,male,Upper secondary education
+532,40,2,3,,5,Português,male,Bachelor or equivalent
+533,38,2,4,,4,Portugues,male,Upper secondary education
+534,24,2,1,,5,Português,male,Bachelor or equivalent
+535,25,2,1,,7,Português ,male,Doctoral or equivalent
+536,42,2,1,,5,Portuguese,male,Bachelor or equivalent
+537,40,2,1,,5,Português ,male,Bachelor or equivalent
+538,25,1,1,,5,português,female,Bachelor or equivalent
+539,32,1,1,,5,português,female,Bachelor or equivalent
+540,23,2,1,,5,Português,male,Bachelor or equivalent
+541,SUZANO SP,2,2,,6,PORTUGUESE,male,Master or equivalent
+543,41,2,1,,4,BRAZILIAN PORTUGUESE,male,Upper secondary education
+544,21,2,3,,5,Portuguese,male,Bachelor or equivalent
+545,39,2,2,,5,Português,male,Bachelor or equivalent
+546,20,2,1,,4,Português ,male,Upper secondary education
+547,36,2,2,,5,Português,male,Bachelor or equivalent
+548,36,1,1,,5,portugues,female,Bachelor or equivalent
+551,27,2,3,,5,portuguese,male,Bachelor or equivalent
+552,32,2,2,,4,Portugues,male,Upper secondary education
+553,40,2,3,,4,Português,male,Upper secondary education
+554,25,2,3,,5,Portugues,male,Bachelor or equivalent
+555,25,2,1,,5,Portugues,male,Bachelor or equivalent
+556,25,2,1,,4,Português,male,Upper secondary education
+557,33,2,4,,6,PortugueseBR - Português Brasil,male,Master or equivalent
+558,29,2,1,,5,Português,male,Bachelor or equivalent
+559,47,2,2,,4,portugues,male,Upper secondary education
+560,30,2,3,,5,Português,male,Bachelor or equivalent
+561,34,2,1,,5,Português,male,Bachelor or equivalent
+562,27,1,1,,5,portugues,female,Bachelor or equivalent
+563,57,2,2,,4,PORTUGUêS,male,Upper secondary education
+564,32,1,1,,4,PORTUGUêS,female,Upper secondary education
+565,26,2,1,,5,Português,male,Bachelor or equivalent
+566,37,2,1,,4,portugues,male,Upper secondary education
+567,27,2,3,,4,Português ,male,Upper secondary education
+568,25,2,1,,7,português,male,Doctoral or equivalent
+569,25,2,3,,5,Português,male,Bachelor or equivalent
+570,27,2,3,,5,Português,male,Bachelor or equivalent
+571,22,2,1,,5,Portugues,male,Bachelor or equivalent
+572,33,1,3,,4,português,female,Upper secondary education
+573,31,2,1,,4,Português,male,Upper secondary education
+574,23,2,2,,5,PORTUGUES,male,Bachelor or equivalent
+575,33,1,3,,5,Português ,female,Bachelor or equivalent
+576,24,2,1,,5,português,male,Bachelor or equivalent
+577,28,2,1,,4,Portugues,male,Upper secondary education
+578,50,2,1,,6,português,male,Master or equivalent
+579,25,2,1,,7,portugues,male,Doctoral or equivalent
+580,25,2,3,,5,Português,male,Bachelor or equivalent
+581,35,2,1,,4,Português,male,Upper secondary education
+582,51,1,2,,5,Portugues,female,Bachelor or equivalent
+583,28,2,3,,5,português,male,Bachelor or equivalent
+584,48,1,1,,5,portuguese,female,Bachelor or equivalent
+585,40,2,3,,4,Português,male,Upper secondary education
+586,30,2,3,,5,Português,male,Bachelor or equivalent
+587,46,1,1,,7,Português,female,Doctoral or equivalent
+588,33,1,3,,5,Portugues,female,Bachelor or equivalent
+589,23,2,1,,4,Português,male,Upper secondary education
+590,27,2,1,,5,Português ,male,Bachelor or equivalent
+591,31,2,1,,5,Português,male,Bachelor or equivalent
+592,40,2,1,,5,Português,male,Bachelor or equivalent
+593,23,2,2,,5,portugues,male,Bachelor or equivalent
+594,34,2,1,,5,Português,male,Bachelor or equivalent
+595,38,2,4,,4,Portugues,male,Upper secondary education
+596,27,2,3,,5,Português,male,Bachelor or equivalent
+597,30,2,1,,5,Portuguese,male,Bachelor or equivalent
+598,22,1,1,,5,Portuguese,female,Bachelor or equivalent
+599,30,2,1,,4,portuguese,male,Upper secondary education
+600,19,2,3,,5, português Brazil,male,Bachelor or equivalent
+601,27,2,3,,5,portuguese,male,Bachelor or equivalent
+602,35,2,3,,5,portugues,male,Bachelor or equivalent
+603,39,2,1,,5,portuguesa,male,Bachelor or equivalent
+604,31,2,1,,5,portuguese,male,Bachelor or equivalent
+605,26,2,3,,5,portuguese,male,Bachelor or equivalent
+606,37,1,4,,5,Português,female,Bachelor or equivalent
+607,31,2,1,,4,Português,male,Upper secondary education
+609,29,1,1,,5,português,female,Bachelor or equivalent
+610,35,1,3,,4,português,female,Upper secondary education
+611,24,1,3,,5,português,female,Bachelor or equivalent
+612,33,1,3,,4,Português,female,Upper secondary education
+613,41,2,3,,6,Portuguese,male,Master or equivalent
+614,21,2,1,,4,portugues,male,Upper secondary education
+615,37,2,3,,5,portuguese,male,Bachelor or equivalent
+616,26,1,2,,5,Portuguese,female,Bachelor or equivalent
+617,24,2,3,,4,português brasileiro ,male,Upper secondary education
+618,37,2,1,,4,portugues,male,Upper secondary education
+619,34,1,1,,5,Português,female,Bachelor or equivalent
+620,25,2,1,,4,portuguese,male,Upper secondary education
+622,38,2,1,,5,português ,male,Bachelor or equivalent
+623,35,2,1,,5,Português,male,Bachelor or equivalent
+624,22,2,1,,4,Portugues,male,Upper secondary education
+625,47,2,2,,4,Portuguese,male,Upper secondary education
+626,37,2,1,,5,Português,male,Bachelor or equivalent

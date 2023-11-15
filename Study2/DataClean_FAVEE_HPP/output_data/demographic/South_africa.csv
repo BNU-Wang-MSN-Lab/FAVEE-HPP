@@ -1,0 +1,739 @@
+,Age,Gender,Race,Race_alternative,Highest education,First language,Gender_label,Race_label,Highest education_label
+0,29,2,2,,6,ISIZULU,male,Black,Short-cycle tertiary education
+1,37,2,2,,7,isiXhosa,male,Black,Bachelor or equivalent
+2,31,2,2,,7,Zulu,male,Black,Bachelor or equivalent
+3,29,1,2,,8,IsiZulu,female,Black,Master or equivalent
+4,25,1,2,,7,IsiZulu,female,Black,Bachelor or equivalent
+5,38,1,2,,6,Ndebele,female,Black,Short-cycle tertiary education
+6,29,1,2,,6,English,female,Black,Short-cycle tertiary education
+7,41,1,2,,8,Shona,female,Black,Master or equivalent
+8,24,2,2,,8,Venda,male,Black,Master or equivalent
+9,33,1,6,Coloured,4,English,female,Other (write in),Upper secondary education
+10,26,2,2,,7,Zulu ,male,Black,Bachelor or equivalent
+11,26,1,2,,7,IsiZulu,female,Black,Bachelor or equivalent
+13,25,2,2,,7,Sesotho,male,Black,Bachelor or equivalent
+14,30,2,2,,5,Sotho,male,Black,Post-secondary non-tertiary education
+15,39,1,1,,7,English,female,White,Bachelor or equivalent
+16,27,1,2,,7,IsiXhosa,female,Black,Bachelor or equivalent
+17,31,2,2,,7,tsonga,male,Black,Bachelor or equivalent
+18,46,1,2,,6,English,female,Black,Short-cycle tertiary education
+19,24,1,2,,7,English ,female,Black,Bachelor or equivalent
+21,22,1,2,,7,English ,female,Black,Bachelor or equivalent
+22,43,1,2,,5,Zulu ,female,Black,Post-secondary non-tertiary education
+23,19,2,2,,7,Zulu,male,Black,Bachelor or equivalent
+25,24,1,2,,7,English,female,Black,Bachelor or equivalent
+26,30,2,2,,4,Zulu,male,Black,Upper secondary education
+27,26,1,2,,6,IsiXhosa,female,Black,Short-cycle tertiary education
+28,27,1,2,,7,English ,female,Black,Bachelor or equivalent
+29,30,1,2,,5,English ,female,Black,Post-secondary non-tertiary education
+30,43,2,2,,5,English,male,Black,Post-secondary non-tertiary education
+31,32,1,2,,7,English ,female,Black,Bachelor or equivalent
+32,22,2,2,,6,english,male,Black,Short-cycle tertiary education
+33,27,1,2,,7,English ,female,Black,Bachelor or equivalent
+34,23,1,2,,6,Setswana ,female,Black,Short-cycle tertiary education
+35,24,1,2,,6,Sesotho ,female,Black,Short-cycle tertiary education
+36,25,1,2,,7,English ,female,Black,Bachelor or equivalent
+37,42,1,2,,7,Xhosa,female,Black,Bachelor or equivalent
+38,23,2,2,,7,IsiZulu,male,Black,Bachelor or equivalent
+39,26,2,2,,7,English,male,Black,Bachelor or equivalent
+40,33,1,3,,4,English,female,"South Asian Indian, Pakistani, etc.",Upper secondary education
+41,27,1,2,,7,English ,female,Black,Bachelor or equivalent
+42,25,1,2,,7,Sepedi,female,Black,Bachelor or equivalent
+43,27,2,2,,7,Zulu,male,Black,Bachelor or equivalent
+44,40,1,2,,7,Isizulu,female,Black,Bachelor or equivalent
+45,22,1,2,,7,Tswana ,female,Black,Bachelor or equivalent
+46,29,1,2,,7,Zulu,female,Black,Bachelor or equivalent
+47,36,1,6,indian,7,english,female,Other (write in),Bachelor or equivalent
+49,23,1,2,,7,English ,female,Black,Bachelor or equivalent
+50,45,2,2,,6,Xhosa,male,Black,Short-cycle tertiary education
+51,23,1,2,,4,English ,female,Black,Upper secondary education
+52,33,1,2,,7,Isizulu ,female,Black,Bachelor or equivalent
+53,25,1,2,,7,English,female,Black,Bachelor or equivalent
+54,30,2,2,,7,Zulu,male,Black,Bachelor or equivalent
+55,32,2,2,,5,english,male,Black,Post-secondary non-tertiary education
+56,27,2,2,,6,English,male,Black,Short-cycle tertiary education
+57,20,1,2,,4,IsiZulu ,female,Black,Upper secondary education
+58,23,2,2,,5,English,male,Black,Post-secondary non-tertiary education
+59,20,2,2,,6,Akan,male,Black,Short-cycle tertiary education
+60,22,2,2,,5,XHOSA,male,Black,Post-secondary non-tertiary education
+61,24,1,2,,7,English,female,Black,Bachelor or equivalent
+62,45,2,3,,6,English,male,"South Asian Indian, Pakistani, etc.",Short-cycle tertiary education
+63,58,2,1,,7,English,male,White,Bachelor or equivalent
+64,26,1,2,,7,IsiZulu,female,Black,Bachelor or equivalent
+65,36,1,2,,7,English,female,Black,Bachelor or equivalent
+66,35,2,2,,6,Tsonga ,male,Black,Short-cycle tertiary education
+67,26,1,2,,7,IsiZulu,female,Black,Bachelor or equivalent
+68,28,2,2,,6,Zulu,male,Black,Short-cycle tertiary education
+69,32,2,2,,6,Tswana,male,Black,Short-cycle tertiary education
+70,24,1,2,,7,Xhosa ,female,Black,Bachelor or equivalent
+71,28,1,2,,7,English,female,Black,Bachelor or equivalent
+72,23 years old.,1,2,,5,English,female,Black,Post-secondary non-tertiary education
+73,46,2,2,,4,English ,male,Black,Upper secondary education
+74,31,2,2,,7,Zulu,male,Black,Bachelor or equivalent
+75,30,1,2,,7,English ,female,Black,Bachelor or equivalent
+76,25,1,2,,7,Setswana,female,Black,Bachelor or equivalent
+77,26,1,2,,7,English,female,Black,Bachelor or equivalent
+78,28,1,2,,7,English ,female,Black,Bachelor or equivalent
+79,36,1,2,,7,english,female,Black,Bachelor or equivalent
+80,25,1,3,,4,English,female,"South Asian Indian, Pakistani, etc.",Upper secondary education
+81,30,1,2,,8,Zulu,female,Black,Master or equivalent
+82,21,2,2,,7,siswati,male,Black,Bachelor or equivalent
+83,49,1,3,,7,English,female,"South Asian Indian, Pakistani, etc.",Bachelor or equivalent
+84,47,2,6,Coloured,4,English,male,Other (write in),Upper secondary education
+85,20,2,2,,4,English,male,Black,Upper secondary education
+86,43,2,1,,4,Afrikaans,male,White,Upper secondary education
+87,33,1,2,,5,Shona,female,Black,Post-secondary non-tertiary education
+88,22,2,2,,7,English,male,Black,Bachelor or equivalent
+89,19,1,2,,6,French ,female,Black,Short-cycle tertiary education
+90,20,1,2,,4,Shona,female,Black,Upper secondary education
+91,19,1,2,,6,Tshivenda,female,Black,Short-cycle tertiary education
+92,47,1,2,,7,Setswana,female,Black,Bachelor or equivalent
+94,31,1,2,,7,Isixhosa ,female,Black,Bachelor or equivalent
+95,46,2,6,Coloured ,7,English,male,Other (write in),Bachelor or equivalent
+96,24,1,2,,7,IsiXhosa ,female,Black,Bachelor or equivalent
+98,30,1,2,,7,Setswana,female,Black,Bachelor or equivalent
+99,30,2,6,Mixed,4,English,male,Other (write in),Upper secondary education
+100,19,1,2,,4,English,female,Black,Upper secondary education
+101,30,2,2,,7,English,male,Black,Bachelor or equivalent
+102,27,1,2,,7,shona,female,Black,Bachelor or equivalent
+103,28,1,1,,3,english,female,White,Lower secondary education
+104,31,1,2,,7,English,female,Black,Bachelor or equivalent
+105,33,1,2,,7,english,female,Black,Bachelor or equivalent
+106,28,1,2,,7,English,female,Black,Bachelor or equivalent
+107,21,1,2,,4,English,female,Black,Upper secondary education
+108,29,1,2,,7,English,female,Black,Bachelor or equivalent
+109,34,1,2,,8,Sesotho,female,Black,Master or equivalent
+111,25,1,2,,5,English and ISIZULU ,female,Black,Post-secondary non-tertiary education
+112,20,2,2,,4,English,male,Black,Upper secondary education
+113,27,2,2,,5,English ,male,Black,Post-secondary non-tertiary education
+114,21,1,2,,4,IsiZulu ,female,Black,Upper secondary education
+115,25,2,2,,7,English ,male,Black,Bachelor or equivalent
+116,28,1,2,,7,Zulu,female,Black,Bachelor or equivalent
+117,34,2,2,,6,English ,male,Black,Short-cycle tertiary education
+118,30,1,2,,8,english,female,Black,Master or equivalent
+119,44,1,2,,7,IsiZulu,female,Black,Bachelor or equivalent
+120,21,1,2,,4,English,female,Black,Upper secondary education
+121,23,1,2,,7,IsiZulu,female,Black,Bachelor or equivalent
+122,24,2,2,,7,Xitsonga,male,Black,Bachelor or equivalent
+123,30,2,2,,7,IsiXhosa,male,Black,Bachelor or equivalent
+124,23,2,2,,7,English,male,Black,Bachelor or equivalent
+125,43,1,2,,7,Xhosa,female,Black,Bachelor or equivalent
+126,21,1,2,,5,English,female,Black,Post-secondary non-tertiary education
+127,29,2,2,,6,Sepedi ,male,Black,Short-cycle tertiary education
+128,44,2,1,,4,Afrikaans,male,White,Upper secondary education
+129,29,2,1,,7,English,male,White,Bachelor or equivalent
+130,26,1,2,,7,IsiZulu,female,Black,Bachelor or equivalent
+131,32,2,2,,7,Xhosa,male,Black,Bachelor or equivalent
+132,25,1,3,,6,English,female,"South Asian Indian, Pakistani, etc.",Short-cycle tertiary education
+133,48,2,2,,9,Zulu,male,Black,Doctoral or equivalent
+134,28,1,2,,7,English ,female,Black,Bachelor or equivalent
+135,23,2,2,,7,isiZulu,male,Black,Bachelor or equivalent
+136,27,1,2,,7,English,female,Black,Bachelor or equivalent
+137,27,1,6,Colored,7,English,female,Other (write in),Bachelor or equivalent
+138,30,2,1,,6,Afrikaans,male,White,Short-cycle tertiary education
+139,27,1,2,,7,Northern Sotho,female,Black,Bachelor or equivalent
+140,26,2,2,,6,English,male,Black,Short-cycle tertiary education
+141,31,1,2,,7,English ,female,Black,Bachelor or equivalent
+142,36,1,2,,7,ENGLISH,female,Black,Bachelor or equivalent
+143,27,2,2,,7,English ,male,Black,Bachelor or equivalent
+145,33,1,2,,7,Sesotho ,female,Black,Bachelor or equivalent
+146,63,1,1,,7,English,female,White,Bachelor or equivalent
+147,36,2,1,,7,English,male,White,Bachelor or equivalent
+148,24,1,2,,7,English,female,Black,Bachelor or equivalent
+149,51,1,3,,6,English,female,"South Asian Indian, Pakistani, etc.",Short-cycle tertiary education
+150,24,1,2,,5,english,female,Black,Post-secondary non-tertiary education
+151,25,1,2,,7,Isizulu,female,Black,Bachelor or equivalent
+152,23,1,2,,7,English ,female,Black,Bachelor or equivalent
+153,20,1,2,,7,IsiZulu,female,Black,Bachelor or equivalent
+154,26,2,2,,8,English,male,Black,Master or equivalent
+155,24,1,2,,4,Tsonga,female,Black,Upper secondary education
+156,24,2,2,,7,Sepedi,male,Black,Bachelor or equivalent
+157,27,2,2,,7,English,male,Black,Bachelor or equivalent
+158,26,2,2,,6,English ,male,Black,Short-cycle tertiary education
+159,22,2,2,,7,Setswana,male,Black,Bachelor or equivalent
+160,26,1,2,,7,Siswati,female,Black,Bachelor or equivalent
+161,29,2,2,,7,English,male,Black,Bachelor or equivalent
+162,21,1,2,,5,isiZulu,female,Black,Post-secondary non-tertiary education
+163,34,1,2,,7,xhosa,female,Black,Bachelor or equivalent
+164,21,1,2,,4,Sepedi,female,Black,Upper secondary education
+165,20,1,2,,4,english,female,Black,Upper secondary education
+166,36,2,2,,4,english,male,Black,Upper secondary education
+167,24,1,2,,7,English ,female,Black,Bachelor or equivalent
+168,25,1,2,,8,Shona,female,Black,Master or equivalent
+169,25,2,2,,7,Tsonga ,male,Black,Bachelor or equivalent
+170,20,1,2,,4,English,female,Black,Upper secondary education
+171,28,2,2,,8,English ,male,Black,Master or equivalent
+172,38,1,6,Indian,7,English ,female,Other (write in),Bachelor or equivalent
+173,27,2,2,,7,Tshivenda,male,Black,Bachelor or equivalent
+174,35,1,6,Colored / Mixed ,5,English,female,Other (write in),Post-secondary non-tertiary education
+175,43,2,2,,6,English ,male,Black,Short-cycle tertiary education
+176,26,1,2,,7,english,female,Black,Bachelor or equivalent
+177,25,1,2,,5,Zulu ,female,Black,Post-secondary non-tertiary education
+178,25,2,2,,7,English,male,Black,Bachelor or equivalent
+179,27,1,2,,7,Sepedi,female,Black,Bachelor or equivalent
+180,20,1,2,,7,Isixhosa,female,Black,Bachelor or equivalent
+181,28,1,3,,4,English ,female,"South Asian Indian, Pakistani, etc.",Upper secondary education
+182,23,1,5,,5,English ,female,"Arabic, Central Asian",Post-secondary non-tertiary education
+183,21,1,2,,6,IsiZulu,female,Black,Short-cycle tertiary education
+184,37,1,2,,7,English ,female,Black,Bachelor or equivalent
+185,22,1,2,,7,English,female,Black,Bachelor or equivalent
+186,22,1,2,,4,Sepedi/Northern Sotho,female,Black,Upper secondary education
+188,21,1,6,coloured( mixed),7,english,female,Other (write in),Bachelor or equivalent
+190,21,1,2,,7,IsiZulu,female,Black,Bachelor or equivalent
+191,29,2,2,,7,english,male,Black,Bachelor or equivalent
+192,28,1,2,,7,Xhosa,female,Black,Bachelor or equivalent
+193,30,1,2,,6,isiZulu,female,Black,Short-cycle tertiary education
+194,27,2,1,,4,Afrikaans,male,White,Upper secondary education
+195,22,2,2,,4,English ,male,Black,Upper secondary education
+197,28,1,1,,7,English,female,White,Bachelor or equivalent
+198,19,2,2,,6,Zulu,male,Black,Short-cycle tertiary education
+199,28,2,2,,5,Isizulu,male,Black,Post-secondary non-tertiary education
+202,28,1,2,,7,English,female,Black,Bachelor or equivalent
+203,28,1,1,,7,Afrikaans,female,White,Bachelor or equivalent
+204,30,2,2,,7,isiXhosa,male,Black,Bachelor or equivalent
+205,33,2,1,,6,English,male,White,Short-cycle tertiary education
+206,20,1,3,,7,english,female,"South Asian Indian, Pakistani, etc.",Bachelor or equivalent
+207,29,2,5,,7,English,male,"Arabic, Central Asian",Bachelor or equivalent
+208,33,2,2,,8,Zulu,male,Black,Master or equivalent
+209,20,2,2,,5,ennglish,male,Black,Post-secondary non-tertiary education
+210,25,2,2,,4,English,male,Black,Upper secondary education
+211,24,1,2,,7,English ,female,Black,Bachelor or equivalent
+212,21,1,2,,7,English,female,Black,Bachelor or equivalent
+213,32,1,2,,7,English ,female,Black,Bachelor or equivalent
+214,27,1,2,,7,English ,female,Black,Bachelor or equivalent
+215,24,2,2,,5,isiNdebele,male,Black,Post-secondary non-tertiary education
+216,25,2,2,,6,IsiZulu,male,Black,Short-cycle tertiary education
+217,26,2,2,,7,Xhosa,male,Black,Bachelor or equivalent
+218,23,1,2,,7,IsiZulu,female,Black,Bachelor or equivalent
+219,35,2,2,,8,English,male,Black,Master or equivalent
+220,47,1,1,,7,afrikaans,female,White,Bachelor or equivalent
+221,30,1,2,,7,IsiXhosa,female,Black,Bachelor or equivalent
+222,23,1,2,,5,IsiXhosa,female,Black,Post-secondary non-tertiary education
+223,42,1,2,,7,Tswana,female,Black,Bachelor or equivalent
+226,35,1,1,,8,English,female,White,Master or equivalent
+227,20,1,2,,4,English,female,Black,Upper secondary education
+228,26,2,2,,7,English,male,Black,Bachelor or equivalent
+229,20,2,2,,7,English,male,Black,Bachelor or equivalent
+230,29,1,2,,6,Tshivenda,female,Black,Short-cycle tertiary education
+231,24,1,2,,7,English,female,Black,Bachelor or equivalent
+232,32,2,2,,7,Isixhosa,male,Black,Bachelor or equivalent
+233,31,1,2,,8,English,female,Black,Master or equivalent
+235,27,1,2,,7,Zulu,female,Black,Bachelor or equivalent
+236,28,1,2,,7,IsiXhosa,female,Black,Bachelor or equivalent
+237,20,2,2,,4,IsiZulu,male,Black,Upper secondary education
+238,25,1,2,,7,English,female,Black,Bachelor or equivalent
+239,30,1,2,,7,SeTswana,female,Black,Bachelor or equivalent
+240,30,2,2,,7,English,male,Black,Bachelor or equivalent
+241,24,2,2,,8,English ,male,Black,Master or equivalent
+243,37,1,2,,7,English ,female,Black,Bachelor or equivalent
+244,26,1,2,,5,Zulu,female,Black,Post-secondary non-tertiary education
+245,26,1,2,,7,Afrikaans,female,Black,Bachelor or equivalent
+246,27,1,2,,7,IsiZulu,female,Black,Bachelor or equivalent
+247,27,1,2,,7,Siswati,female,Black,Bachelor or equivalent
+248,18,2,2,,7,English,male,Black,Bachelor or equivalent
+249,23,1,2,,7,isiXhosa,female,Black,Bachelor or equivalent
+250,28,1,2,,8,Sepedi,female,Black,Master or equivalent
+251,25,1,2,,7,English,female,Black,Bachelor or equivalent
+253,22,1,2,,4,Isizulu,female,Black,Upper secondary education
+255,28,1,2,,7,English,female,Black,Bachelor or equivalent
+256,27,1,2,,7,English,female,Black,Bachelor or equivalent
+257,21,2,2,,6,IsiZulu,male,Black,Short-cycle tertiary education
+258,27,2,2,,7,Sepedi,male,Black,Bachelor or equivalent
+259,25,1,2,,7,English,female,Black,Bachelor or equivalent
+260,49,2,6,Cape Coloured ,5,English,male,Other (write in),Post-secondary non-tertiary education
+261,29,1,2,,6,english,female,Black,Short-cycle tertiary education
+262,63,1,1,,7,English,female,White,Bachelor or equivalent
+263,23,2,2,,7,Northern Sesotho,male,Black,Bachelor or equivalent
+265,28,1,2,,6,English,female,Black,Short-cycle tertiary education
+266,30,2,2,,6,isiZulu ,male,Black,Short-cycle tertiary education
+267,24,2,2,,7,English ,male,Black,Bachelor or equivalent
+268,27,1,2,,4,English,female,Black,Upper secondary education
+269,28,1,2,,7,Tshivenda,female,Black,Bachelor or equivalent
+270,31,1,2,,7,tswana,female,Black,Bachelor or equivalent
+271,23,2,2,,7,Zulu,male,Black,Bachelor or equivalent
+272,26,2,2,,8,English,male,Black,Master or equivalent
+273,25,2,2,,7,Tshivenda ,male,Black,Bachelor or equivalent
+274,20,1,2,,4,IsiXhosa,female,Black,Upper secondary education
+275,30,1,2,,5,English,female,Black,Post-secondary non-tertiary education
+276,33,1,2,,7,English ,female,Black,Bachelor or equivalent
+277,22,1,2,,5,Xitsonga,female,Black,Post-secondary non-tertiary education
+278,29,1,2,,7,Xitsonga,female,Black,Bachelor or equivalent
+279,23,1,2,,6,Setswana ,female,Black,Short-cycle tertiary education
+280,23,1,2,,4,Isizulu,female,Black,Upper secondary education
+281,36,1,2,,7,English ,female,Black,Bachelor or equivalent
+282,19,1,2,,4,IsiZulu,female,Black,Upper secondary education
+283,25,1,2,,7,Sepedi,female,Black,Bachelor or equivalent
+284,29,1,2,,6,English,female,Black,Short-cycle tertiary education
+285,32,2,2,,4,English,male,Black,Upper secondary education
+286,24,1,2,,6,english,female,Black,Short-cycle tertiary education
+287,21,1,2,,7,tshivenda,female,Black,Bachelor or equivalent
+288,32,1,2,,7,English,female,Black,Bachelor or equivalent
+289,26,1,2,,7,ENGLISH,female,Black,Bachelor or equivalent
+290,24,2,2,,7,Northern Sotho,male,Black,Bachelor or equivalent
+291,30,1,2,,7,IsiZulu,female,Black,Bachelor or equivalent
+292,34,1,2,,7,Ndebele,female,Black,Bachelor or equivalent
+294,23,1,2,,7,Tswana,female,Black,Bachelor or equivalent
+295,28,1,2,,7,English,female,Black,Bachelor or equivalent
+296,21,1,2,,7,English,female,Black,Bachelor or equivalent
+298,20,1,2,,5,SeTswana,female,Black,Post-secondary non-tertiary education
+299,35,2,1,,7,English,male,White,Bachelor or equivalent
+300,35,2,2,,8,Zulu,male,Black,Master or equivalent
+301,22,1,2,,7,Swahili,female,Black,Bachelor or equivalent
+302,28,1,2,,7,Xhosa,female,Black,Bachelor or equivalent
+303,27,1,2,,6,IsiZulu,female,Black,Short-cycle tertiary education
+304,26,1,2,,7,Zulu,female,Black,Bachelor or equivalent
+305,24,1,2,,7,English ,female,Black,Bachelor or equivalent
+306,22,2,2,,7,English,male,Black,Bachelor or equivalent
+307,20,2,2,,6,English,male,Black,Short-cycle tertiary education
+308,23,1,2,,7,English,female,Black,Bachelor or equivalent
+309,25,1,6,Islander,7,French,female,Other (write in),Bachelor or equivalent
+310,25,2,2,,7,Siswati,male,Black,Bachelor or equivalent
+311,23,2,2,,6,Isixhosa,male,Black,Short-cycle tertiary education
+312,19,1,2,,5,English,female,Black,Post-secondary non-tertiary education
+313,28,1,2,,7,Sepedi,female,Black,Bachelor or equivalent
+314,26,1,2,,7,english,female,Black,Bachelor or equivalent
+316,33,1,2,,7,Xhosa,female,Black,Bachelor or equivalent
+317,22,1,2,,7,Xhosa,female,Black,Bachelor or equivalent
+319,25,1,2,,7,English,female,Black,Bachelor or equivalent
+320,48,1,2,,7,English ,female,Black,Bachelor or equivalent
+321,22,1,6,Coloured,4,English,female,Other (write in),Upper secondary education
+322,27,1,2,,7,Setswana ,female,Black,Bachelor or equivalent
+323,31,2,2,,6,TSHIVENDA,male,Black,Short-cycle tertiary education
+324,22,1,2,,7,sepedi,female,Black,Bachelor or equivalent
+325,25,1,2,,7,Zulu,female,Black,Bachelor or equivalent
+326,27,1,2,,7,Zulu,female,Black,Bachelor or equivalent
+328,26,1,2,,5,Xhosa ,female,Black,Post-secondary non-tertiary education
+329,24,1,2,,7,English,female,Black,Bachelor or equivalent
+330,29,2,2,,5,IsiZulu,male,Black,Post-secondary non-tertiary education
+331,21,2,2,,4,English,male,Black,Upper secondary education
+332,25,1,2,,7,Isizulu,female,Black,Bachelor or equivalent
+333,47,1,2,,5,English ,female,Black,Post-secondary non-tertiary education
+334,27,1,2,,7,Setswana ,female,Black,Bachelor or equivalent
+335,35,1,2,,7,shona,female,Black,Bachelor or equivalent
+336,31,1,2,,7,English ,female,Black,Bachelor or equivalent
+337,23,2,2,,7,Xitsonga,male,Black,Bachelor or equivalent
+338,26,1,2,,8,Siswati,female,Black,Master or equivalent
+339,21,1,2,,4,english,female,Black,Upper secondary education
+341,27,1,2,,7,Xhosa,female,Black,Bachelor or equivalent
+342,25,1,2,,7,Zulu,female,Black,Bachelor or equivalent
+343,26,1,2,,7,isiXhosa,female,Black,Bachelor or equivalent
+344,23,1,2,,7,english,female,Black,Bachelor or equivalent
+345,19,1,3,,7,English,female,"South Asian Indian, Pakistani, etc.",Bachelor or equivalent
+347,27,1,2,,7,IsiZulu ,female,Black,Bachelor or equivalent
+349,26,1,2,,7,xitsonga,female,Black,Bachelor or equivalent
+350,23,1,2,,7,English ,female,Black,Bachelor or equivalent
+351,26,1,2,,8,English,female,Black,Master or equivalent
+352,24,1,6,Coloured,7,English,female,Other (write in),Bachelor or equivalent
+353,21,2,2,,7,SISWATI,male,Black,Bachelor or equivalent
+354,26,2,2,,7,english,male,Black,Bachelor or equivalent
+355,23,1,2,,7,IsiZulu,female,Black,Bachelor or equivalent
+356,22,1,6,Coloured,4,English,female,Other (write in),Upper secondary education
+357,20,1,2,,7,Xhosa,female,Black,Bachelor or equivalent
+358,21,1,2,,7,Setswana ,female,Black,Bachelor or equivalent
+359,25,1,2,,4,Setswana,female,Black,Upper secondary education
+360,43,2,2,,6,English ,male,Black,Short-cycle tertiary education
+361,32,2,2,,5,english,male,Black,Post-secondary non-tertiary education
+362,25,1,2,,7,English,female,Black,Bachelor or equivalent
+363,60,2,1,,7,Afrikaans,male,White,Bachelor or equivalent
+364,29,1,2,,7,shona,female,Black,Bachelor or equivalent
+365,26,1,2,,8,English,female,Black,Master or equivalent
+366,20,2,2,,7,English,male,Black,Bachelor or equivalent
+367,30,1,2,,7,Setswana,female,Black,Bachelor or equivalent
+368,23,1,2,,7,English ,female,Black,Bachelor or equivalent
+369,22,1,2,,7,English ,female,Black,Bachelor or equivalent
+370,27,1,2,,7,Setswana ,female,Black,Bachelor or equivalent
+371,25,2,2,,7,Tsonga ,male,Black,Bachelor or equivalent
+372,38,1,2,,5,Sepedi,female,Black,Post-secondary non-tertiary education
+373,33,1,2,,7,english,female,Black,Bachelor or equivalent
+374,32,1,2,,7,Sepedi,female,Black,Bachelor or equivalent
+375,33,1,2,,7,IsiZulu,female,Black,Bachelor or equivalent
+376,33,2,2,,6,zulu,male,Black,Short-cycle tertiary education
+377,19,1,2,,4,english ,female,Black,Upper secondary education
+378,21,2,2,,4,TSWANA,male,Black,Upper secondary education
+379,22,1,2,,7,English,female,Black,Bachelor or equivalent
+380,27,1,2,,6,English,female,Black,Short-cycle tertiary education
+381,30,1,2,,7,Zulu,female,Black,Bachelor or equivalent
+382,21,1,2,,4,xhosa,female,Black,Upper secondary education
+383,21,1,2,,7,English,female,Black,Bachelor or equivalent
+384,19,1,2,,4,English,female,Black,Upper secondary education
+385,32,1,2,,4,IsiZulu,female,Black,Upper secondary education
+386,29,1,2,,8,Shona,female,Black,Master or equivalent
+387,24,1,2,,7,English,female,Black,Bachelor or equivalent
+388,29,1,2,,7,Ndebele ,female,Black,Bachelor or equivalent
+389,25,2,2,,4,English,male,Black,Upper secondary education
+390,21,1,2,,6,English ,female,Black,Short-cycle tertiary education
+391,24,2,2,,7,Sepedi,male,Black,Bachelor or equivalent
+392,27,1,2,,7,english,female,Black,Bachelor or equivalent
+393,19,1,1,,4,Afrikaans/English,female,White,Upper secondary education
+394,32,1,2,,7,English ,female,Black,Bachelor or equivalent
+395,24,2,2,,7,isizulu,male,Black,Bachelor or equivalent
+396,29,2,1,,7,English,male,White,Bachelor or equivalent
+397,22,1,2,,7,XiTsonga,female,Black,Bachelor or equivalent
+398,23,2,1,,6,English,male,White,Short-cycle tertiary education
+399,23,1,2,,7,English,female,Black,Bachelor or equivalent
+400,29,1,2,,6,Sesotho,female,Black,Short-cycle tertiary education
+401,30,1,2,,7,Sepedi ,female,Black,Bachelor or equivalent
+402,27,1,2,,7,Xitsonga,female,Black,Bachelor or equivalent
+403,32,1,6,coloured,5,English,female,Other (write in),Post-secondary non-tertiary education
+405,47,1,1,,7,Afrikaans,female,White,Bachelor or equivalent
+406,32,1,2,,6,English ,female,Black,Short-cycle tertiary education
+408,26,1,2,,7,IsiXhosa,female,Black,Bachelor or equivalent
+409,33,2,2,,7,Sepedi,male,Black,Bachelor or equivalent
+410,23,2,2,,7,SiSwati,male,Black,Bachelor or equivalent
+411,25,1,2,,5,Tshivenda,female,Black,Post-secondary non-tertiary education
+412,25,1,2,,7,IsiNdebele ,female,Black,Bachelor or equivalent
+413,22,1,2,,7,Tshivenda,female,Black,Bachelor or equivalent
+414,26,2,2,,7,Xhosa,male,Black,Bachelor or equivalent
+416,24,1,2,,4,english,female,Black,Upper secondary education
+417,24,2,6,Coloured,6,English,male,Other (write in),Short-cycle tertiary education
+418,23,1,2,,7,English,female,Black,Bachelor or equivalent
+420,25,1,2,,7,English,female,Black,Bachelor or equivalent
+421,21,1,2,,4,English,female,Black,Upper secondary education
+422,33,1,6,Mixed ,5,English,female,Other (write in),Post-secondary non-tertiary education
+423,21,1,2,,7,English ,female,Black,Bachelor or equivalent
+424,22,1,2,,7,tswana,female,Black,Bachelor or equivalent
+425,26,1,2,,5,Northern sotho (sepedi) ,female,Black,Post-secondary non-tertiary education
+426,23,2,2,,6,IsiXosha,male,Black,Short-cycle tertiary education
+427,29,2,2,,7,english,male,Black,Bachelor or equivalent
+428,32,1,2,,7,English,female,Black,Bachelor or equivalent
+429,25,1,2,,8,English,female,Black,Master or equivalent
+430,21,1,2,,7,English,female,Black,Bachelor or equivalent
+431,22,2,2,,7,Xhosa,male,Black,Bachelor or equivalent
+432,22,1,2,,7,Tswana,female,Black,Bachelor or equivalent
+433,41,1,2,,7,English ,female,Black,Bachelor or equivalent
+434,23,2,2,,4,Sepedi,male,Black,Upper secondary education
+435,21,2,1,,7,Afrikaans,male,White,Bachelor or equivalent
+436,31,2,2,,7,Tshivenda,male,Black,Bachelor or equivalent
+437,35,2,2,,7,IsiZulu,male,Black,Bachelor or equivalent
+438,25,1,2,,4,English,female,Black,Upper secondary education
+439,27,1,2,,7,Xhosa,female,Black,Bachelor or equivalent
+440,25,1,2,,7,English,female,Black,Bachelor or equivalent
+441,25,2,2,,6,English,male,Black,Short-cycle tertiary education
+442,30,1,2,,7,sepedi,female,Black,Bachelor or equivalent
+444,24,1,2,,7,Xhosa,female,Black,Bachelor or equivalent
+446,25,1,2,,7,Zulu,female,Black,Bachelor or equivalent
+447,24,2,2,,7,Sepedi,male,Black,Bachelor or equivalent
+448,23,1,2,,7,English,female,Black,Bachelor or equivalent
+449,22,1,6,Mixed - Coloured ,7,English ,female,Other (write in),Bachelor or equivalent
+450,20,1,2,,4,English,female,Black,Upper secondary education
+451,22,1,6,Coloured ,7,English,female,Other (write in),Bachelor or equivalent
+452,28,2,2,,7,English,male,Black,Bachelor or equivalent
+453,21,1,2,,4,English,female,Black,Upper secondary education
+454,25,2,2,,7,Zulu,male,Black,Bachelor or equivalent
+455,55,2,1,,7,english,male,White,Bachelor or equivalent
+456,46,2,2,,7,Setswana,male,Black,Bachelor or equivalent
+457,29,1,3,,7,English,female,"South Asian Indian, Pakistani, etc.",Bachelor or equivalent
+458,32,1,2,,7,English,female,Black,Bachelor or equivalent
+459,24,1,2,,7,IsiZulu,female,Black,Bachelor or equivalent
+460,60,2,1,,7,Afrikaans,male,White,Bachelor or equivalent
+461,31,1,2,,7,English,female,Black,Bachelor or equivalent
+462,29,1,2,,7,Isizulu,female,Black,Bachelor or equivalent
+464,30,1,2,,7,English,female,Black,Bachelor or equivalent
+465,26,1,6,Mixed ,7,English,female,Other (write in),Bachelor or equivalent
+466,36,1,2,,7,Sesotho,female,Black,Bachelor or equivalent
+467,31,1,2,,7,English,female,Black,Bachelor or equivalent
+468,19,2,2,,4,IsiZulu,male,Black,Upper secondary education
+469,25,1,2,,4,English ,female,Black,Upper secondary education
+470,33,1,6,Coloured,6,English,female,Other (write in),Short-cycle tertiary education
+471,48,1,2,,7,English,female,Black,Bachelor or equivalent
+472,27,1,2,,7,Sotho,female,Black,Bachelor or equivalent
+473,22,2,2,,5,Shona,male,Black,Post-secondary non-tertiary education
+474,23,2,1,,4,English,male,White,Upper secondary education
+475,22,2,2,,6,English,male,Black,Short-cycle tertiary education
+476,21,2,2,,7,English,male,Black,Bachelor or equivalent
+477,21,1,2,,7,isiXhosa,female,Black,Bachelor or equivalent
+478,24,1,2,,8,isiXhosa,female,Black,Master or equivalent
+479,30,1,2,,7,English,female,Black,Bachelor or equivalent
+480,27,1,6,Coloured,5,English,female,Other (write in),Post-secondary non-tertiary education
+482,28,1,2,,7,siswati,female,Black,Bachelor or equivalent
+483,24,1,1,,6,English,female,White,Short-cycle tertiary education
+484,24,2,2,,4,English,male,Black,Upper secondary education
+485,23,1,2,,7,English,female,Black,Bachelor or equivalent
+486,23,1,2,,7,isiXhosa,female,Black,Bachelor or equivalent
+487,26,2,2,,7,English,male,Black,Bachelor or equivalent
+488,25,1,2,,5,English,female,Black,Post-secondary non-tertiary education
+489,22,1,2,,7,English,female,Black,Bachelor or equivalent
+490,24,2,2,,7,Northern Sotho,male,Black,Bachelor or equivalent
+491,24,2,2,,5,zulu,male,Black,Post-secondary non-tertiary education
+492,22,1,3,,4,Shona,female,"South Asian Indian, Pakistani, etc.",Upper secondary education
+493,23,2,2,,8,IsiXhosa,male,Black,Master or equivalent
+495,24,1,2,,6,English,female,Black,Short-cycle tertiary education
+496,36,1,2,,7,Xhosa,female,Black,Bachelor or equivalent
+497,38,1,2,,7,Shona,female,Black,Bachelor or equivalent
+498,42,1,1,,7,Afrikaans,female,White,Bachelor or equivalent
+499,23,1,2,,4,English,female,Black,Upper secondary education
+501,20,1,2,,7,sepedi,female,Black,Bachelor or equivalent
+502,29,1,2,,6,English,female,Black,Short-cycle tertiary education
+503,19,2,2,,5,Sesotho,male,Black,Post-secondary non-tertiary education
+504,34,1,2,,7,English ,female,Black,Bachelor or equivalent
+505,20,1,2,,7,ENGLISH,female,Black,Bachelor or equivalent
+506,21,1,2,,5,xhosa,female,Black,Post-secondary non-tertiary education
+507,23,1,2,,7,XiTsonga,female,Black,Bachelor or equivalent
+508,22,1,2,,7,English ,female,Black,Bachelor or equivalent
+509,43,1,6,Mixed,5,English,female,Other (write in),Post-secondary non-tertiary education
+511,28,1,2,,7,English,female,Black,Bachelor or equivalent
+512,26,2,2,,7,English,male,Black,Bachelor or equivalent
+513,23,1,2,,5,English ,female,Black,Post-secondary non-tertiary education
+514,23,2,2,,7,Shona,male,Black,Bachelor or equivalent
+515,34,2,2,,6,Tshivenda,male,Black,Short-cycle tertiary education
+516,28,2,2,,7,Sesotho,male,Black,Bachelor or equivalent
+517,28,1,2,,7,Sepedi,female,Black,Bachelor or equivalent
+518,30,2,2,,7,English,male,Black,Bachelor or equivalent
+519,21,2,2,,6,English,male,Black,Short-cycle tertiary education
+520,27,1,1,,7,English,female,White,Bachelor or equivalent
+521,24,1,2,,4,English ,female,Black,Upper secondary education
+522,21,1,2,,7,ENGLISH,female,Black,Bachelor or equivalent
+523,49,1,1,,6,English,female,White,Short-cycle tertiary education
+524,22,1,2,,7,English,female,Black,Bachelor or equivalent
+526,25,1,2,,4,Isixhosa ,female,Black,Upper secondary education
+527,24,1,2,,8,english,female,Black,Master or equivalent
+528,23,2,2,,4,English,male,Black,Upper secondary education
+529,27,2,1,,5,Afrikaans,male,White,Post-secondary non-tertiary education
+530,27,2,3,,6,English,male,"South Asian Indian, Pakistani, etc.",Short-cycle tertiary education
+532,21,2,2,,4,TSWANA,male,Black,Upper secondary education
+533,19,1,2,,4,Isindebele,female,Black,Upper secondary education
+534,30,1,6,Coloured,6,English,female,Other (write in),Short-cycle tertiary education
+536,22,2,2,,7,xhosa,male,Black,Bachelor or equivalent
+537,20,1,2,,5,Sesotho,female,Black,Post-secondary non-tertiary education
+538,25,1,2,,7,English ,female,Black,Bachelor or equivalent
+539,27,1,2,,7,English,female,Black,Bachelor or equivalent
+540,45,1,6,South African Indian,6,English,female,Other (write in),Short-cycle tertiary education
+541,19,2,2,,7,English ,male,Black,Bachelor or equivalent
+542,22,2,2,,6,English ,male,Black,Short-cycle tertiary education
+543,23,2,1,,6,english,male,White,Short-cycle tertiary education
+544,26,2,6,Coloured,7,English,male,Other (write in),Bachelor or equivalent
+546,32,1,2,,6,English ,female,Black,Short-cycle tertiary education
+547,23,1,2,,6,Shona,female,Black,Short-cycle tertiary education
+548,20,1,2,,4,english,female,Black,Upper secondary education
+549,26,1,2,,7,IsiXhosa,female,Black,Bachelor or equivalent
+551,30,2,2,,7,Xitsonga,male,Black,Bachelor or equivalent
+552,20,1,2,,7,IsiXhosa,female,Black,Bachelor or equivalent
+553,29,1,6,Mixed Race,4,English,female,Other (write in),Upper secondary education
+554,27,1,2,,7,siswati,female,Black,Bachelor or equivalent
+555,34,2,2,,7,Ndebele,male,Black,Bachelor or equivalent
+556,32,1,2,,7,English and Setswana,female,Black,Bachelor or equivalent
+557,33,2,2,,5,Sepedi ,male,Black,Post-secondary non-tertiary education
+558,29,1,2,,7,Shona,female,Black,Bachelor or equivalent
+559,36,1,2,,7,English,female,Black,Bachelor or equivalent
+560,31,1,2,,7,isiXhosa,female,Black,Bachelor or equivalent
+561,20,1,2,,6,isiXhosa,female,Black,Short-cycle tertiary education
+562,40,1,2,,7,Shona,female,Black,Bachelor or equivalent
+563,22,1,2,,7,Portuguese,female,Black,Bachelor or equivalent
+564,29,2,2,,7,Zulu,male,Black,Bachelor or equivalent
+565,22,1,2,,7,English,female,Black,Bachelor or equivalent
+566,29,1,2,,7,Zulu,female,Black,Bachelor or equivalent
+568,29,1,2,,4,Sesotho,female,Black,Upper secondary education
+569,20,1,2,,4,IsiZulu,female,Black,Upper secondary education
+570,24,1,2,,7,English,female,Black,Bachelor or equivalent
+571,32,1,2,,7,setswana,female,Black,Bachelor or equivalent
+572,20,1,2,,7,English,female,Black,Bachelor or equivalent
+573,33,1,2,,5,English,female,Black,Post-secondary non-tertiary education
+575,27,1,2,,6,English,female,Black,Short-cycle tertiary education
+576,25,1,2,,7,English,female,Black,Bachelor or equivalent
+577,24,2,2,,7,isiXhosa,male,Black,Bachelor or equivalent
+578,24,1,2,,7,English,female,Black,Bachelor or equivalent
+579,25,1,6,Islander,7,French,female,Other (write in),Bachelor or equivalent
+580,34,2,2,,6,Sesotho,male,Black,Short-cycle tertiary education
+582,20,2,2,,5,sesotho,male,Black,Post-secondary non-tertiary education
+583,31,1,2,,7,IsiZulu,female,Black,Bachelor or equivalent
+584,26,1,2,,7,IsiZulu,female,Black,Bachelor or equivalent
+585,21,1,2,,7,IsiZulu,female,Black,Bachelor or equivalent
+586,20,1,2,,5,Setswana,female,Black,Post-secondary non-tertiary education
+587,22,1,4,,4,English,female,"East Asian Chinese, Japanese, etc.",Upper secondary education
+588,26,1,2,,6,tshivenda,female,Black,Short-cycle tertiary education
+589,31,1,2,,8,IsiXhosa,female,Black,Master or equivalent
+590,37,2,2,,7,Xhosa,male,Black,Bachelor or equivalent
+591,34,1,2,,7,IsiXhosa,female,Black,Bachelor or equivalent
+592,29,1,2,,6,English,female,Black,Short-cycle tertiary education
+593,32,1,2,,7,Zulu,female,Black,Bachelor or equivalent
+594,23,2,2,,7,English,male,Black,Bachelor or equivalent
+595,38,2,2,,7,Sesotho,male,Black,Bachelor or equivalent
+596,30,2,6,Coloured,7,English,male,Other (write in),Bachelor or equivalent
+599,24,2,2,,8,tsonga,male,Black,Master or equivalent
+600,25,2,2,,7,Xitsonga,male,Black,Bachelor or equivalent
+601,26,1,2,,6,isindebele,female,Black,Short-cycle tertiary education
+602,20,1,2,,7,english,female,Black,Bachelor or equivalent
+603,21,1,2,,4,Setswana ,female,Black,Upper secondary education
+604,25,2,2,,7,Zulu,male,Black,Bachelor or equivalent
+605,20,2,2,,4,Isizulu,male,Black,Upper secondary education
+606,32,1,3,,7,english,female,"South Asian Indian, Pakistani, etc.",Bachelor or equivalent
+607,32,1,2,,5,English,female,Black,Post-secondary non-tertiary education
+608,75,1,1,,4,English,female,White,Upper secondary education
+609,31,1,2,,7,English ,female,Black,Bachelor or equivalent
+610,23,1,6,Coloured ,7,English ,female,Other (write in),Bachelor or equivalent
+611,23,1,2,,7,English ,female,Black,Bachelor or equivalent
+612,26,1,2,,8,Sepedi,female,Black,Master or equivalent
+614,45,2,3,,5,English,male,"South Asian Indian, Pakistani, etc.",Post-secondary non-tertiary education
+615,26,1,2,,7,siSwati,female,Black,Bachelor or equivalent
+616,24,1,2,,7,IsiZulu,female,Black,Bachelor or equivalent
+617,45,2,1,,6,English,male,White,Short-cycle tertiary education
+618,22,2,2,,5,IsiZulu,male,Black,Post-secondary non-tertiary education
+619,25,2,2,,7,English ,male,Black,Bachelor or equivalent
+620,20,1,2,,7,English,female,Black,Bachelor or equivalent
+622,55,2,1,,6,Afrikaans,male,White,Short-cycle tertiary education
+623,19,1,2,,7,IsiXhosa,female,Black,Bachelor or equivalent
+624,31,2,2,,7,Tshivenda,male,Black,Bachelor or equivalent
+625,27,1,2,,7,Setswana,female,Black,Bachelor or equivalent
+626,25,1,2,,7,English,female,Black,Bachelor or equivalent
+627,19,1,3,,7,English ,female,"South Asian Indian, Pakistani, etc.",Bachelor or equivalent
+628,24,2,2,,7,Sepedi,male,Black,Bachelor or equivalent
+629,27,1,3,,7,English ,female,"South Asian Indian, Pakistani, etc.",Bachelor or equivalent
+630,26,1,2,,7,Isizulu ,female,Black,Bachelor or equivalent
+631,30,1,2,,7,Isizulu,female,Black,Bachelor or equivalent
+632,22,1,2,,7,tswana,female,Black,Bachelor or equivalent
+633,26,2,2,,7,Tshivenda,male,Black,Bachelor or equivalent
+634,32,1,2,,7,Swazi,female,Black,Bachelor or equivalent
+635,20,1,2,,5,isizulu,female,Black,Post-secondary non-tertiary education
+637,28,1,2,,7,English ,female,Black,Bachelor or equivalent
+638,25,1,1,,4,English,female,White,Upper secondary education
+639,29,1,2,,7,Siswati ,female,Black,Bachelor or equivalent
+640,42,1,1,,6,Afrikaans,female,White,Short-cycle tertiary education
+641,21,1,2,,7,English,female,Black,Bachelor or equivalent
+642,31,2,2,,7,Zulu,male,Black,Bachelor or equivalent
+643,27,1,2,,5,English,female,Black,Post-secondary non-tertiary education
+644,30,1,2,,5,english,female,Black,Post-secondary non-tertiary education
+645,24,2,2,,6,English,male,Black,Short-cycle tertiary education
+646,30,2,2,,4,English,male,Black,Upper secondary education
+647,20,1,2,,4,English,female,Black,Upper secondary education
+648,20,1,2,,4,English,female,Black,Upper secondary education
+649,30,2,2,,6,Sepedi,male,Black,Short-cycle tertiary education
+650,23,2,2,,7,Xitsonga,male,Black,Bachelor or equivalent
+651,45,1,2,,4,isiZulu ,female,Black,Upper secondary education
+653,31,1,2,,7,isizulu,female,Black,Bachelor or equivalent
+654,23,1,2,,7,Isizulu,female,Black,Bachelor or equivalent
+655,29,2,2,,7,SEPEDI,male,Black,Bachelor or equivalent
+656,30,2,2,,5,English ,male,Black,Post-secondary non-tertiary education
+657,25,2,2,,7,English,male,Black,Bachelor or equivalent
+658,65,2,1,,5,Afrikaans,male,White,Post-secondary non-tertiary education
+659,23,1,2,,7,XHOSA,female,Black,Bachelor or equivalent
+661,27,2,2,,7,English,male,Black,Bachelor or equivalent
+662,26,1,2,,7,IsiZulu,female,Black,Bachelor or equivalent
+663,27,1,2,,7,English ,female,Black,Bachelor or equivalent
+664,21,1,2,,4,sepedi,female,Black,Upper secondary education
+665,38,1,2,,8,SeSotho,female,Black,Master or equivalent
+666,25,2,2,,7,Xitsonga,male,Black,Bachelor or equivalent
+668,31,2,2,,7,Zulu,male,Black,Bachelor or equivalent
+669,39,2,2,,7,English,male,Black,Bachelor or equivalent
+670,25,1,2,,5,ENGLISH,female,Black,Post-secondary non-tertiary education
+671,25,1,2,,7,English,female,Black,Bachelor or equivalent
+672,22,2,2,,4,Shona,male,Black,Upper secondary education
+673,22,1,2,,5,ENGLISH,female,Black,Post-secondary non-tertiary education
+675,25,1,2,,6,setswana,female,Black,Short-cycle tertiary education
+677,21,2,2,,4,IsiXhosa,male,Black,Upper secondary education
+678,33,1,2,,6,English ,female,Black,Short-cycle tertiary education
+679,21,1,2,,7,IsiXhosa,female,Black,Bachelor or equivalent
+680,46,2,2,,4,English ,male,Black,Upper secondary education
+681,37,1,2,,7,zulu,female,Black,Bachelor or equivalent
+682,22,1,2,,7,Tshivenda,female,Black,Bachelor or equivalent
+683,38,1,2,,5,englisg,female,Black,Post-secondary non-tertiary education
+684,28,1,2,,7,Sepedi,female,Black,Bachelor or equivalent
+685,21,1,2,,7,Setswana,female,Black,Bachelor or equivalent
+686,33,2,2,,7,english,male,Black,Bachelor or equivalent
+688,21,1,2,,7,Zulu,female,Black,Bachelor or equivalent
+689,23,1,1,,5,English,female,White,Post-secondary non-tertiary education
+690,22,1,2,,7,English,female,Black,Bachelor or equivalent
+691,20,2,2,,5,English,male,Black,Post-secondary non-tertiary education
+692,23,1,2,,7,English ,female,Black,Bachelor or equivalent
+693,23,2,3,,7,English,male,"South Asian Indian, Pakistani, etc.",Bachelor or equivalent
+694,32,2,2,,5,english,male,Black,Post-secondary non-tertiary education
+696,26,1,2,,8,English,female,Black,Master or equivalent
+697,20,1,2,,7,IsiXhosa,female,Black,Bachelor or equivalent
+698,20,1,2,,4,English,female,Black,Upper secondary education
+699,20,2,2,,4,Tswana,male,Black,Upper secondary education
+700,23,1,2,,7,Tshivenda ,female,Black,Bachelor or equivalent
+701,36,1,2,,6,N.sotho,female,Black,Short-cycle tertiary education
+702,34,1,6,Coloured,4,English,female,Other (write in),Upper secondary education
+704,25,1,2,,7,Isizulu ,female,Black,Bachelor or equivalent
+705,39,2,2,,8,engish,male,Black,Master or equivalent
+706,21,1,2,,6,english,female,Black,Short-cycle tertiary education
+707,26,2,2,,7,Xhosa,male,Black,Bachelor or equivalent
+708,33,1,2,,7,Xhosa ,female,Black,Bachelor or equivalent
+709,31,2,2,,5,Tshivenda,male,Black,Post-secondary non-tertiary education
+710,20,2,6,coloured,5,english,male,Other (write in),Post-secondary non-tertiary education
+711,27,1,1,,4,Afrikaans ,female,White,Upper secondary education
+712,26,1,2,,8,Shona,female,Black,Master or equivalent
+713,36,1,2,,7,XITSONGA,female,Black,Bachelor or equivalent
+714,30,1,2,,7,Sepedi,female,Black,Bachelor or equivalent
+715,39,1,1,,4,ENGLISH,female,White,Upper secondary education
+716,21,1,6,Colored,5,English,female,Other (write in),Post-secondary non-tertiary education
+718,38,1,2,,7,English,female,Black,Bachelor or equivalent
+720,28,1,2,,7,Isizulu,female,Black,Bachelor or equivalent
+721,28,1,2,,7,English ,female,Black,Bachelor or equivalent
+722,30,2,2,,7,Isizulu,male,Black,Bachelor or equivalent
+723,26,2,2,,6,Sesotho ,male,Black,Short-cycle tertiary education
+724,25,1,2,,7,English ,female,Black,Bachelor or equivalent
+726,20,1,2,,7,Isixhosa,female,Black,Bachelor or equivalent
+727,23,1,2,,4,isizulu,female,Black,Upper secondary education
+728,25,1,2,,7,english,female,Black,Bachelor or equivalent
+730,23,1,2,,5,Isizulu,female,Black,Post-secondary non-tertiary education
+731,24,2,2,,7,English,male,Black,Bachelor or equivalent
+732,20,2,2,,7,English,male,Black,Bachelor or equivalent
+733,24,1,2,,7,English,female,Black,Bachelor or equivalent
+734,26,2,2,,7,IsiZulu,male,Black,Bachelor or equivalent
+735,26,2,2,,7,English,male,Black,Bachelor or equivalent
+736,20,2,2,,4,IsiXhosa,male,Black,Upper secondary education
+737,30,2,2,,7,TSHIVENDA,male,Black,Bachelor or equivalent
+738,35,1,2,,5,English,female,Black,Post-secondary non-tertiary education
+739,25,1,2,,7,Tshivenda ,female,Black,Bachelor or equivalent
+740,21,2,2,,7,English,male,Black,Bachelor or equivalent
+741,35,2,2,,7,IsiZulu,male,Black,Bachelor or equivalent
+742,22,1,2,,6,English,female,Black,Short-cycle tertiary education
+743,24,1,2,,6,Sesotho,female,Black,Short-cycle tertiary education
+744,25,1,2,,7,Siswati,female,Black,Bachelor or equivalent
+745,21,1,2,,4,english,female,Black,Upper secondary education
+746,28,2,2,,6,English,male,Black,Short-cycle tertiary education
+747,21,1,2,,7,Xhosa,female,Black,Bachelor or equivalent
+748,43,2,2,,4,english,male,Black,Upper secondary education
+749,40,1,2,,7,English ,female,Black,Bachelor or equivalent
+750,33,1,2,,7,IsiZulu,female,Black,Bachelor or equivalent
+751,21,2,2,,6,English,male,Black,Short-cycle tertiary education
+752,18,1,2,,7,Sesotho,female,Black,Bachelor or equivalent
+753,55,2,1,,7,English,male,White,Bachelor or equivalent
+754,30,1,2,,7,English,female,Black,Bachelor or equivalent
+755,35,2,2,,6,Tsonga ,male,Black,Short-cycle tertiary education
+756,28,2,2,,5,Setswana ,male,Black,Post-secondary non-tertiary education
+757,39,1,2,,7,isizulu,female,Black,Bachelor or equivalent
+760,24,2,2,,7,Siswati,male,Black,Bachelor or equivalent
+762,23,1,2,,6,Sesotho,female,Black,Short-cycle tertiary education
+763,19,2,2,,4,english,male,Black,Upper secondary education
+764,27,2,2,,7,IsiZulu,male,Black,Bachelor or equivalent
+765,36,2,2,,8,English,male,Black,Master or equivalent
+766,21,1,2,,5,English,female,Black,Post-secondary non-tertiary education
+767,33,1,2,,7,Shona,female,Black,Bachelor or equivalent
+770,25,1,2,,6,english,female,Black,Short-cycle tertiary education
+771,33,1,2,,8,Setswana ,female,Black,Master or equivalent
+772,20,1,2,,5,English,female,Black,Post-secondary non-tertiary education
+773,23,1,2,,7,English,female,Black,Bachelor or equivalent
+774,29,2,2,,4,zulu,male,Black,Upper secondary education
+775,23,1,2,,7,English ,female,Black,Bachelor or equivalent
+776,28,2,2,,7,english,male,Black,Bachelor or equivalent
+777,54,2,2,,7,English,male,Black,Bachelor or equivalent
+778,27,1,2,,7,English ,female,Black,Bachelor or equivalent
+779,24,1,2,,7,Xitsonga,female,Black,Bachelor or equivalent
+780,26,2,2,,6,Zulu,male,Black,Short-cycle tertiary education
+781,25,1,2,,7,IsiXhosa,female,Black,Bachelor or equivalent
+782,27,1,2,,7,IsiXhosa,female,Black,Bachelor or equivalent
+783,21,2,2,,4,IsiXhosa,male,Black,Upper secondary education
+784,28,2,2,,7,English,male,Black,Bachelor or equivalent
+785,44,1,2,,7,isizulu,female,Black,Bachelor or equivalent
+786,25,1,2,,7,Setswana,female,Black,Bachelor or equivalent
+787,23,1,2,,7,English ,female,Black,Bachelor or equivalent
+788,20,2,2,,4,venda,male,Black,Upper secondary education
+789,32,1,2,,7,Sesotho ,female,Black,Bachelor or equivalent
+790,27,1,2,,7,English,female,Black,Bachelor or equivalent
+791,32,2,2,,7,Isixhosa,male,Black,Bachelor or equivalent
+792,32,1,2,,8,Xhosa,female,Black,Master or equivalent
+793,35,2,2,,4,IsiZulu,male,Black,Upper secondary education
+794,20,2,2,,4,english,male,Black,Upper secondary education
+795,45,1,2,,8,English,female,Black,Master or equivalent
+796,22,1,2,,5,Tshivenda,female,Black,Post-secondary non-tertiary education
+797,29,1,2,,7,English,female,Black,Bachelor or equivalent
+798,48,1,1,,6,Afrikaans,female,White,Short-cycle tertiary education
+799,30,1,5,,7,English,female,"Arabic, Central Asian",Bachelor or equivalent
+800,22,1,2,,5,English,female,Black,Post-secondary non-tertiary education
+801,27,1,2,,7,Zulu,female,Black,Bachelor or equivalent
+802,33,2,2,,5,Sepedi,male,Black,Post-secondary non-tertiary education
+803,20,2,2,,7,English,male,Black,Bachelor or equivalent
+804,27,2,2,,7,isiZulu ,male,Black,Bachelor or equivalent
+805,37,2,1,,7,English,male,White,Bachelor or equivalent
+806,43,2,2,,6,English,male,Black,Short-cycle tertiary education

@@ -1,0 +1,556 @@
+,Age,Gender,Race,Race_alternative,Highest education,First language,Highest education_label,Gender_label
+0,26,1,1,,8,English,Master or equivalent,female
+1,35,1,4,,9,english,Doctoral or equivalent,female
+2,22,2,1,,7,English,Bachelor or equivalent,male
+4,20,2,1,,4,English,Upper secondary education,male
+5,30,1,1,,7,English,Bachelor or equivalent,female
+6,59,2,1,,6,English,Short-cycle tertiary education,male
+8,43,2,1,,6,english,Short-cycle tertiary education,male
+9,40,1,1,,5,English,Post-secondary non-tertiary education,female
+10,66,1,1,,5,English,Post-secondary non-tertiary education,female
+11,63,1,1,,4,English,Upper secondary education,female
+12,35,1,4,,6,English,Short-cycle tertiary education,female
+13,39,2,4,,7,English,Bachelor or equivalent,male
+14,54,1,1,,8,English,Master or equivalent,female
+15,23,1,1,,8,English ,Master or equivalent,female
+16,51,1,1,,5,english,Post-secondary non-tertiary education,female
+17,67,1,1,,5,english,Post-secondary non-tertiary education,female
+18,19,1,6,Mixed East Asian/White,4,English,Upper secondary education,female
+19,24,1,4,,7,English,Bachelor or equivalent,female
+20,31,1,1,,7,English,Bachelor or equivalent,female
+21,30,2,1,,8,English,Master or equivalent,male
+22,42,2,4,,6,English,Short-cycle tertiary education,male
+23,28,1,1,,7,English,Bachelor or equivalent,female
+24,22,1,1,,7,English,Bachelor or equivalent,female
+25,32,2,1,,6,English,Short-cycle tertiary education,male
+27,33,2,3,,6,English,Short-cycle tertiary education,male
+29,34,2,1,,8,English,Master or equivalent,male
+30,58,1,4,,7,English,Bachelor or equivalent,female
+32,43,2,1,,7,english,Bachelor or equivalent,male
+33,54,2,1,,9,English,Doctoral or equivalent,male
+34,48,2,1,,4,English ,Upper secondary education,male
+35,30,1,1,,8,english,Master or equivalent,female
+36,33,2,4,,7,English,Bachelor or equivalent,male
+37,24,1,5,,4,english,Upper secondary education,female
+38,35,1,1,,7,English ,Bachelor or equivalent,female
+39,28,1,1,,7,English,Bachelor or equivalent,female
+40,31,2,1,,8,English,Master or equivalent,male
+41,13,1,4,,5,English,Post-secondary non-tertiary education,female
+42,44,1,6,Pacific Islander,7,English,Bachelor or equivalent,female
+43,47,1,1,,8,English,Master or equivalent,female
+44,31,2,1,,8,English,Master or equivalent,male
+45,68,1,1,,9,english,Doctoral or equivalent,female
+46,24,2,4,,4,English,Upper secondary education,male
+48,25,1,1,,7,english,Bachelor or equivalent,female
+49,31,1,1,,6,English,Short-cycle tertiary education,female
+50,39,2,4,,7,Korean,Bachelor or equivalent,male
+51,45,2,1,,4,English,Upper secondary education,male
+53,72,1,1,,6,English,Short-cycle tertiary education,female
+54,34,1,4,,7,English,Bachelor or equivalent,female
+55,21,1,1,,7,English,Bachelor or equivalent,female
+56,48,1,1,,7,English ,Bachelor or equivalent,female
+57,40,1,4,,7,Mandarin,Bachelor or equivalent,female
+58,33,1,1,,7,English,Bachelor or equivalent,female
+59,60,1,1,,7,english,Bachelor or equivalent,female
+60,40,2,1,,9,English,Doctoral or equivalent,male
+61,27,2,1,,7,English,Bachelor or equivalent,male
+62,23,1,1,,4,english,Upper secondary education,female
+63,31,1,1,,7,english,Bachelor or equivalent,female
+64,39,1,1,,6,English,Short-cycle tertiary education,female
+65,64,2,1,,7,english,Bachelor or equivalent,male
+66,26,2,5,,8,English,Master or equivalent,male
+67,35,2,1,,8,english,Master or equivalent,male
+68,34,1,3,,6,English,Short-cycle tertiary education,female
+70,29,1,3,,7,English,Bachelor or equivalent,female
+75,27,1,1,,5,English,Post-secondary non-tertiary education,female
+76,27,1,1,,5,English ,Post-secondary non-tertiary education,female
+77,52,1,1,,5,English,Post-secondary non-tertiary education,female
+78,41,2,1,,6,English,Short-cycle tertiary education,male
+79,35,1,1,,7,English,Bachelor or equivalent,female
+80,45,1,1,,8,english,Master or equivalent,female
+81,29,2,5,,8,Nepali,Master or equivalent,male
+82,24,2,6,white and east asian,6,English,Short-cycle tertiary education,male
+83,50,1,1,,8,English ,Master or equivalent,female
+84,24,1,1,,7,English,Bachelor or equivalent,female
+85,50,1,6,South East Asian,8,Javanese ,Master or equivalent,female
+86,34,1,1,,8,russian,Master or equivalent,female
+87,41,2,3,,8,Nepali,Master or equivalent,male
+89,27,1,1,,8,English,Master or equivalent,female
+90,31,1,4,,7,english,Bachelor or equivalent,female
+91,24,1,1,,7,English,Bachelor or equivalent,female
+93,26,1,4,,7,English,Bachelor or equivalent,female
+94,27,2,1,,7,English,Bachelor or equivalent,male
+95,33,2,4,,9,English,Doctoral or equivalent,male
+96,28,1,1,,8,English,Master or equivalent,female
+97,22,1,3,,7,English,Bachelor or equivalent,female
+98,35,2,1,,7,English,Bachelor or equivalent,male
+99,51,2,1,,5,english,Post-secondary non-tertiary education,male
+100,34,1,1,,7,English,Bachelor or equivalent,female
+101,35,1,1,,7,English,Bachelor or equivalent,female
+102,20,1,1,,4,english,Upper secondary education,female
+103,38,2,1,,6,English,Short-cycle tertiary education,male
+104,26,2,4,,7,Vietnamese ,Bachelor or equivalent,male
+105,24,1,6,South-East Asian,7,English,Bachelor or equivalent,female
+107,20,1,1,,7,English ,Bachelor or equivalent,female
+108,36,1,4,,8,English,Master or equivalent,female
+109,33,2,1,,7,English,Bachelor or equivalent,male
+110,20,1,4,,4,English,Upper secondary education,female
+111,25,1,4,,8,English,Master or equivalent,female
+112,24,1,1,,8,English ,Master or equivalent,female
+113,28,2,3,,7,English,Bachelor or equivalent,male
+114,29,2,1,,5,English,Post-secondary non-tertiary education,male
+115,35,1,1,,5,Italian,Post-secondary non-tertiary education,female
+116,44,1,1,,7,English,Bachelor or equivalent,female
+117,50,1,1,,6,English ,Short-cycle tertiary education,female
+118,26,1,1,,5,English,Post-secondary non-tertiary education,female
+119,52,1,1,,7,English ,Bachelor or equivalent,female
+120,30,2,1,,6,English,Short-cycle tertiary education,male
+121,25,2,1,,7,English,Bachelor or equivalent,male
+122,26,2,4,,7,English,Bachelor or equivalent,male
+123,22,2,1,,7,English,Bachelor or equivalent,male
+124,58,1,1,,5,english,Post-secondary non-tertiary education,female
+125,26,2,1,,4,English,Upper secondary education,male
+126,31,1,1,,9,English,Doctoral or equivalent,female
+127,35,2,1,,8,English,Master or equivalent,male
+128,20,1,4,,4,English,Upper secondary education,female
+129,55,2,1,,7,english,Bachelor or equivalent,male
+130,27,2,1,,6,English,Short-cycle tertiary education,male
+131,35,1,1,,7,English,Bachelor or equivalent,female
+132,39,2,3,,8,English,Master or equivalent,male
+133,41,1,6,"mixed european, pacific islander",8,English,Master or equivalent,female
+134,38,1,4,,9,English,Doctoral or equivalent,female
+135,55,2,4,,6,English,Short-cycle tertiary education,male
+136,40,2,1,,7,English,Bachelor or equivalent,male
+137,37,1,1,,4,English,Upper secondary education,female
+138,26,1,1,,10,English,Don't know/No answer,female
+139,39,1,1,,7,English,Bachelor or equivalent,female
+140,52,1,1,,7,English,Bachelor or equivalent,female
+141,68,2,1,,4,English ,Upper secondary education,male
+142,19,2,1,,4,English,Upper secondary education,male
+143,35,2,1,,8,English,Master or equivalent,male
+145,29,2,4,,8,English,Master or equivalent,male
+146,53,1,1,,4,English,Upper secondary education,female
+147,31,1,1,,7,English,Bachelor or equivalent,female
+148,84,2,1,,8,english,Master or equivalent,male
+149,29,1,1,,9,English,Doctoral or equivalent,female
+150,24,2,4,,7,English,Bachelor or equivalent,male
+152,30,2,1,,7,English,Bachelor or equivalent,male
+153,27,2,1,,7,English,Bachelor or equivalent,male
+154,37,2,1,,7,English,Bachelor or equivalent,male
+155,24,2,4,,7,English,Bachelor or equivalent,male
+156,48,1,1,,6,English,Short-cycle tertiary education,female
+157,44,1,4,,6,Tagalog,Short-cycle tertiary education,female
+158,52,1,1,,7,English,Bachelor or equivalent,female
+159,34,2,1,,7,English,Bachelor or equivalent,male
+160,43,1,1,,10,English ,Don't know/No answer,female
+161,26,2,4,,7,Mandarin,Bachelor or equivalent,male
+162,54,1,1,,4,English,Upper secondary education,female
+163,30,2,1,,7,English,Bachelor or equivalent,male
+164,20,2,1,,4,Afrikaans and English,Upper secondary education,male
+165,40,2,1,,4,english,Upper secondary education,male
+166,37,1,1,,8,English,Master or equivalent,female
+167,39,2,1,,7,English,Bachelor or equivalent,male
+168,43,2,1,,8,English,Master or equivalent,male
+169,19,1,6,mixed,4,english,Upper secondary education,female
+170,28,1,3,,7,English,Bachelor or equivalent,female
+171,48,2,1,,7,English,Bachelor or equivalent,male
+172,41,2,1,,7,English ,Bachelor or equivalent,male
+173,32,1,3,,7,English,Bachelor or equivalent,female
+174,32,2,1,,7,English,Bachelor or equivalent,male
+175,37,2,1,,6,English,Short-cycle tertiary education,male
+176,38,2,1,,8,English,Master or equivalent,male
+177,37,2,1,,4,English,Upper secondary education,male
+178,23,2,1,,7,English,Bachelor or equivalent,male
+179,71,1,1,,9,English,Doctoral or equivalent,female
+180,34,2,1,,5,English,Post-secondary non-tertiary education,male
+181,32,2,6,Half Australian/Japanese,8,English,Master or equivalent,male
+182,59,2,1,,9,English,Doctoral or equivalent,male
+183,33,1,1,,7,English,Bachelor or equivalent,female
+184,22,1,1,,7,English,Bachelor or equivalent,female
+185,26,2,1,,7,English,Bachelor or equivalent,male
+186,36,1,1,,5,English,Post-secondary non-tertiary education,female
+187,23,1,6,Filipino and Irish,7,English,Bachelor or equivalent,female
+189,22,1,1,,4,English,Upper secondary education,female
+190,19,1,1,,4,English,Upper secondary education,female
+191,37,2,1,,7,English,Bachelor or equivalent,male
+192,38,2,1,,7,English,Bachelor or equivalent,male
+193,34,1,1,,8,English,Master or equivalent,female
+195,36,1,1,,9,english,Doctoral or equivalent,female
+196,27,1,1,,6,English,Short-cycle tertiary education,female
+197,23,1,4,,7,english,Bachelor or equivalent,female
+198,32,2,1,,7,English,Bachelor or equivalent,male
+199,26,1,4,,8,English,Master or equivalent,female
+200,24,2,4,,7,English,Bachelor or equivalent,male
+201,33,1,1,,7,English,Bachelor or equivalent,female
+202,38,1,1,,7,English ,Bachelor or equivalent,female
+203,33,1,1,,7,English,Bachelor or equivalent,female
+204,36,1,1,,7,English,Bachelor or equivalent,female
+205,43,1,1,,6,English,Short-cycle tertiary education,female
+206,30,1,1,,6,English,Short-cycle tertiary education,female
+208,44,1,1,,6,English,Short-cycle tertiary education,female
+209,35,1,4,,6,Tagalog,Short-cycle tertiary education,female
+210,40,2,1,,3,English,Lower secondary education,male
+211,46,1,1,,6,English,Short-cycle tertiary education,female
+212,31,1,3,,7,English,Bachelor or equivalent,female
+213,40,1,1,,6,English,Short-cycle tertiary education,female
+214,32,1,1,,7,English,Bachelor or equivalent,female
+215,37,2,1,,8,English,Master or equivalent,male
+216,47,1,1,,4,English,Upper secondary education,female
+218,45,1,1,,5,English ,Post-secondary non-tertiary education,female
+219,27,2,4,,7,English,Bachelor or equivalent,male
+221,20,1,1,,6,English ,Short-cycle tertiary education,female
+222,23,1,1,,7,English,Bachelor or equivalent,female
+223,72,2,1,,7,English,Bachelor or equivalent,male
+224,21,1,1,,6,english,Short-cycle tertiary education,female
+226,42,2,4,,6,English,Short-cycle tertiary education,male
+227,39,2,1,,5,English ,Post-secondary non-tertiary education,male
+228,62,1,1,,9,English,Doctoral or equivalent,female
+229,27,1,1,,8,English,Master or equivalent,female
+230,27,1,1,,8,English,Master or equivalent,female
+232,26,2,4,,7,English,Bachelor or equivalent,male
+233,25,1,1,,6,english,Short-cycle tertiary education,female
+234,50,1,1,,8,English ,Master or equivalent,female
+235,21,1,3,,8,English,Master or equivalent,female
+236,32,2,1,,8,English,Master or equivalent,male
+238,24,1,1,,7,English,Bachelor or equivalent,female
+239,26,2,1,,7,English,Bachelor or equivalent,male
+240,26,2,1,,7,Russian,Bachelor or equivalent,male
+241,27,2,4,,7,English,Bachelor or equivalent,male
+242,45,1,1,,7,English,Bachelor or equivalent,female
+243,27,2,1,,6,English,Short-cycle tertiary education,male
+244,51,1,1,,5,English,Post-secondary non-tertiary education,female
+245,22,1,1,,5,English,Post-secondary non-tertiary education,female
+246,19,2,6,Mixed,4,English,Upper secondary education,male
+247,23,2,1,,7,English ,Bachelor or equivalent,male
+248,31,2,1,,7,English,Bachelor or equivalent,male
+250,40,2,1,,8,english,Master or equivalent,male
+251,40,1,1,,7,English ,Bachelor or equivalent,female
+252,21,2,1,,7,English,Bachelor or equivalent,male
+253,56,2,1,,6,English,Short-cycle tertiary education,male
+254,49,2,1,,4,English,Upper secondary education,male
+255,46,2,1,,7,English,Bachelor or equivalent,male
+256,27,1,4,,7,English ,Bachelor or equivalent,female
+257,27,2,1,,7,English,Bachelor or equivalent,male
+258,38,2,1,,6,English,Short-cycle tertiary education,male
+259,37,2,1,,4,English,Upper secondary education,male
+260,20,1,4,,4,English,Upper secondary education,female
+261,30,1,1,,8,english,Master or equivalent,female
+262,22,1,1,,4,English,Upper secondary education,female
+263,55,2,1,,7,English,Bachelor or equivalent,male
+264,33,1,6,South East Asian,8,Filipino ,Master or equivalent,female
+265,33,2,4,,7,Cambodian,Bachelor or equivalent,male
+266,26,1,1,,5,english,Post-secondary non-tertiary education,female
+267,41,1,6,mixed european south pacific islander,8,English,Master or equivalent,female
+268,34,1,1,,8,English,Master or equivalent,female
+269,25,2,1,,6,English,Short-cycle tertiary education,male
+270,51,2,1,,6,english,Short-cycle tertiary education,male
+271,30,2,3,,7,english,Bachelor or equivalent,male
+272,25,1,1,,7,english ,Bachelor or equivalent,female
+273,19,1,6,Mixed Asian/White,4,English,Upper secondary education,female
+274,20,1,1,,4,English,Upper secondary education,female
+276,26,2,1,,4,English,Upper secondary education,male
+277,20,2,4,,5,English,Post-secondary non-tertiary education,male
+278,20,1,1,,4,English,Upper secondary education,female
+279,52,1,1,,7,English,Bachelor or equivalent,female
+280,41,2,3,,8,Nepali,Master or equivalent,male
+281,27,2,1,,7,Japanese,Bachelor or equivalent,male
+282,25,2,3,,8,Tamil,Master or equivalent,male
+283,31,1,4,,7,english,Bachelor or equivalent,female
+284,33,2,3,,6,English,Short-cycle tertiary education,male
+285,24,2,4,,7,English,Bachelor or equivalent,male
+286,23,2,6,Southeast Asian,6,Vietnamese,Short-cycle tertiary education,male
+287,28,1,1,,7,English,Bachelor or equivalent,female
+288,23,1,3,,7,hindi,Bachelor or equivalent,female
+289,23,1,1,,6,french,Short-cycle tertiary education,female
+290,28,2,4,,7,Vietnamese,Bachelor or equivalent,male
+291,27,2,2,,7,French,Bachelor or equivalent,male
+292,23,1,1,,7,English,Bachelor or equivalent,female
+293,24,2,4,,7,English,Bachelor or equivalent,male
+294,20,1,4,,4,Chinese ,Upper secondary education,female
+295,29,2,1,,5,English,Post-secondary non-tertiary education,male
+296,27,2,1,,8,English,Master or equivalent,male
+297,30,1,1,,8,English,Master or equivalent,female
+298,23,1,1,,4,english,Upper secondary education,female
+300,24,2,1,,8,English,Master or equivalent,male
+301,20,1,1,,4,English,Upper secondary education,female
+302,26,2,4,,4,English,Upper secondary education,male
+305,32,2,5,,7,Vietnamese,Bachelor or equivalent,male
+306,33,1,1,,4,English,Upper secondary education,female
+307,48,2,1,,7,English,Bachelor or equivalent,male
+308,33,1,1,,7,English,Bachelor or equivalent,female
+309,33,1,1,,8,English,Master or equivalent,female
+310,21,2,4,,7,English,Bachelor or equivalent,male
+311,34,1,1,,8,English,Master or equivalent,female
+312,20,1,1,,4,English,Upper secondary education,female
+313,27,1,1,,7,english,Bachelor or equivalent,female
+314,30,2,1,,7,English,Bachelor or equivalent,male
+315,22,2,3,,7,English,Bachelor or equivalent,male
+316,40,1,1,,5,Italian,Post-secondary non-tertiary education,female
+317,27,2,6,South East Asian,7,English,Bachelor or equivalent,male
+318,31,2,1,,7,English,Bachelor or equivalent,male
+319,26,2,5,,7,Arabic,Bachelor or equivalent,male
+320,20,1,1,,5,english,Post-secondary non-tertiary education,female
+321,32,2,1,,6,English,Short-cycle tertiary education,male
+322,27,2,1,,5,Englisg,Post-secondary non-tertiary education,male
+323,31,1,1,,7,English,Bachelor or equivalent,female
+324,44,1,6,Filipino,6,Tagalog,Short-cycle tertiary education,female
+325,36,1,1,,8,English,Master or equivalent,female
+327,22,1,6,South East Asian,6,Mandarin,Short-cycle tertiary education,female
+328,40,2,1,,9,English,Doctoral or equivalent,male
+329,37,1,1,,8,English,Master or equivalent,female
+330,52,1,1,,7,English,Bachelor or equivalent,female
+331,26,1,1,,7,English ,Bachelor or equivalent,female
+332,27,1,4,,8,english,Master or equivalent,female
+333,47,1,1,,9,English,Doctoral or equivalent,female
+334,58,1,1,,6,english,Short-cycle tertiary education,female
+335,43,1,5,,3,French,Lower secondary education,female
+336,26,2,4,,7,Vietnamese ,Bachelor or equivalent,male
+337,39,2,1,,5,English ,Post-secondary non-tertiary education,male
+338,22,1,2,,6,English,Short-cycle tertiary education,female
+339,36,2,4,,8,English,Master or equivalent,male
+340,29,2,4,,8,english,Master or equivalent,male
+341,37,2,1,,7,English,Bachelor or equivalent,male
+342,58,1,4,,7,Vietnamese ,Bachelor or equivalent,female
+344,24,2,4,,4,English,Upper secondary education,male
+345,24,1,1,,4,english,Upper secondary education,female
+346,54,2,1,,8,english,Master or equivalent,male
+347,44,2,4,,7,English,Bachelor or equivalent,male
+348,34,2,1,,7,English,Bachelor or equivalent,male
+350,31,2,4,,8,English,Master or equivalent,male
+351,19,1,1,,4,English,Upper secondary education,female
+353,31,1,1,,7,English,Bachelor or equivalent,female
+354,43,1,1,,8,English ,Master or equivalent,female
+355,41,1,6,Se asian ,8,English ,Master or equivalent,female
+356,43,1,4,,7,Thai,Bachelor or equivalent,female
+357,19,2,1,,3,English,Lower secondary education,male
+358,36,2,3,,8,English ,Master or equivalent,male
+359,27,2,1,,7,English,Bachelor or equivalent,male
+360,39,1,4,,7,Chinese,Bachelor or equivalent,female
+361,32,1,3,,7,urdu,Bachelor or equivalent,female
+362,43,2,6,South East Asian,8,Filipino,Master or equivalent,male
+363,28,2,4,,7,Mandarin,Bachelor or equivalent,male
+364,24,1,1,,7,English,Bachelor or equivalent,female
+365,28,2,3,,7,English,Bachelor or equivalent,male
+366,28,2,3,,7,english,Bachelor or equivalent,male
+367,40,2,1,,7,English,Bachelor or equivalent,male
+368,30,1,1,,7,Engish,Bachelor or equivalent,female
+369,32,2,1,,7,English,Bachelor or equivalent,male
+370,28,1,3,,7,English,Bachelor or equivalent,female
+371,23,1,1,,5,english,Post-secondary non-tertiary education,female
+372,20,2,1,,4,Afrikaans,Upper secondary education,male
+373,24,1,6,South-East Asian,7,English,Bachelor or equivalent,female
+374,39,1,1,,7,English,Bachelor or equivalent,female
+375,35,2,1,,8,English,Master or equivalent,male
+376,24,2,4,,7,english,Bachelor or equivalent,male
+377,29,2,3,,8,Nepali,Master or equivalent,male
+378,23,2,4,,7,English ,Bachelor or equivalent,male
+379,35,1,1,,7,English,Bachelor or equivalent,female
+380,40,1,4,,7,Mandarin,Bachelor or equivalent,female
+381,45,2,1,,4,English,Upper secondary education,male
+382,28,1,3,,7,English,Bachelor or equivalent,female
+383,47,1,1,,7,Russian,Bachelor or equivalent,female
+384,38,2,1,,8,English,Master or equivalent,male
+385,30,2,4,,7,Chinese,Bachelor or equivalent,male
+386,20,1,4,,4,English,Upper secondary education,female
+387,59,2,1,,9,French,Doctoral or equivalent,male
+388,30,2,1,,4,English,Upper secondary education,male
+389,39,1,1,,6,English,Short-cycle tertiary education,female
+390,54,2,1,,7,English,Bachelor or equivalent,male
+391,23,2,6,South East Asian,7,English,Bachelor or equivalent,male
+392,25,1,1,,8,English,Master or equivalent,female
+393,29,1,1,,8,English,Master or equivalent,female
+394,20,1,4,,4,English,Upper secondary education,female
+395,36,1,4,,8,chinese,Master or equivalent,female
+396,37,2,1,,6,English,Short-cycle tertiary education,male
+397,31,1,1,,6,English,Short-cycle tertiary education,female
+398,25,2,4,,7,Mandarin,Bachelor or equivalent,male
+399,27,1,4,,8,Vietnamese,Master or equivalent,female
+400,32,1,1,,8,English ,Master or equivalent,female
+401,23,1,1,,7,English,Bachelor or equivalent,female
+402,28,2,1,,7,english,Bachelor or equivalent,male
+403,84,2,1,,8,english,Master or equivalent,male
+404,19,1,1,,4,English,Upper secondary education,female
+405,39,2,4,,7,english,Bachelor or equivalent,male
+406,41,1,4,,7,English,Bachelor or equivalent,female
+407,32,2,6,Mixed,8,English,Master or equivalent,male
+408,40,1,4,,7,Mandarin,Bachelor or equivalent,female
+409,47,1,1,,7,Russian,Bachelor or equivalent,female
+410,44,1,1,,8,English,Master or equivalent,female
+411,26,2,1,,7,English,Bachelor or equivalent,male
+412,33,1,6,South East Asian,7,Malay,Bachelor or equivalent,female
+413,25,1,4,,8,English,Master or equivalent,female
+414,64,2,1,,6,English ,Short-cycle tertiary education,male
+415,69,2,1,,7,English,Bachelor or equivalent,male
+416,33,1,1,,7,English,Bachelor or equivalent,female
+417,33,2,3,,6,English,Short-cycle tertiary education,male
+418,25,1,4,,7,English,Bachelor or equivalent,female
+419,22,1,1,,7,English,Bachelor or equivalent,female
+420,39,1,1,,7,English,Bachelor or equivalent,female
+421,26,2,4,,7,English,Bachelor or equivalent,male
+422,50,1,1,,8,English ,Master or equivalent,female
+423,25,1,1,,7,English,Bachelor or equivalent,female
+424,51,2,1,,5,english,Post-secondary non-tertiary education,male
+425,63,2,1,,7,English,Bachelor or equivalent,male
+426,24,1,1,,7,English,Bachelor or equivalent,female
+427,39,1,1,,6,English,Short-cycle tertiary education,female
+428,27,1,3,,9,Urdu,Doctoral or equivalent,female
+429,48,1,1,,6,English,Short-cycle tertiary education,female
+430,41,2,3,,8,Nepali,Master or equivalent,male
+431,59,2,1,,6,English,Short-cycle tertiary education,male
+433,40,1,1,,6,Italian,Short-cycle tertiary education,female
+434,55,2,4,,6,Japanese,Short-cycle tertiary education,male
+435,29,2,3,,8,Nepali,Master or equivalent,male
+436,38,2,1,,4,English,Upper secondary education,male
+437,36,2,1,,9,English,Doctoral or equivalent,male
+438,23,1,6,Wasian,4,English,Upper secondary education,female
+439,54,1,1,,6,English,Short-cycle tertiary education,female
+440,39,2,1,,6,English,Short-cycle tertiary education,male
+441,48,2,1,,6,english,Short-cycle tertiary education,male
+442,28,2,4,,7,English,Bachelor or equivalent,male
+443,20,1,1,,4,English ,Upper secondary education,female
+444,52,1,1,,6,English,Short-cycle tertiary education,female
+446,21,1,1,,4,English,Upper secondary education,female
+447,32,1,1,,9,english,Doctoral or equivalent,female
+448,35,2,1,,8,english,Master or equivalent,male
+449,58,2,1,,5,English,Post-secondary non-tertiary education,male
+450,39,1,4,,7,Korean,Bachelor or equivalent,female
+451,49,2,1,,4,english,Upper secondary education,male
+452,20,1,1,,6,English,Short-cycle tertiary education,female
+453,26,1,1,,5,English ,Post-secondary non-tertiary education,female
+454,24,1,6,South-east Asian,7,English,Bachelor or equivalent,female
+455,52,1,4,,8,chinese,Master or equivalent,female
+457,20,2,1,,4,English,Upper secondary education,male
+458,29,1,1,,8,English,Master or equivalent,female
+459,43,1,1,,10,English,Don't know/No answer,female
+460,36,1,1,,7,English,Bachelor or equivalent,female
+461,46,2,1,,7,english,Bachelor or equivalent,male
+462,29,1,1,,7,English,Bachelor or equivalent,female
+463,27,2,6,Vietnamese,7,English,Bachelor or equivalent,male
+464,52,2,1,,4,english,Upper secondary education,male
+465,33,2,4,,7,English,Bachelor or equivalent,male
+466,21,1,1,,4,English,Upper secondary education,female
+467,61,2,1,,7,English,Bachelor or equivalent,male
+468,25,2,1,,7,English,Bachelor or equivalent,male
+470,36,1,1,,8,English,Master or equivalent,female
+471,28,1,1,,7,spanish,Bachelor or equivalent,female
+472,22,1,3,,7,English,Bachelor or equivalent,female
+474,50,1,1,,7,English ,Bachelor or equivalent,female
+475,27,2,1,,7,English,Bachelor or equivalent,male
+476,22,1,4,,7,Chinese,Bachelor or equivalent,female
+477,22,1,3,,7,Tamil,Bachelor or equivalent,female
+478,43,1,1,,7,English,Bachelor or equivalent,female
+479,28,1,1,,6,English,Short-cycle tertiary education,female
+480,20,1,4,,4,English,Upper secondary education,female
+481,30,1,1,,6,English,Short-cycle tertiary education,female
+482,33,1,1,,7,english,Bachelor or equivalent,female
+483,38,1,4,,9,English ,Doctoral or equivalent,female
+484,21,1,1,,4,english,Upper secondary education,female
+485,30,2,1,,4,English,Upper secondary education,male
+486,29,1,4,,7,cantonese,Bachelor or equivalent,female
+487,60,1,4,,6,Tagalog,Short-cycle tertiary education,female
+488,63,1,1,,4,English,Upper secondary education,female
+489,32,2,1,,4,English,Upper secondary education,male
+490,33,1,1,,7,English,Bachelor or equivalent,female
+491,37,1,1,,8,English,Master or equivalent,female
+492,22,2,3,,7,English,Bachelor or equivalent,male
+493,45,2,1,,4,English,Upper secondary education,male
+495,23,1,4,,4,English,Upper secondary education,female
+496,25,1,1,,6,English,Short-cycle tertiary education,female
+497,20,1,1,,7,English,Bachelor or equivalent,female
+499,51,1,1,,6,English,Short-cycle tertiary education,female
+500,54,1,1,,8,English,Master or equivalent,female
+501,40,2,4,,4,chinese,Upper secondary education,male
+502,26,2,4,,6,English,Short-cycle tertiary education,male
+503,42,1,1,,7,Russian,Bachelor or equivalent,female
+504,29,2,6,Mixed (indian/italian),8,English,Master or equivalent,male
+505,55,2,1,,5,English,Post-secondary non-tertiary education,male
+507,35,2,1,,8,English,Master or equivalent,male
+508,30,2,1,,6,English,Short-cycle tertiary education,male
+509,25,2,4,,7,Mandarin,Bachelor or equivalent,male
+510,37,1,1,,4,English,Upper secondary education,female
+511,26,2,5,,7,Arabic,Bachelor or equivalent,male
+512,33,2,1,,6,English,Short-cycle tertiary education,male
+513,27,1,6,white and chinese,8,english,Master or equivalent,female
+514,40,2,1,,7,english ,Bachelor or equivalent,male
+515,35,1,6,Mixed European and South East Asian,8,English,Master or equivalent,female
+516,28,1,3,,7,English,Bachelor or equivalent,female
+517,50,1,6,South East Asian (Indonesian),8,Javanese,Master or equivalent,female
+518,32,1,3,,7,urdu,Bachelor or equivalent,female
+519,32,2,1,,7,english,Bachelor or equivalent,male
+520,31,1,1,,4,English,Upper secondary education,female
+521,23,1,1,,7,Russian,Bachelor or equivalent,female
+522,33,1,1,,8,italian,Master or equivalent,female
+523,45,1,1,,5,English ,Post-secondary non-tertiary education,female
+524,21,1,1,,4,english,Upper secondary education,female
+525,30,1,1,,8,english,Master or equivalent,female
+526,35,1,1,,8,english,Master or equivalent,female
+527,27,2,1,,7,English,Bachelor or equivalent,male
+528,59,2,1,,9,French,Doctoral or equivalent,male
+529,35,1,1,,7,English,Bachelor or equivalent,female
+530,28,2,1,,7,English,Bachelor or equivalent,male
+531,55,2,1,,7,english,Bachelor or equivalent,male
+533,36,1,1,,9,English,Doctoral or equivalent,female
+534,28,2,4,,7,Vietnamese,Bachelor or equivalent,male
+535,29,1,1,,6,English,Short-cycle tertiary education,female
+536,37,2,4,,8,English,Master or equivalent,male
+539,31,1,4,,7,english,Bachelor or equivalent,female
+540,31,2,1,,7,English,Bachelor or equivalent,male
+541,39,2,4,,7,English,Bachelor or equivalent,male
+542,22,1,1,,4,English,Upper secondary education,female
+543,18,1,1,,4,English ,Upper secondary education,female
+544,58,1,1,,6,english,Short-cycle tertiary education,female
+545,28,2,3,,7,English,Bachelor or equivalent,male
+546,29,2,4,,8,English,Master or equivalent,male
+547,55,1,1,,6,Polish,Short-cycle tertiary education,female
+548,35,2,1,,8,English,Master or equivalent,male
+549,20,1,1,,7,English,Bachelor or equivalent,female
+550,26,2,1,,6,English,Short-cycle tertiary education,male
+551,66,1,1,,6,English,Short-cycle tertiary education,female
+552,41,1,1,,8,english,Master or equivalent,female
+553,24,2,4,,7,English,Bachelor or equivalent,male
+554,23,1,4,,7,Chinese ,Bachelor or equivalent,female
+555,25,1,1,,8,English,Master or equivalent,female
+556,28,2,3,,7,English,Bachelor or equivalent,male
+557,52,1,1,,7,english,Bachelor or equivalent,female
+558,36,1,1,,9,english,Doctoral or equivalent,female
+559,28,1,1,,7,English,Bachelor or equivalent,female
+560,23,1,1,,6,english,Short-cycle tertiary education,female
+561,26,2,4,,7,Vietnamese,Bachelor or equivalent,male
+562,30,2,1,,7,English,Bachelor or equivalent,male
+563,51,1,1,,4,English,Upper secondary education,female
+564,52,2,1,,9,English,Doctoral or equivalent,male
+565,35,1,1,,7,English,Bachelor or equivalent,female
+567,47,1,1,,8,English,Master or equivalent,female
+568,34,1,1,,7,English ,Bachelor or equivalent,female
+569,21,2,4,,4,English ,Upper secondary education,male
+570,36,1,1,,8,English ,Master or equivalent,female
+571,58,1,4,,7,Vietnamese ,Bachelor or equivalent,female
+572,30,1,1,,9,English ,Doctoral or equivalent,female
+573,20,1,1,,6,English,Short-cycle tertiary education,female
+574,44,1,6,Maori,7,English,Bachelor or equivalent,female
+575,52,1,1,,7,English,Bachelor or equivalent,female
+576,44,1,1,,6,English,Short-cycle tertiary education,female
+577,48,1,1,,6,English,Short-cycle tertiary education,female
+578,82,1,1,,9,english,Doctoral or equivalent,female
+579,38,2,1,,8,English ,Master or equivalent,male
+580,57,2,1,,8,English,Master or equivalent,male
+581,43,2,1,,8,English ,Master or equivalent,male
+583,53,1,1,,4,English,Upper secondary education,female
+584,52,1,1,,7,English ,Bachelor or equivalent,female
+585,37,2,1,,7,English,Bachelor or equivalent,male
+586,46,2,1,,5,English,Post-secondary non-tertiary education,male
+587,27,1,1,,4,English,Upper secondary education,female
+588,44,1,6,Southeast Asian (Filipino),6,Tagalog,Short-cycle tertiary education,female
+589,33,2,1,,7,English,Bachelor or equivalent,male
+590,31,2,1,,8,English,Master or equivalent,male
+591,31,1,1,,7,English,Bachelor or equivalent,female
+592,45,1,1,,7,English,Bachelor or equivalent,female
+593,20,1,4,,4,English,Upper secondary education,female
+594,26,1,1,,7,English,Bachelor or equivalent,female
+595,39,1,4,,8,english,Master or equivalent,female
+596,23,2,6,South East Asian,7,English,Bachelor or equivalent,male
+597,23,2,4,,7,English,Bachelor or equivalent,male
+598,21,2,4,,4,english,Upper secondary education,male
+599,37,2,1,,6,English,Short-cycle tertiary education,male
+600,28,2,4,,7,Mandarin,Bachelor or equivalent,male
+601,43,1,1,,6,English,Short-cycle tertiary education,female

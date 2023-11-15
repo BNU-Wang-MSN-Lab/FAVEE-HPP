@@ -1,0 +1,615 @@
+,Age,Gender,Race,Race_alternative,Highest education,First language,Gender_label,Race_label,Highest education_label
+0,36,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+1,27,1,1,,4,עברית,female,White,Upper secondary education
+4,27,1,1,,4,עברית,female,White,Upper secondary education
+5,37,2,4,russian,4,russian,male,"East Asian Chinese, Japanese, etc.",Upper secondary education
+6,21,2,1,,4,עברית,male,White,Upper secondary education
+7,37,2,1,,4,עברית,male,White,Upper secondary education
+8,26,2,1,,4,רוסית,male,White,Upper secondary education
+9,33,1,1,,6,עברית,female,White,Short-cycle tertiary education
+10,50,2,1,,5,Hebrew,male,White,Post-secondary non-tertiary education
+11,28,2,1,,5,אנגלית,male,White,Post-secondary non-tertiary education
+12,37,1,1,,6,English,female,White,Short-cycle tertiary education
+13,50,2,1,,5,Hebrew,male,White,Post-secondary non-tertiary education
+14,38,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+15,73,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+16,28,2,1,,4,Hebrew,male,White,Upper secondary education
+17,22,1,1,,4,עברית,female,White,Upper secondary education
+18,26,1,1,,5,עברית ,female,White,Post-secondary non-tertiary education
+19,43,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+20,28,1,1,,6,עברית,female,White,Short-cycle tertiary education
+21,43,2,1,,5,רוסית,male,White,Post-secondary non-tertiary education
+22,27,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+23,33,2,1,,4,עברית,male,White,Upper secondary education
+24,35,2,1,,4,עברית,male,White,Upper secondary education
+25,29,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+26,34,1,1,,6,Russian,female,White,Short-cycle tertiary education
+27,46,2,1,,6,Hebrew,male,White,Short-cycle tertiary education
+28,20,2,1,,4,עברית ,male,White,Upper secondary education
+29,33,1,1,,4,HEBREW,female,White,Upper secondary education
+31,33,1,1,,4,HEBREW,female,White,Upper secondary education
+32,56,2,1,,6,עברית,male,White,Short-cycle tertiary education
+33,42,2,1,,5,Russian,male,White,Post-secondary non-tertiary education
+34,39,2,1,,6,hebrew,male,White,Short-cycle tertiary education
+35,56,2,1,,6,עברית,male,White,Short-cycle tertiary education
+36,22,2,1,,4,עברית,male,White,Upper secondary education
+37,43,1,1,,6,russian,female,White,Short-cycle tertiary education
+38,22,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+39,43,1,1,,5,Hebrew ,female,White,Post-secondary non-tertiary education
+40,51,1,1,,6,עברית,female,White,Short-cycle tertiary education
+41,36,2,1,,5,עברית ,male,White,Post-secondary non-tertiary education
+42,24,2,1,,4,עברית,male,White,Upper secondary education
+43,38,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+44,30,2,4,רוסי,4,עברית ורוסית,male,"East Asian Chinese, Japanese, etc.",Upper secondary education
+45,42,2,1,,5,HEBREW,male,White,Post-secondary non-tertiary education
+46,43,1,1,,5,Hebrew ,female,White,Post-secondary non-tertiary education
+47,39,2,1,,6,hebrew,male,White,Short-cycle tertiary education
+48,36,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+49,23,1,1,,4,עברית,female,White,Upper secondary education
+50,51,1,1,,6,עברית,female,White,Short-cycle tertiary education
+51,19,1,1,,4,אנגלית,female,White,Upper secondary education
+52,64,1,1,,5,hebrew,female,White,Post-secondary non-tertiary education
+54,38,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+55,30,2,4,רוסי,4,עברית ורוסית,male,"East Asian Chinese, Japanese, etc.",Upper secondary education
+56,23,1,1,,4,Hebrew,female,White,Upper secondary education
+57,25,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+58,28,1,1,,4,עברית,female,White,Upper secondary education
+59,64,1,1,,5,hebrew,female,White,Post-secondary non-tertiary education
+60,45,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+61,21,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+62,25,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+63,23,1,2,,5,ערבית,female,Black,Post-secondary non-tertiary education
+64,26,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+65,22,1,1,,4,רוסית,female,White,Upper secondary education
+66,22,2,2,,4,ערבית,male,Black,Upper secondary education
+67,41,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+68,28,1,1,,6,עברית ,female,White,Short-cycle tertiary education
+69,20,1,1,,4,עברית,female,White,Upper secondary education
+70,22,2,1,,4,עברית ,male,White,Upper secondary education
+71,24,2,1,,4,עברית,male,White,Upper secondary education
+72,19,1,1,,4,אנגלית,female,White,Upper secondary education
+73,49,2,1,,7,hebrew,male,White,Bachelor or equivalent
+74,46,2,1,,5,רוסית,male,White,Post-secondary non-tertiary education
+76,39,2,1,,5,Hebrew,male,White,Post-secondary non-tertiary education
+77,20,1,1,,4,Hebrew ,female,White,Upper secondary education
+78,33,2,1,,4,עברית,male,White,Upper secondary education
+79,28,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+80,35,2,1,,4,עברית,male,White,Upper secondary education
+81,39,2,1,,5,Hebrew,male,White,Post-secondary non-tertiary education
+82,22,1,1,,4,עברית,female,White,Upper secondary education
+84,23,1,1,,4,hebrew,female,White,Upper secondary education
+85,23,1,1,,4,hebrew,female,White,Upper secondary education
+86,43,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+87,31,2,1,,6,עברית,male,White,Short-cycle tertiary education
+88,55,2,1,,4,עברית,male,White,Upper secondary education
+89,24,1,2,,5,ערבית,female,Black,Post-secondary non-tertiary education
+90,20,2,1,,4,עברית,male,White,Upper secondary education
+91,32,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+92,51,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+93,24,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+94,26,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+95,46,2,1,,6,Hebrew,male,White,Short-cycle tertiary education
+96,73,1,4,Israel,5,English,female,"East Asian Chinese, Japanese, etc.",Post-secondary non-tertiary education
+97,23,2,1,,5,Hebrew,male,White,Post-secondary non-tertiary education
+99,22,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+100,27,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+101,43,1,1,,6,russian,female,White,Short-cycle tertiary education
+102,21,2,1,,4,עברית,male,White,Upper secondary education
+103,25,2,2,,6,ערבית,male,Black,Short-cycle tertiary education
+104,28,1,1,,6,עברית,female,White,Short-cycle tertiary education
+105,26,1,1,,4,עברית,female,White,Upper secondary education
+106,42,2,1,,5,hebrew,male,White,Post-secondary non-tertiary education
+107,38,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+108,37,2,4,רוסי,4,רוסי,male,"East Asian Chinese, Japanese, etc.",Upper secondary education
+109,34,1,1,,6,עברית,female,White,Short-cycle tertiary education
+110,33,1,1,,6,עברית ,female,White,Short-cycle tertiary education
+111,27,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+112,22,1,2,,5,ערבית,female,Black,Post-secondary non-tertiary education
+113,22,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+115,33,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+117,24,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+118,30,1,1,,4,עברית,female,White,Upper secondary education
+119,25,1,1,,5,hebrew,female,White,Post-secondary non-tertiary education
+120,41,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+122,22,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+123,27,2,1,,4,עברית,male,White,Upper secondary education
+124,36,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+125,39,1,1,,6,Hebrew,female,White,Short-cycle tertiary education
+126,25,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+127,20,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+128,21,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+129,29,1,1,,6,עברית,female,White,Short-cycle tertiary education
+130,40,1,1,,4,עברית,female,White,Upper secondary education
+132,38,1,1,,6,עברית,female,White,Short-cycle tertiary education
+133,27,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+134,38,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+135,25,1,1,,4,hebrew,female,White,Upper secondary education
+136,38,2,1,,5,hebrew,male,White,Post-secondary non-tertiary education
+137,25,1,1,,5,רוסית,female,White,Post-secondary non-tertiary education
+138,28,2,1,,5,hebrew,male,White,Post-secondary non-tertiary education
+140,27,1,1,,4,עברית,female,White,Upper secondary education
+141,25,1,1,,6,Hebrew,female,White,Short-cycle tertiary education
+142,44,2,1,,6,עברית,male,White,Short-cycle tertiary education
+143,27,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+144,39,2,1,,6,Hebrew,male,White,Short-cycle tertiary education
+145,36,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+146,64,1,1,,5,hebrew,female,White,Post-secondary non-tertiary education
+147,32,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+148,56,2,1,,6,עברית ,male,White,Short-cycle tertiary education
+149,34,1,1,,6,Russian,female,White,Short-cycle tertiary education
+150,49,2,1,,7,hebrew,male,White,Bachelor or equivalent
+151,22,1,1,,4,עברית,female,White,Upper secondary education
+152,28,2,1,,4,עברית,male,White,Upper secondary education
+153,69,2,1,,7,English,male,White,Bachelor or equivalent
+154,51,1,1,,7,עברית,female,White,Bachelor or equivalent
+155,43,2,1,,5,רוסית,male,White,Post-secondary non-tertiary education
+156,25,2,1,,5,עברית(hebrew),male,White,Post-secondary non-tertiary education
+157,43,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+158,30,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+159,25,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+160,28,1,1,,6,עברית,female,White,Short-cycle tertiary education
+161,43,1,1,,5,Hebrew ,female,White,Post-secondary non-tertiary education
+162,28,1,1,,4,עברית,female,White,Upper secondary education
+163,24,1,1,,4,עברית,female,White,Upper secondary education
+164,30,2,4,Russian - ????,4,עברית ורוסית russian and hebrew,male,"East Asian Chinese, Japanese, etc.",Upper secondary education
+165,33,2,1,,4,עברית,male,White,Upper secondary education
+166,27,1,1,,5,עברית ,female,White,Post-secondary non-tertiary education
+167,42,2,1,,5,hebrew,male,White,Post-secondary non-tertiary education
+168,19,1,1,,4,עברית,female,White,Upper secondary education
+169,77,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+170,31,2,1,,6,עברית,male,White,Short-cycle tertiary education
+172,27,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+173,57,1,1,,6,עברית ואנגלית,female,White,Short-cycle tertiary education
+174,26,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+175,22,2,1,,4,עברית ,male,White,Upper secondary education
+176,24,1,1,,4,עברית,female,White,Upper secondary education
+177,61,1,1,,6,עברית,female,White,Short-cycle tertiary education
+178,35,2,1,,4,עברית,male,White,Upper secondary education
+179,23,2,1,,4,עברית,male,White,Upper secondary education
+180,25,1,1,,5,"עברית, אנגלית",female,White,Post-secondary non-tertiary education
+181,34,2,1,,5,רוסית,male,White,Post-secondary non-tertiary education
+182,27,1,1,,5,Hebrew,female,White,Post-secondary non-tertiary education
+184,26,2,1,,4,רוסית,male,White,Upper secondary education
+185,26,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+186,25,2,1,,4,עברית,male,White,Upper secondary education
+187,22,1,1,,4,עברית,female,White,Upper secondary education
+188,22,1,1,,4,רוסית,female,White,Upper secondary education
+190,44,1,1,,7,רוסית,female,White,Bachelor or equivalent
+191,28,1,1,,6,עברית,female,White,Short-cycle tertiary education
+192,52,1,1,,7,אנגלית+עברית,female,White,Bachelor or equivalent
+193,24,2,1,,4,עברית,male,White,Upper secondary education
+194,25,2,2,,6,Arabic,male,Black,Short-cycle tertiary education
+195,29,1,1,,6,עברית,female,White,Short-cycle tertiary education
+196,20,2,1,,4,Hebrew,male,White,Upper secondary education
+197,26,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+198,21,2,1,,4,עברית,male,White,Upper secondary education
+199,31,2,1,,5,Hebrew,male,White,Post-secondary non-tertiary education
+200,43,1,1,,6,russian,female,White,Short-cycle tertiary education
+201,25,1,1,,5,english and hebrew,female,White,Post-secondary non-tertiary education
+202,25,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+203,46,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+204,19,1,1,,4,אנגלית,female,White,Upper secondary education
+205,24,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+206,37,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+207,43,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+208,30,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+209,25,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+210,28,1,1,,6,עברית,female,White,Short-cycle tertiary education
+211,43,1,1,,5,Hebrew ,female,White,Post-secondary non-tertiary education
+212,28,1,1,,4,עברית,female,White,Upper secondary education
+213,24,1,1,,4,עברית,female,White,Upper secondary education
+214,30,2,4,Russian - ????,4,עברית ורוסית russian and hebrew,male,"East Asian Chinese, Japanese, etc.",Upper secondary education
+215,33,2,1,,4,עברית,male,White,Upper secondary education
+216,27,1,1,,5,עברית ,female,White,Post-secondary non-tertiary education
+217,42,2,1,,5,hebrew,male,White,Post-secondary non-tertiary education
+218,19,1,1,,4,עברית,female,White,Upper secondary education
+219,77,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+220,31,2,1,,6,עברית,male,White,Short-cycle tertiary education
+222,27,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+223,57,1,1,,6,עברית ואנגלית,female,White,Short-cycle tertiary education
+224,26,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+225,22,2,1,,4,עברית ,male,White,Upper secondary education
+226,24,1,1,,4,עברית,female,White,Upper secondary education
+227,61,1,1,,6,עברית,female,White,Short-cycle tertiary education
+228,35,2,1,,4,עברית,male,White,Upper secondary education
+229,23,2,1,,4,עברית,male,White,Upper secondary education
+230,25,1,1,,5,"עברית, אנגלית",female,White,Post-secondary non-tertiary education
+231,34,2,1,,5,רוסית,male,White,Post-secondary non-tertiary education
+232,27,1,1,,5,Hebrew,female,White,Post-secondary non-tertiary education
+234,26,2,1,,4,רוסית,male,White,Upper secondary education
+235,26,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+236,25,2,1,,4,עברית,male,White,Upper secondary education
+237,22,1,1,,4,עברית,female,White,Upper secondary education
+238,22,1,1,,4,רוסית,female,White,Upper secondary education
+240,44,1,1,,7,רוסית,female,White,Bachelor or equivalent
+241,28,1,1,,6,עברית,female,White,Short-cycle tertiary education
+242,52,1,1,,7,אנגלית+עברית,female,White,Bachelor or equivalent
+243,24,2,1,,4,עברית,male,White,Upper secondary education
+244,25,2,2,,6,Arabic,male,Black,Short-cycle tertiary education
+245,29,1,1,,6,עברית,female,White,Short-cycle tertiary education
+246,20,2,1,,4,Hebrew,male,White,Upper secondary education
+247,26,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+248,21,2,1,,4,עברית,male,White,Upper secondary education
+249,31,2,1,,5,Hebrew,male,White,Post-secondary non-tertiary education
+250,43,1,1,,6,russian,female,White,Short-cycle tertiary education
+251,25,1,1,,5,english and hebrew,female,White,Post-secondary non-tertiary education
+252,25,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+253,46,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+254,19,1,1,,4,אנגלית,female,White,Upper secondary education
+255,24,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+256,37,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+258,46,2,1,,6,Hebrew,male,White,Short-cycle tertiary education
+259,32,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+260,46,2,1,,5,רוסית,male,White,Post-secondary non-tertiary education
+261,45,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+262,25,2,1,,4,עברית,male,White,Upper secondary education
+263,20,2,1,,4,עברית,male,White,Upper secondary education
+265,51,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+266,50,2,1,,5,Hebrew,male,White,Post-secondary non-tertiary education
+267,38,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+268,44,1,1,,7,רוסית,female,White,Bachelor or equivalent
+269,51,1,1,,6,עברית,female,White,Short-cycle tertiary education
+270,33,1,1,,4,HEBREW,female,White,Upper secondary education
+271,33,2,1,,4,עברית,male,White,Upper secondary education
+272,25,1,1,,4,עברית,female,White,Upper secondary education
+273,32,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+274,38,2,1,,5,hebrew,male,White,Post-secondary non-tertiary education
+275,30,1,1,,6,עברית,female,White,Short-cycle tertiary education
+276,22,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+277,29,1,1,,6,עברית,female,White,Short-cycle tertiary education
+278,25,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+280,44,2,1,,6,עברית,male,White,Short-cycle tertiary education
+281,19,1,1,,4,אנגלית,female,White,Upper secondary education
+282,25,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+283,20,1,1,,4,עברית,female,White,Upper secondary education
+285,23,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+287,21,2,1,,4,Hebrew,male,White,Upper secondary education
+288,25,1,1,,5,"english, hebrew",female,White,Post-secondary non-tertiary education
+289,29,1,1,,6,עברית,female,White,Short-cycle tertiary education
+290,28,2,1,,4,עברית,male,White,Upper secondary education
+291,51,2,1,,5,hebrew,male,White,Post-secondary non-tertiary education
+292,26,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+293,43,1,1,,5,Hebrew ,female,White,Post-secondary non-tertiary education
+294,23,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+295,60,2,1,,5,Hebrew,male,White,Post-secondary non-tertiary education
+296,22,2,1,,4,עברית,male,White,Upper secondary education
+297,36,2,1,,5,עברית ,male,White,Post-secondary non-tertiary education
+299,43,2,1,,5,רוסית,male,White,Post-secondary non-tertiary education
+300,26,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+301,64,1,1,,5,hebrew,female,White,Post-secondary non-tertiary education
+302,33,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+303,41,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+304,30,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+305,28,1,1,,4,עברית,female,White,Upper secondary education
+306,34,1,1,,4,Hebrew,female,White,Upper secondary education
+307,45,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+310,44,1,1,,7,רוסית,female,White,Bachelor or equivalent
+311,48,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+312,39,2,1,,6,hebrew,male,White,Short-cycle tertiary education
+314,46,2,1,,5,רוסית,male,White,Post-secondary non-tertiary education
+315,38,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+316,22,2,1,,4,עברית,male,White,Upper secondary education
+317,47,1,1,,6,English,female,White,Short-cycle tertiary education
+318,27,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+319,22,2,1,,4,עברית,male,White,Upper secondary education
+320,21,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+321,20,2,1,,4,עברית,male,White,Upper secondary education
+323,29,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+324,37,2,1,,7,עברית,male,White,Bachelor or equivalent
+325,30,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+326,29,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+327,43,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+328,23,1,1,,4,עברית,female,White,Upper secondary education
+329,67,1,1,,5,Hebrew,female,White,Post-secondary non-tertiary education
+330,60,1,4,בודהיזם ,5,אנגלית ,female,"East Asian Chinese, Japanese, etc.",Post-secondary non-tertiary education
+331,61,1,1,,6,עברית,female,White,Short-cycle tertiary education
+332,35,2,1,,4,עברית,male,White,Upper secondary education
+333,28,1,1,,6,עברית,female,White,Short-cycle tertiary education
+334,27,2,1,,4,עברית,male,White,Upper secondary education
+335,57,1,1,,6,אנגלית,female,White,Short-cycle tertiary education
+336,25,1,1,,5,English,female,White,Post-secondary non-tertiary education
+337,42,2,1,,5,hebrew,male,White,Post-secondary non-tertiary education
+339,38,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+341,43,1,1,,6,russian,female,White,Short-cycle tertiary education
+342,36,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+344,33,1,1,,4,hebrew,female,White,Upper secondary education
+345,20,2,1,,4,עברית ,male,White,Upper secondary education
+346,33,2,1,,4,עברית,male,White,Upper secondary education
+347,73,1,4,Israel,5,English,female,"East Asian Chinese, Japanese, etc.",Post-secondary non-tertiary education
+348,25,2,2,,6,ערבית,male,Black,Short-cycle tertiary education
+349,51,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+350,37,1,1,,6,English,female,White,Short-cycle tertiary education
+351,25,2,1,,5,hebrew(עברית),male,White,Post-secondary non-tertiary education
+352,31,2,1,,5,Hebrew,male,White,Post-secondary non-tertiary education
+353,29,2,4,הונגרי,5,הונגרית,male,"East Asian Chinese, Japanese, etc.",Post-secondary non-tertiary education
+354,28,1,1,,6,עברית,female,White,Short-cycle tertiary education
+355,21,2,1,,4,עברית,male,White,Upper secondary education
+356,20,1,1,,4,עברית,female,White,Upper secondary education
+357,25,2,1,,4,עברית,male,White,Upper secondary education
+358,26,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+359,50,2,1,,5,Hebrew,male,White,Post-secondary non-tertiary education
+360,22,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+361,40,1,1,,4,עברית,female,White,Upper secondary education
+362,24,2,1,,4,עברית,male,White,Upper secondary education
+363,24,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+364,23,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+366,25,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+367,28,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+368,22,1,1,,4,עברית,female,White,Upper secondary education
+369,21,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+371,23,1,2,,5,ערבית,female,Black,Post-secondary non-tertiary education
+372,60,2,1,,5,Hebrew,male,White,Post-secondary non-tertiary education
+373,29,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+374,33,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+375,25,1,1,,6,עברית,female,White,Short-cycle tertiary education
+376,25,2,1,,5,"עברית, אנגלית",male,White,Post-secondary non-tertiary education
+377,22,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+378,23,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+379,38,2,1,,5,hebrew,male,White,Post-secondary non-tertiary education
+380,64,1,1,,5,hebrew,female,White,Post-secondary non-tertiary education
+381,25,1,1,,5,"עברית, אנגלית",female,White,Post-secondary non-tertiary education
+382,29,2,4,הונגרי,5,הונגרית,male,"East Asian Chinese, Japanese, etc.",Post-secondary non-tertiary education
+383,26,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+384,30,1,4,ללא,5,רוסית,female,"East Asian Chinese, Japanese, etc.",Post-secondary non-tertiary education
+385,24,1,1,,4,עברית,female,White,Upper secondary education
+386,21,1,1,,4,רוסית,female,White,Upper secondary education
+387,27,1,1,,5,Hebrew,female,White,Post-secondary non-tertiary education
+388,25,2,1,,5,hebrew(עברית),male,White,Post-secondary non-tertiary education
+389,26,1,1,,5,רוסית,female,White,Post-secondary non-tertiary education
+391,37,2,1,1,4,hebrew(עברית),male,White,Upper secondary education
+392,29,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+393,22,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+394,20,1,1,,4,hebrew,female,White,Upper secondary education
+396,43,2,1,,5,רוסית,male,White,Post-secondary non-tertiary education
+397,27,1,1,,5,Hebrew,female,White,Post-secondary non-tertiary education
+398,45,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+399,39,1,1,,6,Hebrew,female,White,Short-cycle tertiary education
+400,43,1,1,,5,Hebrew ,female,White,Post-secondary non-tertiary education
+401,22,1,2,,5,ערבית,female,Black,Post-secondary non-tertiary education
+402,43,1,1,,6,russian,female,White,Short-cycle tertiary education
+403,28,1,1,,4,עברית,female,White,Upper secondary education
+405,35,2,1,,4,עברית,male,White,Upper secondary education
+406,49,2,1,,7,עברית,male,White,Bachelor or equivalent
+407,42,2,1,,5,HEBREW,male,White,Post-secondary non-tertiary education
+408,20,2,1,,4,Russian ,male,White,Upper secondary education
+409,19,1,1,,4,עברית,female,White,Upper secondary education
+410,19,1,1,,4,אנגלית,female,White,Upper secondary education
+411,25,2,1,,4,עברית,male,White,Upper secondary education
+412,23,1,1,,4,עברית,female,White,Upper secondary education
+413,22,2,2,,4,ערבית,male,Black,Upper secondary education
+414,39,2,1,,6,hebrew,male,White,Short-cycle tertiary education
+415,35,1,1,,6,אנגלית,female,White,Short-cycle tertiary education
+416,28,2,1,,4,עברית,male,White,Upper secondary education
+417,26,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+418,21,2,1,,4,עברית,male,White,Upper secondary education
+419,25,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+420,52,1,1,,7,אנגלית+עברית,female,White,Bachelor or equivalent
+421,67,1,1,,5,Hebrew,female,White,Post-secondary non-tertiary education
+422,36,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+423,24,2,1,,4,עברית,male,White,Upper secondary education
+424,27,2,1,,4,עברית,male,White,Upper secondary education
+425,51,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+426,30,1,1,,4,עברית,female,White,Upper secondary education
+427,57,1,1,,6,אנגלית,female,White,Short-cycle tertiary education
+428,55,2,1,,4,עברית ,male,White,Upper secondary education
+429,28,1,1,,6,עברית,female,White,Short-cycle tertiary education
+430,22,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+431,34,2,1,,5,רוסית,male,White,Post-secondary non-tertiary education
+432,61,1,1,,6,עברית,female,White,Short-cycle tertiary education
+433,31,2,1,,5,Hebrew,male,White,Post-secondary non-tertiary education
+434,43,2,1,,4,עברית,male,White,Upper secondary education
+435,40,1,1,,4,עברית,female,White,Upper secondary education
+436,25,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+437,30,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+438,29,1,1,,6,עברית,female,White,Short-cycle tertiary education
+439,20,1,1,,4,Hebrew ,female,White,Upper secondary education
+440,73,1,4,Israel,5,English,female,"East Asian Chinese, Japanese, etc.",Post-secondary non-tertiary education
+441,27,2,1,,4,עברת,male,White,Upper secondary education
+442,22,2,1,,4,עברית ,male,White,Upper secondary education
+443,20,1,1,,4,עברית,female,White,Upper secondary education
+444,20,2,1,,4,עברית ,male,White,Upper secondary education
+445,46,2,1,,6,Hebrew,male,White,Short-cycle tertiary education
+446,51,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+447,24,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+448,27,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+449,47,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+450,28,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+451,25,1,1,,5,"English, hebrew",female,White,Post-secondary non-tertiary education
+452,25,1,1,,5,English,female,White,Post-secondary non-tertiary education
+453,26,1,1,,4,עברית,female,White,Upper secondary education
+454,44,1,1,,7,רוסית,female,White,Bachelor or equivalent
+455,37,1,1,,6,English,female,White,Short-cycle tertiary education
+456,50,2,1,,5,Hebrew,male,White,Post-secondary non-tertiary education
+457,38,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+458,26,1,1,,6,Hebrew,female,White,Short-cycle tertiary education
+459,40,1,1,,4,עברית,female,White,Upper secondary education
+460,25,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+461,29,1,1,,6,עברית,female,White,Short-cycle tertiary education
+462,20,1,1,,4,עברית,female,White,Upper secondary education
+463,29,1,1,,6,עברית,female,White,Short-cycle tertiary education
+464,29,1,1,,6,עברית,female,White,Short-cycle tertiary education
+465,25,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+466,29,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+467,23,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+468,19,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+469,36,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+470,26,1,1,,5,אנגלית,female,White,Post-secondary non-tertiary education
+471,31,1,1,,4,Hebrew,female,White,Upper secondary education
+472,31,1,1,,4,Hebrew,female,White,Upper secondary education
+474,45,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+475,43,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+476,19,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+477,26,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+478,22,2,1,,4,עברית,male,White,Upper secondary education
+479,24,1,1,,4,עברית,female,White,Upper secondary education
+480,26,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+481,26,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+482,35,2,1,,4,עברית,male,White,Upper secondary education
+483,27,2,1,,4,עברית,male,White,Upper secondary education
+484,53,1,1,,5,עברית HEBREW,female,White,Post-secondary non-tertiary education
+485,28,1,1,,6,עברית,female,White,Short-cycle tertiary education
+487,20,1,1,,4,עברית,female,White,Upper secondary education
+488,24,2,1,,4,Hebrew,male,White,Upper secondary education
+490,46,2,1,,5,רוסית,male,White,Post-secondary non-tertiary education
+491,33,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+492,46,2,1,,6,Hebrew,male,White,Short-cycle tertiary education
+493,50,2,1,,5,Hebrew,male,White,Post-secondary non-tertiary education
+494,21,2,1,,4,עברית,male,White,Upper secondary education
+495,33,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+496,44,1,1,,7,רוסית,female,White,Bachelor or equivalent
+497,37,1,1,,6,English,female,White,Short-cycle tertiary education
+498,51,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+499,73,1,4,Israel,5,English,female,"East Asian Chinese, Japanese, etc.",Post-secondary non-tertiary education
+500,38,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+501,25,2,1,,4,עברית,male,White,Upper secondary education
+502,33,1,1,,4,HEBREW,female,White,Upper secondary education
+503,43,1,1,,5,Hebrew ,female,White,Post-secondary non-tertiary education
+504,36,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+506,19,1,4,אתאיסט,4,עברית,female,"East Asian Chinese, Japanese, etc.",Upper secondary education
+507,41,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+510,48,1,1,,5,עברית ,female,White,Post-secondary non-tertiary education
+511,25,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+512,29,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+513,31,2,1,,5,Hebrew,male,White,Post-secondary non-tertiary education
+514,29,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+515,39,2,1,,5,HEBREW,male,White,Post-secondary non-tertiary education
+516,25,2,1,,5,"עברית, אנגלית",male,White,Post-secondary non-tertiary education
+517,30,1,1,,4,עברית,female,White,Upper secondary education
+518,39,2,1,,5,Hebrew,male,White,Post-secondary non-tertiary education
+519,51,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+520,22,1,1,,4,עברית,female,White,Upper secondary education
+521,29,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+522,29,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+523,21,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+524,21,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+525,31,2,1,,5,Hebrew,male,White,Post-secondary non-tertiary education
+526,20,2,1,,4,russian,male,White,Upper secondary education
+527,41,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+528,53,1,1,,5,עברית HEBREW,female,White,Post-secondary non-tertiary education
+530,28,2,1,,4,עברית,male,White,Upper secondary education
+531,28,2,1,,4,עברית,male,White,Upper secondary education
+532,25,1,1,,5,english,female,White,Post-secondary non-tertiary education
+533,23,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+534,23,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+535,51,2,1,,5,hebrew,male,White,Post-secondary non-tertiary education
+536,35,1,1,,6,Russian,female,White,Short-cycle tertiary education
+537,53,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+538,67,1,1,,5,Hebrew,female,White,Post-secondary non-tertiary education
+540,25,1,1,,5,hebrew,female,White,Post-secondary non-tertiary education
+541,27,2,1,,4,hebrew,male,White,Upper secondary education
+542,25,1,1,,5,hebrew,female,White,Post-secondary non-tertiary education
+543,37,1,1,,6,עברית,female,White,Short-cycle tertiary education
+544,43,1,1,,6,russian,female,White,Short-cycle tertiary education
+545,43,2,1,,5,רוסית,male,White,Post-secondary non-tertiary education
+546,24,1,1,,4,עברית,female,White,Upper secondary education
+547,24,1,1,,4,עברית,female,White,Upper secondary education
+548,23,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+550,26,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+551,29,1,1,,6,עברית,female,White,Short-cycle tertiary education
+552,61,1,1,,6,עברית,female,White,Short-cycle tertiary education
+553,35,2,1,,4,עברית,male,White,Upper secondary education
+554,36,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+555,24,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+556,33,2,1,,4,עברית,male,White,Upper secondary education
+557,28,1,1,,6,עברית,female,White,Short-cycle tertiary education
+558,20,1,1,,4,עברית,female,White,Upper secondary education
+559,24,2,1,,4,Hebrew,male,White,Upper secondary education
+560,67,1,1,,5,Hebrew,female,White,Post-secondary non-tertiary education
+561,36,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+562,43,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+563,31,2,1,,7,עברית,male,White,Bachelor or equivalent
+564,43,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+565,28,1,1,,4,עברית,female,White,Upper secondary education
+566,22,2,1,,4,עברית ,male,White,Upper secondary education
+567,69,2,1,,3, אנגלית,male,White,Lower secondary education
+568,60,2,1,,5,Hebrew ,male,White,Post-secondary non-tertiary education
+569,44,2,1,,6,hebrew,male,White,Short-cycle tertiary education
+570,26,1,1,,4,עברית,female,White,Upper secondary education
+571,39,2,1,,6,hebrew,male,White,Short-cycle tertiary education
+572,22,1,1,,4,עברית,female,White,Upper secondary education
+573,24,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+574,24,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+575,20,2,1,,4,עברית,male,White,Upper secondary education
+576,20,2,1,,4,עברית,male,White,Upper secondary education
+577,26,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+578,21,2,1,,4,עברית,male,White,Upper secondary education
+579,20,2,1,,4,עברית,male,White,Upper secondary education
+580,30,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+581,38,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+582,30,1,1,,6,עברית,female,White,Short-cycle tertiary education
+583,46,2,1,,6,עברית,male,White,Short-cycle tertiary education
+584,45,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+585,23,1,1,,4,עברית,female,White,Upper secondary education
+586,28,1,1,,6,עברית,female,White,Short-cycle tertiary education
+587,55,2,1,,4,עברית,male,White,Upper secondary education
+588,36,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+589,44,1,1,,7,רוסית,female,White,Bachelor or equivalent
+590,50,2,1,,5,Hebrew,male,White,Post-secondary non-tertiary education
+591,46,2,1,,5,רוסית,male,White,Post-secondary non-tertiary education
+592,61,1,1,,6,עברית,female,White,Short-cycle tertiary education
+593,27,2,1,,4,עברית,male,White,Upper secondary education
+594,43,1,1,,5,Hebrew ,female,White,Post-secondary non-tertiary education
+595,57,1,1,,6,אנגלית,female,White,Short-cycle tertiary education
+596,20,2,1,,4,עברית,male,White,Upper secondary education
+597,37,1,1,,6,עברית,female,White,Short-cycle tertiary education
+598,19,1,1,,4,אנגלית,female,White,Upper secondary education
+599,25,2,1,,4,עברית,male,White,Upper secondary education
+600,37,1,1,,6,עברית,female,White,Short-cycle tertiary education
+601,37,1,1,,6,English,female,White,Short-cycle tertiary education
+602,73,1,4,Israel,5,English,female,"East Asian Chinese, Japanese, etc.",Post-secondary non-tertiary education
+603,45,2,1,,5,רוסית,male,White,Post-secondary non-tertiary education
+605,33,1,1,,4,hebrew,female,White,Upper secondary education
+606,43,2,1,,5,רוסית,male,White,Post-secondary non-tertiary education
+607,21,1,1,,4,רוסית,female,White,Upper secondary education
+608,25,1,1,,5,"English, hebrew",female,White,Post-secondary non-tertiary education
+609,37,1,1,,6,English,female,White,Short-cycle tertiary education
+610,33,1,1,,6,עברית ,female,White,Short-cycle tertiary education
+611,51,1,1,,6,עברית,female,White,Short-cycle tertiary education
+612,39,1,1,,6,Hebrew,female,White,Short-cycle tertiary education
+613,44,2,1,,6,hebrew,male,White,Short-cycle tertiary education
+614,20,2,1,,4,Russian,male,White,Upper secondary education
+615,42,2,1,,5,hebrew,male,White,Post-secondary non-tertiary education
+616,27,2,1,,4,עברית,male,White,Upper secondary education
+617,26,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+620,49,2,1,,7,hebrew,male,White,Bachelor or equivalent
+621,46,2,1,,6,Hebrew,male,White,Short-cycle tertiary education
+623,29,1,1,,6,עברית,female,White,Short-cycle tertiary education
+624,26,2,1,,4,עברית,male,White,Upper secondary education
+625,35,2,1,,4,עברית,male,White,Upper secondary education
+626,26,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+627,26,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+628,20,2,1,,4,עברית,male,White,Upper secondary education
+629,20,1,1,,4,עברית,female,White,Upper secondary education
+630,22,2,1,,4,עברית,male,White,Upper secondary education
+631,28,1,1,,4,עברית,female,White,Upper secondary education
+632,33,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+633,30,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+634,51,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+635,39,2,1,,6,hebrew,male,White,Short-cycle tertiary education
+636,52,1,1,,7,אנגלית+עברית,female,White,Bachelor or equivalent
+637,29,1,1,,7,עברית,female,White,Bachelor or equivalent
+638,22,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+639,28,1,1,,6,עברית,female,White,Short-cycle tertiary education
+641,23,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+642,20,1,1,,4,Hebrew ,female,White,Upper secondary education
+643,57,1,1,,6,אנגלית,female,White,Short-cycle tertiary education
+644,27,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+645,30,1,1,,6,עברית,female,White,Short-cycle tertiary education
+646,30,1,1,,6,עברית,female,White,Short-cycle tertiary education
+647,28,1,1,,6,עברית,female,White,Short-cycle tertiary education
+648,43,1,1,,5,Hebrew ,female,White,Post-secondary non-tertiary education
+649,30,1,1,,4,עברית,female,White,Upper secondary education
+650,40,1,1,,4,עברית,female,White,Upper secondary education
+651,73,1,4,Israel,5,English,female,"East Asian Chinese, Japanese, etc.",Post-secondary non-tertiary education
+652,51,2,1,,5,hebrew,male,White,Post-secondary non-tertiary education
+653,29,2,4,הונגרי,5,הונגרית,male,"East Asian Chinese, Japanese, etc.",Post-secondary non-tertiary education
+654,25,2,2,,6,ערבית,male,Black,Short-cycle tertiary education
+655,46,2,1,,5,רוסית,male,White,Post-secondary non-tertiary education
+656,32,1,1,,5,עברית,female,White,Post-secondary non-tertiary education
+657,25,2,1,,4,עברית,male,White,Upper secondary education
+658,38,2,1,,5,עברית,male,White,Post-secondary non-tertiary education
+659,20,2,1,,4,עברית,male,White,Upper secondary education
+661,50,2,1,,5,Hebrew,male,White,Post-secondary non-tertiary education
+662,44,1,1,,7,רוסית,female,White,Bachelor or equivalent
+663,33,2,1,,4,עברית,male,White,Upper secondary education
+664,33,1,1,,4,HEBREW,female,White,Upper secondary education

@@ -1,0 +1,601 @@
+,Age,Gender,Race,Race_alternative,Highest education,First language,Gender_label,Race_label,Highest education_label
+0,42,2,1,,6,Русский ,male,Russian,Post-secondary non-tertiary education
+1,43,1,1,,9,РУССКИЙ,female,Russian,Master or equivalent
+2,52,1,1,,10,русский,female,Russian,Doctoral or equivalent
+3,42,2,1,,6,Русский ,male,Russian,Post-secondary non-tertiary education
+4,31,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+5,45,1,1,,10,да,female,Russian,Doctoral or equivalent
+6,57,1,1,,10,русский,female,Russian,Doctoral or equivalent
+7,26,2,1,,8,Русский,male,Russian,Bachelor or equivalent
+8,23,1,1,,8,Русский,female,Russian,Bachelor or equivalent
+9,56,2,1,,9,русский,male,Russian,Master or equivalent
+10,47,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+11,50,1,1,,7,Русский,female,Russian,Short-cycle tertiary education
+12,33,2,1,,7,Русский ,male,Russian,Short-cycle tertiary education
+13,56,2,1,,4,русский,male,Russian,Lower secondary education
+14,51,2,1,,4,русский,male,Russian,Lower secondary education
+15,25,1,1,,9,Русский,female,Russian,Master or equivalent
+16,22,1,1,,10,Рус,female,Russian,Doctoral or equivalent
+17,52,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+18,61,2,1,,8,русский,male,Russian,Bachelor or equivalent
+19,45,2,1,,7,Русский,male,Russian,Short-cycle tertiary education
+20,35,2,1,,7,Русский ,male,Russian,Short-cycle tertiary education
+21,37,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+22,29,1,1,,8,Русский,female,Russian,Bachelor or equivalent
+23,33,1,1,,7,Русский ,female,Russian,Short-cycle tertiary education
+24,44,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+25,36,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+26,47,2,1,,7,Русский,male,Russian,Short-cycle tertiary education
+27,42,1,1,,10,Русский ,female,Russian,Doctoral or equivalent
+28,20,1,1,,8,Русский,female,Russian,Bachelor or equivalent
+29,63,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+30,51,2,1,,10,русский,male,Russian,Doctoral or equivalent
+31,32,1,1,,10,Русский ,female,Russian,Doctoral or equivalent
+32,46,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+33,40,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+34,33,1,1,,8,Русский,female,Russian,Bachelor or equivalent
+35,51,2,1,,5,Русский,male,Russian,Upper secondary education
+36,55,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+37,33,2,1,,10,русский,male,Russian,Doctoral or equivalent
+38,51,2,1,,4,Русский ,male,Russian,Lower secondary education
+39,44,2,1,,10,Русский ,male,Russian,Doctoral or equivalent
+40,50,1,1,,7,Русский ,female,Russian,Short-cycle tertiary education
+41,30,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+42,38,1,1,,7,Русский ,female,Russian,Short-cycle tertiary education
+43,49,1,1,,7,русский,female,Russian,Short-cycle tertiary education
+44,31,1,1,,11,Русский,female,Russian,Doctoral or equivalent
+45,30,2,1,,5,Русский,male,Russian,Upper secondary education
+46,52,2,1,,10,русский,male,Russian,Doctoral or equivalent
+47,32,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+48,60,2,1,,10,русский,male,Russian,Doctoral or equivalent
+50,58,2,1,,5,Русский,male,Russian,Upper secondary education
+51,46,2,1,,10,Русский ,male,Russian,Doctoral or equivalent
+52,47,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+53,39,2,1,,10,русский,male,Russian,Doctoral or equivalent
+54,23,2,1,,10,Русский ,male,Russian,Doctoral or equivalent
+55,50,2,5,,10,русский,male,Jewish,Doctoral or equivalent
+56,22,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+57,32,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+58,50,2,1,,8,Русский ,male,Russian,Bachelor or equivalent
+59,55,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+60,63,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+61,58,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+62,44,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+63,40,2,1,,7,Русский ,male,Russian,Short-cycle tertiary education
+64,40,2,1,,10,Русский ,male,Russian,Doctoral or equivalent
+65,29,2,1,,8,Русский,male,Russian,Bachelor or equivalent
+66,35,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+67,26,1,1,,7,Русский,female,Russian,Short-cycle tertiary education
+68,34,1,1,,8,Русский ,female,Russian,Bachelor or equivalent
+69,31,1,1,,7,Русский ,female,Russian,Short-cycle tertiary education
+70,63,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+71,63,2,1,,10,Русский ,male,Russian,Doctoral or equivalent
+72,23,1,1,,8,Русский,female,Russian,Bachelor or equivalent
+73,31,2,1,,8,Русский,male,Russian,Bachelor or equivalent
+74,43,2,3,,7,Русский,male,Ukrainian,Short-cycle tertiary education
+75,41,1,1,,7,русский,female,Russian,Short-cycle tertiary education
+76,50,2,1,,8,русский,male,Russian,Bachelor or equivalent
+77,41,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+78,64,2,1,,10,русский,male,Russian,Doctoral or equivalent
+79,38,1,1,,10,Русский ,female,Russian,Doctoral or equivalent
+80,32,2,1,,4,русский,male,Russian,Lower secondary education
+81,39,2,1,,7,Русский ,male,Russian,Short-cycle tertiary education
+82,47,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+83,51,1,1,,9,Русский,female,Russian,Master or equivalent
+84,40,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+85,55,1,1,,10,русский,female,Russian,Doctoral or equivalent
+86,37,2,1,,8,русский,male,Russian,Bachelor or equivalent
+87,54,1,1,,7,русский,female,Russian,Short-cycle tertiary education
+88,58,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+89,59,1,1,,10,русский,female,Russian,Doctoral or equivalent
+90,19,1,1,,8,Русский ,female,Russian,Bachelor or equivalent
+91,32,1,1,,10,Русский ,female,Russian,Doctoral or equivalent
+92,65,2,1,,10,русский,male,Russian,Doctoral or equivalent
+93,40,1,1,,7,Русский ,female,Russian,Short-cycle tertiary education
+94,33,1,1,,10,русский,female,Russian,Doctoral or equivalent
+95,24,1,1,,9,русский,female,Russian,Master or equivalent
+96,59,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+97,41,1,1,,10,русский,female,Russian,Doctoral or equivalent
+98,62,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+99,58,1,1,,10,русский,female,Russian,Doctoral or equivalent
+100,44,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+101,31,2,1,,10,Русский ,male,Russian,Doctoral or equivalent
+102,33,1,1,,8,Русский,female,Russian,Bachelor or equivalent
+103,29,2,1,,8,Русский ,male,Russian,Bachelor or equivalent
+104,32,1,1,,6,Русский,female,Russian,Post-secondary non-tertiary education
+106,57,2,1,,5,русский,male,Russian,Upper secondary education
+107,53,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+108,34,2,1,,3,Русский ,male,Russian,Primary education
+109,39,2,6,Нет,10,Рус,male,Other (write in),Doctoral or equivalent
+110,50,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+111,31,1,1,,7,Русский,female,Russian,Short-cycle tertiary education
+113,34,1,2,,10,Татарский,female,Tatar,Doctoral or equivalent
+114,57,2,1,,10,Русский ,male,Russian,Doctoral or equivalent
+115,36,2,1,,6,Русский,male,Russian,Post-secondary non-tertiary education
+116,22,1,1,,4,Русский,female,Russian,Lower secondary education
+117,28,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+118,22,1,1,,7,Русский,female,Russian,Short-cycle tertiary education
+119,23,1,1,,9,Русский,female,Russian,Master or equivalent
+120,62,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+121,20,1,1,,4,Русский,female,Russian,Lower secondary education
+122,62 года,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+123,61,2,1,,6,Русский,male,Russian,Post-secondary non-tertiary education
+124,Шестьдесят три года,1,1,,10,русский,female,Russian,Doctoral or equivalent
+125,65,1,1,,7,русский,female,Russian,Short-cycle tertiary education
+126,43,1,1,,7,Русский,female,Russian,Short-cycle tertiary education
+127,65,2,1,,8,русский ,male,Russian,Bachelor or equivalent
+128,53,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+129,32,2,1,,7,Русский ,male,Russian,Short-cycle tertiary education
+130,48,2,1,,8,русский,male,Russian,Bachelor or equivalent
+131,21,1,1,,8,Русский,female,Russian,Bachelor or equivalent
+132,21,2,1,,7,Русский,male,Russian,Short-cycle tertiary education
+133,62,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+134,40,1,1,,4,Русский ,female,Russian,Lower secondary education
+135,38,1,1,,10,Русский ,female,Russian,Doctoral or equivalent
+136,48,2,1,,4,Русский ,male,Russian,Lower secondary education
+137,61,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+138,45,1,1,,5,Русский,female,Russian,Upper secondary education
+139,40,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+140,47,1,1,,10,русский,female,Russian,Doctoral or equivalent
+141,59,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+142,47,1,1,,10,русский,female,Russian,Doctoral or equivalent
+143,21,1,1,,4,русский,female,Russian,Lower secondary education
+144,60,2,1,,10,русский,male,Russian,Doctoral or equivalent
+145,65,1,1,,7,Русский,female,Russian,Short-cycle tertiary education
+146,24,1,1,,9,Русский,female,Russian,Master or equivalent
+147,41,2,1,,8,русский,male,Russian,Bachelor or equivalent
+148,33,1,1,,4,русский,female,Russian,Lower secondary education
+149,50,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+150,35,1,1,,4,русский,female,Russian,Lower secondary education
+151,51,1,1,,10,русский,female,Russian,Doctoral or equivalent
+152,49,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+153,Сорок три года,1,6,Армянка,10,Русский,female,Other (write in),Doctoral or equivalent
+154,60,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+155,24,1,1,,6,Русский ,female,Russian,Post-secondary non-tertiary education
+156,35,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+157,47,2,1,,10,русский,male,Russian,Doctoral or equivalent
+158,46,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+159,33,1,1,,7,Русский,female,Russian,Short-cycle tertiary education
+160,50,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+162,32,2,1,,8,русский,male,Russian,Bachelor or equivalent
+163,32,2,2,,10,Татарский,male,Tatar,Doctoral or equivalent
+164,22,1,1,,8,русский,female,Russian,Bachelor or equivalent
+165,38,2,1,,5,Русский,male,Russian,Upper secondary education
+166,26,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+167,57,2,2,,10,русский,male,Tatar,Doctoral or equivalent
+168,48,1,1,,7,Русский ,female,Russian,Short-cycle tertiary education
+169,39,2,1,,8,русский,male,Russian,Bachelor or equivalent
+170,48,1,1,,10,Русский ,female,Russian,Doctoral or equivalent
+171,29,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+172,22,2,1,,4,Русский,male,Russian,Lower secondary education
+173,46,2,1,,8,русский,male,Russian,Bachelor or equivalent
+174,52,1,1,,10,русский,female,Russian,Doctoral or equivalent
+175,37,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+177,42,1,2,,4,Русский ,female,Tatar,Lower secondary education
+178,30,1,1,,7,Русский ,female,Russian,Short-cycle tertiary education
+179,32,2,1,,8,Русский ,male,Russian,Bachelor or equivalent
+180,28,1,1,,7,Русский,female,Russian,Short-cycle tertiary education
+181,63,2,1,,4,русский,male,Russian,Lower secondary education
+182,50,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+184,30,1,1,,4,Русский ,female,Russian,Lower secondary education
+185,36,1,1,,9,Русский ,female,Russian,Master or equivalent
+187,42,1,1,,10,русский,female,Russian,Doctoral or equivalent
+189,49,2,1,,4,russia,male,Russian,Lower secondary education
+190,23,2,1,,4,Русский,male,Russian,Lower secondary education
+191,35,1,1,,8,Русский,female,Russian,Bachelor or equivalent
+192,36,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+193,39,2,1,,7,Русский,male,Russian,Short-cycle tertiary education
+194,44,2,1,,10,русский,male,Russian,Doctoral or equivalent
+195,61,1,1,,7,русский,female,Russian,Short-cycle tertiary education
+196,40,2,1,,8,русский,male,Russian,Bachelor or equivalent
+197,44,1,1,,8,русский,female,Russian,Bachelor or equivalent
+198,23,2,1,,7,Русский,male,Russian,Short-cycle tertiary education
+199,46,2,2,,7,Татарский,male,Tatar,Short-cycle tertiary education
+200,28,1,6,Лачка,10,Лакский,female,Other (write in),Doctoral or equivalent
+201,48,1,1,,4,русский,female,Russian,Lower secondary education
+202,32,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+203,34,2,1,,4,Русский,male,Russian,Lower secondary education
+204,36,1,1,,10,русский,female,Russian,Doctoral or equivalent
+205,34,2,1,,10,русский,male,Russian,Doctoral or equivalent
+206,33,1,2,,7,Татарский,female,Tatar,Short-cycle tertiary education
+207,51,1,1,,10,Русский ,female,Russian,Doctoral or equivalent
+208,47,2,1,,5,русский,male,Russian,Upper secondary education
+209,48,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+210,52,1,1,,10,русский,female,Russian,Doctoral or equivalent
+211,49,2,1,,10,русский,male,Russian,Doctoral or equivalent
+212,24,1,1,,9,Русский,female,Russian,Master or equivalent
+213,53,2,1,,11,русский,male,Russian,Doctoral or equivalent
+214,50,2,1,,10,русский,male,Russian,Doctoral or equivalent
+216,58,1,1,,10,русский,female,Russian,Doctoral or equivalent
+217,47,2,1,,4,русский,male,Russian,Lower secondary education
+218,22,2,1,,5,Русский,male,Russian,Upper secondary education
+220,40,2,1,,10,  Русский,male,Russian,Doctoral or equivalent
+221,34,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+222,31,1,2,,8,русский,female,Tatar,Bachelor or equivalent
+223,61,1,1,,5,русский,female,Russian,Upper secondary education
+224,36,2,1,,10,русский,male,Russian,Doctoral or equivalent
+225,56,2,1,,10,русский,male,Russian,Doctoral or equivalent
+226,18,2,2,,7,Татарский,male,Tatar,Short-cycle tertiary education
+227,59,2,1,,3,Русский,male,Russian,Primary education
+228,42,2,1,,6,Русский,male,Russian,Post-secondary non-tertiary education
+229,47,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+230,57,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+231,46,1,1,,7,русский,female,Russian,Short-cycle tertiary education
+232,39,2,1,,7,Русский,male,Russian,Short-cycle tertiary education
+233,41,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+234,21,1,1,,4,Русский,female,Russian,Lower secondary education
+235,33,2,1,,8,Русский,male,Russian,Bachelor or equivalent
+236,51,2,1,,10,русский,male,Russian,Doctoral or equivalent
+237,57,1,1,,8,русский,female,Russian,Bachelor or equivalent
+238,43,2,2,,7,рус,male,Tatar,Short-cycle tertiary education
+239,40,2,1,,7,Русский,male,Russian,Short-cycle tertiary education
+240,43,1,1,,7,Русский ,female,Russian,Short-cycle tertiary education
+241,31,2,1,,8,Русский,male,Russian,Bachelor or equivalent
+242,21,1,1,,4,Русский,female,Russian,Lower secondary education
+243,34,2,1,,7,Русский ,male,Russian,Short-cycle tertiary education
+244,30,2,1,,8,русский,male,Russian,Bachelor or equivalent
+245,58,1,1,,7,русский,female,Russian,Short-cycle tertiary education
+246,23,1,1,,4,Русский ,female,Russian,Lower secondary education
+247,51,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+249,22,2,6,Latinos,7,русский,male,Other (write in),Short-cycle tertiary education
+250,45,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+251,29,2,1,,7,Русский,male,Russian,Short-cycle tertiary education
+252,31,2,6,смешно ,7,"русский, украинский ",male,Other (write in),Short-cycle tertiary education
+253,54,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+254,50,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+255,61,1,1,,4,русский,female,Russian,Lower secondary education
+256,61,1,1,,10,русский,female,Russian,Doctoral or equivalent
+257,59,1,1,,10,РУССКИЙ,female,Russian,Doctoral or equivalent
+258,44,1,1,,6,Русский,female,Russian,Post-secondary non-tertiary education
+259,58,1,1,,7,русский,female,Russian,Short-cycle tertiary education
+261,43,1,1,,5,Русский,female,Russian,Upper secondary education
+262,50,1,1,,7,русский,female,Russian,Short-cycle tertiary education
+263,50,2,1,,5,русский,male,Russian,Upper secondary education
+264,51,2,1,,10,русский,male,Russian,Doctoral or equivalent
+265,65,1,1,,10,РУССКИЙ,female,Russian,Doctoral or equivalent
+266,40,1,1,,7,русский,female,Russian,Short-cycle tertiary education
+267,56,2,1,,10,русский,male,Russian,Doctoral or equivalent
+268,50,2,1,,10,Русский ,male,Russian,Doctoral or equivalent
+269,64,1,1,,4,Русский,female,Russian,Lower secondary education
+270,34,1,1,,10,русский,female,Russian,Doctoral or equivalent
+271,38,1,1,,10,Русский ,female,Russian,Doctoral or equivalent
+272,42,2,1,,7,Русский,male,Russian,Short-cycle tertiary education
+273,43,2,1,,4,Русский,male,Russian,Lower secondary education
+274,35,1,1,,10,русский,female,Russian,Doctoral or equivalent
+275,23,1,1,,7,русский,female,Russian,Short-cycle tertiary education
+276,40,1,6,армянка,10,русский,female,Other (write in),Doctoral or equivalent
+277,61,1,1,,10,русский,female,Russian,Doctoral or equivalent
+278,25,1,1,,8,Русский,female,Russian,Bachelor or equivalent
+279,45,2,1,,10,русский ,male,Russian,Doctoral or equivalent
+280,57,1,1,,8,Русский,female,Russian,Bachelor or equivalent
+281,35,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+282,52,1,1,,10,русский,female,Russian,Doctoral or equivalent
+283,51,2,1,,10,Русский ,male,Russian,Doctoral or equivalent
+284,46,2,3,,7,русский,male,Ukrainian,Short-cycle tertiary education
+285,39,2,1,,6,русский,male,Russian,Post-secondary non-tertiary education
+286,46,2,1,,4,русский,male,Russian,Lower secondary education
+287,54,2,1,,8,русский,male,Russian,Bachelor or equivalent
+288,37,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+289,22,1,1,,8,Русский,female,Russian,Bachelor or equivalent
+290,26,2,1,,4,РУССКИЙ,male,Russian,Lower secondary education
+291,58,2,1,,7,Русский,male,Russian,Short-cycle tertiary education
+292,53,2,1,,10,русский,male,Russian,Doctoral or equivalent
+293,53,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+294,50,2,1,,10,русский,male,Russian,Doctoral or equivalent
+295,37,2,1,,10,русский язык,male,Russian,Doctoral or equivalent
+296,32,1,1,,8,русский,female,Russian,Bachelor or equivalent
+297,55,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+298,38,2,1,,10,russian,male,Russian,Doctoral or equivalent
+299,30,2,3,,4,Русский,male,Ukrainian,Lower secondary education
+301,40,1,1,,10,русский,female,Russian,Doctoral or equivalent
+302,43,2,2,,7,русский,male,Tatar,Short-cycle tertiary education
+303,56,1,1,,7,Русский,female,Russian,Short-cycle tertiary education
+304,21,2,1,,4,Русский ,male,Russian,Lower secondary education
+305,41,1,1,,8,русский,female,Russian,Bachelor or equivalent
+306,41,2,1,,7,руский,male,Russian,Short-cycle tertiary education
+307,34,1,1,,4,Русский,female,Russian,Lower secondary education
+308,46,2,1,,7,Русский,male,Russian,Short-cycle tertiary education
+309,21,1,1,,8,Русский,female,Russian,Bachelor or equivalent
+310,45,2,1,,10,русский,male,Russian,Doctoral or equivalent
+311,43,2,1,,7,Русский,male,Russian,Short-cycle tertiary education
+312,51,1,1,,7,Русский ,female,Russian,Short-cycle tertiary education
+313,33,2,2,,8,русский,male,Tatar,Bachelor or equivalent
+314,45,1,1,,10,русский,female,Russian,Doctoral or equivalent
+315,44,2,1,,3,РУССКИЙ,male,Russian,Primary education
+316,45,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+317,38,1,1,,10,русский,female,Russian,Doctoral or equivalent
+319,55,2,1,,10,русский,male,Russian,Doctoral or equivalent
+320,53,2,1,,3,русский,male,Russian,Primary education
+321,51,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+322,27,2,1,,8,русский,male,Russian,Bachelor or equivalent
+323,42,1,1,,10,русский,female,Russian,Doctoral or equivalent
+324,39,1,1,,7,русский,female,Russian,Short-cycle tertiary education
+325,28,1,1,,8,Русский,female,Russian,Bachelor or equivalent
+326,29,2,1,,9,Русский,male,Russian,Master or equivalent
+329,51,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+330,48,2,1,,4,русский,male,Russian,Lower secondary education
+331,44,2,2,,8,русский,male,Tatar,Bachelor or equivalent
+332,52,2,1,,10,Русский ,male,Russian,Doctoral or equivalent
+333,44,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+334,38,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+335,60,2,1,,10,русский,male,Russian,Doctoral or equivalent
+336,43,2,1,,8,Русский,male,Russian,Bachelor or equivalent
+337,55,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+338,54,2,1,,5,русский,male,Russian,Upper secondary education
+339,45,1,1,,6,русский,female,Russian,Post-secondary non-tertiary education
+340,40,1,1,,3,Русский,female,Russian,Primary education
+341,53,2,1,,3,русский,male,Russian,Primary education
+342,29,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+343,48,2,1,,10,русский,male,Russian,Doctoral or equivalent
+344,52,2,1,,8,русский,male,Russian,Bachelor or equivalent
+345,51,2,2,,10,русский,male,Tatar,Doctoral or equivalent
+346,43,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+347,40,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+348,58,2,1,,10,русский,male,Russian,Doctoral or equivalent
+349,64,2,1,,9,русский,male,Russian,Master or equivalent
+350,58,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+351,46,1,1,,7,русский,female,Russian,Short-cycle tertiary education
+352,44,2,1,,10,русский,male,Russian,Doctoral or equivalent
+353,25,2,1,,7,Русски,male,Russian,Short-cycle tertiary education
+354,35,1,1,,10,русский,female,Russian,Doctoral or equivalent
+355,65,2,1,,10,русский,male,Russian,Doctoral or equivalent
+356,43,1,2,,10,Татарский,female,Tatar,Doctoral or equivalent
+357,45,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+358,52,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+359,42,2,1,,6,русский,male,Russian,Post-secondary non-tertiary education
+360,46,2,1,,5,русский,male,Russian,Upper secondary education
+361,51,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+362,47,2,1,,4,русский,male,Russian,Lower secondary education
+363,62,1,2,,10,Башкирский,female,Tatar,Doctoral or equivalent
+364,20,2,1,,4,Русский,male,Russian,Lower secondary education
+365,47,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+366,42,1,1,,8,русский,female,Russian,Bachelor or equivalent
+367,25,2,1,,10,русский,male,Russian,Doctoral or equivalent
+368,45,1,3,,10,русский,female,Ukrainian,Doctoral or equivalent
+369,44,2,1,,10,русский,male,Russian,Doctoral or equivalent
+370,42,1,1,,4,русский,female,Russian,Lower secondary education
+371,22,2,1,,6,163035,male,Russian,Post-secondary non-tertiary education
+372,47,2,1,,8,russian,male,Russian,Bachelor or equivalent
+373,50,2,1,,8,russian,male,Russian,Bachelor or equivalent
+374,34,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+375,40,2,2,,10,татарский,male,Tatar,Doctoral or equivalent
+376,53,2,2,,7,Русский ,male,Tatar,Short-cycle tertiary education
+377,25,2,1,,10,русский,male,Russian,Doctoral or equivalent
+378,56,1,1,,6,руский,female,Russian,Post-secondary non-tertiary education
+379,49,1,1,,5,русский,female,Russian,Upper secondary education
+380,63,2,1,,7,Русский,male,Russian,Short-cycle tertiary education
+381,60,2,1,,10,русский,male,Russian,Doctoral or equivalent
+382,48,1,1,,6,русский,female,Russian,Post-secondary non-tertiary education
+383,30,2,1,,5,Русский,male,Russian,Upper secondary education
+384,40,2,1,,8,русский,male,Russian,Bachelor or equivalent
+385,47,1,1,,7,русский,female,Russian,Short-cycle tertiary education
+386,53,1,1,,7,русский,female,Russian,Short-cycle tertiary education
+387,34,2,1,,10,русский,male,Russian,Doctoral or equivalent
+388,21,2,1,,5,Rus,male,Russian,Upper secondary education
+389,57,1,1,,10,русский,female,Russian,Doctoral or equivalent
+390,43,1,1,,7,русский,female,Russian,Short-cycle tertiary education
+391,32,2,1,,10,русский,male,Russian,Doctoral or equivalent
+392,57,1,2,,4,Русский ,female,Tatar,Lower secondary education
+393,47,1,1,,7,русский,female,Russian,Short-cycle tertiary education
+394,56,1,1,,10,Русский ,female,Russian,Doctoral or equivalent
+395,37,1,1,,10,Русский ,female,Russian,Doctoral or equivalent
+396,50,2,6,Мари,10,Русский,male,Other (write in),Doctoral or equivalent
+397,38,2,2,,8,Русский,male,Tatar,Bachelor or equivalent
+398,29,2,2,,9,Татарский,male,Tatar,Master or equivalent
+399,48,2,1,,6,Русский ,male,Russian,Post-secondary non-tertiary education
+400,28,1,1,,8,Русский,female,Russian,Bachelor or equivalent
+401,38,2,3,,10,Украинский,male,Ukrainian,Doctoral or equivalent
+402,44,1,1,,10,русский,female,Russian,Doctoral or equivalent
+403,53,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+404,44,1,1,,10,русский,female,Russian,Doctoral or equivalent
+405,44,1,1,,8,Russian ,female,Russian,Bachelor or equivalent
+406,31,1,1,,10,Русский ,female,Russian,Doctoral or equivalent
+407,50,1,1,,6,РУССКИЙ,female,Russian,Post-secondary non-tertiary education
+408,49,2,1,,10,русский,male,Russian,Doctoral or equivalent
+409,45,1,1,,4,Русский,female,Russian,Lower secondary education
+410,49,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+411,53,2,1,,8,русский,male,Russian,Bachelor or equivalent
+412,34,1,1,,10,русский,female,Russian,Doctoral or equivalent
+413,27,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+414,31,2,1,,10,русский,male,Russian,Doctoral or equivalent
+415,45,2,1,,10,русский,male,Russian,Doctoral or equivalent
+417,37,2,1,,7,Русский,male,Russian,Short-cycle tertiary education
+418,59,2,1,,7,Русский,male,Russian,Short-cycle tertiary education
+419,36,2,1,,8,русский,male,Russian,Bachelor or equivalent
+420,55,2,1,,4,русский,male,Russian,Lower secondary education
+422,35,2,1,,8,Русский ,male,Russian,Bachelor or equivalent
+423,50,1,1,,10,Русский ,female,Russian,Doctoral or equivalent
+424,59,1,1,,10,русский,female,Russian,Doctoral or equivalent
+425,25,1,1,,8,Русский,female,Russian,Bachelor or equivalent
+426,34,2,1,,3,Россия,male,Russian,Primary education
+427,62,1,1,,10,русский,female,Russian,Doctoral or equivalent
+428,59,1,1,,10,русский,female,Russian,Doctoral or equivalent
+429,18,1,1,,4,Русский,female,Russian,Lower secondary education
+430,45,1,1,,8,русский,female,Russian,Bachelor or equivalent
+431,30,1,1,,10,русский,female,Russian,Doctoral or equivalent
+432,37,1,1,,7,русский,female,Russian,Short-cycle tertiary education
+433,25,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+434,34,2,1,,6,рУССКИЙ,male,Russian,Post-secondary non-tertiary education
+435,33,1,1,,7,русский,female,Russian,Short-cycle tertiary education
+436,43,2,1,,10,русский,male,Russian,Doctoral or equivalent
+437,47,2,1,,8,русский,male,Russian,Bachelor or equivalent
+438,32,2,1,,8,русский,male,Russian,Bachelor or equivalent
+439,34,2,1,,5,русский,male,Russian,Upper secondary education
+440,20,1,1,,4,Русский,female,Russian,Lower secondary education
+441,47,1,1,,10,русский,female,Russian,Doctoral or equivalent
+442,33,2,1,,10,русский,male,Russian,Doctoral or equivalent
+443,30,1,3,,10,Русский язык ,female,Ukrainian,Doctoral or equivalent
+444,35,1,1,,10,русский,female,Russian,Doctoral or equivalent
+445,59,2,1,,4,Русский,male,Russian,Lower secondary education
+446,63,2,1,,4,русский,male,Russian,Lower secondary education
+447,49,2,1,,10,русский,male,Russian,Doctoral or equivalent
+448,42,1,1,,5,Русский ,female,Russian,Upper secondary education
+449,58,2,2,,7,"русский,татарский",male,Tatar,Short-cycle tertiary education
+450,50,1,1,,7,русский,female,Russian,Short-cycle tertiary education
+451,41,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+452,33,1,1,,10,русский,female,Russian,Doctoral or equivalent
+453,20,1,1,,7,Русский,female,Russian,Short-cycle tertiary education
+454,39,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+455,32,2,1,,10,русский,male,Russian,Doctoral or equivalent
+456,39,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+457,27,1,1,,8,Русский ,female,Russian,Bachelor or equivalent
+458,38,1,2,,10,Русский,female,Tatar,Doctoral or equivalent
+460,37,2,1,,7,Русский ,male,Russian,Short-cycle tertiary education
+461,42,2,1,,10,русский,male,Russian,Doctoral or equivalent
+463,52,1,1,,7,русский,female,Russian,Short-cycle tertiary education
+464,65,2,2,,7,татарский,male,Tatar,Short-cycle tertiary education
+465,37,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+466,30,2,1,,9,Русский,male,Russian,Master or equivalent
+467,32,1,1,,8,русский,female,Russian,Bachelor or equivalent
+468,36,2,1,,10,Русский ,male,Russian,Doctoral or equivalent
+469,37,1,1,,10,Русский ,female,Russian,Doctoral or equivalent
+470,34,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+471,53,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+472,31,2,1,,4,Tfgde,male,Russian,Lower secondary education
+473,34,2,1,,7,Русский,male,Russian,Short-cycle tertiary education
+474,44,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+475,36,2,1,,7,Русский ,male,Russian,Short-cycle tertiary education
+476,36,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+477,31,2,1,,10,русский,male,Russian,Doctoral or equivalent
+478,63,2,1,,11,русский,male,Russian,Doctoral or equivalent
+479,38,2,2,,10,Русский,male,Tatar,Doctoral or equivalent
+480,44,2,1,,10,русский,male,Russian,Doctoral or equivalent
+481,27,2,1,,8,русский,male,Russian,Bachelor or equivalent
+482,45,2,1,,8,русский,male,Russian,Bachelor or equivalent
+483,49,1,1,,7,РУССКИЙ,female,Russian,Short-cycle tertiary education
+484,39,1,2,,10,Русский ,female,Tatar,Doctoral or equivalent
+485,47,1,1,,7,Русский ,female,Russian,Short-cycle tertiary education
+486,47,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+487,62,2,1,,7,Русский,male,Russian,Short-cycle tertiary education
+488,34,2,1,,10,русский,male,Russian,Doctoral or equivalent
+489,57,1,1,,6,Русский,female,Russian,Post-secondary non-tertiary education
+490,23,2,1,,7,Русский,male,Russian,Short-cycle tertiary education
+491,20,1,1,,3,Русский ,female,Russian,Primary education
+492,49,2,1,,10,русский,male,Russian,Doctoral or equivalent
+493,18,1,1,,3,русский,female,Russian,Primary education
+494,38,1,1,,3,Русский язык ,female,Russian,Primary education
+495,36,2,1,,7,Русский ,male,Russian,Short-cycle tertiary education
+496,40,1,1,,10,русский,female,Russian,Doctoral or equivalent
+497,36,2,1,,10,rus,male,Russian,Doctoral or equivalent
+498,58,1,1,,10,Русский ,female,Russian,Doctoral or equivalent
+499,38,1,1,,7,Русский,female,Russian,Short-cycle tertiary education
+500,26,2,1,,3,Русский,male,Russian,Primary education
+501,33,1,1,,10,русский,female,Russian,Doctoral or equivalent
+502,49,2,1,,5,русский,male,Russian,Upper secondary education
+503,53,2,1,,6,русский,male,Russian,Post-secondary non-tertiary education
+504,43,1,1,,7,русский,female,Russian,Short-cycle tertiary education
+505,51,2,1,,10,Рксский,male,Russian,Doctoral or equivalent
+506,48,1,1,,10,русский,female,Russian,Doctoral or equivalent
+507,45,1,1,,10,русский,female,Russian,Doctoral or equivalent
+508,34,1,1,,8,Русский жестовый язык,female,Russian,Bachelor or equivalent
+509,44,1,1,,7,Русский ,female,Russian,Short-cycle tertiary education
+510,43,2,1,,8,русский,male,Russian,Bachelor or equivalent
+511,56,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+512,39,1,1,,7,Русский,female,Russian,Short-cycle tertiary education
+513,50,2,1,,7,Русский,male,Russian,Short-cycle tertiary education
+514,33,1,1,,7,Русский,female,Russian,Short-cycle tertiary education
+515,44,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+516,44,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+517,33,1,1,,5,Русский,female,Russian,Upper secondary education
+518,42,2,1,,7,Русскии ,male,Russian,Short-cycle tertiary education
+519,44,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+520,38,1,1,,7,русский ,female,Russian,Short-cycle tertiary education
+521,48,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+522,25,1,1,,10,русский язык,female,Russian,Doctoral or equivalent
+523,31,2,1,,8,русскии,male,Russian,Bachelor or equivalent
+524,35,2,1,,8,Русский ,male,Russian,Bachelor or equivalent
+525,54,2,3,,10,украинсий,male,Ukrainian,Doctoral or equivalent
+526,48,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+527,49,1,1,,4,русский,female,Russian,Lower secondary education
+528,28,1,2,,10,Русский ,female,Tatar,Doctoral or equivalent
+529,49,2,1,,7,Русский,male,Russian,Short-cycle tertiary education
+530,40,2,1,,10,russian,male,Russian,Doctoral or equivalent
+531,49,1,1,,10,русский,female,Russian,Doctoral or equivalent
+532,40,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+533,53,2,1,,10,русский,male,Russian,Doctoral or equivalent
+534,40,2,1,,7,Русский,male,Russian,Short-cycle tertiary education
+535,37,2,1,,10,русский,male,Russian,Doctoral or equivalent
+536,24,1,1,,9,Русский ,female,Russian,Master or equivalent
+537,50,2,1,,10,russian,male,Russian,Doctoral or equivalent
+538,24,1,1,,8,русский,female,Russian,Bachelor or equivalent
+539,53,1,1,,10,русский,female,Russian,Doctoral or equivalent
+540,40,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+541,22,1,1,,7,Русский,female,Russian,Short-cycle tertiary education
+542,37,2,1,,6,Русский,male,Russian,Post-secondary non-tertiary education
+543,51,2,1,,10,русский,male,Russian,Doctoral or equivalent
+544,38,2,3,,8,русский,male,Ukrainian,Bachelor or equivalent
+545,22,1,1,,7,Русский ,female,Russian,Short-cycle tertiary education
+546,29,1,1,,10,русский,female,Russian,Doctoral or equivalent
+547,43,2,1,,5,русский ,male,Russian,Upper secondary education
+548,43,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+549,44,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+551,34,1,1,,10,русский,female,Russian,Doctoral or equivalent
+552,42,1,1,,7,русский,female,Russian,Short-cycle tertiary education
+553,34,1,1,,9,русский,female,Russian,Master or equivalent
+554,36,1,1,,10,русский,female,Russian,Doctoral or equivalent
+555,50,1,1,,7,русский,female,Russian,Short-cycle tertiary education
+557,28,1,1,,10,русский,female,Russian,Doctoral or equivalent
+558,43,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+559,47,1,1,,10,русский,female,Russian,Doctoral or equivalent
+561,33,2,1,,7,Русский ,male,Russian,Short-cycle tertiary education
+562,57,1,1,,7,Русский,female,Russian,Short-cycle tertiary education
+564,59,2,1,,10,русский,male,Russian,Doctoral or equivalent
+565,45,2,1,,8,Русский,male,Russian,Bachelor or equivalent
+566,30,2,1,,10,русский,male,Russian,Doctoral or equivalent
+567,46,2,1,,10,русский,male,Russian,Doctoral or equivalent
+568,40,1,1,,10,Русский,female,Russian,Doctoral or equivalent
+569,35,1,1,,7,Русский,female,Russian,Short-cycle tertiary education
+570,34,1,1,,11,Русский ,female,Russian,Doctoral or equivalent
+571,53,2,6,лакец,4,русский,male,Other (write in),Lower secondary education
+572,61,2,1,,10,русский,male,Russian,Doctoral or equivalent
+573,26,1,3,,7,Башкирский,female,Ukrainian,Short-cycle tertiary education
+574,50,1,1,,3,русский,female,Russian,Primary education
+575,45,2,1,,10,русский,male,Russian,Doctoral or equivalent
+576,64,2,2,,6,татарсеий,male,Tatar,Post-secondary non-tertiary education
+578,32,2,1,,8,Русский,male,Russian,Bachelor or equivalent
+579,33,2,1,,5,русский,male,Russian,Upper secondary education
+580,35,1,1,,7,Русский,female,Russian,Short-cycle tertiary education
+581,37,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+584,44,1,1,,8,Русский ,female,Russian,Bachelor or equivalent
+585,47,2,1,,7,РУССКИЙ,male,Russian,Short-cycle tertiary education
+586,32,2,1,,7,Русский,male,Russian,Short-cycle tertiary education
+587,22,2,1,,7,Русский,male,Russian,Short-cycle tertiary education
+588,27,1,1,,7,русский,female,Russian,Short-cycle tertiary education
+589,54,1,1,,10,русский,female,Russian,Doctoral or equivalent
+591,24,2,1,,4,русский,male,Russian,Lower secondary education
+592,38,2,1,,8,русский,male,Russian,Bachelor or equivalent
+593,25,1,1,,7,Русский,female,Russian,Short-cycle tertiary education
+594,49,2,1,,4,русски,male,Russian,Lower secondary education
+595,42,2,1,,7,Русский,male,Russian,Short-cycle tertiary education
+596,34,1,1,,4,Русский,female,Russian,Lower secondary education
+597,60,1,1,,10,русский,female,Russian,Doctoral or equivalent
+598,35,2,1,,5,русский,male,Russian,Upper secondary education
+599,34,2,3,,9,Русский,male,Ukrainian,Master or equivalent
+600,31,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+601,43,1,1,,10,русский,female,Russian,Doctoral or equivalent
+602,39,2,1,,9,Русский,male,Russian,Master or equivalent
+603,37,2,1,,11,Русский,male,Russian,Doctoral or equivalent
+604,53,1,1,,10,русский,female,Russian,Doctoral or equivalent
+605,50,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+606,47,2,1,,10,русский,male,Russian,Doctoral or equivalent
+607,56,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+608,34,1,2,,10,татарский,female,Tatar,Doctoral or equivalent
+609,47,1,1,,8,русский,female,Russian,Bachelor or equivalent
+610,36,2,1,,10,Русский ,male,Russian,Doctoral or equivalent
+611,34,1,1,,10,русский,female,Russian,Doctoral or equivalent
+612,22,1,3,,11,украинский,female,Ukrainian,Doctoral or equivalent
+613,20,2,1,,8,Русский,male,Russian,Bachelor or equivalent
+614,38,2,1,,4,Русский,male,Russian,Lower secondary education
+615,32,2,1,,4,Русский,male,Russian,Lower secondary education
+616,21,2,1,,4,Русский ,male,Russian,Lower secondary education
+617,43,2,1,,7,русский,male,Russian,Short-cycle tertiary education
+618,пятьдесят два,2,4,,7,русский,male,Belorussian,Short-cycle tertiary education
+619,43,2,1,,7,Русский ,male,Russian,Short-cycle tertiary education
+620,61,1,3,,7,русский,female,Ukrainian,Short-cycle tertiary education
+621,33,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+622,47,2,1,,10,Русский,male,Russian,Doctoral or equivalent
+623,53,1,1,,10,русский,female,Russian,Doctoral or equivalent
+624,33,2,1,,10,русский,male,Russian,Doctoral or equivalent
+625,27,1,1,,8,русский,female,Russian,Bachelor or equivalent
+628,30,1,1,,10,русский,female,Russian,Doctoral or equivalent
+629,40,2,1,,4,Русский,male,Russian,Lower secondary education

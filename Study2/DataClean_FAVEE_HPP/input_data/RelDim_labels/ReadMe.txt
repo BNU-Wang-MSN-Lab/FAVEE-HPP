@@ -1,0 +1,2 @@
+"Therapist-Patient" was translated into Chinese as "主治医生-病人", whose meaning is similar to that of "Doctor-Patient".
+"Psychologist-Client" was translated into Chinese as "心理咨询师-客户", whose meaning is similar to that of "Therapist-Patient".

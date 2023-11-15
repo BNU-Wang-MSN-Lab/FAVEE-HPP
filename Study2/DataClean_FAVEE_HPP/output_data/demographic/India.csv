@@ -1,0 +1,564 @@
+,Age,Gender,Race,Race_alternative,Highest education,First language,Gender_label,Highest education_label
+5,29,2,3,,7,Hindi,Male,Bachelor or equivalent
+12,33,2,3,,7,Tamil,Male,Bachelor or equivalent
+14,28,2,3,,7,TAMIL,Male,Bachelor or equivalent
+16,32,2,3,,7,english,Male,Bachelor or equivalent
+17,33,2,3,,7,TAMIL,Male,Bachelor or equivalent
+18,28,2,3,,7,TAMIL,Male,Bachelor or equivalent
+19,30,1,3,,7,hindi,Female,Bachelor or equivalent
+21,33,2,3,,7,Hindi,Male,Bachelor or equivalent
+22,25,2,3,,7,tamil,Male,Bachelor or equivalent
+23,28,2,3,,8,TAMIL,Male,Master or equivalent
+25,40,2,3,,8,Hindi,Male,Master or equivalent
+26,33,2,3,,7,Hindi,Male,Bachelor or equivalent
+28,30,2,3,,7,malayalam,Male,Bachelor or equivalent
+30,32,2,3,,7,English,Male,Bachelor or equivalent
+31,30,2,3,,8,hindi,Male,Master or equivalent
+32,29,2,3,,8,Urdu,Male,Master or equivalent
+33,39,2,3,,8,Malayalam ,Male,Master or equivalent
+34,35,2,3,,8,Hindi,Male,Master or equivalent
+35,40,1,3,,7,English,Female,Bachelor or equivalent
+36,32,2,3,,8,Bengali ,Male,Master or equivalent
+37,30,1,3,,7,English,Female,Bachelor or equivalent
+38,30,1,3,,7,malayalam,Female,Bachelor or equivalent
+39,56,2,3,,4,English,Male,Upper secondary education
+41,28,2,3,,4,marathi,Male,Upper secondary education
+43,34,2,3,,7,English,Male,Bachelor or equivalent
+44,38,2,3,,7,English,Male,Bachelor or equivalent
+45,35,2,6,,8,Tamil,Male,Master or equivalent
+46,33,2,3,,7,telugu,Male,Bachelor or equivalent
+48,35,2,3,,7,tamil,Male,Bachelor or equivalent
+49,40,2,3,,8,Tamil,Male,Master or equivalent
+50,35,2,3,,7,telugu,Male,Bachelor or equivalent
+51,42,1,3,,8,TAMIL,Female,Master or equivalent
+52,32,2,3,,7,eng35sh,Male,Bachelor or equivalent
+53,28,1,3,,7,TAMIL,Female,Bachelor or equivalent
+54,28,2,3,,7,tamil,Male,Bachelor or equivalent
+55,28,2,3,,7,TAMIL,Male,Bachelor or equivalent
+56,28,1,3,,7,TAMIL,Female,Bachelor or equivalent
+57,28,2,3,,7,tamil,Male,Bachelor or equivalent
+58,28,1,3,,7,TAMIL,Female,Bachelor or equivalent
+59,28,2,3,,7,tamil,Male,Bachelor or equivalent
+60,28,1,3,,7,tamil,Female,Bachelor or equivalent
+61,29,1,3,,7,english,Female,Bachelor or equivalent
+62,28,2,3,,7,tamil,Male,Bachelor or equivalent
+63,28,2,3,,7,tamil,Male,Bachelor or equivalent
+64,29,2,3,,7,english,Male,Bachelor or equivalent
+65,28,2,3,,7,TAMIL,Male,Bachelor or equivalent
+67,30,2,3,,7,tamil,Male,Bachelor or equivalent
+68,28,1,3,,7,tamil,Female,Bachelor or equivalent
+69,28,2,3,,7,tamil,Male,Bachelor or equivalent
+70,28,1,3,,7,tamil,Female,Bachelor or equivalent
+71,29,2,3,,8,english,Male,Master or equivalent
+72,30,2,3,,7,TAMIL,Male,Bachelor or equivalent
+73,28,2,3,,7,TAMIL,Male,Bachelor or equivalent
+74,30,2,1,,7,TAMLI,Male,Bachelor or equivalent
+75,28,2,3,,7,tamil,Male,Bachelor or equivalent
+76,35,2,3,,7,Tamil,Male,Bachelor or equivalent
+77,28,1,3,,7,tamil,Female,Bachelor or equivalent
+78,27,1,3,,7,English,Female,Bachelor or equivalent
+80,27,2,3,,7,English,Male,Bachelor or equivalent
+81,32,2,3,,8,ENGLISH,Male,Master or equivalent
+82,25,1,3,,7,English,Female,Bachelor or equivalent
+84,28,2,3,,7,tamil,Male,Bachelor or equivalent
+85,25,2,3,,7,English,Male,Bachelor or equivalent
+86,25,2,3,,7,English.,Male,Bachelor or equivalent
+87,25,2,3,,7,Tamil,Male,Bachelor or equivalent
+88,30,2,3,,7,TAMIL,Male,Bachelor or equivalent
+89,35,2,3,,8,tamil,Male,Master or equivalent
+91,28,1,3,,8,tamil,Female,Master or equivalent
+92,28,2,3,,7,tamil,Male,Bachelor or equivalent
+93,30,2,3,,7,English,Male,Bachelor or equivalent
+94,33,1,3,,7,ENGLISH,Female,Bachelor or equivalent
+96,25,1,3,,7,ENGLISH,Female,Bachelor or equivalent
+97,30,1,3,,7,English,Female,Bachelor or equivalent
+99,28,1,3,,7,tamil,Female,Bachelor or equivalent
+100,29,1,3,,7,english,Female,Bachelor or equivalent
+102,25,2,3,,7,English,Male,Bachelor or equivalent
+103,32,2,3,,7,ENGLISH,Male,Bachelor or equivalent
+104,35,1,3,,4,English,Female,Upper secondary education
+105,30,1,3,,7,TAMIL,Female,Bachelor or equivalent
+106,30,2,3,,7,Tamil,Male,Bachelor or equivalent
+107,25,2,3,,7,English,Male,Bachelor or equivalent
+108,30,1,3,,8,English,Female,Master or equivalent
+109,31,1,3,,7,ENGLISH,Female,Bachelor or equivalent
+110,31,2,3,,7,tamil,Male,Bachelor or equivalent
+111,30,2,3,,8,English,Male,Master or equivalent
+112,30,1,3,,8,ENGLISH,Female,Master or equivalent
+114,28,2,4,,7,tamil,Male,Bachelor or equivalent
+115,34,2,3,,8,English,Male,Master or equivalent
+116,32,2,3,,7,ENGLISH,Male,Bachelor or equivalent
+117,26,2,3,,7,hindi,Male,Bachelor or equivalent
+119,40,2,3,,8,Hindi,Male,Master or equivalent
+120,28,2,3,,7,tamil,Male,Bachelor or equivalent
+122,32,1,3,,7,hindi,Female,Bachelor or equivalent
+124,26,2,3,,7,hindi,Male,Bachelor or equivalent
+125,34,2,3,,7,English,Male,Bachelor or equivalent
+126,28,2,3,,4,MARATHI,Male,Upper secondary education
+136,31,2,3,,8,english,Male,Master or equivalent
+138,24,1,3,,8,ENGLISH,Female,Master or equivalent
+139,33,2,3,,7,Tamil,Male,Bachelor or equivalent
+140,25,2,3,,7,English,Male,Bachelor or equivalent
+142,35,1,3,,7,Telugu,Female,Bachelor or equivalent
+143,35,2,3,,7,TAMIL,Male,Bachelor or equivalent
+145,27,2,3,,7,english,Male,Bachelor or equivalent
+146,27,2,3,,7,malayalam,Male,Bachelor or equivalent
+148,29,2,3,,8,english,Male,Master or equivalent
+159,29,2,3,,7,Hindi,Male,Bachelor or equivalent
+161,28,2,3,,7,TAMIL,Male,Bachelor or equivalent
+162,28,2,3,,7,tamil,Male,Bachelor or equivalent
+164,30,2,3,,7,Tamil,Male,Bachelor or equivalent
+166,34,1,3,,8,English,Female,Master or equivalent
+168,60,2,3,,7,Tamil,Male,Bachelor or equivalent
+169,40,2,3,,8,Tamil,Male,Master or equivalent
+170,33,1,3,,8,Tamil,Female,Master or equivalent
+171,29,1,3,,7,English,Female,Bachelor or equivalent
+172,28,2,3,,8,Hindi,Male,Master or equivalent
+173,44,2,3,,7,Tamil,Male,Bachelor or equivalent
+174,48,2,3,,8,English,Male,Master or equivalent
+175,34,1,3,,8,Malayalam ,Female,Master or equivalent
+176,41,2,3,,8,Tamil,Male,Master or equivalent
+177,40,2,3,,7,English,Male,Bachelor or equivalent
+179,27,2,3,,7,Marathi,Male,Bachelor or equivalent
+181,28,2,3,,8,Tamil,Male,Master or equivalent
+183,48,1,3,,7,English,Female,Bachelor or equivalent
+184,36,2,3,,7,English,Male,Bachelor or equivalent
+185,34,2,3,,7,ENGLISH,Male,Bachelor or equivalent
+186,35,2,3,,7,English,Male,Bachelor or equivalent
+187,28,2,3,,8,TAMIL,Male,Master or equivalent
+188,28,1,3,,8,TAMIL,Female,Master or equivalent
+189,32,1,3,,8,English,Female,Master or equivalent
+190,28,1,3,,7,tamil,Female,Bachelor or equivalent
+193,38,2,3,,8,English,Male,Master or equivalent
+195,22,2,3,,7,tamil,Male,Bachelor or equivalent
+196,28,1,3,,7,TAMIL,Female,Bachelor or equivalent
+197,31,2,3,,8,English,Male,Master or equivalent
+198,24,2,3,,7,tamil,Male,Bachelor or equivalent
+199,24,2,3,,7,TAMIL,Male,Bachelor or equivalent
+200,34,2,3,,8,Malayalam,Male,Master or equivalent
+201,30,2,3,,7,hindi,Male,Bachelor or equivalent
+202,18,2,6,Indian ,7,Hindi ,Male,Bachelor or equivalent
+203,28,2,3,,7,tamil,Male,Bachelor or equivalent
+204,28,2,3,,7,TAMIL,Male,Bachelor or equivalent
+207,29,1,3,,7,English,Female,Bachelor or equivalent
+208,30,2,3,,7,malayalam,Male,Bachelor or equivalent
+209,29,2,3,,8,Hindi,Male,Master or equivalent
+210,33,1,3,,7,telugu,Female,Bachelor or equivalent
+213,30,2,3,,8,Tamil,Male,Master or equivalent
+214,33,2,3,,7,Hindi,Male,Bachelor or equivalent
+215,30,2,3,,7,malayalam,Male,Bachelor or equivalent
+218,26,2,3,,7,Malayalam,Male,Bachelor or equivalent
+219,38,2,3,,8,Hindi,Male,Master or equivalent
+221,48,2,3,,8,malayalam,Male,Master or equivalent
+223,32,1,3,,7,tamil,Female,Bachelor or equivalent
+224,25,2,3,,7,tamil,Male,Bachelor or equivalent
+226,30,2,3,,7,English ,Male,Bachelor or equivalent
+228,22,2,3,,7,tamil,Male,Bachelor or equivalent
+229,27,2,3,,8,tamil,Male,Master or equivalent
+230,30,2,3,,7,tamil,Male,Bachelor or equivalent
+231,32,1,3,,7,hindi,Female,Bachelor or equivalent
+232,28,1,3,,7,tamil,Female,Bachelor or equivalent
+233,35,2,3,,7,tamil,Male,Bachelor or equivalent
+235,34,2,3,,7,tamil,Male,Bachelor or equivalent
+236,25,2,3,,7,tamil,Male,Bachelor or equivalent
+237,23,2,3,,7,tamil,Male,Bachelor or equivalent
+238,28,2,3,,7,tamil,Male,Bachelor or equivalent
+239,27,2,3,,7,tamil,Male,Bachelor or equivalent
+241,22,2,3,,7,english,Male,Bachelor or equivalent
+243,28,2,3,,7,tamil,Male,Bachelor or equivalent
+245,30,1,3,,7,English,Female,Bachelor or equivalent
+246,28,2,3,,7,tamil,Male,Bachelor or equivalent
+248,35,1,3,,7,English,Female,Bachelor or equivalent
+249,32,1,3,,7,ENGLISH,Female,Bachelor or equivalent
+250,30,2,3,,7,Tamil,Male,Bachelor or equivalent
+252,29,2,3,,7,tamil,Male,Bachelor or equivalent
+256,30,1,3,,7,English,Female,Bachelor or equivalent
+257,29,2,3,,7,english,Male,Bachelor or equivalent
+259,30,2,3,,7,English,Male,Bachelor or equivalent
+260,32,2,3,,7,english,Male,Bachelor or equivalent
+261,23,1,3,,7,tamil,Female,Bachelor or equivalent
+264,29,2,3,,7,english,Male,Bachelor or equivalent
+267,34,1,3,,7,english,Female,Bachelor or equivalent
+268,48,2,3,,7,Malayalam,Male,Bachelor or equivalent
+269,29,1,3,,8,ENGLISH,Female,Master or equivalent
+270,32,1,3,,7,Tamil,Female,Bachelor or equivalent
+271,30,2,3,,7,TAMIL,Male,Bachelor or equivalent
+272,26,2,3,,7,Malayalam,Male,Bachelor or equivalent
+275,28,2,3,,7,tamil,Male,Bachelor or equivalent
+276,25,1,3,,7,English,Female,Bachelor or equivalent
+277,25,2,3,,7,English,Male,Bachelor or equivalent
+278,35,2,3,,3,English,Male,Lower secondary education
+279,28,2,3,,7,tamil,Male,Bachelor or equivalent
+280,30,1,3,,8,ENGLISH,Female,Master or equivalent
+281,30,2,3,,8,English,Male,Master or equivalent
+282,28,1,3,,7,tamil,Female,Bachelor or equivalent
+283,25,1,3,,7,English,Female,Bachelor or equivalent
+284,29,1,3,,7,english,Female,Bachelor or equivalent
+285,35,1,3,,2,English,Female,Primary education
+286,28,2,3,,7,tamil,Male,Bachelor or equivalent
+287,25,2,3,,7,ENGLISH,Male,Bachelor or equivalent
+288,28,2,3,,7,tamil,Male,Bachelor or equivalent
+289,30,1,3,,7,English,Female,Bachelor or equivalent
+291,30,1,3,,8,English,Female,Master or equivalent
+292,27,2,3,,5,ENGLISH,Male,Post-secondary non-tertiary education
+293,34,2,3,,7,tamil,Male,Bachelor or equivalent
+294,32,2,3,,7,english,Male,Bachelor or equivalent
+295,28,2,3,,7,tamil,Male,Bachelor or equivalent
+296,28,1,3,,7,tamil,Female,Bachelor or equivalent
+297,30,2,3,,8,English,Male,Master or equivalent
+299,27,2,3,,7,English,Male,Bachelor or equivalent
+300,30,1,3,,8,English,Female,Master or equivalent
+301,25,1,3,,7,English,Female,Bachelor or equivalent
+302,30,2,3,,8,English,Male,Master or equivalent
+303,25,2,3,,7,English,Male,Bachelor or equivalent
+304,28,1,3,,7,tamil,Female,Bachelor or equivalent
+305,32,2,3,,7,english,Male,Bachelor or equivalent
+306,28,2,3,,7,tamil,Male,Bachelor or equivalent
+307,28,1,3,,7,tamil,Female,Bachelor or equivalent
+308,28,2,3,,8,tamil,Male,Master or equivalent
+309,28,2,3,,8,tamil,Male,Master or equivalent
+310,28,2,3,,7,tamil,Male,Bachelor or equivalent
+311,28,1,3,,7,tamil,Female,Bachelor or equivalent
+313,28,1,3,,7,tamil,Female,Bachelor or equivalent
+318,25,2,3,,7,english,Male,Bachelor or equivalent
+319,25,2,3,,7,English,Male,Bachelor or equivalent
+321,25,2,3,,7,english,Male,Bachelor or equivalent
+325,28,2,3,,7,english,Male,Bachelor or equivalent
+332,28,1,3,,7,english,Female,Bachelor or equivalent
+341,27,2,3,,7,malayalam,Male,Bachelor or equivalent
+343,37,2,3,,8,Malayalam,Male,Master or equivalent
+345,55,2,3,,5,Tamil,Male,Post-secondary non-tertiary education
+346,39,2,3,,7,Tamil,Male,Bachelor or equivalent
+351,42,2,3,,7,Hindi,Male,Bachelor or equivalent
+353,28,2,3,,7,english,Male,Bachelor or equivalent
+355,36,1,3,,8,Tamil,Female,Master or equivalent
+356,64,2,3,,7,Malayalam,Male,Bachelor or equivalent
+360,25,1,3,,7,English,Female,Bachelor or equivalent
+361,29,2,3,,7,Tamil,Male,Bachelor or equivalent
+364,29,2,3,,7,Hindi,Male,Bachelor or equivalent
+365,37,2,3,,7,tamil,Male,Bachelor or equivalent
+367,33,2,3,,7,tamil,Male,Bachelor or equivalent
+368,28,1,3,,7,tamil,Female,Bachelor or equivalent
+370,27,2,3,,7,tamil,Male,Bachelor or equivalent
+372,38,2,3,,8,Hindi,Male,Master or equivalent
+373,33,2,3,,7,tamil,Male,Bachelor or equivalent
+375,27,2,3,,7,tamil,Male,Bachelor or equivalent
+376,25,1,3,,7,Telugu,Female,Bachelor or equivalent
+377,36,2,3,,7,English,Male,Bachelor or equivalent
+378,30,1,3,,7,malayalam,Female,Bachelor or equivalent
+379,31,2,3,,7,Hindi ,Male,Bachelor or equivalent
+380,34,2,3,,7,English,Male,Bachelor or equivalent
+381,28,2,3,,7,tamil,Male,Bachelor or equivalent
+382,35,2,3,,7,telugu,Male,Bachelor or equivalent
+384,25,1,3,,8,English,Female,Master or equivalent
+385,27,1,3,,7,tamil,Female,Bachelor or equivalent
+386,28,2,3,,7,tamil,Male,Bachelor or equivalent
+390,35,2,3,,8,English,Male,Master or equivalent
+391,28,2,3,,7,tamil,Male,Bachelor or equivalent
+392,33,1,3,,7,TAMIL,Female,Bachelor or equivalent
+394,27,1,3,,7,TAMIL,Female,Bachelor or equivalent
+396,28,1,3,,7,tamil,Female,Bachelor or equivalent
+397,31,1,3,,7,tamil,Female,Bachelor or equivalent
+398,25,2,3,,7,Tamil,Male,Bachelor or equivalent
+401,27,2,3,,7,ENGLISH,Male,Bachelor or equivalent
+402,35,2,3,,7,Tamil,Male,Bachelor or equivalent
+404,30,2,3,,8,English,Male,Master or equivalent
+405,32,2,3,,7,ENGLISH,Male,Bachelor or equivalent
+406,26,1,3,,8,ENGLISH,Female,Master or equivalent
+411,25,2,3,,7,English,Male,Bachelor or equivalent
+412,37,1,3,,7,HINDI,Female,Bachelor or equivalent
+415,25,2,3,,7,TAMIL,Male,Bachelor or equivalent
+416,32,2,3,,8,ENGLISH,Male,Master or equivalent
+418,30,2,3,,7,Tamilu,Male,Bachelor or equivalent
+419,30,1,3,,7,English,Female,Bachelor or equivalent
+421,26,2,3,,7,english,Male,Bachelor or equivalent
+422,28,1,3,,8,tamil,Female,Master or equivalent
+425,31,2,3,,7,TAMIL,Male,Bachelor or equivalent
+426,28,2,3,,7,tamil,Male,Bachelor or equivalent
+427,32,2,3,,7,english,Male,Bachelor or equivalent
+428,29,1,3,,7,english,Female,Bachelor or equivalent
+429,28,2,3,,7,tamil,Male,Bachelor or equivalent
+430,28,1,3,,7,TAMIL,Female,Bachelor or equivalent
+433,49,2,3,,8,Malayalam,Male,Master or equivalent
+434,30,1,3,,7,ENGLISH,Female,Bachelor or equivalent
+435,32,2,3,,7,ENGLISH,Male,Bachelor or equivalent
+436,30,2,3,,7,Tamil,Male,Bachelor or equivalent
+440,25,2,3,,7,English,Male,Bachelor or equivalent
+442,31,2,3,,7,TAMIL,Male,Bachelor or equivalent
+444,28,1,4,,7,tamil,Female,Bachelor or equivalent
+445,30,1,3,,7,TAMIL,Female,Bachelor or equivalent
+446,27,1,3,,7,English,Female,Bachelor or equivalent
+448,29,2,3,,7,english,Male,Bachelor or equivalent
+449,39,1,3,,7,english,Female,Bachelor or equivalent
+451,25,1,3,,7,English,Female,Bachelor or equivalent
+452,31,2,3,,7,tamil,Male,Bachelor or equivalent
+453,35,2,3,,7,Tamil,Male,Bachelor or equivalent
+454,28,1,3,,7,tamil,Female,Bachelor or equivalent
+458,35,1,3,,7,English,Female,Bachelor or equivalent
+459,29,1,3,,7,TAMIL,Female,Bachelor or equivalent
+461,34,1,3,,7,English,Female,Bachelor or equivalent
+464,28,1,3,,7,tamil,Female,Bachelor or equivalent
+465,32,1,3,,7,tamil,Female,Bachelor or equivalent
+467,27,2,3,,7, English,Male,Bachelor or equivalent
+468,35,1,3,,8,Hindi,Female,Master or equivalent
+469,26,2,3,,7,ENGLISH,Male,Bachelor or equivalent
+470,28,2,3,,7,tamil,Male,Bachelor or equivalent
+471,28,1,3,,7,TAMIL,Female,Bachelor or equivalent
+473,28,1,3,,7,tamil,Female,Bachelor or equivalent
+474,28,1,3,,7,tamil,Female,Bachelor or equivalent
+475,29,1,3,,8,english,Female,Master or equivalent
+478,23,2,3,,7,tamil,Male,Bachelor or equivalent
+479,28,2,3,,8,tamil,Male,Master or equivalent
+480,28,1,3,,7,tamil,Female,Bachelor or equivalent
+481,29,1,3,,8,english,Female,Master or equivalent
+482,31,1,3,,7,tamil,Female,Bachelor or equivalent
+485,28,2,3,,7,tamil,Male,Bachelor or equivalent
+486,28,2,3,,7,tamil,Male,Bachelor or equivalent
+487,29,2,3,,8,english,Male,Master or equivalent
+488,28,2,3,,7,tamil,Male,Bachelor or equivalent
+489,28,2,3,,7,tamil,Male,Bachelor or equivalent
+491,29,1,3,,7,english,Female,Bachelor or equivalent
+494,28,2,3,,7,tamil,Male,Bachelor or equivalent
+495,28,2,3,,8,English,Male,Master or equivalent
+497,29,1,3,,8,english,Female,Master or equivalent
+498,41,2,3,,7,tamil,Male,Bachelor or equivalent
+499,28,2,3,,7,tamil,Male,Bachelor or equivalent
+500,37,2,3,,8,Tamil ,Male,Master or equivalent
+502,29,1,3,,7,english,Female,Bachelor or equivalent
+504,33,2,3,,7,tamil,Male,Bachelor or equivalent
+505,36,2,3,,7,tamil,Male,Bachelor or equivalent
+506,28,2,3,,7,tamil,Male,Bachelor or equivalent
+508,31,2,3,,7,TAMIL,Male,Bachelor or equivalent
+509,30,2,3,,8,English,Male,Master or equivalent
+510,30,2,3,,7,tamil,Male,Bachelor or equivalent
+511,28,2,3,,7,tamil,Male,Bachelor or equivalent
+512,28,2,3,,7,TAMIL,Male,Bachelor or equivalent
+513,30,1,3,,8,English,Female,Master or equivalent
+514,28,2,3,,7,tamil,Male,Bachelor or equivalent
+515,25,2,3,,7,English,Male,Bachelor or equivalent
+516,28,1,3,,8,tamil,Female,Master or equivalent
+518,28,2,3,,7,TAMIL,Male,Bachelor or equivalent
+519,32,2,3,,7,english,Male,Bachelor or equivalent
+520,35,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,English ,Female,Bachelor or equivalent
+521,29,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Male,Bachelor or equivalent
+522,48,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,English,Female,Bachelor or equivalent
+523,1996,Male,"South Asian Indian, Pakistani, etc.",,Upper secondary education,marathi,Male,Upper secondary education
+524,40,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,English,Male,Bachelor or equivalent
+525,45,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Kannada,Female,Bachelor or equivalent
+526,52,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Hindi,Male,Master or equivalent
+528,28,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Male,Bachelor or equivalent
+529,43,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Tamil,Female,Master or equivalent
+530,33,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,TAMIL,Female,Master or equivalent
+531,25,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Telugu,Female,Bachelor or equivalent
+534,31,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Hindi,Male,Master or equivalent
+535,33,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,"Hindi, English",Female,Bachelor or equivalent
+536,39,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,ENGLISH,Female,Bachelor or equivalent
+538,59,Female,"South Asian Indian, Pakistani, etc.",,Doctoral or equivalent,Tamil,Female,Doctoral or equivalent
+539,54,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Male,Bachelor or equivalent
+540,27,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,English,Male,Bachelor or equivalent
+541,58,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,tamil,Male,Bachelor or equivalent
+542,33,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,English,Male,Bachelor or equivalent
+544,36,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,MALAYALAM,Female,Bachelor or equivalent
+545,35,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Bengali,Male,Master or equivalent
+546,41,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Tamil,Female,Master or equivalent
+549,32,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,malyalam,Male,Master or equivalent
+550,34,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,hindi,Male,Bachelor or equivalent
+551,33,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,malayalam,Male,Bachelor or equivalent
+553,38,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,"Tamil, English, kannada ",Female,Bachelor or equivalent
+554,47,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Female,Bachelor or equivalent
+557,39,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Tamil,Female,Master or equivalent
+558,25,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Female,Bachelor or equivalent
+559,46,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Malayalam,Female,Master or equivalent
+560,46,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,ENGLISH,Male,Bachelor or equivalent
+561,35,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Telugu,Female,Master or equivalent
+563,35,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Telugu,Male,Master or equivalent
+564,43,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,malayalam,Male,Bachelor or equivalent
+565,48,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Malayalam,Male,Bachelor or equivalent
+567,35,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,hindi,Female,Bachelor or equivalent
+568,41,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,malayalam,Female,Bachelor or equivalent
+569,71,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,English,Male,Bachelor or equivalent
+570,47,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Malayalam ,Male,Bachelor or equivalent
+571,42,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Malayalam ,Female,Master or equivalent
+573,44,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Malayalam,Female,Master or equivalent
+574,35,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Tamil,Male,Master or equivalent
+576,36,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,TAMIL,Female,Bachelor or equivalent
+578,29,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Hindi,Male,Bachelor or equivalent
+579,66,Female,"South Asian Indian, Pakistani, etc.",,Doctoral or equivalent,Marathi ,Female,Doctoral or equivalent
+580,43,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,tamil,Male,Bachelor or equivalent
+581,34,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Telugu,Male,Master or equivalent
+583,41,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,English,Male,Bachelor or equivalent
+585,30,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,tamil,Male,Bachelor or equivalent
+586,30,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Malayalam,Male,Bachelor or equivalent
+587,33,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,malayalam,Male,Master or equivalent
+588,44,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Hindi,Male,Master or equivalent
+591,57,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Hindi,Female,Bachelor or equivalent
+592,25,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Gujarati,Male,Bachelor or equivalent
+593,31,Female,Other (write in),Asian,Bachelor or equivalent,Malayalam,Female,Bachelor or equivalent
+594,41,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Tamil,Female,Master or equivalent
+595,34,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,MALAYALAM,Male,Bachelor or equivalent
+596,52,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,marathi,Male,Bachelor or equivalent
+597,40,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Tamil,Male,Master or equivalent
+599,36,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,URDU,Female,Bachelor or equivalent
+600,38,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Hindi,Male,Bachelor or equivalent
+602,24,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,english,Female,Master or equivalent
+604,49,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Malayalam,Male,Master or equivalent
+605,30,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Hindi,Male,Master or equivalent
+606,50,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,English ,Female,Bachelor or equivalent
+608,25,Male,White,,Bachelor or equivalent,malayalam,Male,Bachelor or equivalent
+609,44,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Hindi,Female,Master or equivalent
+610,36,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,TAMIL,Male,Bachelor or equivalent
+611,34,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,TAMIL,Male,Bachelor or equivalent
+612,43,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,marathi,Male,Bachelor or equivalent
+613,26,Male,Black,,Bachelor or equivalent,tamil,Male,Bachelor or equivalent
+614,25,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Female,Bachelor or equivalent
+616,26,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Telugu,Male,Bachelor or equivalent
+617,33,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,HINDI,Male,Bachelor or equivalent
+618,31,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Telugu,Male,Master or equivalent
+619,28,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Male,Bachelor or equivalent
+620,38,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Malayalam ,Female,Bachelor or equivalent
+621,28,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Male,Bachelor or equivalent
+622,55,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Bengali,Male,Bachelor or equivalent
+624,Sixty,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Marathi ,Female,Master or equivalent
+625,40,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Tamil,Female,Master or equivalent
+626,30,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Malayalam ,Female,Bachelor or equivalent
+627,40,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Tamil,Male,Master or equivalent
+628,54,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Tamil,Male,Master or equivalent
+629,27,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,English,Male,Bachelor or equivalent
+630,33,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil and english,Male,Bachelor or equivalent
+631,35,Male,"Arabic, Central Asian",,Bachelor or equivalent,English,Male,Bachelor or equivalent
+632,45,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,english,Male,Master or equivalent
+633,30,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,english,Male,Bachelor or equivalent
+634,26,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,telugu,Female,Bachelor or equivalent
+635,31,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Male,Bachelor or equivalent
+636,27,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,ENGLISH,Male,Master or equivalent
+637,35,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Bengali,Male,Master or equivalent
+638,38,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Tamil,Male,Master or equivalent
+639,43,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,malayalam,Male,Bachelor or equivalent
+640,64,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Malayalam,Male,Bachelor or equivalent
+641,43,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,TAMIL,Female,Master or equivalent
+642,50,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,tamil,Female,Bachelor or equivalent
+643,32,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Malayalam,Male,Bachelor or equivalent
+644,29,Male,"East Asian Chinese, Japanese, etc.",,Bachelor or equivalent,Assamese,Male,Bachelor or equivalent
+645,25,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Hindi,Male,Master or equivalent
+646,49,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,telugu,Female,Bachelor or equivalent
+647,41,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Tamil,Female,Master or equivalent
+648,28,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Female,Bachelor or equivalent
+649,31,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,telugu,Male,Bachelor or equivalent
+651,33,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,English,Male,Bachelor or equivalent
+652,35,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Telugu,Female,Master or equivalent
+655,36,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,English,Male,Bachelor or equivalent
+656,28,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Male,Bachelor or equivalent
+657,36,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Kannada,Male,Bachelor or equivalent
+659,41,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Male,Bachelor or equivalent
+660,44,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,hindi,Male,Master or equivalent
+661,30,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Male,Bachelor or equivalent
+662,39,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Hindi,Female,Bachelor or equivalent
+663,56,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Hindi,Female,Bachelor or equivalent
+664,25,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Male,Bachelor or equivalent
+665,26,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Marathi,Male,Bachelor or equivalent
+667,25,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Female,Bachelor or equivalent
+669,25,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,TELUGU,Male,Bachelor or equivalent
+671,33,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Tamil,Male,Master or equivalent
+672,34,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,TAMIL,Male,Master or equivalent
+674,27,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,malayalam,Female,Bachelor or equivalent
+675,35,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Telugu,Male,Master or equivalent
+677,33,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,malayalam,Male,Master or equivalent
+679,42,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Malayalam ,Female,Master or equivalent
+680,35,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,English,Female,Bachelor or equivalent
+681,44,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Malayalam,Female,Master or equivalent
+682,71,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,English,Male,Bachelor or equivalent
+683,37,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Hindi,Male,Bachelor or equivalent
+685,36,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Malayalam,Male,Bachelor or equivalent
+686,31,Female,Other (write in),Asian,Bachelor or equivalent,Malayalam,Female,Bachelor or equivalent
+687,33,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Malayalam,Male,Bachelor or equivalent
+688,33,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,english,Male,Bachelor or equivalent
+689,41,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,ENGLISH,Female,Master or equivalent
+691,38,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Female,Bachelor or equivalent
+692,38,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,English,Female,Master or equivalent
+693,33,Male,"South Asian Indian, Pakistani, etc.",,Post-secondary non-tertiary education,Tamil,Male,Post-secondary non-tertiary education
+694,47,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Malayalam,Male,Bachelor or equivalent
+695,32,Male,Black,,Bachelor or equivalent,Hindi,Male,Bachelor or equivalent
+696,30,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,tamil,Male,Master or equivalent
+697,34,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Tamil,Male,Master or equivalent
+698,50,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,English,Female,Bachelor or equivalent
+704,35,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,English,Male,Master or equivalent
+705,32,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Male,Bachelor or equivalent
+706,46,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Male,Bachelor or equivalent
+707,25,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,telugu,Female,Bachelor or equivalent
+708,24,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,english,Female,Master or equivalent
+709,31,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,english,Male,Bachelor or equivalent
+710,31,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Hindi,Female,Master or equivalent
+711,55,Female,"South Asian Indian, Pakistani, etc.",,Upper secondary education,TAMIL,Female,Upper secondary education
+712,44,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Hindi,Female,Master or equivalent
+713,32,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,English,Female,Bachelor or equivalent
+714,32,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Female,Bachelor or equivalent
+715,28,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,english,Male,Master or equivalent
+716,36,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,tamil,Female,Bachelor or equivalent
+718,46,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,malayalam,Female,Bachelor or equivalent
+719,31,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Female,Bachelor or equivalent
+720,35,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Hindi,Male,Master or equivalent
+721,27,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Malayalam,Male,Bachelor or equivalent
+722,47,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Hindi,Male,Bachelor or equivalent
+723,50,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Marathi,Female,Bachelor or equivalent
+724,70,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,HINDI,Male,Bachelor or equivalent
+726,25,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Female,Bachelor or equivalent
+727,36,Male,"East Asian Chinese, Japanese, etc.",,Master or equivalent,Hindi,Male,Master or equivalent
+728,50,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,English,Male,Bachelor or equivalent
+731,44,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Female,Bachelor or equivalent
+733,43,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,English,Male,Bachelor or equivalent
+734,42,Male,"South Asian Indian, Pakistani, etc.",,Upper secondary education,marthi,Male,Upper secondary education
+735,22,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,tamil,Male,Bachelor or equivalent
+737,31,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,malayalam,Male,Master or equivalent
+738,55,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Male,Bachelor or equivalent
+739,45,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Hindi,Male,Master or equivalent
+740,35,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,malayalam,Male,Bachelor or equivalent
+741,35,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Kannada,Male,Bachelor or equivalent
+743,34,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Kannada,Female,Master or equivalent
+744,27,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Konkani,Male,Bachelor or equivalent
+745,43,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Malayalam,Male,Master or equivalent
+746,30,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,English,Male,Bachelor or equivalent
+748,32,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Tamil,Male,Master or equivalent
+749,47,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Male,Bachelor or equivalent
+750,46,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Malayalam,Male,Master or equivalent
+751,34,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Female,Bachelor or equivalent
+752,37,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Hindi,Male,Bachelor or equivalent
+753,29,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,hindi,Male,Bachelor or equivalent
+754,36,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Male,Bachelor or equivalent
+755,48,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,English,Male,Master or equivalent
+756,29,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Hindi,Male,Master or equivalent
+757,35,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,MALAYALAM,Male,Bachelor or equivalent
+759,36,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Telugu,Male,Master or equivalent
+760,32,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,telugu,Male,Bachelor or equivalent
+761,41,Male,"South Asian Indian, Pakistani, etc.",,Upper secondary education,tamil,Male,Upper secondary education
+762,37,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Malayalam,Male,Bachelor or equivalent
+764,24,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Hindi,Male,Bachelor or equivalent
+765,37,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Male,Bachelor or equivalent
+767,29,Male,White,,Bachelor or equivalent,Gujarati,Male,Bachelor or equivalent
+768,34,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,english,Female,Bachelor or equivalent
+769,32,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Tamil,Male,Master or equivalent
+770,43,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Tamil,Male,Master or equivalent
+771,42,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Malayalam,Male,Bachelor or equivalent
+772,26,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,TELUGU,Female,Bachelor or equivalent
+773,25,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Tamil,Female,Master or equivalent
+774,31,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Tamil,Female,Master or equivalent
+775,32,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,English,Female,Master or equivalent
+776,45,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Female,Bachelor or equivalent
+777,36,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Tamil,Female,Master or equivalent
+778,24,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,english,Female,Master or equivalent
+781,43,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,malayalam,Female,Master or equivalent
+782,33,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Male,Bachelor or equivalent
+783,32,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,English,Male,Master or equivalent
+785,37,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Male,Bachelor or equivalent
+789,31,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,tamil,Female,Master or equivalent
+790,26,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Telugu,Male,Bachelor or equivalent
+791,40,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Tamil,Male,Master or equivalent
+792,43,Female,"South Asian Indian, Pakistani, etc.",,Doctoral or equivalent,tamil,Female,Doctoral or equivalent
+793,24,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,ENGLISH,Female,Master or equivalent
+795,38,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Malayalam,Female,Master or equivalent
+796,32,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,English,Female,Bachelor or equivalent
+797,27,Male,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Hindi,Male,Bachelor or equivalent
+798,40,Female,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Hindi,Female,Master or equivalent
+799,34,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Hindi,Male,Master or equivalent
+800,25,Female,"South Asian Indian, Pakistani, etc.",,Bachelor or equivalent,Tamil,Female,Bachelor or equivalent
+801,28,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Malayalam,Male,Master or equivalent
+802,28,Male,"South Asian Indian, Pakistani, etc.",,Master or equivalent,Malayalam,Male,Master or equivalent

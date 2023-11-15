@@ -1,0 +1,564 @@
+,Age,Gender,Race,Race_alternative,Highest education,First language,Gender_label,Highest education_label
+0,39,2,5,,7,العربيه ,male,Short-cycle tertiary education
+1,19,2,5,,4,العربية ,male,Lower secondary education
+2,38,2,5,,7,العربية,male,Short-cycle tertiary education
+3,35,1,5,,7,اللغة العربية,female,Short-cycle tertiary education
+4,18,2,5,,7,عربية,male,Short-cycle tertiary education
+5,27,1,5,,4,العربيه ,female,Lower secondary education
+6,29,2,5,,4,عربي,male,Lower secondary education
+7,33,1,5,,7,العربية,female,Short-cycle tertiary education
+8,47,1,5,,8,العربية,female,Bachelor or equivalent
+9,28,2,1,,7,العربيه,male,Short-cycle tertiary education
+10,55,2,5,,7,العربية,male,Short-cycle tertiary education
+11,35,2,5,,7,العربيه,male,Short-cycle tertiary education
+12,50,2,5,,8,العربية,male,Bachelor or equivalent
+13,28,2,5,,7,العربية,male,Short-cycle tertiary education
+14,27,1,6,عربى,7,العربية,female,Short-cycle tertiary education
+15,41,2,5,,7,العربية ,male,Short-cycle tertiary education
+16,42,2,5,,7,العربية,male,Short-cycle tertiary education
+17,64,2,5,,7,العربية,male,Short-cycle tertiary education
+19,28,2,5,,7,عربي,male,Short-cycle tertiary education
+20,30,1,5,,7,العربيه,female,Short-cycle tertiary education
+21,45,2,5,,4,العربية,male,Lower secondary education
+22,48,1,5,,7,العربية,female,Short-cycle tertiary education
+23,48,1,5,,7,العربية,female,Short-cycle tertiary education
+24,50,1,5,,7,العربية,female,Short-cycle tertiary education
+25,31,2,5,,8,Arabic ,male,Bachelor or equivalent
+26,27,1,5,,8,العربية,female,Bachelor or equivalent
+27,28,2,5,,7,arabic,male,Short-cycle tertiary education
+28,23,2,5,,8,العربية,male,Bachelor or equivalent
+29,50,1,5,,7,العربية,female,Short-cycle tertiary education
+30,35 ????,2,5,,7,العربية,male,Short-cycle tertiary education
+31,47,2,5,,7,العربيه,male,Short-cycle tertiary education
+33,19,2,5,,7,العربيه,male,Short-cycle tertiary education
+34,27,2,5,,7,العربية ,male,Short-cycle tertiary education
+35,22,2,5,,7,العربية,male,Short-cycle tertiary education
+37,23,1,5,,6,العربية,female,Post-secondary non-tertiary education
+38,23,2,5,,7,عربيه,male,Short-cycle tertiary education
+39,50,1,5,,7,العربية ,female,Short-cycle tertiary education
+40,33,1,5,,7,العربيه,female,Short-cycle tertiary education
+42,29,2,6,مصرى,7,عربى,male,Short-cycle tertiary education
+45,31,2,5,,7,العربيه,male,Short-cycle tertiary education
+47,41,2,5,,7,العربيه,male,Short-cycle tertiary education
+49,42,2,5,,7,Arabic,male,Short-cycle tertiary education
+50,28,1,5,,7,Arabic,female,Short-cycle tertiary education
+51,43,2,5,,7,العربية,male,Short-cycle tertiary education
+52,48,1,6,عربى,7,العربية,female,Short-cycle tertiary education
+53,27,2,5,,7,اللغة العربية,male,Short-cycle tertiary education
+54,24,2,5,,4,العربيه,male,Lower secondary education
+55,44,1,5,,9,العربيه,female,Master or equivalent
+56,36,2,5,,7,العربية,male,Short-cycle tertiary education
+57,54,1,5,,7,العربية,female,Short-cycle tertiary education
+58,48,2,5,,7,العربية,male,Short-cycle tertiary education
+59,٣٤,2,5,,6,العربيه,male,Post-secondary non-tertiary education
+60,39,2,5,,7,عربي,male,Short-cycle tertiary education
+61,36,2,5,,7,العربيه,male,Short-cycle tertiary education
+62,36,2,5,,7,Arabic ,male,Short-cycle tertiary education
+63,44,2,1,,7,arabic,male,Short-cycle tertiary education
+65,42,2,1,,9,English,male,Master or equivalent
+66,٣٠,1,6,مصريه ,7,العربيه,female,Short-cycle tertiary education
+67,22,2,5,,6,عربي,male,Post-secondary non-tertiary education
+68,37,2,5,,7,العربيه,male,Short-cycle tertiary education
+69,33,2,6,مصري,8,العربية ,male,Bachelor or equivalent
+70,25,2,5,,7,العربيه ,male,Short-cycle tertiary education
+71,٣٤,2,5,,7,عربي,male,Short-cycle tertiary education
+72,54,2,5,,7,العربية,male,Short-cycle tertiary education
+73,25,2,5,,7,العربية,male,Short-cycle tertiary education
+74,21,1,5,,4,العربية,female,Lower secondary education
+75,20,2,5,,4,العربية,male,Lower secondary education
+76,٣٥,2,5,,7,العربيه,male,Short-cycle tertiary education
+77,22,2,5,,7,العربيه ,male,Short-cycle tertiary education
+78,21,1,5,,7,العربية ,female,Short-cycle tertiary education
+79,22,2,5,,7,العربية,male,Short-cycle tertiary education
+80,30,2,5,,7,العربية,male,Short-cycle tertiary education
+81,21,2,6,مصري,8,العربية,male,Bachelor or equivalent
+82,18,2,5,,4,العربية,male,Lower secondary education
+83,38,2,5,,7,اللغه العربيه ,male,Short-cycle tertiary education
+84,36,2,5,,4,العربية,male,Lower secondary education
+85,24,2,5,,7,العربية,male,Short-cycle tertiary education
+86,22,2,5,,7,Arabic ,male,Short-cycle tertiary education
+87,45,1,2,,4,العربية,female,Lower secondary education
+88,42,1,5,,7,Arabic,female,Short-cycle tertiary education
+90,20,2,1,,7,arabic,male,Short-cycle tertiary education
+91,34,2,5,,7,Arabic,male,Short-cycle tertiary education
+92,46,1,5,,7,العربية,female,Short-cycle tertiary education
+93,22,2,6,مصرى,7,العربية,male,Short-cycle tertiary education
+94,22,2,1,,4,العربية,male,Lower secondary education
+95,42,2,5,,7,العربية,male,Short-cycle tertiary education
+96,20,2,1,,4,العربيه,male,Lower secondary education
+97,29,2,6,مصرى,5,العربية,male,Upper secondary education
+98,25,1,5,,7,Arabic,female,Short-cycle tertiary education
+99,٢٢,1,5,,3,العربية,female,Primary education
+100,20,2,6,جنوب القاهره,4,العربية,male,Lower secondary education
+101,33,1,5,,8,العربية,female,Bachelor or equivalent
+102,٢٨,2,5,,7,العربية ,male,Short-cycle tertiary education
+103,33,2,5,,7,العربية,male,Short-cycle tertiary education
+104,٢٤,2,5,,7,العربيه,male,Short-cycle tertiary education
+105,٢٨,2,5,,4,العربية,male,Lower secondary education
+106,19,2,6,مصري,5,عربيه,male,Upper secondary education
+107,24,2,5,,7,العربية,male,Short-cycle tertiary education
+108,41,1,5,,7,Arabic,female,Short-cycle tertiary education
+109,30,1,5,,7,العربيه,female,Short-cycle tertiary education
+110,20,2,5,,7,العربيه,male,Short-cycle tertiary education
+111,29,1,5,,7,العربية,female,Short-cycle tertiary education
+112,42,1,5,,8,العربية,female,Bachelor or equivalent
+113,٣٠,2,6,مصري,7,اللغة العربية ,male,Short-cycle tertiary education
+114,40,1,5,,7,العربية,female,Short-cycle tertiary education
+115,21,2,5,,5,عربي,male,Upper secondary education
+116,34,1,5,,9,العربية ,female,Master or equivalent
+117,24,2,5,,4,العربية,male,Lower secondary education
+118,26,2,5,,7,العربية,male,Short-cycle tertiary education
+119,31,2,5,,8,العربية,male,Bachelor or equivalent
+120,24,1,5,,7,Arabic,female,Short-cycle tertiary education
+121,21,2,5,,4,Arabic,male,Lower secondary education
+122,20,2,5,,7,العربية ,male,Short-cycle tertiary education
+123,45,2,6,عربي,7,العربيه,male,Short-cycle tertiary education
+124,35,2,5,,8,Arabic ,male,Bachelor or equivalent
+125,23,2,5,,7,العربية ,male,Short-cycle tertiary education
+126,39,2,5,,7,العربيه,male,Short-cycle tertiary education
+127,20,2,5,,4,العربية ,male,Lower secondary education
+128,27,2,5,,7,العربية ,male,Short-cycle tertiary education
+129,23,2,5,,7,العربية,male,Short-cycle tertiary education
+130,42,2,5,,7,العربية,male,Short-cycle tertiary education
+131,22,2,5,,7,العربية,male,Short-cycle tertiary education
+132,33,2,5,,7,arabic,male,Short-cycle tertiary education
+133,32,2,5,,7,العربية ,male,Short-cycle tertiary education
+134,35,1,5,,7,العربيه ,female,Short-cycle tertiary education
+135,30,1,5,,7,اللغعه العربيه,female,Short-cycle tertiary education
+136,39,1,5,,4,العربيه,female,Lower secondary education
+137,40,2,5,,7,العربية ,male,Short-cycle tertiary education
+138,22,1,5,,7,عربي,female,Short-cycle tertiary education
+139,37,2,5,,7,الغربية,male,Short-cycle tertiary education
+140,43,2,5,,7,عربي,male,Short-cycle tertiary education
+141,33,2,5,,7,عربية,male,Short-cycle tertiary education
+142,45,2,5,,7,Arabic ,male,Short-cycle tertiary education
+143,40,1,5,,4,العربيه ,female,Lower secondary education
+144,22,1,5,,7,العربيه ,female,Short-cycle tertiary education
+145,40,2,5,,7,العربية,male,Short-cycle tertiary education
+146,21,2,5,,5,اللغة العربيه,male,Upper secondary education
+147,٢٣,1,5,,7,اللغه العربيه ,female,Short-cycle tertiary education
+148,47,2,5,,7,العربية ,male,Short-cycle tertiary education
+149,28,1,5,,7,العربية,female,Short-cycle tertiary education
+150,26,2,5,,7,العربيه,male,Short-cycle tertiary education
+151,٣٨,2,5,,7,العربيه ,male,Short-cycle tertiary education
+152,30,2,5,,7,العربيه,male,Short-cycle tertiary education
+153,47,2,1,,7,عربية,male,Short-cycle tertiary education
+154,24,2,5,,7,العربيه,male,Short-cycle tertiary education
+155,29,2,5,,6,العربيه,male,Post-secondary non-tertiary education
+156,٢٣,1,6,مصر,7,العربيه ,female,Short-cycle tertiary education
+157,واحد و عشرون عاما,2,5,,7,اللغة العربية,male,Short-cycle tertiary education
+158,30,2,1,,4,العربية,male,Lower secondary education
+159,31,2,6,عربي اسلامي,7,العربيه,male,Short-cycle tertiary education
+160,19,1,5,,7,العربيه,female,Short-cycle tertiary education
+161,23,2,5,,4,العربيه,male,Lower secondary education
+162,23,2,5,,7,العربية,male,Short-cycle tertiary education
+163,٤٥,2,5,,7,العربيه ,male,Short-cycle tertiary education
+164,26,1,1,,7,العربية ,female,Short-cycle tertiary education
+165,34,2,5,,7,Arabic ,male,Short-cycle tertiary education
+166,20,2,6,مصر,7,العربيه,male,Short-cycle tertiary education
+167,20,2,5,,4,العربية,male,Lower secondary education
+168,26,2,5,,7,العربية,male,Short-cycle tertiary education
+169,26,1,1,,7,العربية ,female,Short-cycle tertiary education
+170,27,2,1,,4,العربية,male,Lower secondary education
+171,46,2,5,,7,العربيه,male,Short-cycle tertiary education
+172,39,2,5,,7,العربية,male,Short-cycle tertiary education
+173,21,1,5,,7,العربيه,female,Short-cycle tertiary education
+174,25,2,5,,7,العربية,male,Short-cycle tertiary education
+175,25,2,1,,7,العربية ,male,Short-cycle tertiary education
+176,21,1,1,,9,العربيه,female,Master or equivalent
+177,55,2,5,,8,العربيه,male,Bachelor or equivalent
+178,39,2,5,,7,العربية ,male,Short-cycle tertiary education
+179,27,2,5,,7,العربية,male,Short-cycle tertiary education
+180,18,2,5,,5,العربية / المصرية,male,Upper secondary education
+181,22,2,5,,4,عربي,male,Lower secondary education
+182,34,2,1,,7,Arabic,male,Short-cycle tertiary education
+183,47,2,5,,7,عربي,male,Short-cycle tertiary education
+185,30,2,6,مصرى ,4,العربيه,male,Lower secondary education
+186,39,1,5,,7,العربية,female,Short-cycle tertiary education
+188,٢٥,2,5,,7,العربية,male,Short-cycle tertiary education
+189,25,2,5,,7,العربيه,male,Short-cycle tertiary education
+190,18,2,5,,7,العربي,male,Short-cycle tertiary education
+191,35,1,5,,7,العربية,female,Short-cycle tertiary education
+192,32,2,6,مصر,7,العربية,male,Short-cycle tertiary education
+193,33,2,6,Egypt,7,Arabic,male,Short-cycle tertiary education
+195,23,2,5,,4,العربية ,male,Lower secondary education
+196,33,2,5,,7,العربيه ,male,Short-cycle tertiary education
+197,34,2,5,,7,arabic,male,Short-cycle tertiary education
+198,19,2,5,,4,العربية,male,Lower secondary education
+199,32,2,5,,6,عربي,male,Post-secondary non-tertiary education
+200,٢٧,2,5,,7,العربية ,male,Short-cycle tertiary education
+201,22,2,1,,6,العربيه,male,Post-secondary non-tertiary education
+202,22,2,5,,3,العربية,male,Primary education
+203,29,2,6,قمحي,7,العربيه ,male,Short-cycle tertiary education
+204,33,2,5,,7,العربيه,male,Short-cycle tertiary education
+205,23,1,5,,7,العربيه,female,Short-cycle tertiary education
+206,20,2,5,,4,العربية,male,Lower secondary education
+207,٢٧,1,6,شمال افريقيا,7,العربيه,female,Short-cycle tertiary education
+208,33,1,5,,7,العربية,female,Short-cycle tertiary education
+209,32,2,5,,7,العربية,male,Short-cycle tertiary education
+210,22,2,1,,5,العربية,male,Upper secondary education
+211,22,2,6,عربي,7,العربية ,male,Short-cycle tertiary education
+212,24,2,5,,7,arabic,male,Short-cycle tertiary education
+213,٣٦,1,5,,7,عربي,female,Short-cycle tertiary education
+214,18,1,5,,4,العربية,female,Lower secondary education
+215,26,2,5,,7,العربية,male,Short-cycle tertiary education
+216,27,1,5,,7,العربيه,female,Short-cycle tertiary education
+217,43,2,5,,7,العربية,male,Short-cycle tertiary education
+218,18,2,5,,7,العربية ,male,Short-cycle tertiary education
+219,23,2,5,,7,العربية,male,Short-cycle tertiary education
+220,18,1,5,,4,العربية,female,Lower secondary education
+221,34,2,5,,7,العربية ,male,Short-cycle tertiary education
+222,45,1,5,,7,Arabic,female,Short-cycle tertiary education
+223,19,2,5,,5,العربيه ,male,Upper secondary education
+224,22,2,1,,7,Arabic,male,Short-cycle tertiary education
+225,عشرين ,1,5,,4,العربية,female,Lower secondary education
+226,٢٨,2,5,,7,العربية,male,Short-cycle tertiary education
+227,36,2,5,,7,العربيه,male,Short-cycle tertiary education
+228,37,2,5,,7,العربية,male,Short-cycle tertiary education
+229,19,2,6,مصري,7,العربية,male,Short-cycle tertiary education
+230,22,2,5,,7,Arabic ,male,Short-cycle tertiary education
+231,21,2,5,,4,العربية,male,Lower secondary education
+232,20,1,5,,7,العربية,female,Short-cycle tertiary education
+233,27,2,5,,7,العربيه ,male,Short-cycle tertiary education
+234,25,2,1,,7,العربية,male,Short-cycle tertiary education
+236,18,2,5,,7,Arabic,male,Short-cycle tertiary education
+237,32,1,5,,7,Arabic ,female,Short-cycle tertiary education
+238,46,2,5,,7,Arabic,male,Short-cycle tertiary education
+239,22,1,5,,4,عربي,female,Lower secondary education
+240,46,2,5,,7,العربيه,male,Short-cycle tertiary education
+241,24,2,5,,7,العربية,male,Short-cycle tertiary education
+242,24,2,5,,7,اللغة العربية ,male,Short-cycle tertiary education
+243,22,1,5,,7,Arabic,female,Short-cycle tertiary education
+244,35,2,5,,7,العربية,male,Short-cycle tertiary education
+245,26,2,5,,7,العربية ,male,Short-cycle tertiary education
+246,19,1,1,,4,عربيه,female,Lower secondary education
+247,38,1,5,,8,العربية ,female,Bachelor or equivalent
+248,18,2,5,,4,العربية ,male,Lower secondary education
+249,43,2,5,,8,العربية,male,Bachelor or equivalent
+251,38,2,5,,7,العربية,male,Short-cycle tertiary education
+252,٢٣,1,6,٢٣,8,عربيه,female,Bachelor or equivalent
+253,19,1,5,,4,العربية,female,Lower secondary education
+254,19,2,5,,4,العربيه,male,Lower secondary education
+255,45,2,5,,7,اللغة العربية ,male,Short-cycle tertiary education
+256,40,2,6,مصرى,7,العربيه,male,Short-cycle tertiary education
+257,23,2,6,Egyptian ,4,Ar,male,Lower secondary education
+258,21,2,6,احمد ,7,عربي ,male,Short-cycle tertiary education
+259,19,1,5,,4,العربيه,female,Lower secondary education
+260,22,2,5,,7,العربية,male,Short-cycle tertiary education
+261,57,1,5,,8,العربية,female,Bachelor or equivalent
+262,25,1,5,,9,arabic,female,Master or equivalent
+263,اثنين و عشرين عاما ,1,5,,7,اللغه العربيه ,female,Short-cycle tertiary education
+264,19,2,5,,5,عربي,male,Upper secondary education
+265,20,2,6,مصر,4,العربية,male,Lower secondary education
+266,39,2,5,,7,العربية,male,Short-cycle tertiary education
+267,19,1,5,,7,Arabic ,female,Short-cycle tertiary education
+268,34,2,5,,7,العربية,male,Short-cycle tertiary education
+269,22,1,5,,7,العربية,female,Short-cycle tertiary education
+270,22,2,6,مصري,4,العربيه,male,Lower secondary education
+272,٢٦,1,5,,7,العربيه,female,Short-cycle tertiary education
+273,32,2,5,,7,العربية,male,Short-cycle tertiary education
+274,18,1,5,,4,العربية,female,Lower secondary education
+275,22,2,5,,7,العربية,male,Short-cycle tertiary education
+276,27,1,5,,7,العربيه,female,Short-cycle tertiary education
+277,43,2,5,,8,العربية,male,Bachelor or equivalent
+278,19,1,5,,7,Arabic ,female,Short-cycle tertiary education
+279,27,2,5,,7,العربية,male,Short-cycle tertiary education
+280,22,2,5,,7,العربية,male,Short-cycle tertiary education
+281,29,2,5,,7,العربيه,male,Short-cycle tertiary education
+282,29,2,5,,7,العربيه,male,Short-cycle tertiary education
+283,24,2,5,,7,العربية ,male,Short-cycle tertiary education
+284,23,1,5,,7,عربية,female,Short-cycle tertiary education
+285,21,2,1,,7,اللغه العربيه,male,Short-cycle tertiary education
+286,24,2,5,,7,العربية ,male,Short-cycle tertiary education
+287,23,1,5,,7,عربية,female,Short-cycle tertiary education
+288,22,1,5,,7,العربية,female,Short-cycle tertiary education
+289,24,1,5,,7,Arabic,female,Short-cycle tertiary education
+290,22,1,6,مصر,7,العربية,female,Short-cycle tertiary education
+291,20,2,5,,7,العربيه ,male,Short-cycle tertiary education
+292,22,2,1,,5,عربي,male,Upper secondary education
+293,22,1,5,,8,اللغه العربية,female,Bachelor or equivalent
+294,33,2,6,مصري,7,العربية,male,Short-cycle tertiary education
+295,21,2,5,,4,العربيه,male,Lower secondary education
+296,38,2,5,,8,العربية,male,Bachelor or equivalent
+297,22,2,5,,8,العربيه,male,Bachelor or equivalent
+298,26,1,1,,7,Arabic,female,Short-cycle tertiary education
+299,27,1,6,مصرية,7,اللغة العربية ,female,Short-cycle tertiary education
+300,20,2,5,,4,عربي,male,Lower secondary education
+301,35,2,5,,7,العربيه ,male,Short-cycle tertiary education
+302,20,1,6,مصريه,4,العربيه ,female,Lower secondary education
+303,30,1,6,افريقى ,8,المصرية,female,Bachelor or equivalent
+304,19,2,5,,5,العربيه,male,Upper secondary education
+305,19,2,5,,5,العربيه,male,Upper secondary education
+306,22,2,5,,4,العربيه,male,Lower secondary education
+307,42,1,5,,7,العربيه ,female,Short-cycle tertiary education
+308,27,2,6,مصري,7,عربي,male,Short-cycle tertiary education
+310,23,2,5,,7,العربية,male,Short-cycle tertiary education
+311,27,2,1,,4, العربية,male,Lower secondary education
+312,54,2,5,,7,عربية,male,Short-cycle tertiary education
+313,26,1,5,,7,عربيه,female,Short-cycle tertiary education
+314,20,2,5,,7,عربي,male,Short-cycle tertiary education
+315,21,2,5,,7,العربية,male,Short-cycle tertiary education
+316,20,2,5,,5,العربية,male,Upper secondary education
+317,22,2,6,القاهره ,7,العربيه ,male,Short-cycle tertiary education
+318,52,1,5,,7,العربيه,female,Short-cycle tertiary education
+319,24,1,5,,7,Arabic,female,Short-cycle tertiary education
+320,22,2,6,مصر,7,العربيه,male,Short-cycle tertiary education
+321,45,2,5,,7,عربى,male,Short-cycle tertiary education
+322,18,2,5,,4,العربيه,male,Lower secondary education
+323,٢٧,1,6,عربيه افريقيه,7,العربيه,female,Short-cycle tertiary education
+324,19,1,5,,7,Arabic ,female,Short-cycle tertiary education
+325,22,1,5,,8,اللغه العربية,female,Bachelor or equivalent
+326,39,2,5,,7,العربيه,male,Short-cycle tertiary education
+327,29,2,5,,7,العربية,male,Short-cycle tertiary education
+328,30,1,5,,7,العربية,female,Short-cycle tertiary education
+329,36,2,5,,7,arabic,male,Short-cycle tertiary education
+330,28,2,5,,7,العربية,male,Short-cycle tertiary education
+331,22,2,6,مصري,5,العربيه,male,Upper secondary education
+332,44,1,5,,9,العربية,female,Master or equivalent
+333,22,1,1,,7,العربية,female,Short-cycle tertiary education
+334,31,2,5,,7,العربيه,male,Short-cycle tertiary education
+335,32,2,5,,7,العربيه ,male,Short-cycle tertiary education
+336,33,2,6,مصري,7,العربية,male,Short-cycle tertiary education
+337,24,1,5,,7,العربية,female,Short-cycle tertiary education
+338,22,2,5,,8,العربيه,male,Bachelor or equivalent
+339,31,1,5,,7,العربيه ,female,Short-cycle tertiary education
+340,22,1,1,,7,العربية,female,Short-cycle tertiary education
+341,18,2,6,صعيد,4,عربي,male,Lower secondary education
+342,28,1,5,,7,Arabic,female,Short-cycle tertiary education
+343,٣٧,1,6,مصري,7,العربيه ,female,Short-cycle tertiary education
+344,20,2,6,مصري,5,عربي,male,Upper secondary education
+345,35,1,5,,5,عربيه ,female,Upper secondary education
+346,27,2,5,,7,العربيه,male,Short-cycle tertiary education
+347,23,1,1,,7,Arabic ,female,Short-cycle tertiary education
+348,45,2,5,,7,العربية,male,Short-cycle tertiary education
+349,26,1,1,,7,Arabic,female,Short-cycle tertiary education
+350,22,2,5,,4,العربية,male,Lower secondary education
+351,26,2,5,,7,العربيه,male,Short-cycle tertiary education
+352,٢٨,2,5,,7,العربية,male,Short-cycle tertiary education
+353,30,2,5,,9,العربيه,male,Master or equivalent
+354,34,1,5,,9,العربية ,female,Master or equivalent
+355,22,1,6,مصرية,7,عربية,female,Short-cycle tertiary education
+356,35,2,5,,7,العربيه ,male,Short-cycle tertiary education
+357,58,2,5,,7,العربية,male,Short-cycle tertiary education
+358,47,2,5,,7,العربية,male,Short-cycle tertiary education
+359,41,2,1,,7,العربية,male,Short-cycle tertiary education
+360,31,1,5,,8,العربية ,female,Bachelor or equivalent
+361,30,2,5,,7,العربية,male,Short-cycle tertiary education
+362,35,2,1,,8,Arabic,male,Bachelor or equivalent
+363,57,1,6,مصريه,7,العربية,female,Short-cycle tertiary education
+364,50,1,5,,8,Arbic,female,Bachelor or equivalent
+365,46,2,5,,7,العربيه ,male,Short-cycle tertiary education
+366,22,2,5,,4,العربية,male,Lower secondary education
+367,23,2,6,مصرية,8,العربية,male,Bachelor or equivalent
+368,33,2,5,,7,العربية,male,Short-cycle tertiary education
+370,27,2,5,,7,العربيه ,male,Short-cycle tertiary education
+371,20,1,6,مصريه,4,العربيه ,female,Lower secondary education
+372,26,2,6,عربي ,8,العربية ,male,Bachelor or equivalent
+373,25,2,5,,7,عربي,male,Short-cycle tertiary education
+374,28,1,5,,7,العربيه,female,Short-cycle tertiary education
+375,45,2,5,,7,اللغة العربية,male,Short-cycle tertiary education
+376,26,1,5,,7,العربيه,female,Short-cycle tertiary education
+377,٣٨,1,5,,7,عربية,female,Short-cycle tertiary education
+379,42,2,5,,8,Arabic,male,Bachelor or equivalent
+380,29,1,5,,7,العربيه,female,Short-cycle tertiary education
+381,51,1,6,مصرية ,7,العربية,female,Short-cycle tertiary education
+382,30,1,6,افريقى ,8,المصرية,female,Bachelor or equivalent
+383,40,2,5,,7,Arabic,male,Short-cycle tertiary education
+384,59,2,5,,7,العربية,male,Short-cycle tertiary education
+385,58,2,5,,7,العربية,male,Short-cycle tertiary education
+386,26,2,5,,7,العربية,male,Short-cycle tertiary education
+387,22,2,5,,7,العربيه,male,Short-cycle tertiary education
+388,35,2,5,,7,عربي,male,Short-cycle tertiary education
+389,24,2,6,البحر الاحمر,7,العربيه,male,Short-cycle tertiary education
+390,45,2,5,,7,العربية,male,Short-cycle tertiary education
+391,20,1,5,,6,اللغة العربية,female,Post-secondary non-tertiary education
+392,31,1,5,,7,العربية ,female,Short-cycle tertiary education
+393,40,1,5,,9, Arabic,female,Master or equivalent
+394,20,2,5,,5,العربيه,male,Upper secondary education
+395,38,2,6,اخري,4,العربيه,male,Lower secondary education
+396,41عام,2,1,,9,العربيه ,male,Master or equivalent
+397,38,2,5,,7,العربية,male,Short-cycle tertiary education
+398,22,1,5,,7,العربية,female,Short-cycle tertiary education
+399,19,2,5,,5,العربيه,male,Upper secondary education
+400,26,1,5,,7,العربيه,female,Short-cycle tertiary education
+401,19,2,5,,4,عربي,male,Lower secondary education
+402,٢٢,2,5,,7,العربية,male,Short-cycle tertiary education
+404,39,1,5,,7,العربية,female,Short-cycle tertiary education
+405,22,2,5,,7,العربية,male,Short-cycle tertiary education
+406,46,1,5,,8,العربيه,female,Bachelor or equivalent
+407,36,2,5,,7,العربية,male,Short-cycle tertiary education
+408,22,2,5,,7,العربيه,male,Short-cycle tertiary education
+409,18,1,5,,4,العربيه ,female,Lower secondary education
+410,48,2,1,,8,العربية,male,Bachelor or equivalent
+411,25,1,5,,7,اللغة العربية,female,Short-cycle tertiary education
+412,38,1,5,,7,العربية,female,Short-cycle tertiary education
+413,39,2,5,,7,العربيه,male,Short-cycle tertiary education
+414,46,2,5,,7,العربية ,male,Short-cycle tertiary education
+415,33,1,5,,7,العربيه,female,Short-cycle tertiary education
+416,22,2,5,,7,العربيه,male,Short-cycle tertiary education
+417,21,1,5,,7,اللغة العربية,female,Short-cycle tertiary education
+418,26,2,5,,8,العربيه,male,Bachelor or equivalent
+419,44,2,6,مصرى,7,العربية,male,Short-cycle tertiary education
+420,29,1,1,,7,Arabic,female,Short-cycle tertiary education
+422,55,2,5,,7,العربية,male,Short-cycle tertiary education
+423,28,1,5,,7,اللغة العربية,female,Short-cycle tertiary education
+424,33,1,5,,7,عربى,female,Short-cycle tertiary education
+425,35,2,5,,7,العربيه,male,Short-cycle tertiary education
+426,38,1,5,,7,العربيه,female,Short-cycle tertiary education
+427,30,2,5,,9,العربية,male,Master or equivalent
+428,40,2,5,,7,اللغة العربية ,male,Short-cycle tertiary education
+429,33,2,5,,5,العربية,male,Upper secondary education
+430,٢٥,2,5,,7,العربيه ,male,Short-cycle tertiary education
+432,25,1,5,,7,العربية,female,Short-cycle tertiary education
+433,46,2,5,,7,العربية,male,Short-cycle tertiary education
+435,29,2,6,مصرى,7,العربية,male,Short-cycle tertiary education
+436,33,2,5,,7,العربية,male,Short-cycle tertiary education
+437,32,2,6,مصريه,7,العربية ,male,Short-cycle tertiary education
+438,22,2,5,,7,العربية ,male,Short-cycle tertiary education
+439,43,2,5,,7,العربيه,male,Short-cycle tertiary education
+440,32,1,5,,7,العربيه,female,Short-cycle tertiary education
+441,33,1,5,,8,اللغه العربيه,female,Bachelor or equivalent
+443,45,2,5,,7,العربية,male,Short-cycle tertiary education
+444,28,2,5,,7,العربيه ,male,Short-cycle tertiary education
+445,23,2,5,,7,Arabic,male,Short-cycle tertiary education
+446,19,2,1,,4,العربية,male,Lower secondary education
+448,33,1,5,,7,العربية,female,Short-cycle tertiary education
+449,26,2,5,,6,العربية,male,Post-secondary non-tertiary education
+450,30,2,5,,7,العربيه,male,Short-cycle tertiary education
+451,٣٧,2,5,,7,العربيه,male,Short-cycle tertiary education
+452,31,2,5,,7,العربيه,male,Short-cycle tertiary education
+453,٤٥,2,5,,7,العربية,male,Short-cycle tertiary education
+454,32,2,5,,7,لغة عربية ,male,Short-cycle tertiary education
+455,18,2,5,,7,العربية ,male,Short-cycle tertiary education
+456,35,1,5,,7,عربية,female,Short-cycle tertiary education
+457,44,1,1,,7,لغه عربيه,female,Short-cycle tertiary education
+460,45,1,6,مصري,7,عربيه,female,Short-cycle tertiary education
+461,38,2,5,,8,العربيه,male,Bachelor or equivalent
+462,20,1,5,,7,العربيه,female,Short-cycle tertiary education
+463,22,2,5,,7,العربية ,male,Short-cycle tertiary education
+464,30,1,5,,7,العربية,female,Short-cycle tertiary education
+465,33,2,5,,7,arabic,male,Short-cycle tertiary education
+466,52,2,5,,7,العربية ,male,Short-cycle tertiary education
+467,١٩,2,5,,8,العربية,male,Bachelor or equivalent
+468,25,2,5,,6,العربية,male,Post-secondary non-tertiary education
+470,46,2,5,,8,Arabic,male,Bachelor or equivalent
+471,33,2,5,,7,العربية ,male,Short-cycle tertiary education
+472,٢٩,2,5,,4,مصر,male,Lower secondary education
+473,35,2,5,,7,Arabic,male,Short-cycle tertiary education
+474,48,2,5,,4,العربية,male,Lower secondary education
+477,39,2,5,,7,العربية,male,Short-cycle tertiary education
+478,29,1,5,,7,العربيه,female,Short-cycle tertiary education
+479,26,2,5,,7,العربية ,male,Short-cycle tertiary education
+481,31,2,5,,7,العربيه,male,Short-cycle tertiary education
+482,51,2,5,,5,العربيه ,male,Upper secondary education
+483,44,2,5,,7,العربية,male,Short-cycle tertiary education
+484,24,2,5,,9,العربية,male,Master or equivalent
+485,27,1,6,مصريه,7,العربيه,female,Short-cycle tertiary education
+486,32,1,5,,7,العربيه,female,Short-cycle tertiary education
+487,29,2,5,,7,العربيه ,male,Short-cycle tertiary education
+488,44,2,6,شرق اوسطي,7,العربية ,male,Short-cycle tertiary education
+489,32,2,1,,7,العربيه,male,Short-cycle tertiary education
+491,41,1,5,,7,عربي,female,Short-cycle tertiary education
+492,28,1,5,,7,العربية,female,Short-cycle tertiary education
+493,43,1,5,,7,العربية,female,Short-cycle tertiary education
+494,23,2,5,,7,Arabic,male,Short-cycle tertiary education
+495,29,1,5,,7,العربيه,female,Short-cycle tertiary education
+496,23,2,5,,7,العربية,male,Short-cycle tertiary education
+497,28,2,6,مصري,7,العربية,male,Short-cycle tertiary education
+498,30,2,5,,6,عربيه,male,Post-secondary non-tertiary education
+499,51,2,6,متزوج,4,العربيه,male,Lower secondary education
+500,٣٩,1,5,,7,العربيه,female,Short-cycle tertiary education
+501,54,2,5,,7,العربية,male,Short-cycle tertiary education
+502,37,2,5,,7,العربية ,male,Short-cycle tertiary education
+503,21,2,5,,7,Arabic ,male,Short-cycle tertiary education
+504,34,2,5,,4,العربية,male,Lower secondary education
+505,37,2,5,,7,العربية ,male,Short-cycle tertiary education
+506,26,2,5,,7,العربية,male,Short-cycle tertiary education
+507,42,2,5,,7,العربية,male,Short-cycle tertiary education
+509,30,2,5,,7,اللغة العربية,male,Short-cycle tertiary education
+510,18,2,5,,4,عربي,male,Lower secondary education
+511,36,1,5,,7,Arabic,female,Short-cycle tertiary education
+512,30,2,6,مصري,7,العربية,male,Short-cycle tertiary education
+513,39,2,5,,7,العربية,male,Short-cycle tertiary education
+514,35,2,1,,7,العربية ,male,Short-cycle tertiary education
+516,29,1,5,,7,العربية,female,Short-cycle tertiary education
+517,34,2,5,,7,العربيه ,male,Short-cycle tertiary education
+518,25,2,5,,7,العربيه,male,Short-cycle tertiary education
+519,41,2,5,,4,العربيه ,male,Lower secondary education
+520,37,2,5,,7,Arabic,male,Short-cycle tertiary education
+521,22,1,5,,5,مصري,female,Upper secondary education
+522,46,1,5,,7,العربية,female,Short-cycle tertiary education
+523,٢٤,2,1,,5,العربية ,male,Upper secondary education
+524,47,1,5,,7,العربيه,female,Short-cycle tertiary education
+525,34,2,1,,7,العربية,male,Short-cycle tertiary education
+526,30,2,5,,7,العربية ,male,Short-cycle tertiary education
+527,38,1,6,عربي,6,عربي,female,Post-secondary non-tertiary education
+528,40,2,5,,9,العريبة,male,Master or equivalent
+529,22,1,4,,4,العربية,female,Lower secondary education
+530,36,2,1,,4,العربيه,male,Lower secondary education
+531,32,2,1,,9,العربيه,male,Master or equivalent
+532,49,1,5,,7,العربيه,female,Short-cycle tertiary education
+533,28,2,6,مصر,4,اللغة العربية ,male,Lower secondary education
+534,44,2,5,,7,العربية,male,Short-cycle tertiary education
+536,33,2,5,,7,العربية,male,Short-cycle tertiary education
+537,49,2,5,,8,عربي,male,Bachelor or equivalent
+538,25,2,5,,7,العربيه,male,Short-cycle tertiary education
+539,35,2,1,,8,العربيه,male,Bachelor or equivalent
+540,25,2,5,,4,العربية,male,Lower secondary education
+541,21,2,6,مصري,4,المصرية,male,Lower secondary education
+542,20,1,5,,7,العربيه,female,Short-cycle tertiary education
+543,29,2,5,,7,العربيه,male,Short-cycle tertiary education
+544,33,1,5,,7,مصري,female,Short-cycle tertiary education
+545,38,1,6,مصرى,7,العربيه,female,Short-cycle tertiary education
+548,39,2,5,,8,اللغة العربية ,male,Bachelor or equivalent
+549,30,1,5,,2,العربية,female,Primary education
+550,38,2,5,,7,Arabic,male,Short-cycle tertiary education
+551,31,2,5,,7,عربى,male,Short-cycle tertiary education
+552,29,2,1,,7,عربى,male,Short-cycle tertiary education
+553,19,2,5,,4,العربية,male,Lower secondary education
+555,30,2,5,,7,العربيه ,male,Short-cycle tertiary education
+556,28,2,5,,7,العربية ,male,Short-cycle tertiary education
+557,26,2,5,,7,عربي,male,Short-cycle tertiary education
+558,37,1,1,,8,Arabic,female,Bachelor or equivalent
+559,27,2,5,,7,العربية,male,Short-cycle tertiary education
+560,34,2,5,,7,العربيه,male,Short-cycle tertiary education
+561,25,2,5,,7,العربية,male,Short-cycle tertiary education
+562,35,1,5,,7,العربية,female,Short-cycle tertiary education
+563,30,2,5,,7,العربيه,male,Short-cycle tertiary education
+564,45,1,1,,7,العربية ,female,Short-cycle tertiary education
+565,50,2,5,,7,العربيه ,male,Short-cycle tertiary education
+566,25,2,5,,7,العربيه,male,Short-cycle tertiary education
+567,43,2,5,,7,العرببه,male,Short-cycle tertiary education
+568,37,2,5,,7,العربيه,male,Short-cycle tertiary education
+569,42,2,5,,8,اللغة العربية ,male,Bachelor or equivalent
+570,46,2,5,,7,العربية,male,Short-cycle tertiary education
+571,34,2,5,,7,العربية,male,Short-cycle tertiary education
+572,31,2,6,مصري,7,العربيه ,male,Short-cycle tertiary education
+574,38,2,5,,7,العربية,male,Short-cycle tertiary education
+575,34,2,5,,5,عربي,male,Upper secondary education
+576,27,2,5,,8,عربي,male,Bachelor or equivalent
+577,33,1,6,مصرية,7,العربية,female,Short-cycle tertiary education
+578,44,1,5,,7,عربي,female,Short-cycle tertiary education
+580,25,2,5,,7,Arabic ,male,Short-cycle tertiary education
+581,35,2,5,,7,العربيه,male,Short-cycle tertiary education
+582,28,1,6,المصريه,7,العربيه,female,Short-cycle tertiary education
+583,74,2,5,,7,العربية,male,Short-cycle tertiary education
+584,41,1,5,,7,العربية,female,Short-cycle tertiary education
+585,32,2,5,,5,اللغة العربيه ,male,Upper secondary education
+586,23,1,5,,7,العربية,female,Short-cycle tertiary education
+587,33,1,1,,7,اللغة العربية ,female,Short-cycle tertiary education
+588,36,1,6,مصريه,7,عربي,female,Short-cycle tertiary education
+589,٣٣,2,5,,7,العربيه,male,Short-cycle tertiary education
+590,51,2,5,,4,العربيه,male,Lower secondary education
+591,24,1,1,,7,العربية ,female,Short-cycle tertiary education
+592,26,2,5,,8,العربية,male,Bachelor or equivalent
+593,33,2,5,,4,العربيه,male,Lower secondary education
+594,31,2,6,مصري,7,عربي,male,Short-cycle tertiary education
+595,33,2,5,,7,العربية,male,Short-cycle tertiary education
+596,50,2,5,,7,العربيه,male,Short-cycle tertiary education
+597,19,1,5,,7,العربيه,female,Short-cycle tertiary education
+598,20,2,5,,7,العرببه,male,Short-cycle tertiary education
+599,27,2,5,,7,العربية,male,Short-cycle tertiary education
+600,٢١,1,6,مصري,7,عربي,female,Short-cycle tertiary education
+601,35,2,5,,7,العربيه,male,Short-cycle tertiary education
+602,23,1,5,,4,اللغة العربية,female,Lower secondary education
