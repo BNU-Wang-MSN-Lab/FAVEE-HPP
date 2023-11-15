@@ -1,0 +1,160 @@
+,0
+0,Parent-Child
+1,Parent-Teenager
+2,Wife-Husband
+3,Fiance-Fiancee
+4,Siblings
+5,Divorced spouses
+6,A person and their in laws
+7,Cousins
+8,Employer-Employee
+9,Interviewer-Job applicant
+10,Guard-Prisoner
+11,Nurse-Patient
+12,Therapist-Patient
+13,Salesperson-Customer
+14,Business partners
+15,Opposing negotiators
+16,Political opponents
+17,Business rivals
+18,Enemies
+19,Teacher-Student
+20,Professor-Graduate student
+21,Master-Servant
+22,Close friends
+23,Casual acquaintances
+24,Teammates in sports
+25,Second cousins
+26,Parent-Infant
+27,Grandparent-Grandchild
+28,Step-parent-Step-child
+29,Foster-parent-Foster-child
+30,Godparent-Godchild
+31,Step-grandparent-Step-grandchild
+32,Ancestor-Descendant
+33,Bride-Groom
+34,Man-His Mistress
+35,Man Wife-Man Mistress
+36,Brother-Sister
+37,Step siblings
+38,Distant relatives
+39,Close relatives
+40,Twins
+41,A person and their family friends
+42,A person and their deceased spouse
+43,Manager-Staff
+44,Foreman-Laborer
+45,Owner-Manager
+46,Union leader-union member
+47,Manager-Assistant
+48,Chief-Deputy
+49,Supervisor-Subordinate
+50,Boss-Secretary
+51,Entrepreneur-Investor
+52,Intern-Employee
+53,Lawyer-Client
+54,Judge-Lawyer
+55,Victim-Criminal
+56,Drug dealer-Addict
+57,Victim-Witness
+58,Criminal-Police officer
+59,Criminal-Prosecutor
+60,Criminal-Hostage
+61,Defendant-Plaintiff
+62,Police officer-Offender
+63,Police officer-Civilian
+64,Parole officer-Parolee
+65,Consultant-Client
+66,Chef-Customer
+67,Customer-Server
+68,Customer-Businessman
+69,Doctor-Patient
+70,Doctor-Nurse
+71,Patient-Caretaker
+72,Driver-Passenger
+73,Coach-athlete
+74,Team captain-Team members
+75,Club Member-Club President
+76,Politician-Supporter
+77,Leader-Follower
+78,Representative-Citizen
+79,Officer-Soldier
+80,Babysitter-Infant
+81,Religious leader-Congregant
+82,Religious followers
+83,Prostitute-Customer
+84,Guide-Tourist
+85,Athlete-Referee
+86,Slave-Master
+87,Reader-Writer
+88,Reviewer-Writer
+89,Performer-Audience
+90,Dealer-Buyer
+91,Sugar daddy-Sugar baby
+92,Director-Performer
+93,Psychologist-Client
+94,Judge-Contestant
+95,Man-God
+96,Co-workers
+97,Sports rivals
+98,Romantic rivals
+99,Criminal and their accomplice
+100,Diplomats
+101,Principal-Teacher
+102,Professor-Teaching Assistant
+103,University student-Administrator
+104,Student-Dorm Resident assistant
+105,Mentor-Mentee
+106,Athletic trainer-Trainee
+107,Researcher-Research Subject
+108,Peers
+109,Classmates
+110,Roommates
+111,Sorority sisters
+112,Fraternity brothers
+113,Bride-Bridesmaid
+114,Groom-Groomsman
+115,Predecessor-Successor
+116,Landlord-Tenant
+117,Landlord-Housekeeper
+118,Guest-Host
+119,Television host-Guest
+120,Volunteer-Organizer
+121,Celebrity-Fans
+122,Celebrity-Haters
+123,Native-Tourist
+124,Bully-Victim
+125,Friends
+126,Facebook friends
+127,A person and their social media follower
+128,Childhood friends
+129,Pen-friends
+130,Friends with benefits
+131,Political allies
+132,Romantic lovers
+133,Ex-lovers
+134,Life partners
+135,Soul mates
+136,Strangers
+137,Neighbors
+138,Church members
+139,Fans of the same sports team
+140,Fans of opposing sports teams
+141,Superior-Subordinate
+142,Aunt-Niece(Nephew)
+143,Uncle-Niece(Nephew)
+144,Frenemies
+145,Half siblings
+146,Adoptive parents-Adopted kids
+147,Mother-Infant
+148,Alumni
+149,A monarch and their minister
+150,Confidants
+151,A person and their significant other
+152,Companions
+153,Playmates
+154,Competitors in sports
+155,A person and their crush
+156,Cohabitants
+157,Long-distance lovers
+158,Brothers in-arms
