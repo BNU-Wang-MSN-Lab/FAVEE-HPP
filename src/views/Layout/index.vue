@@ -88,8 +88,8 @@ const hrefClick = (e) => {
 }
 
 const icon = ref([
-  { iconUrl: "./assets/icon/target.png", num: 3, tit: "Studies" },
-  { iconUrl: "./assets/icon/meeting.png", num: "19,532", tit: "Participants" },
+  { iconUrl: "./assets/icon/target.png", num: 4, tit: "Studies" },
+  { iconUrl: "./assets/icon/meeting.png", num: "20,425", tit: "Participants" },
   { iconUrl: "./assets/icon/team.png", num: 19, tit: "Regions" },
   { iconUrl: "./assets/icon/language-learning.png", num: 10, tit: "Languages" },
 ]);
@@ -101,7 +101,7 @@ const menuList = [
 const mainList = [
   "A defining characteristic of " + (document.body.clientWidth < 600 ? "<span style='font-size: 1.6rem; line-height: 2rem; font-style: italic;'>Homo sapiens</span>" : "<span style='font-style: italic;'>Homo sapiens</span>") + " is the richness and complexity of our social relationships. Social relationships provide us with a sense of connection, purpose, support and, ultimately, overall better health and longevity. How does the human mind organize and operate such complex system of social relationships?",
   `In the last 50 years, both social and biological scientists have sought to understand the nature of social relationships. Different theoretical models and taxonomies have been developed by psychologists, sociologists, anthropologists, linguists, economists, biologists, and communication researchers, but little consensus has been reached.`,
-  `To address this long-standing question, we collected large-scale behavioral data across diverse populations in the world (n = 19,532). Our project aimed to examine universality and cultural variability in the ways that people understand social relationships and elucidated the cognitive structures and cultural principles underlying social relationship knowledge. 
+  `To address this long-standing question, we collected large-scale behavioral data across diverse populations in the world (n = 20,425). Our project aimed to examine universality and cultural variability in the ways that people understand social relationships and elucidated the cognitive structures and cultural principles underlying social relationship knowledge. 
   In support of open science, all data in the project are available to download (see Maps and Data Section). `,
 ];
 const onGo = (path) => {

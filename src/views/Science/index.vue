@@ -6,6 +6,7 @@ import study3 from './components/study3.vue';
 import study2Middle from './components/study2Middle.vue';
 import study2End from './components/study2End.vue';
 import study3End from './components/study3End.vue';
+import study4 from './components/study4.vue';
 
 const alertView = defineAsyncComponent(() => import("../../components/alertView.vue"));
 
@@ -43,6 +44,7 @@ const showAlertView = (e, p) => {
         <alert-view v-if="alertViewVisible" @alertViewClose="alertViewVisible = false" :topPos="alertViewTopPos">
             <component :is="comp[alertPageSelected]"></component>
         </alert-view>
+        <study4></study4>
     </div>
 </template>
 
