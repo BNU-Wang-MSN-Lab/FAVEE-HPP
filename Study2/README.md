@@ -6,6 +6,7 @@
   - each_region: perform data cleaning and pca results (FAVEE) in each region
   - CategoricalModel_19regions.ipynb: categorical results (HPP) in each region
   - Meaning of FAVEE.ipynb: spearman’s correlations between a PCA component derived from one region and the FAVEE components derived from global n-1 aggregated data (with that region left out to avoid data double-dipping)
+  - reliability.ipynb - to statistically test whether the world’s FAVEE structures are equivalent to regional FAVEE structures, we implemented split-half equivalence tests
   - Meaning of HPP.ipynb: jaccard index measuring the similarity between a cluster derived from one region and clusters derived from global aggregated data (with that region left out)
   - Demographic_RDM.ipynb: generate RDM for RSA regression
   - Plot_demographics.ipynb: there is a visualization of demographic information across all studies, and detailed information can be found in "Demographics.xlsx"
@@ -18,6 +19,7 @@
     - dimensions_check.xlsx: details the dimensions within certain regions that require reversal, as well as the labels for PCA results across each region and the averaged results excluding one region (for correspondence test to evaluate the generalization of the FAVEE structures across the globe).  
   - output_data/
       - cleaning_results: cleaned data for each region
+      - dataframe_results - this folder contains the raw data of scores for 159 types of interpersonal relationships across 33 dimensions for all regions
       - pca_results: pca results for each region
       - pca_each_region_labels: pca results for each region with corresponding dimension labels
       - categorical_model: clustering results and RDMs (159*159) based on clustering results for each region, formatted as binary matrices
@@ -90,11 +92,29 @@ CHN VS USA:
 The dimensional frameworks of the two countries are highly correlated.  
 - Difference  
 The different between the two countries in relationship knowledge.  
-![Study3_CHNvsUSA.png](../graph/Study3_CHNvsUSA.png)
+![Study3_CHNvsUSA.png](../graph/Study3_CHNvsUSA.jpg)
     - neighbors_of_neighbors
       Beyond cultural difference between CHN and USA, we also explore other regions deeply. We focus on the concept of "Neighbors".  
       We found the more modern a region is, the concept of “Neighbors” in this region is more formal and distant. **(Modern_correlation.ipynb)**  
       As examples of cultural differences, we showed results of CHN, Israel, and the United States. **(Plot Neighbor.ipynb)**
+
+# Mosuo
+
+To validate the universality of our FAVEE-HPP model, we visited a traditional non-industrial society—the Chinese Mosuo tribe, a small-scale matrilineal society living near Lugu Lake in the Tibetan Himalayas. We conducted a validation of the FAVEE-HPP model on the Mosuo tribe.
+
+- codes
+  - plot_FAVEE.ipynb - Analysis of the FAVEE model for the Mosuo data.
+  - plot_HPP.ipynb - Analysis of the HPP model for the Mosuo data.
+  - cube.ipynb - Unified visual representation of the FAVEE-HPP model structure for the Mosuo data.
+- files
+  - CHN_dim_rel_scaled_NLP_159r_33d.csv-Data of 159 interpersonal relationships of the Han Chinese on 33 dimensions
+  - Total_scale_var_33v.csv-Data of 159 interpersonal relationships from 19 regions around the world on 33 dimensions.
+  - labels_different_versions.csv-In different datasets, we had inconsistent types of labels for the same interpersonal relationships, such as "Between Siblings" and "siblings." We have made corrections to standardize the label.
+  - rels_simple.csv-Abbreviations for the 159 types of interpersonal relationships.
+  - Mosuo data are available from the corresponding author on request.
+    - dim_rel_mosuo_avg_scaled.csv-Data of 159 interpersonal relationships of the Chinese Mosuo tribe on 33 dimensions.
+    - mosuo_FAVEE_scores.csv-The scores of 159 types of interpersonal relationships of the Mosuo tribe on FAVEE.
+    - mosuo_5c_3k.csv-The scores of 159 interpersonal relationships of the Mosuo tribe on FAVEE and the labels on HPP.
 
 # Subset  
 
