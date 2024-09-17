@@ -1,7 +1,5 @@
-
-
 # DataClean_FAVEE_HPP
-
+The preprocessing of raw data, followed by PCA and clustering analysis, was performed for each region. 
 - codes
   - each_region: perform data cleaning and pca results (FAVEE) in each region
   - CategoricalModel_19regions.ipynb: categorical results (HPP) in each region
@@ -33,7 +31,7 @@
       - social_vs_nonsocial: raw data regarding the check size results for each region and correlation matrix between 19 regions derived from these check size results
 
 # World_avg_results
-
+We averaged the results of all 19 regions and then conducted PCA and clustering analysis on the aggregated data.
 - codes
   - Dimensional_model.ipynb: the averaged model scores across the 19 regions and corresponding pca results
   - Categorical_model.ipynb: categorical results including HPP model and FAVEE-HPP model based on averaged global results
