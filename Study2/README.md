@@ -1,7 +1,7 @@
 # DataClean_FAVEE_HPP
 The preprocessing of raw data, followed by PCA and clustering analysis, was performed for each region. 
 - codes
-  - each_region: perform data cleaning and pca results (FAVEE) in each region(to balance the sample sizes among countries, we randomly selected 10 data points from the entire pool of China.)
+  - each_region: perform data cleaning and pca results (FAVEE) in each region(Note: to balance the sample sizes among countries, we randomly selected 10 data points from the entire pool of China.)
   - CategoricalModel_19regions.ipynb: categorical results (HPP) in each region
   - Meaning of FAVEE.ipynb: spearman’s correlations between a PCA component derived from one region and the FAVEE components derived from global n-1 aggregated data (with that region left out to avoid data double-dipping)
   - reliability.ipynb: to statistically test whether the world’s FAVEE structures are equivalent to regional FAVEE structures, we implemented split-half equivalence tests
