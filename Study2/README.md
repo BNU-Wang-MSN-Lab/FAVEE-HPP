@@ -89,9 +89,12 @@ CHN VS USA:
 - Similarity_33&30d.ipynb  
 The dimensional frameworks of the two countries are highly correlated.  
 - Difference  
-The different between the two countries in relationship knowledge.  
+  - The different between the two countries in relationship knowledge.
 ![Study3_CHNvsUSA.png](../graph/Study3_CHNvsUSA.jpg)
-    - neighbors_of_neighbors
+
+    c, US vs. China on the conceptualization of close relationships. PCA scores on psychological distance dimensions (e.g., attachment, love expression, and intimacy) and physical distance dimensions (e.g., spatial distance and synchronicity) were computed for the 30 most distant relationships in each country. Americans weighted physical distance more when judging close relationships, whereas the Chinese considered both psychological and physical distance. ANOVA indicated a significant interaction between type of distance and region, F(1, 58) = 20.393, P < 0.001, ηp² = 0.260. Two-sample t-tests for psychological distance showed t(58) = -2.111, P = 0.039, Cohen’s d = -0.545, and for physical distance , t(58) = 4.012, P < 0.001, Cohen’s d = 1.036. For example, the Chinese rated ancestor-descendant less distant than Americans, possibly due to ancestor worship (i.e., close psychological distance). d, US vs. China on the conceptualization of power relationships. While both groups shared similar views on equality in occupational relationships   (n = 35), the Chinese judged familial relationships (n = 14) as more unequal than Americans (e.g., uncle-nephew). ANOVA indicated a significant interaction between type of relationship and region, F(1, 94) = 9.795, P < 0.001, ηp² = 0.094. Two-sample t-tests for familial relationship showed t(xx) = xxx, P = xxx, Cohen’s d = xxx, and for occupational relaitonships??. e, US vs. China on the conceptualization of social change in private and public relationships  . While both countries believed that public relationships mainly exchange concrete resources (e.g., money, goods, service) and private relationships exchange symbolic resources (e.g., love, advice, information), Americans experienced more concrete resource exchanges in private relationships than the Chinese. For example, long-distance lovers in the US send gifts to each other regularly, whereas long-distance lovers in China spend long hours on telephone chat instead.
+
+  - neighbors_of_neighbors
       Beyond cultural difference between CHN and USA, we also explore other regions deeply. We focus on the concept of "Neighbors".  
       We found the more modern a region is, the concept of “Neighbors” in this region is more formal and distant. **(Modern_correlation.ipynb)**  
       As examples of cultural differences, we showed results of CHN, Israel, and the United States. **(Plot Neighbor.ipynb)**
