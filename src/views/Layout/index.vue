@@ -88,8 +88,8 @@ const hrefClick = (e) => {
 }
 
 const icon = ref([
-  { iconUrl: "./assets/icon/target.png", num: 4, tit: "Studies" },
-  { iconUrl: "./assets/icon/meeting.png", num: "20,425", tit: "Participants" },
+  { iconUrl: "./assets/icon/target.png", num: 3, tit: "Studies" },
+  { iconUrl: "./assets/icon/meeting.png", num: "20,427", tit: "Participants" },
   { iconUrl: "./assets/icon/team.png", num: 19, tit: "Regions" },
   { iconUrl: "./assets/icon/language-learning.png", num: 10, tit: "Languages" },
 ]);
