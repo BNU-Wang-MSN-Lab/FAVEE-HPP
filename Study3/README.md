@@ -19,6 +19,7 @@ For modern Chinese PLM model, we employed the word-based Chinese-RoBERTa-Baed mo
 The BERT embeddings have been stored on OSF (file path: NLP/bert_embedding_data.zip) for accessibility. 
 
 ## 3.Human_compare&Model_compare
+*Some of the files are in the Chinese "gb18030" encoding format, so you can add "fileEncoding=gb18030" when importing the files.
 
 - 1.transform_format.ipynb + 2.caculate_similarity_matrix.ipynb
 
