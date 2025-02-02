@@ -25,6 +25,7 @@ wordcloud==1.9.3
 wrapt==1.16.0
 yarl==1.9.4
 
+
 R version 4.3.3
 ggplot2_3.5.0  
 ggpubr_0.6.0
