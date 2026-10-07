@@ -32,4 +32,5 @@ if (region %in% c('France')){
     raw_scaled_df['Mating'] = -raw_scaled_df['Mating']
     raw_scaled_df['Importance.for.society'] = -raw_scaled_df['Importance.for.society']
     raw_scaled_df['Importance.for.individuals'] = -raw_scaled_df['Importance.for.individuals']
-    raw_scaled_df['Occupational'] = -raw_scaled_df['Occupational']}
+    raw_scaled_df['Occupational'] = -raw_scaled_df['Occupational']
+    raw_df['Intimacy'] = 100-raw_df['Intimacy']}
